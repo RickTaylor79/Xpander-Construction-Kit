@@ -1,0 +1,65 @@
+// this file was generated from SQR-BP-4P.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=38 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=93780 loop_end=198177 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-38-16-92UA.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=93543 loop_end=198078 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-38-32-0UIN.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=93981 loop_end=198337 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-38-48-CMSL.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=93840 loop_end=598673 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-38-64-EK9I.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=237526 loop_end=577493 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-38-79-7NU6.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=253328 loop_end=356304 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-38-95-LK4B.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=414532 loop_end=563010 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-38-111-NMRW.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=103607 loop_end=446647 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-38-127-RQ0D.wav
+<group>lokey=39 hikey=44 pitch_keycenter=42 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=104072 loop_end=207927 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-44-16-C93Y.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=93567 loop_end=197551 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-44-32-NVUX.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=93037 loop_end=198061 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-44-48-G2MM.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=135469 loop_end=272686 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-44-64-V4XG.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=167799 loop_end=310135 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-44-79-TCB1.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=176685 loop_end=510509 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-44-95-9AVK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=259958 loop_end=405337 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-44-111-OXIY.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254887 loop_end=590734 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-44-127-GH9A.wav
+<group>lokey=45 hikey=50 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=214278 loop_end=327483 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-50-16-SOGS.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=389738 loop_end=572006 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-50-32-C3LL.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=267742 loop_end=604926 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-50-48-DITW.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=229923 loop_end=345349 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-50-64-80QC.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=278674 loop_end=429935 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-50-79-UKL6.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=281068 loop_end=464070 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-50-95-TY22.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=193298 loop_end=611531 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-50-111-R7SY.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=182539 loop_end=608046 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-50-127-2BA4.wav
+<group>lokey=51 hikey=56 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=432277 loop_end=540327 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-56-16-XU6Y.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=170017 loop_end=609269 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-56-32-RA2V.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=374021 loop_end=522019 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-56-48-TYON.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=252865 loop_end=390065 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-56-64-WO0W.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=127854 loop_end=544128 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-56-79-AMXT.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=369233 loop_end=473667 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-56-95-Q6DJ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=146796 loop_end=604966 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-56-111-7UU9.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=216100 loop_end=602829 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-56-127-9NJ1.wav
+<group>lokey=57 hikey=62 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=225968 loop_end=570765 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-62-16-VAQO.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=421612 loop_end=581047 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-62-32-TOUH.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=358101 loop_end=469054 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-62-48-TH5E.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269215 loop_end=608334 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-62-64-9RLK.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=277941 loop_end=405018 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-62-79-2EVP.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=170585 loop_end=582170 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-62-95-SLCG.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=190816 loop_end=575984 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-62-111-LLX9.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=442926 loop_end=569669 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-62-127-PR6E.wav
+<group>lokey=63 hikey=68 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=351485 loop_end=480536 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-68-16-JSW9.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=242110 loop_end=607706 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-68-32-45X8.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=94017 loop_end=197078 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-68-48-ZBJF.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=92718 loop_end=198165 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-68-64-8SFJ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=288761 loop_end=612738 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-68-79-KGUR.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=244013 loop_end=372785 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-68-95-A35Y.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=103342 loop_end=611780 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-68-111-MX1J.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=358214 loop_end=516613 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-68-127-9D79.wav
+<group>lokey=69 hikey=124 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=221346 loop_end=360337 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-72-16-DTRE.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=252067 loop_end=409625 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-72-32-PEYY.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=132093 loop_end=236173 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-72-48-24A3.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=402869 loop_end=513015 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-72-64-9TLW.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=204787 loop_end=316606 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-72-79-C3CG.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=174344 loop_end=298298 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-72-95-IPW6.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=173631 loop_end=281396 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-72-111-8K67.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=113540 loop_end=601663 sample=../Sounds/Squares/SQR-BP-4P/(201639 74241)/SQR-BP-4P-72-127-21SR.wav

@@ -1,0 +1,100 @@
+// this file was generated from Telapia.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=599178 loop_end=717966 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-48-127-ZG58.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=535692 loop_end=674282 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-49-127-3737.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=430692 loop_end=599655 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-50-127-KA3M.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=447976 loop_end=567805 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-51-127-OGNG.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=569842 loop_end=705001 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-52-127-EORI.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=623112 loop_end=741894 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-53-127-GYB7.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=472512 loop_end=630188 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-54-127-30R7.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=368144 loop_end=482833 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-55-127-FKCU.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=459883 loop_end=613478 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-56-127-V4S6.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=89802 loop_end=120456 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-57-127-KS2B.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=566263 loop_end=701430 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-58-127-55QR.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=475737 loop_end=576130 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-59-127-SN7U.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268462 loop_end=338132 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-60-127-SW0X.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=533614 loop_end=668073 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-61-127-6I9M.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=100157 loop_end=148566 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-62-127-P045.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=105008 loop_end=153152 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-63-127-X6QV.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=467659 loop_end=586592 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-64-127-TR3T.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=77492 loop_end=117102 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-65-127-V1KM.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=581731 loop_end=700569 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-66-127-KRIF.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=57798 loop_end=92103 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-67-127-GB5N.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=483301 loop_end=618384 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-68-127-E1SU.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230654 loop_end=315357 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-69-127-PMRU.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=38267 loop_end=65065 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-70-127-GPSU.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=500254 loop_end=618158 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-71-127-6DM7.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=599635 loop_end=718210 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-72-127-CVBC.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=583645 loop_end=701886 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-73-127-FIK8.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=567182 loop_end=685288 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-74-127-0MGF.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=549785 loop_end=668034 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-75-127-35DT.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=515866 loop_end=634766 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-76-127-4J8N.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=591578 loop_end=710176 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-77-127-6QF0.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=516011 loop_end=634357 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-78-127-CMJD.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=480732 loop_end=581693 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-79-127-MH1P.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=511086 loop_end=629326 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-80-127-WHLG.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=514195 loop_end=631873 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-81-127-1PAL.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=521281 loop_end=640795 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-82-127-67OJ.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=496226 loop_end=631647 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-83-127-SG1L.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=495194 loop_end=614136 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-84-127-3118.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=530602 loop_end=666444 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-85-127-ET6S.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=463267 loop_end=581703 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-86-127-553U.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=598070 loop_end=733315 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-87-127-8FQO.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=488693 loop_end=624119 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-88-127-ODEK.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=514190 loop_end=649662 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-89-127-5450.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=581766 loop_end=700048 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-90-127-L9VE.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=455486 loop_end=606724 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-91-127-P6W6.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=497263 loop_end=632836 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-92-127-OGMG.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=514629 loop_end=649927 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-93-127-RO7G.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=514423 loop_end=649714 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-94-127-RM52.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=564430 loop_end=699873 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-95-127-CT7E.wav
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=462950 loop_end=598752 sample=../Sounds/Misc/Telapia/(2016229 203658)/Telapia-96-127-OQMA.wav

@@ -1,0 +1,15 @@
+// this file was generated from SAW-LP-3P HI-RES SHRT.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=127 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=000 hivel=016 amp_velcurve_016=1 volume=8 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/SAW-LP-3P HI-RES/(201634 11820)/SAW-LP-3P HI-RES-60-16-OEPJ.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/SAW-LP-3P HI-RES/(201634 11820)/SAW-LP-3P HI-RES-60-24-JDA9.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/SAW-LP-3P HI-RES/(201634 11820)/SAW-LP-3P HI-RES-60-32-N13U.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/SAW-LP-3P HI-RES/(201634 11820)/SAW-LP-3P HI-RES-60-40-YZVO.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/SAW-LP-3P HI-RES/(201634 11820)/SAW-LP-3P HI-RES-60-48-EIOF.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/SAW-LP-3P HI-RES/(201634 11820)/SAW-LP-3P HI-RES-60-56-VUZZ.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/SAW-LP-3P HI-RES/(201634 11820)/SAW-LP-3P HI-RES-60-64-UPTL.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/SAW-LP-3P HI-RES/(201634 11820)/SAW-LP-3P HI-RES-60-71-XRLM.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/SAW-LP-3P HI-RES/(201634 11820)/SAW-LP-3P HI-RES-60-79-06CR.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/SAW-LP-3P HI-RES/(201634 11820)/SAW-LP-3P HI-RES-60-87-OBBU.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/SAW-LP-3P HI-RES/(201634 11820)/SAW-LP-3P HI-RES-60-95-NEU6.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 loop_mode=loop_sustain loop_start=0 loop_end=1347

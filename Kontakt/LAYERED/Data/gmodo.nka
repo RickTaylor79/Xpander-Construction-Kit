@@ -1,0 +1,49 @@
+!gmodo
+Waveform
+Morph
+Level
+LFO 1
+LFO 2
+Env 1
+Ctrl 6
+Ctrl 7
+Ctrl 8
+Ctrl 9
+Ctrl 10
+Env 2
+Waveform
+Morph
+Level
+Fine
+Course
+LFO 1
+Ctrl 18
+Ctrl 19
+Ctrl 20
+LFO 2
+Env 1
+Env 2
+Ctrl 24
+Ctrl 25
+Ctrl 26
+Ctrl 27
+Ctrl 28
+Ctrl 29
+Ctrl 30
+Ctrl 31
+Attack
+Decay
+Sustain
+Release
+Rate 1
+
+Attack
+Decay
+Sustain
+Release
+Rate 2
+Ctrl 43
+Attack
+Decay
+Sustain
+Release

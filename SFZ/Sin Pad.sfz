@@ -1,0 +1,198 @@
+// this file was generated from Sin Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=765 loop_mode=loop_sustain loop_start=220346 loop_end=257098 sample=../Sounds/Misc/Sin Pad/Sin Pad-36-32_0001.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=53 end=529382 loop_mode=loop_sustain loop_start=328556 loop_end=381552 sample=../Sounds/Misc/Sin Pad/Sin Pad-36-63_0001.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=126 end=529369 loop_mode=loop_sustain loop_start=336976 loop_end=389920 sample=../Sounds/Misc/Sin Pad/Sin Pad-36-95_0001.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=127 loop_mode=loop_sustain loop_start=221466 loop_end=256827 sample=../Sounds/Misc/Sin Pad/Sin Pad-37-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=51 end=530187 loop_mode=loop_sustain loop_start=278677 loop_end=331836 sample=../Sounds/Misc/Sin Pad/Sin Pad-37-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=72 loop_mode=loop_sustain loop_start=260928 loop_end=314038 sample=../Sounds/Misc/Sin Pad/Sin Pad-37-95.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=16 end=530269 loop_mode=loop_sustain loop_start=221418 loop_end=257208 sample=../Sounds/Misc/Sin Pad/Sin Pad-38-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=51 end=530778 loop_mode=loop_sustain loop_start=251136 loop_end=304263 sample=../Sounds/Misc/Sin Pad/Sin Pad-38-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=27 end=529674 loop_mode=loop_sustain loop_start=261810 loop_end=314951 sample=../Sounds/Misc/Sin Pad/Sin Pad-38-95.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=93 end=530291 loop_mode=loop_sustain loop_start=221436 loop_end=258050 sample=../Sounds/Misc/Sin Pad/Sin Pad-39-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=127 end=529684 loop_mode=loop_sustain loop_start=330578 loop_end=383514 sample=../Sounds/Misc/Sin Pad/Sin Pad-39-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=120 end=529701 loop_mode=loop_sustain loop_start=315038 loop_end=368610 sample=../Sounds/Misc/Sin Pad/Sin Pad-39-95.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=55 end=529179 loop_mode=loop_sustain loop_start=270681 loop_end=323875 sample=../Sounds/Misc/Sin Pad/Sin Pad-40-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=127 end=530688 loop_mode=loop_sustain loop_start=228631 loop_end=281846 sample=../Sounds/Misc/Sin Pad/Sin Pad-40-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=127 end=530866 loop_mode=loop_sustain loop_start=267060 loop_end=320276 sample=../Sounds/Misc/Sin Pad/Sin Pad-40-95.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=127 end=530839 loop_mode=loop_sustain loop_start=245263 loop_end=298459 sample=../Sounds/Misc/Sin Pad/Sin Pad-41-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=3 end=529805 loop_mode=loop_sustain loop_start=229533 loop_end=282789 sample=../Sounds/Misc/Sin Pad/Sin Pad-41-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=95 end=529809 loop_mode=loop_sustain loop_start=239425 loop_end=292643 sample=../Sounds/Misc/Sin Pad/Sin Pad-41-95.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=71 loop_mode=loop_sustain loop_start=250060 loop_end=303142 sample=../Sounds/Misc/Sin Pad/Sin Pad-42-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=29 end=530714 loop_mode=loop_sustain loop_start=339939 loop_end=393023 sample=../Sounds/Misc/Sin Pad/Sin Pad-42-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=17 end=529664 loop_mode=loop_sustain loop_start=267644 loop_end=321175 sample=../Sounds/Misc/Sin Pad/Sin Pad-42-95.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=127 end=529726 loop_mode=loop_sustain loop_start=302691 loop_end=355488 sample=../Sounds/Misc/Sin Pad/Sin Pad-43-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=127 loop_mode=loop_sustain loop_start=311609 loop_end=364823 sample=../Sounds/Misc/Sin Pad/Sin Pad-43-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=127 end=529156 loop_mode=loop_sustain loop_start=320632 loop_end=373858 sample=../Sounds/Misc/Sin Pad/Sin Pad-43-95.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=18 end=530700 loop_mode=loop_sustain loop_start=254625 loop_end=307820 sample=../Sounds/Misc/Sin Pad/Sin Pad-44-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=51 end=529834 loop_mode=loop_sustain loop_start=340309 loop_end=393479 sample=../Sounds/Misc/Sin Pad/Sin Pad-44-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=26 end=530200 loop_mode=loop_sustain loop_start=324658 loop_end=377863 sample=../Sounds/Misc/Sin Pad/Sin Pad-44-95.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=3 end=529681 loop_mode=loop_sustain loop_start=280613 loop_end=333985 sample=../Sounds/Misc/Sin Pad/Sin Pad-45-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=127 end=528831 loop_mode=loop_sustain loop_start=290033 loop_end=343417 sample=../Sounds/Misc/Sin Pad/Sin Pad-45-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=84 end=529177 loop_mode=loop_sustain loop_start=236897 loop_end=290283 sample=../Sounds/Misc/Sin Pad/Sin Pad-45-95.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=1 end=530736 loop_mode=loop_sustain loop_start=308481 loop_end=361478 sample=../Sounds/Misc/Sin Pad/Sin Pad-46-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=127 loop_mode=loop_sustain loop_start=292048 loop_end=345078 sample=../Sounds/Misc/Sin Pad/Sin Pad-46-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=3 end=530208 loop_mode=loop_sustain loop_start=248609 loop_end=301610 sample=../Sounds/Misc/Sin Pad/Sin Pad-46-95.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=4 end=530326 loop_mode=loop_sustain loop_start=309120 loop_end=362350 sample=../Sounds/Misc/Sin Pad/Sin Pad-47-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=55 end=530851 loop_mode=loop_sustain loop_start=347164 loop_end=400754 sample=../Sounds/Misc/Sin Pad/Sin Pad-47-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=115 end=530766 loop_mode=loop_sustain loop_start=274204 loop_end=327415 sample=../Sounds/Misc/Sin Pad/Sin Pad-47-95.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=127 end=529716 loop_mode=loop_sustain loop_start=257089 loop_end=310378 sample=../Sounds/Misc/Sin Pad/Sin Pad-48-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=86 end=530800 loop_mode=loop_sustain loop_start=266969 loop_end=319898 sample=../Sounds/Misc/Sin Pad/Sin Pad-48-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=115 end=529727 loop_mode=loop_sustain loop_start=332291 loop_end=385567 sample=../Sounds/Misc/Sin Pad/Sin Pad-48-95.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=575 end=529759 loop_mode=loop_sustain loop_start=293093 loop_end=346220 sample=../Sounds/Misc/Sin Pad/Sin Pad-49-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=50 end=530216 loop_mode=loop_sustain loop_start=326772 loop_end=380205 sample=../Sounds/Misc/Sin Pad/Sin Pad-49-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=55 end=529269 loop_mode=loop_sustain loop_start=345635 loop_end=398775 sample=../Sounds/Misc/Sin Pad/Sin Pad-49-95.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=46 end=529727 loop_mode=loop_sustain loop_start=318648 loop_end=372061 sample=../Sounds/Misc/Sin Pad/Sin Pad-50-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=108 loop_mode=loop_sustain loop_start=340247 loop_end=393371 sample=../Sounds/Misc/Sin Pad/Sin Pad-50-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=98 end=529248 loop_mode=loop_sustain loop_start=259372 loop_end=312499 sample=../Sounds/Misc/Sin Pad/Sin Pad-50-95.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=79 loop_mode=loop_sustain loop_start=347269 loop_end=400496 sample=../Sounds/Misc/Sin Pad/Sin Pad-51-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=37 loop_mode=loop_sustain loop_start=342273 loop_end=395523 sample=../Sounds/Misc/Sin Pad/Sin Pad-51-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=17 end=530313 loop_mode=loop_sustain loop_start=318678 loop_end=371907 sample=../Sounds/Misc/Sin Pad/Sin Pad-51-95.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=94 end=529729 loop_mode=loop_sustain loop_start=326899 loop_end=380075 sample=../Sounds/Misc/Sin Pad/Sin Pad-52-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=125 end=530185 loop_mode=loop_sustain loop_start=312061 loop_end=365237 sample=../Sounds/Misc/Sin Pad/Sin Pad-52-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=57 end=529731 loop_mode=loop_sustain loop_start=346511 loop_end=399674 sample=../Sounds/Misc/Sin Pad/Sin Pad-52-95.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=110 end=530787 loop_mode=loop_sustain loop_start=222456 loop_end=275663 sample=../Sounds/Misc/Sin Pad/Sin Pad-53-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=60 end=529155 loop_mode=loop_sustain loop_start=337814 loop_end=390999 sample=../Sounds/Misc/Sin Pad/Sin Pad-53-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=127 loop_mode=loop_sustain loop_start=347291 loop_end=400487 sample=../Sounds/Misc/Sin Pad/Sin Pad-53-95.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=72 end=529216 loop_mode=loop_sustain loop_start=345407 loop_end=398703 sample=../Sounds/Misc/Sin Pad/Sin Pad-54-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=127 end=529711 loop_mode=loop_sustain loop_start=313049 loop_end=366333 sample=../Sounds/Misc/Sin Pad/Sin Pad-54-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=124 end=530803 loop_mode=loop_sustain loop_start=332266 loop_end=385560 sample=../Sounds/Misc/Sin Pad/Sin Pad-54-95.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=47 end=530688 loop_mode=loop_sustain loop_start=348469 loop_end=401656 sample=../Sounds/Misc/Sin Pad/Sin Pad-55-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=120 end=529711 loop_mode=loop_sustain loop_start=346446 loop_end=399644 sample=../Sounds/Misc/Sin Pad/Sin Pad-55-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=60 end=529671 loop_mode=loop_sustain loop_start=332391 loop_end=385594 sample=../Sounds/Misc/Sin Pad/Sin Pad-55-95.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=127 loop_mode=loop_sustain loop_start=312411 loop_end=365593 sample=../Sounds/Misc/Sin Pad/Sin Pad-56-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=57 end=529241 loop_mode=loop_sustain loop_start=348346 loop_end=401748 sample=../Sounds/Misc/Sin Pad/Sin Pad-56-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=46 loop_mode=loop_sustain loop_start=336423 loop_end=389599 sample=../Sounds/Misc/Sin Pad/Sin Pad-56-95.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=80 loop_mode=loop_sustain loop_start=346401 loop_end=399580 sample=../Sounds/Misc/Sin Pad/Sin Pad-57-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=69 end=528658 loop_mode=loop_sustain loop_start=347455 loop_end=400644 sample=../Sounds/Misc/Sin Pad/Sin Pad-57-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=127 loop_mode=loop_sustain loop_start=314724 loop_end=367905 sample=../Sounds/Misc/Sin Pad/Sin Pad-57-95.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=104 end=529798 loop_mode=loop_sustain loop_start=244037 loop_end=297242 sample=../Sounds/Misc/Sin Pad/Sin Pad-58-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=125 end=530705 loop_mode=loop_sustain loop_start=231342 loop_end=284724 sample=../Sounds/Misc/Sin Pad/Sin Pad-58-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=127 end=530260 loop_mode=loop_sustain loop_start=346519 loop_end=399723 sample=../Sounds/Misc/Sin Pad/Sin Pad-58-95.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=79 end=530231 loop_mode=loop_sustain loop_start=278903 loop_end=331960 sample=../Sounds/Misc/Sin Pad/Sin Pad-59-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=82 end=528668 loop_mode=loop_sustain loop_start=259377 loop_end=312604 sample=../Sounds/Misc/Sin Pad/Sin Pad-59-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=61 end=530215 loop_mode=loop_sustain loop_start=295431 loop_end=348661 sample=../Sounds/Misc/Sin Pad/Sin Pad-59-95.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=66 end=530251 loop_mode=loop_sustain loop_start=348554 loop_end=401796 sample=../Sounds/Misc/Sin Pad/Sin Pad-60-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=127 end=529799 loop_mode=loop_sustain loop_start=237256 loop_end=290501 sample=../Sounds/Misc/Sin Pad/Sin Pad-60-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=117 end=530281 loop_mode=loop_sustain loop_start=329278 loop_end=382363 sample=../Sounds/Misc/Sin Pad/Sin Pad-60-95.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=127 loop_mode=loop_sustain loop_start=257366 loop_end=310632 sample=../Sounds/Misc/Sin Pad/Sin Pad-61-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=112 end=529253 loop_mode=loop_sustain loop_start=342346 loop_end=395606 sample=../Sounds/Misc/Sin Pad/Sin Pad-61-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=255 end=529700 loop_mode=loop_sustain loop_start=223495 loop_end=276588 sample=../Sounds/Misc/Sin Pad/Sin Pad-61-95.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=119 end=529812 loop_mode=loop_sustain loop_start=250326 loop_end=303573 sample=../Sounds/Misc/Sin Pad/Sin Pad-62-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=127 end=530228 loop_mode=loop_sustain loop_start=321854 loop_end=375111 sample=../Sounds/Misc/Sin Pad/Sin Pad-62-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=127 end=529290 loop_mode=loop_sustain loop_start=302459 loop_end=355714 sample=../Sounds/Misc/Sin Pad/Sin Pad-62-95.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=86 end=530298 loop_mode=loop_sustain loop_start=283581 loop_end=336797 sample=../Sounds/Misc/Sin Pad/Sin Pad-63-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=127 end=530692 loop_mode=loop_sustain loop_start=324712 loop_end=377920 sample=../Sounds/Misc/Sin Pad/Sin Pad-63-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=127 end=529854 loop_mode=loop_sustain loop_start=242444 loop_end=295521 sample=../Sounds/Misc/Sin Pad/Sin Pad-63-95.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=617 end=529277 loop_mode=loop_sustain loop_start=347818 loop_end=400865 sample=../Sounds/Misc/Sin Pad/Sin Pad-64-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=110 end=530746 loop_mode=loop_sustain loop_start=341301 loop_end=394610 sample=../Sounds/Misc/Sin Pad/Sin Pad-64-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=96 end=529685 loop_mode=loop_sustain loop_start=306498 loop_end=359806 sample=../Sounds/Misc/Sin Pad/Sin Pad-64-95.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=102 end=529889 loop_mode=loop_sustain loop_start=347469 loop_end=400787 sample=../Sounds/Misc/Sin Pad/Sin Pad-65-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=102 end=530257 loop_mode=loop_sustain loop_start=301908 loop_end=355106 sample=../Sounds/Misc/Sin Pad/Sin Pad-65-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=127 end=529836 loop_mode=loop_sustain loop_start=233426 loop_end=286625 sample=../Sounds/Misc/Sin Pad/Sin Pad-65-95.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=80 end=530401 loop_mode=loop_sustain loop_start=320700 loop_end=373754 sample=../Sounds/Misc/Sin Pad/Sin Pad-66-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=95 loop_mode=loop_sustain loop_start=248611 loop_end=301782 sample=../Sounds/Misc/Sin Pad/Sin Pad-66-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=103 end=529851 loop_mode=loop_sustain loop_start=340989 loop_end=394152 sample=../Sounds/Misc/Sin Pad/Sin Pad-66-95.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=81 end=529671 loop_mode=loop_sustain loop_start=348545 loop_end=401748 sample=../Sounds/Misc/Sin Pad/Sin Pad-67-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=127 end=530812 loop_mode=loop_sustain loop_start=346517 loop_end=399720 sample=../Sounds/Misc/Sin Pad/Sin Pad-67-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=118 end=531743 loop_mode=loop_sustain loop_start=313737 loop_end=366938 sample=../Sounds/Misc/Sin Pad/Sin Pad-67-95.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=127 end=529390 loop_mode=loop_sustain loop_start=344631 loop_end=397791 sample=../Sounds/Misc/Sin Pad/Sin Pad-68-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=118 end=530817 loop_mode=loop_sustain loop_start=347480 loop_end=400744 sample=../Sounds/Misc/Sin Pad/Sin Pad-68-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=127 end=530891 loop_mode=loop_sustain loop_start=342435 loop_end=395598 sample=../Sounds/Misc/Sin Pad/Sin Pad-68-95.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=107 end=529346 loop_mode=loop_sustain loop_start=339327 loop_end=392595 sample=../Sounds/Misc/Sin Pad/Sin Pad-69-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=113 end=530821 loop_mode=loop_sustain loop_start=311197 loop_end=364370 sample=../Sounds/Misc/Sin Pad/Sin Pad-69-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=113 end=529178 loop_mode=loop_sustain loop_start=309905 loop_end=363065 sample=../Sounds/Misc/Sin Pad/Sin Pad-69-95.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=127 end=530189 loop_mode=loop_sustain loop_start=227660 loop_end=280932 sample=../Sounds/Misc/Sin Pad/Sin Pad-70-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=97 end=529363 loop_mode=loop_sustain loop_start=289516 loop_end=342699 sample=../Sounds/Misc/Sin Pad/Sin Pad-70-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=505 end=528792 loop_mode=loop_sustain loop_start=251672 loop_end=304862 sample=../Sounds/Misc/Sin Pad/Sin Pad-70-95.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=127 loop_mode=loop_sustain loop_start=339720 loop_end=392852 sample=../Sounds/Misc/Sin Pad/Sin Pad-71-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=98 end=530206 loop_mode=loop_sustain loop_start=268122 loop_end=321332 sample=../Sounds/Misc/Sin Pad/Sin Pad-71-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=127 end=530399 loop_mode=loop_sustain loop_start=307595 loop_end=360802 sample=../Sounds/Misc/Sin Pad/Sin Pad-71-95.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=94 end=529723 loop_mode=loop_sustain loop_start=314127 loop_end=367302 sample=../Sounds/Misc/Sin Pad/Sin Pad-72-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=619 end=530180 loop_mode=loop_sustain loop_start=343965 loop_end=397231 sample=../Sounds/Misc/Sin Pad/Sin Pad-72-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=109 end=530240 loop_mode=loop_sustain loop_start=223756 loop_end=277106 sample=../Sounds/Misc/Sin Pad/Sin Pad-72-95.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=127 end=530201 loop_mode=loop_sustain loop_start=345472 loop_end=398738 sample=../Sounds/Misc/Sin Pad/Sin Pad-73-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=120 loop_mode=loop_sustain loop_start=344420 loop_end=397686 sample=../Sounds/Misc/Sin Pad/Sin Pad-73-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=120 end=529784 loop_mode=loop_sustain loop_start=234862 loop_end=288135 sample=../Sounds/Misc/Sin Pad/Sin Pad-73-95.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=998 end=529198 loop_mode=loop_sustain loop_start=305232 loop_end=358275 sample=../Sounds/Misc/Sin Pad/Sin Pad-74-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=122 end=529288 loop_mode=loop_sustain loop_start=233192 loop_end=286237 sample=../Sounds/Misc/Sin Pad/Sin Pad-74-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=127 end=530884 loop_mode=loop_sustain loop_start=285843 loop_end=338952 sample=../Sounds/Misc/Sin Pad/Sin Pad-74-95.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=127 loop_mode=loop_sustain loop_start=307502 loop_end=360585 sample=../Sounds/Misc/Sin Pad/Sin Pad-75-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=108 end=530832 loop_mode=loop_sustain loop_start=262394 loop_end=315835 sample=../Sounds/Misc/Sin Pad/Sin Pad-75-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=743 end=530312 loop_mode=loop_sustain loop_start=276482 loop_end=329710 sample=../Sounds/Misc/Sin Pad/Sin Pad-75-95.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=103 end=529820 loop_mode=loop_sustain loop_start=311707 loop_end=364943 sample=../Sounds/Misc/Sin Pad/Sin Pad-76-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=109 loop_mode=loop_sustain loop_start=346415 loop_end=399565 sample=../Sounds/Misc/Sin Pad/Sin Pad-76-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=105 end=530405 loop_mode=loop_sustain loop_start=243998 loop_end=297083 sample=../Sounds/Misc/Sin Pad/Sin Pad-76-95.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=121 end=529229 loop_mode=loop_sustain loop_start=307665 loop_end=360910 sample=../Sounds/Misc/Sin Pad/Sin Pad-77-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=1010 loop_mode=loop_sustain loop_start=304714 loop_end=357897 sample=../Sounds/Misc/Sin Pad/Sin Pad-77-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=112 loop_mode=loop_sustain loop_start=232776 loop_end=286030 sample=../Sounds/Misc/Sin Pad/Sin Pad-77-95.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=127 end=530358 loop_mode=loop_sustain loop_start=320844 loop_end=373993 sample=../Sounds/Misc/Sin Pad/Sin Pad-78-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=113 end=530912 loop_mode=loop_sustain loop_start=308726 loop_end=362051 sample=../Sounds/Misc/Sin Pad/Sin Pad-78-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=127 end=529833 loop_mode=loop_sustain loop_start=262528 loop_end=315685 sample=../Sounds/Misc/Sin Pad/Sin Pad-78-95.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=618 end=529756 loop_mode=loop_sustain loop_start=331535 loop_end=384722 sample=../Sounds/Misc/Sin Pad/Sin Pad-79-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=116 loop_mode=loop_sustain loop_start=313576 loop_end=366826 sample=../Sounds/Misc/Sin Pad/Sin Pad-79-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=127 loop_mode=loop_sustain loop_start=313836 loop_end=367070 sample=../Sounds/Misc/Sin Pad/Sin Pad-79-95.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=127 loop_mode=loop_sustain loop_start=228594 loop_end=281710 sample=../Sounds/Misc/Sin Pad/Sin Pad-80-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=120 end=529735 loop_mode=loop_sustain loop_start=290141 loop_end=343369 sample=../Sounds/Misc/Sin Pad/Sin Pad-80-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=503 loop_mode=loop_sustain loop_start=251651 loop_end=304931 sample=../Sounds/Misc/Sin Pad/Sin Pad-80-95.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=114 end=530408 loop_mode=loop_sustain loop_start=288158 loop_end=341288 sample=../Sounds/Misc/Sin Pad/Sin Pad-81-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=118 end=530419 loop_mode=loop_sustain loop_start=321670 loop_end=375040 sample=../Sounds/Misc/Sin Pad/Sin Pad-81-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=111 end=529912 loop_mode=loop_sustain loop_start=255391 loop_end=308607 sample=../Sounds/Misc/Sin Pad/Sin Pad-81-95.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=112 loop_mode=loop_sustain loop_start=265594 loop_end=318882 sample=../Sounds/Misc/Sin Pad/Sin Pad-82-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=603 end=529179 loop_mode=loop_sustain loop_start=347043 loop_end=400287 sample=../Sounds/Misc/Sin Pad/Sin Pad-82-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=120 end=531242 loop_mode=loop_sustain loop_start=262499 loop_end=315744 sample=../Sounds/Misc/Sin Pad/Sin Pad-82-95.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=124 end=530221 loop_mode=loop_sustain loop_start=348551 loop_end=401724 sample=../Sounds/Misc/Sin Pad/Sin Pad-83-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=124 end=530326 loop_mode=loop_sustain loop_start=348549 loop_end=401806 sample=../Sounds/Misc/Sin Pad/Sin Pad-83-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=116 end=529206 loop_mode=loop_sustain loop_start=290203 loop_end=343426 sample=../Sounds/Misc/Sin Pad/Sin Pad-83-95.aif
+<group>lokey=84 hikey=125 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=743 end=531420 loop_mode=loop_sustain loop_start=306169 loop_end=359330 sample=../Sounds/Misc/Sin Pad/Sin Pad-84-32.aif
+	<region> lovel=033 hivel=063 amp_velcurve_063=1 volume=12 offset=120 end=529748 loop_mode=loop_sustain loop_start=231817 loop_end=285100 sample=../Sounds/Misc/Sin Pad/Sin Pad-84-63.aif
+	<region> lovel=064 hivel=126 amp_velcurve_126=1 volume=12 offset=124 end=531215 loop_mode=loop_sustain loop_start=249298 loop_end=302578 sample=../Sounds/Misc/Sin Pad/Sin Pad-84-95.aif

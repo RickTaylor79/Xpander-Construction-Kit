@@ -1,0 +1,247 @@
+// this file was generated from saw3P63res.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=1 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=269075 loop_end=384623 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC1-32-P9H0.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269114 loop_end=384670 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC1-64-NOSL.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=276381 loop_end=399256 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC1-95-FG0M.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=443346 loop_end=596945 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC1-127-RKJF.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=269508 loop_end=384089 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#1-32-SFXX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268743 loop_end=384703 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#1-64-5N1G.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=399991 loop_end=740982 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#1-95-T8CN.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=294518 loop_end=759769 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#1-127-MKKB.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=268970 loop_end=383644 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD1-32-DD91.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268572 loop_end=384553 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD1-64-3DTD.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=710462 loop_end=838179 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD1-95-R94M.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=323527 loop_end=452551 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD1-127-Z2UW.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=269682 loop_end=384049 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#1-32-5CYR.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268707 loop_end=384307 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#1-64-PQWT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=534218 loop_end=780181 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#1-95-C3GT.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=562089 loop_end=799452 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#1-127-WTAA.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=280936 loop_end=395892 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE1-32-JH5S.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=280162 loop_end=395123 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE1-64-ZAI3.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=381763 loop_end=816075 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE1-95-C4PH.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=385802 loop_end=594835 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE1-127-HZ4I.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=267789 loop_end=385047 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF1-32-8WN4.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268290 loop_end=384455 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF1-64-NKF9.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=539531 loop_end=680914 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF1-95-3J58.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271207 loop_end=567142 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF1-127-BO7B.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=269686 loop_end=384501 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#1-32-1DEA.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268946 loop_end=383764 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#1-64-3FJE.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=635884 loop_end=838632 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#1-95-4WK0.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=539332 loop_end=741059 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#1-127-L2YV.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=267931 loop_end=385076 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG1-32-K6EG.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268443 loop_end=383646 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG1-64-41X2.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=329329 loop_end=770626 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG1-95-CMA5.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=350743 loop_end=517704 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG1-127-UW8R.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=268288 loop_end=385283 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#1-32-HF7T.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269239 loop_end=384399 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#1-64-JS5W.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=332425 loop_end=665020 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#1-95-6K4S.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316062 loop_end=713168 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#1-127-YVA8.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=269725 loop_end=383620 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA1-32-6FVN.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268578 loop_end=385090 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA1-64-6J3F.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=668354 loop_end=824000 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA1-95-SXH5.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=474885 loop_end=695761 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA1-127-RWFZ.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=411952 loop_end=538330 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#1-32-6T1R.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268689 loop_end=384410 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#1-64-6ARX.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=615198 loop_end=834333 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#1-95-7OIA.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=275336 loop_end=814577 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#1-127-D9XM.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=279267 loop_end=791269 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB1-32-61ER.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269438 loop_end=384078 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB1-64-DUSA.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=389973 loop_end=659533 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB1-95-VG74.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=410013 loop_end=828302 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB1-127-HZ28.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=610004 loop_end=763599 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC2-32-NZBW.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269336 loop_end=384903 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC2-64-FVU5.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=586587 loop_end=714587 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC2-95-N0V0.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=477911 loop_end=606648 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC2-127-2B3K.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=464645 loop_end=837411 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#2-32-MJZX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268391 loop_end=385058 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#2-64-XAVE.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=435197 loop_end=589150 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#2-95-R5OO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=508577 loop_end=661152 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#2-127-56CJ.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=312526 loop_end=568545 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD2-32-RJ9V.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268375 loop_end=384986 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD2-64-N098.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=383199 loop_end=832728 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD2-95-V9EB.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=310016 loop_end=839053 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD2-127-LO8N.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=300246 loop_end=829647 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#2-32-EPCU.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=302313 loop_end=626970 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#2-64-YVJD.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=572189 loop_end=818154 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#2-95-NJ4W.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=539367 loop_end=773044 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#2-127-HP87.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=509513 loop_end=831036 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE2-32-UTFA.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=517221 loop_end=838754 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE2-64-DB64.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=571869 loop_end=840600 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE2-95-W9E0.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=600755 loop_end=817839 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE2-127-KPQ1.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=278251 loop_end=743299 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF2-32-M08J.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=332451 loop_end=756426 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF2-64-GHV4.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=651745 loop_end=832517 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF2-95-SVYP.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=408462 loop_end=626497 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF2-127-GK3Y.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=325394 loop_end=698164 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#2-32-0WQN.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=283401 loop_end=824202 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#2-64-5LSE.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=342286 loop_end=811774 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#2-95-RE0U.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=296863 loop_end=820665 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#2-127-0RZS.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=292403 loop_end=841293 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG2-32-WJCF.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=270572 loop_end=768227 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG2-64-NZ5Z.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=600670 loop_end=819268 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG2-95-797I.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=531248 loop_end=813290 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG2-127-GY90.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=269536 loop_end=448760 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#2-32-PQH3.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=283070 loop_end=550291 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#2-64-5LAE.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=441445 loop_end=607319 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#2-95-BIFQ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=400943 loop_end=603686 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#2-127-KO29.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=520178 loop_end=670636 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA2-32-KT19.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=360969 loop_end=565784 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA2-64-12AW.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=451330 loop_end=834900 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA2-95-QQCP.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=277423 loop_end=840625 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA2-127-JL0N.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=368896 loop_end=840913 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#2-32-HVJH.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=578410 loop_end=797591 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#2-64-3VCP.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=637686 loop_end=830210 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#2-95-DIO0.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=371683 loop_end=744431 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#2-127-Z5YU.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=451518 loop_end=747483 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB2-32-TQ7P.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=458618 loop_end=781703 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB2-64-IYQI.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=412320 loop_end=759455 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB2-95-7CEK.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=434102 loop_end=562734 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB2-127-ASYN.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=394224 loop_end=832541 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC3-32-XJRC.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=387721 loop_end=800443 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC3-64-QL8P.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=362213 loop_end=823959 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC3-95-Y7IP.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=566314 loop_end=796651 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC3-127-T1E9.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=499180 loop_end=820750 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#3-32-PYJ0.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=610538 loop_end=738545 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#3-64-Y6C0.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=616170 loop_end=807335 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#3-95-HB8T.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=387112 loop_end=515478 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#3-127-R2OP.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=465959 loop_end=798797 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD3-32-142H.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=418556 loop_end=661835 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD3-64-J1OL.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=357854 loop_end=498232 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD3-95-S3BO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=502071 loop_end=644409 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD3-127-FZ67.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=17154 loop_end=22404 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#3-32-W3KN.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=314505 loop_end=493704 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#3-64-H8FF.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=467362 loop_end=630896 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#3-95-43DI.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=350136 loop_end=482014 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#3-127-B7RG.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=13153 loop_end=18478 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE3-32-13Z6.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=615209 loop_end=770492 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE3-64-4PBT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=581600 loop_end=841106 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE3-95-ADLC.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=624548 loop_end=764177 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE3-127-9HR0.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=17491 loop_end=20476 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF3-32-NCQW.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=536431 loop_end=704369 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF3-64-IPC8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=666903 loop_end=829096 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF3-95-IGC2.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=645699 loop_end=815564 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF3-127-NIU3.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=7244 loop_end=9758 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#3-32-ZS1R.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=378735 loop_end=816966 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#3-64-JPIU.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=636233 loop_end=764995 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#3-95-CJP5.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=636472 loop_end=755157 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#3-127-JMXM.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=4875 loop_end=10309 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG3-32-UCBL.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=396372 loop_end=834638 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG3-64-SNBU.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=485248 loop_end=820071 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG3-95-KB2U.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=518903 loop_end=639220 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG3-127-W48I.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=11743 loop_end=14505 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#3-32-4A9F.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=444984 loop_end=661017 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#3-64-5B79.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=587452 loop_end=767113 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#3-95-SJX9.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=576887 loop_end=809996 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#3-127-CDAO.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=14582 loop_end=17492 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA3-32-C84X.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=435659 loop_end=768472 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA3-64-OEB8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=626136 loop_end=781575 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA3-95-EU11.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=320737 loop_end=440744 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA3-127-C3NX.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=14360 loop_end=17111 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#3-32-5OWS.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=371040 loop_end=497432 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#3-64-XJW2.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=556449 loop_end=735382 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#3-95-6253.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=477836 loop_end=597884 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#3-127-C4GG.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=381085 loop_end=838854 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB3-32-3PVA.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=598379 loop_end=840041 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB3-64-QJEM.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=380751 loop_end=538967 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB3-95-X7SV.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=491872 loop_end=609033 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB3-127-1HY7.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=345414 loop_end=828692 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC4-32-O6NL.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=333846 loop_end=714727 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC4-64-ESMZ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=517796 loop_end=840367 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC4-95-LMTO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=378762 loop_end=543529 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC4-127-JA0P.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=497002 loop_end=738621 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#4-32-BPTV.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=365317 loop_end=837337 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#4-64-WPVC.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=550309 loop_end=839929 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#4-95-BOJR.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=382893 loop_end=547215 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC#4-127-3EWO.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=12037 loop_end=14806 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD4-32-XZNS.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=570332 loop_end=840740 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD4-64-AHR1.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=579019 loop_end=807906 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD4-95-FNTT.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=437000 loop_end=581181 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD4-127-PV8N.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=440190 loop_end=750610 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#4-32-YGAH.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=494832 loop_end=811558 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#4-64-VJ7B.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=499385 loop_end=794300 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#4-95-UQLK.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=529490 loop_end=674186 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pD#4-127-LFEL.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=563612 loop_end=728427 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE4-32-6WV4.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=333547 loop_end=666371 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE4-64-VTFC.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=624459 loop_end=759108 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE4-95-1BC0.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=460206 loop_end=650144 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pE4-127-2JLW.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=276251 loop_end=393057 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF4-32-7I47.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=492883 loop_end=609689 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF4-64-LZE9.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=653343 loop_end=833018 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF4-95-DN5M.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=629360 loop_end=751659 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF4-127-ZB0A.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=375179 loop_end=722351 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#4-32-2P37.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=479983 loop_end=777649 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#4-64-TZXB.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=718215 loop_end=833127 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#4-95-AA3O.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=567594 loop_end=808418 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pF#4-127-I6NV.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=385175 loop_end=522784 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG4-32-Z5HU.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=436200 loop_end=576981 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG4-64-7K3G.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=417096 loop_end=539344 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG4-95-3C20.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=640238 loop_end=757732 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG4-127-V4MQ.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=446077 loop_end=574062 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#4-32-UMWJ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=394529 loop_end=536912 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#4-64-U0TF.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=383963 loop_end=503548 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#4-95-30QN.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=362207 loop_end=806466 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pG#4-127-6V1B.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=607972 loop_end=841520 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA4-32-QSX5.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=395048 loop_end=793321 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA4-64-2HWO.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=283755 loop_end=810801 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA4-95-H31M.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273994 loop_end=430579 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA4-127-52QD.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=606629 loop_end=814521 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#4-32-48GX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=275676 loop_end=765135 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#4-64-22WY.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=280755 loop_end=394973 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#4-95-J2MK.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=402520 loop_end=541783 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pA#4-127-QRUZ.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=339562 loop_end=481926 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB4-32-I9MJ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=322856 loop_end=837984 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB4-64-4XSH.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=267830 loop_end=383958 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB4-95-XTHY.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=549376 loop_end=687302 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pB4-127-PVNT.aif
+<group>lokey=84 hikey=127 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=673720 loop_end=838514 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC5-32-3B9X.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=599322 loop_end=840892 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC5-64-C81R.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=490397 loop_end=621565 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC5-95-LJ34.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=589624 loop_end=735423 sample=../Sounds/Saws/saw3P63res/(2016224 21119)/ob3pC5-127-EBO1.aif

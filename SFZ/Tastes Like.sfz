@@ -1,0 +1,221 @@
+// this file was generated from Tastes Like.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=629 end=799477 sample=../Sounds/Misc/Tastes Like/Tastes Like-36-32-SDSS.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=662 end=799679 sample=../Sounds/Misc/Tastes Like/Tastes Like-36-127-IB2L.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=647 end=796018 sample=../Sounds/Misc/Tastes Like/Tastes Like-37-32-OT5J.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=782 end=797863 sample=../Sounds/Misc/Tastes Like/Tastes Like-37-127-D97R.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=552 end=805477 sample=../Sounds/Misc/Tastes Like/Tastes Like-38-32-VN2J.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=734 end=793279 sample=../Sounds/Misc/Tastes Like/Tastes Like-38-127-5KK4.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=691 sample=../Sounds/Misc/Tastes Like/Tastes Like-39-32-9ZCF.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=563 sample=../Sounds/Misc/Tastes Like/Tastes Like-39-127-JH6O.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=731 end=801423 sample=../Sounds/Misc/Tastes Like/Tastes Like-40-32-QYI8.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=834 end=799764 sample=../Sounds/Misc/Tastes Like/Tastes Like-40-127-NLQD.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=499 end=806534 sample=../Sounds/Misc/Tastes Like/Tastes Like-41-32-GRLH.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=619 sample=../Sounds/Misc/Tastes Like/Tastes Like-41-127-LDOM.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=655 sample=../Sounds/Misc/Tastes Like/Tastes Like-42-32-P012.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=547 end=796927 sample=../Sounds/Misc/Tastes Like/Tastes Like-42-127-4TSD.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=866 end=797947 sample=../Sounds/Misc/Tastes Like/Tastes Like-43-32-4339.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=618 end=797659 sample=../Sounds/Misc/Tastes Like/Tastes Like-43-127-Q93V.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=620 end=808743 sample=../Sounds/Misc/Tastes Like/Tastes Like-44-32-EIVJ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=688 end=799099 sample=../Sounds/Misc/Tastes Like/Tastes Like-44-127-N07I.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=664 sample=../Sounds/Misc/Tastes Like/Tastes Like-45-32-TXHC.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=724 end=800075 sample=../Sounds/Misc/Tastes Like/Tastes Like-45-127-CY5M.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=678 end=795119 sample=../Sounds/Misc/Tastes Like/Tastes Like-46-32-J6HC.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=700 end=796928 sample=../Sounds/Misc/Tastes Like/Tastes Like-46-127-Y8XA.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=694 sample=../Sounds/Misc/Tastes Like/Tastes Like-47-32-PYP1.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=566 end=792831 sample=../Sounds/Misc/Tastes Like/Tastes Like-47-127-F83X.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=717 sample=../Sounds/Misc/Tastes Like/Tastes Like-48-32-VXE6.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=552 end=797730 sample=../Sounds/Misc/Tastes Like/Tastes Like-48-127-FNS1.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=570 end=796256 sample=../Sounds/Misc/Tastes Like/Tastes Like-49-32-JD6S.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=677 end=798419 sample=../Sounds/Misc/Tastes Like/Tastes Like-49-127-TXZA.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=560 end=808173 sample=../Sounds/Misc/Tastes Like/Tastes Like-50-32-9BJK.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=745 end=796018 sample=../Sounds/Misc/Tastes Like/Tastes Like-50-127-D6EF.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=708 end=799064 sample=../Sounds/Misc/Tastes Like/Tastes Like-51-32-XD5Y.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=626 end=801495 sample=../Sounds/Misc/Tastes Like/Tastes Like-51-127-VU3Q.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=736 end=799838 sample=../Sounds/Misc/Tastes Like/Tastes Like-52-32-U9ZX.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=502 sample=../Sounds/Misc/Tastes Like/Tastes Like-52-127-Y3WG.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=626 end=808194 sample=../Sounds/Misc/Tastes Like/Tastes Like-53-32-059U.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=631 end=793984 sample=../Sounds/Misc/Tastes Like/Tastes Like-53-127-AUJO.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=707 end=800640 sample=../Sounds/Misc/Tastes Like/Tastes Like-54-32-1VQS.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=634 sample=../Sounds/Misc/Tastes Like/Tastes Like-54-127-JCUF.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=651 end=795648 sample=../Sounds/Misc/Tastes Like/Tastes Like-55-32-70BZ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=533 end=796910 sample=../Sounds/Misc/Tastes Like/Tastes Like-55-127-FAQ2.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=657 end=808156 sample=../Sounds/Misc/Tastes Like/Tastes Like-56-32-2QR7.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=597 end=798151 sample=../Sounds/Misc/Tastes Like/Tastes Like-56-127-JBDB.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=583 end=798309 sample=../Sounds/Misc/Tastes Like/Tastes Like-57-32-JFYJ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=653 end=799712 sample=../Sounds/Misc/Tastes Like/Tastes Like-57-127-WRX4.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=588 end=795718 sample=../Sounds/Misc/Tastes Like/Tastes Like-58-32-WA65.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=681 sample=../Sounds/Misc/Tastes Like/Tastes Like-58-127-0ZGS.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=670 end=811779 sample=../Sounds/Misc/Tastes Like/Tastes Like-59-32-DHEJ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=613 end=793776 sample=../Sounds/Misc/Tastes Like/Tastes Like-59-127-61UF.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=669 sample=../Sounds/Misc/Tastes Like/Tastes Like-60-32-ZEJT.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=604 end=800369 sample=../Sounds/Misc/Tastes Like/Tastes Like-60-127-BBAD.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=675 sample=../Sounds/Misc/Tastes Like/Tastes Like-61-32-0X7O.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=673 end=797017 sample=../Sounds/Misc/Tastes Like/Tastes Like-61-127-3GIA.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=556 sample=../Sounds/Misc/Tastes Like/Tastes Like-62-32-Z63G.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=659 end=795136 sample=../Sounds/Misc/Tastes Like/Tastes Like-62-127-VSBA.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=748 end=800054 sample=../Sounds/Misc/Tastes Like/Tastes Like-63-32-TW4P.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=615 end=799872 sample=../Sounds/Misc/Tastes Like/Tastes Like-63-127-MCNX.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=600 end=797184 sample=../Sounds/Misc/Tastes Like/Tastes Like-64-32-N5GO.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=581 end=799813 sample=../Sounds/Misc/Tastes Like/Tastes Like-64-127-2C1J.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=811 sample=../Sounds/Misc/Tastes Like/Tastes Like-65-32-SUYM.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=696 end=796032 sample=../Sounds/Misc/Tastes Like/Tastes Like-65-127-MJV5.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=700 end=800526 sample=../Sounds/Misc/Tastes Like/Tastes Like-66-32-V2IE.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=683 end=798080 sample=../Sounds/Misc/Tastes Like/Tastes Like-66-127-HGPL.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=587 end=798669 sample=../Sounds/Misc/Tastes Like/Tastes Like-67-32-TU95.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=609 end=797184 sample=../Sounds/Misc/Tastes Like/Tastes Like-67-127-0FS1.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=649 end=808253 sample=../Sounds/Misc/Tastes Like/Tastes Like-68-32-4OZG.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=641 end=796544 sample=../Sounds/Misc/Tastes Like/Tastes Like-68-127-I86Q.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=596 end=800640 sample=../Sounds/Misc/Tastes Like/Tastes Like-69-32-UND8.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=614 end=798733 sample=../Sounds/Misc/Tastes Like/Tastes Like-69-127-U4MF.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=781 end=797184 sample=../Sounds/Misc/Tastes Like/Tastes Like-70-32-LYAE.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=585 sample=../Sounds/Misc/Tastes Like/Tastes Like-70-127-FHMJ.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=606 end=807722 sample=../Sounds/Misc/Tastes Like/Tastes Like-71-32-UQWK.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=745 sample=../Sounds/Misc/Tastes Like/Tastes Like-71-127-BSN5.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=511 end=799771 sample=../Sounds/Misc/Tastes Like/Tastes Like-72-32-WBVD.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=686 end=799232 sample=../Sounds/Misc/Tastes Like/Tastes Like-72-127-YC5U.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=648 end=796459 sample=../Sounds/Misc/Tastes Like/Tastes Like-73-32-FGFD.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=749 end=797696 sample=../Sounds/Misc/Tastes Like/Tastes Like-73-127-6VPA.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=727 end=807073 sample=../Sounds/Misc/Tastes Like/Tastes Like-74-32-PWOQ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=676 end=796032 sample=../Sounds/Misc/Tastes Like/Tastes Like-74-127-COUF.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=660 end=800019 sample=../Sounds/Misc/Tastes Like/Tastes Like-75-32-JYSR.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=621 end=798729 sample=../Sounds/Misc/Tastes Like/Tastes Like-75-127-RGLJ.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=554 sample=../Sounds/Misc/Tastes Like/Tastes Like-76-32-RV7M.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=700 end=798510 sample=../Sounds/Misc/Tastes Like/Tastes Like-76-127-8DWQ.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=635 sample=../Sounds/Misc/Tastes Like/Tastes Like-77-32-36WE.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=673 end=796544 sample=../Sounds/Misc/Tastes Like/Tastes Like-77-127-OB9C.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=638 end=798997 sample=../Sounds/Misc/Tastes Like/Tastes Like-78-32-0BN6.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=538 end=799744 sample=../Sounds/Misc/Tastes Like/Tastes Like-78-127-CHQO.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=687 end=798464 sample=../Sounds/Misc/Tastes Like/Tastes Like-79-32-BBSG.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=689 end=796546 sample=../Sounds/Misc/Tastes Like/Tastes Like-79-127-GPCK.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=601 end=807709 sample=../Sounds/Misc/Tastes Like/Tastes Like-80-32-3MB8.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=577 end=795157 sample=../Sounds/Misc/Tastes Like/Tastes Like-80-127-80TD.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=632 end=800390 sample=../Sounds/Misc/Tastes Like/Tastes Like-81-32-OTZF.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=623 end=800896 sample=../Sounds/Misc/Tastes Like/Tastes Like-81-127-3RRZ.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=586 end=796672 sample=../Sounds/Misc/Tastes Like/Tastes Like-82-32-13OI.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=584 end=797865 sample=../Sounds/Misc/Tastes Like/Tastes Like-82-127-WQUB.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=827 end=806284 sample=../Sounds/Misc/Tastes Like/Tastes Like-83-32-ZJJA.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=658 end=794762 sample=../Sounds/Misc/Tastes Like/Tastes Like-83-127-VIDD.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=604 end=797773 sample=../Sounds/Misc/Tastes Like/Tastes Like-84-32-3E7T.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=580 end=797981 sample=../Sounds/Misc/Tastes Like/Tastes Like-84-127-GPMT.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=782 end=797345 sample=../Sounds/Misc/Tastes Like/Tastes Like-85-32-I8MJ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=728 end=798336 sample=../Sounds/Misc/Tastes Like/Tastes Like-85-127-31PU.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=670 end=808451 sample=../Sounds/Misc/Tastes Like/Tastes Like-86-32-3PHP.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=579 end=795652 sample=../Sounds/Misc/Tastes Like/Tastes Like-86-127-XMBS.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=717 end=800410 sample=../Sounds/Misc/Tastes Like/Tastes Like-87-32-WMG9.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=638 sample=../Sounds/Misc/Tastes Like/Tastes Like-87-127-5YIZ.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=712 end=796688 sample=../Sounds/Misc/Tastes Like/Tastes Like-88-32-2EQR.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=632 end=798230 sample=../Sounds/Misc/Tastes Like/Tastes Like-88-127-GXHF.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=705 end=810624 sample=../Sounds/Misc/Tastes Like/Tastes Like-89-32-Y51G.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=646 end=793728 sample=../Sounds/Misc/Tastes Like/Tastes Like-89-127-BWWK.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=656 end=800384 sample=../Sounds/Misc/Tastes Like/Tastes Like-90-32-T39A.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=639 end=799753 sample=../Sounds/Misc/Tastes Like/Tastes Like-90-127-46CD.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=672 end=799119 sample=../Sounds/Misc/Tastes Like/Tastes Like-91-32-MU0F.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=507 end=798464 sample=../Sounds/Misc/Tastes Like/Tastes Like-91-127-DVAS.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=530 end=808964 sample=../Sounds/Misc/Tastes Like/Tastes Like-92-32-P6NM.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=650 end=798208 sample=../Sounds/Misc/Tastes Like/Tastes Like-92-127-6EEM.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=712 end=799753 sample=../Sounds/Misc/Tastes Like/Tastes Like-93-32-F01Q.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=594 end=798592 sample=../Sounds/Misc/Tastes Like/Tastes Like-93-127-LC6B.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=609 sample=../Sounds/Misc/Tastes Like/Tastes Like-94-32-APXH.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=580 end=799490 sample=../Sounds/Misc/Tastes Like/Tastes Like-94-127-72Q8.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=550 end=808079 sample=../Sounds/Misc/Tastes Like/Tastes Like-95-32-RRIT.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=689 end=796160 sample=../Sounds/Misc/Tastes Like/Tastes Like-95-127-VO81.wav
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=504 end=798606 sample=../Sounds/Misc/Tastes Like/Tastes Like-96-32-HC0P.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=580 end=797443 sample=../Sounds/Misc/Tastes Like/Tastes Like-96-127-M800.wav
+<group> key=97 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=613 end=797696 sample=../Sounds/Misc/Tastes Like/Tastes Like-97-32-SEOQ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=717 sample=../Sounds/Misc/Tastes Like/Tastes Like-97-127-4O7M.wav
+<group> key=98 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=602 sample=../Sounds/Misc/Tastes Like/Tastes Like-98-32-MJA9.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=693 sample=../Sounds/Misc/Tastes Like/Tastes Like-98-127-6PG1.wav
+<group> key=99 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=642 end=801152 sample=../Sounds/Misc/Tastes Like/Tastes Like-99-32-XGL5.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=604 end=798720 sample=../Sounds/Misc/Tastes Like/Tastes Like-99-127-JFDU.wav
+<group> key=100 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=709 sample=../Sounds/Misc/Tastes Like/Tastes Like-100-32-HWLS.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=731 end=798592 sample=../Sounds/Misc/Tastes Like/Tastes Like-100-127-QULF.wav
+<group> key=101 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=691 sample=../Sounds/Misc/Tastes Like/Tastes Like-101-32-YVCW.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=563 end=797064 sample=../Sounds/Misc/Tastes Like/Tastes Like-101-127-5BOU.wav
+<group> key=102 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=635 end=799104 sample=../Sounds/Misc/Tastes Like/Tastes Like-102-32-PTFJ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=680 end=800512 sample=../Sounds/Misc/Tastes Like/Tastes Like-102-127-3XL7.wav
+<group> key=103 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=623 end=798336 sample=../Sounds/Misc/Tastes Like/Tastes Like-103-32-MI9L.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=636 end=798211 sample=../Sounds/Misc/Tastes Like/Tastes Like-103-127-7I16.wav
+<group> key=104 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1072 end=808457 sample=../Sounds/Misc/Tastes Like/Tastes Like-104-32-LO1N.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=472 end=795266 sample=../Sounds/Misc/Tastes Like/Tastes Like-104-127-KPVG.wav
+<group> key=105 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=602 end=802945 sample=../Sounds/Misc/Tastes Like/Tastes Like-105-32-GYTT.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=576 sample=../Sounds/Misc/Tastes Like/Tastes Like-105-127-DU2V.wav
+<group> key=106 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=630 end=796934 sample=../Sounds/Misc/Tastes Like/Tastes Like-106-32-GEJ7.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=693 end=798720 sample=../Sounds/Misc/Tastes Like/Tastes Like-106-127-UHXW.wav
+<group> key=107 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=665 sample=../Sounds/Misc/Tastes Like/Tastes Like-107-32-J98X.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=703 end=797958 sample=../Sounds/Misc/Tastes Like/Tastes Like-107-127-BH6A.wav
+<group> key=108 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=705 sample=../Sounds/Misc/Tastes Like/Tastes Like-108-32-H34R.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=585 sample=../Sounds/Misc/Tastes Like/Tastes Like-108-127-Q7DC.wav

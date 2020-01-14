@@ -1,0 +1,247 @@
+// this file was generated from sqr3p30res.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=268914 loop_end=384449 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC1-32-RVL2.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268426 loop_end=383972 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC1-64-ROJ6.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=341770 loop_end=464631 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC1-95-OH0Q.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=415460 loop_end=538328 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC1-127-R1O4.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=269283 loop_end=385228 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#1-32-EK3V.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268471 loop_end=384418 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#1-64-UWJR.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=368927 loop_end=650524 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#1-95-RS1G.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276168 loop_end=712388 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#1-127-NBS1.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=267874 loop_end=385131 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD1-32-J217.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=279675 loop_end=395640 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD1-64-N5M9.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=276697 loop_end=840919 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD1-95-5Q7M.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=411381 loop_end=554726 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD1-127-2IH2.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=269182 loop_end=383528 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#1-32-MGCL.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268782 loop_end=384371 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#1-64-CMTZ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=525338 loop_end=813075 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#1-95-Q833.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=346870 loop_end=628467 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#1-127-63DV.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=269077 loop_end=384019 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE1-32-C773.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=267840 loop_end=385110 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE1-64-5UAO.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=276645 loop_end=536742 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE1-95-AQKZ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=291869 loop_end=533395 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE1-127-0V50.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=538749 loop_end=677914 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF1-32-AGXB.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269287 loop_end=384347 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF1-64-NPOQ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=558985 loop_end=746374 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF1-95-7YWF.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=493482 loop_end=758696 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF1-127-X44W.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=362792 loop_end=567575 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#1-32-9P9V.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268048 loop_end=384928 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#1-64-QNEE.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278550 loop_end=483347 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#1-95-0C4V.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=608370 loop_end=813175 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#1-127-6VQI.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=415563 loop_end=685953 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG1-32-7A65.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268552 loop_end=383743 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG1-64-CBLL.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=339367 loop_end=632226 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG1-95-OCKX.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287596 loop_end=790377 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG1-127-FFBI.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=699421 loop_end=827455 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#1-32-BZN5.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269516 loop_end=384666 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#1-64-79M0.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=346723 loop_end=833128 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#1-95-JCMM.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=549959 loop_end=824492 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#1-127-QQO0.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=403348 loop_end=633738 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA1-32-C55G.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268189 loop_end=383821 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA1-64-6AA0.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=575827 loop_end=806226 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA1-95-QEM7.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=416716 loop_end=663654 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA1-127-GUGL.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=641219 loop_end=769228 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#1-32-QE6G.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268705 loop_end=383587 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#1-64-W3EP.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=482041 loop_end=829176 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#1-95-UO6N.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=383767 loop_end=830232 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#1-127-L855.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=574284 loop_end=790359 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB1-32-XCZU.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269330 loop_end=384724 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB1-64-8MLF.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=346085 loop_end=803808 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB1-95-1JPC.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284653 loop_end=832254 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB1-127-JWVA.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=286351 loop_end=820955 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC2-32-WS44.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=314373 loop_end=446748 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC2-64-5H7P.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=514114 loop_end=652348 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC2-95-TYTQ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=353950 loop_end=636280 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC2-127-X61O.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=289983 loop_end=571608 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#2-32-JWW3.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=467984 loop_end=840724 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#2-64-TGAZ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=326617 loop_end=790501 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#2-95-ZGYR.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=299853 loop_end=791377 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#2-127-OFRS.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=351082 loop_end=726938 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD2-32-NW6Y.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=464939 loop_end=840793 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD2-64-3X3J.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=339523 loop_end=803367 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD2-95-AQ3R.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=303577 loop_end=767445 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD2-127-A24B.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=468907 loop_end=833503 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#2-32-0NZW.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=503259 loop_end=631147 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#2-64-BII2.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=295315 loop_end=555409 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#2-95-0772.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329157 loop_end=836458 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#2-127-6DZO.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=410387 loop_end=632657 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE2-32-PKND.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=429863 loop_end=652133 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE2-64-Q8CN.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=684084 loop_end=827443 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE2-95-642O.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=360694 loop_end=505218 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE2-127-0BS3.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=300269 loop_end=519365 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF2-32-J485.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=354338 loop_end=613421 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF2-64-5SZQ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=476727 loop_end=814180 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF2-95-Z5GF.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=449894 loop_end=731485 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF2-127-TGNS.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=290917 loop_end=375707 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#2-32-GCB4.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=620340 loop_end=756308 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#2-64-S61M.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=298859 loop_end=503607 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#2-95-CPII.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=629123 loop_end=833881 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#2-127-UAZ2.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=447676 loop_end=797983 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG2-32-34M1.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=425263 loop_end=637008 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG2-64-D8HU.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=502993 loop_end=669864 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG2-95-MSEB.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=572806 loop_end=738710 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG2-127-YD04.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=531976 loop_end=836049 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#2-32-9B1Q.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=376189 loop_end=822615 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#2-64-MGJQ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=607604 loop_end=773472 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#2-95-8MTZ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=460173 loop_end=626051 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#2-127-4JNP.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=84727 loop_end=124731 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA2-32-D9QR.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=361949 loop_end=512404 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA2-64-OA9M.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=676736 loop_end=803716 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA2-95-KIN6.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=553349 loop_end=680336 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA2-127-3MHL.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=12647 loop_end=15942 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#2-32-16II.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=492620 loop_end=796752 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#2-64-JGZN.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=448084 loop_end=778893 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#2-95-232E.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=449064 loop_end=779063 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#2-127-O7X9.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=13610 loop_end=23686 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB2-32-VGKQ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=479936 loop_end=769702 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB2-64-FMZZ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=543472 loop_end=833260 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB2-95-YCCA.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271612 loop_end=801626 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB2-127-WRBY.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=14929 loop_end=17107 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC3-32-GZBP.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=534335 loop_end=838482 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC3-64-KK2E.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=436484 loop_end=817427 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC3-95-73R2.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=492761 loop_end=784151 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC3-127-ZPRA.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=14197 loop_end=16266 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#3-32-S6Z3.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=453402 loop_end=643858 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#3-64-9J3G.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=453458 loop_end=834396 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#3-95-RQT5.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=679090 loop_end=805040 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#3-127-QDNM.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1924 loop_end=2924 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD3-32-L9VS.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=346151 loop_end=587796 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD3-64-6FWV.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=360199 loop_end=780979 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD3-95-PH1P.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268051 loop_end=539691 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD3-127-68D6.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=14323 loop_end=20764 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#3-32-C3HG.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=552447 loop_end=834001 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#3-64-K5HG.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=504050 loop_end=841868 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#3-95-YH1B.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=605622 loop_end=731350 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#3-127-8MWW.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=11602 loop_end=14790 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE3-32-HVI8.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=363683 loop_end=838825 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE3-64-R7NN.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=619345 loop_end=751417 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE3-95-4C0O.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=373538 loop_end=798507 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE3-127-TDSD.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=13371 loop_end=17710 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF3-32-T5PC.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=547579 loop_end=829197 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF3-64-FGVD.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=349884 loop_end=575907 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF3-95-D1KV.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=595657 loop_end=833201 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF3-127-0R0Y.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=13120 loop_end=19559 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#3-32-5WM8.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=324369 loop_end=694083 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#3-64-JO1J.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=631697 loop_end=841128 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#3-95-ME20.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=528692 loop_end=644531 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#3-127-P8N4.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=18239 loop_end=26252 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG3-32-2OLV.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=280294 loop_end=661217 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG3-64-0Z3Z.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=291611 loop_end=490501 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG3-95-HFV3.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=607630 loop_end=806045 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG3-127-EP5R.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=6152 loop_end=7200 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#3-32-6W7F.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=318348 loop_end=764702 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#3-64-B9ZR.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=336491 loop_end=453960 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#3-95-3OXC.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=387250 loop_end=839878 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#3-127-JFCL.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1914 loop_end=2916 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA3-32-64VU.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=554337 loop_end=813456 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA3-64-QRES.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=460319 loop_end=576844 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA3-95-RJ89.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=492836 loop_end=814165 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA3-127-A77F.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=3305 loop_end=6159 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#3-32-T5BH.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3919 loop_end=5560 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#3-64-MZCW.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=381432 loop_end=546624 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#3-95-V0SW.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=670323 loop_end=836134 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#3-127-TDXN.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=7834 loop_end=10963 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB3-32-NQPZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3408 loop_end=4567 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB3-64-5FJ5.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=406501 loop_end=838531 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB3-95-JNMC.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=452486 loop_end=779575 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB3-127-FOPC.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=6198 loop_end=7246 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC4-32-0D22.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3355 loop_end=5365 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC4-64-AX98.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=516528 loop_end=839651 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC4-95-JGRB.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=331004 loop_end=501811 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC4-127-2R1O.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=4024 loop_end=7096 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#4-32-0SUJ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3340 loop_end=4547 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#4-64-29ER.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=429880 loop_end=833073 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#4-95-QE2X.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=436226 loop_end=835472 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC#4-127-76NG.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=14322 loop_end=15952 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD4-32-O2TK.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=15922 loop_end=23903 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD4-64-9A0A.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=675023 loop_end=821969 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD4-95-0EEA.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=584192 loop_end=820264 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD4-127-6YCG.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=14330 loop_end=15935 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#4-32-DKYH.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=16171 loop_end=20938 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#4-64-QHDZ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=573479 loop_end=721244 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#4-95-PJ6P.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333812 loop_end=465594 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pD#4-127-BFH9.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1883 loop_end=2906 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE4-32-S03Z.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3408 loop_end=4567 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE4-64-2LE1.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=604312 loop_end=732431 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE4-95-FYWW.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338526 loop_end=466943 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pE4-127-A64I.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=7080 loop_end=9661 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF4-32-W945.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3027 loop_end=3986 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF4-64-WGUD.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=269091 loop_end=385500 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF4-95-0O54.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=554396 loop_end=842140 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF4-127-2UP8.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=13985 loop_end=17733 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#4-32-YZYZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3364 loop_end=5408 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#4-64-8GKD.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=673754 loop_end=799397 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#4-95-T597.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=673820 loop_end=839544 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pF#4-127-T9YZ.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=14537 loop_end=16656 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG4-32-76AV.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3350 loop_end=4448 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG4-64-K2WU.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=268729 loop_end=384758 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG4-95-PVLB.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=594222 loop_end=712086 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG4-127-CZUQ.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=6259 loop_end=7307 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#4-32-JH9Z.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=16816 loop_end=23150 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#4-64-9H3L.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=268321 loop_end=384912 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#4-95-JQQO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=592508 loop_end=757495 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pG#4-127-E54E.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=13161 loop_end=16233 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA4-32-P1HM.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=2956 loop_end=3933 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA4-64-37UA.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=501602 loop_end=657642 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA4-95-XWLO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=440488 loop_end=710939 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA4-127-9ZG8.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=6157 loop_end=7205 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#4-32-P448.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3010 loop_end=4035 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#4-64-URL5.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=269129 loop_end=385498 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#4-95-5YMO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=367208 loop_end=801109 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pA#4-127-CRWY.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1945 loop_end=2936 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB4-32-SKGD.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=15830 loop_end=23868 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB4-64-PTX7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=268690 loop_end=384434 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB4-95-TJBH.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=363748 loop_end=826550 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pB4-127-JQXM.aif
+<group>lokey=84 hikey=127 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=14240 loop_end=16341 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC5-32-W4RI.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3441 loop_end=5485 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC5-64-W43W.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=297202 loop_end=820779 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC5-95-402E.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=585112 loop_end=717475 sample=../Sounds/Squares/sqr3p30res/(2016224 41419)/ob3pC5-127-LZE2.aif

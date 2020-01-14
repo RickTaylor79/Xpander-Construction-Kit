@@ -1,0 +1,149 @@
+// this file was generated from Phase Lead.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=621 end=494304 sample=../Sounds/Misc/Phase Lead/Phase Lead-36-64-UOM4.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=653 end=493237 sample=../Sounds/Misc/Phase Lead/Phase Lead-36-127-1CV3.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=742 end=493312 sample=../Sounds/Misc/Phase Lead/Phase Lead-37-64-QJNH.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=672 end=492819 sample=../Sounds/Misc/Phase Lead/Phase Lead-37-127-0VT8.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=536 end=493443 sample=../Sounds/Misc/Phase Lead/Phase Lead-38-64-97JZ.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=628 end=492754 sample=../Sounds/Misc/Phase Lead/Phase Lead-38-127-DH02.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=757 end=495240 sample=../Sounds/Misc/Phase Lead/Phase Lead-39-64-VS8R.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=736 end=493321 sample=../Sounds/Misc/Phase Lead/Phase Lead-39-127-9IJR.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=610 end=493894 sample=../Sounds/Misc/Phase Lead/Phase Lead-40-64-GFNB.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=669 sample=../Sounds/Misc/Phase Lead/Phase Lead-40-127-2XCL.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=559 end=493196 sample=../Sounds/Misc/Phase Lead/Phase Lead-41-64-GKD7.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=494 end=493116 sample=../Sounds/Misc/Phase Lead/Phase Lead-41-127-QOG7.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=580 end=494888 sample=../Sounds/Misc/Phase Lead/Phase Lead-42-64-NNQL.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=710 end=492966 sample=../Sounds/Misc/Phase Lead/Phase Lead-42-127-484J.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=541 end=493989 sample=../Sounds/Misc/Phase Lead/Phase Lead-43-64-5K33.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=701 end=493952 sample=../Sounds/Misc/Phase Lead/Phase Lead-43-127-64HD.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=620 end=493336 sample=../Sounds/Misc/Phase Lead/Phase Lead-44-64-Q7IY.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=634 end=493568 sample=../Sounds/Misc/Phase Lead/Phase Lead-44-127-1JMI.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=682 end=495360 sample=../Sounds/Misc/Phase Lead/Phase Lead-45-64-BMDO.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=680 end=492844 sample=../Sounds/Misc/Phase Lead/Phase Lead-45-127-X32I.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=585 end=493338 sample=../Sounds/Misc/Phase Lead/Phase Lead-46-64-NHVJ.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=785 end=494353 sample=../Sounds/Misc/Phase Lead/Phase Lead-46-127-2ZNV.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=549 end=493453 sample=../Sounds/Misc/Phase Lead/Phase Lead-47-64-58DO.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=646 sample=../Sounds/Misc/Phase Lead/Phase Lead-47-127-JTS8.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=698 sample=../Sounds/Misc/Phase Lead/Phase Lead-48-64-0085.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=712 end=493460 sample=../Sounds/Misc/Phase Lead/Phase Lead-48-127-E883.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=674 end=493312 sample=../Sounds/Misc/Phase Lead/Phase Lead-49-64-MH1Y.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=654 end=493712 sample=../Sounds/Misc/Phase Lead/Phase Lead-49-127-PTCI.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=703 end=493462 sample=../Sounds/Misc/Phase Lead/Phase Lead-50-64-67H4.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=546 end=493599 sample=../Sounds/Misc/Phase Lead/Phase Lead-50-127-GH7Q.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=647 end=494997 sample=../Sounds/Misc/Phase Lead/Phase Lead-51-64-46OK.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=604 end=493605 sample=../Sounds/Misc/Phase Lead/Phase Lead-51-127-HZTX.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=645 end=494111 sample=../Sounds/Misc/Phase Lead/Phase Lead-52-64-OP0V.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=596 end=493184 sample=../Sounds/Misc/Phase Lead/Phase Lead-52-127-1T7S.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=576 sample=../Sounds/Misc/Phase Lead/Phase Lead-53-64-TP1X.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=700 end=493824 sample=../Sounds/Misc/Phase Lead/Phase Lead-53-127-8632.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=649 sample=../Sounds/Misc/Phase Lead/Phase Lead-54-64-O2V8.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=668 end=493056 sample=../Sounds/Misc/Phase Lead/Phase Lead-54-127-8M84.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=681 end=494106 sample=../Sounds/Misc/Phase Lead/Phase Lead-55-64-79QI.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=778 end=493700 sample=../Sounds/Misc/Phase Lead/Phase Lead-55-127-YA7E.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=668 end=493824 sample=../Sounds/Misc/Phase Lead/Phase Lead-56-64-R908.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=603 end=493824 sample=../Sounds/Misc/Phase Lead/Phase Lead-56-127-ZHQZ.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=770 end=495618 sample=../Sounds/Misc/Phase Lead/Phase Lead-57-64-FMRQ.wav
+<group>lokey=57 hikey=58 pitch_keycenter=57 pitch_keytrack=1
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=681 end=493568 sample=../Sounds/Misc/Phase Lead/Phase Lead-57-127-8OQZ.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=655 end=493824 sample=../Sounds/Misc/Phase Lead/Phase Lead-58-64-67S1.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=723 end=493831 sample=../Sounds/Misc/Phase Lead/Phase Lead-59-64-9AZD.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=722 end=493825 sample=../Sounds/Misc/Phase Lead/Phase Lead-59-127-XIXH.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=777 sample=../Sounds/Misc/Phase Lead/Phase Lead-60-64-6FM5.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=694 sample=../Sounds/Misc/Phase Lead/Phase Lead-60-127-66BZ.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=572 end=493445 sample=../Sounds/Misc/Phase Lead/Phase Lead-61-64-GXSX.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=462 end=493462 sample=../Sounds/Misc/Phase Lead/Phase Lead-61-127-7BMZ.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=598 end=493440 sample=../Sounds/Misc/Phase Lead/Phase Lead-62-64-O0CO.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=671 sample=../Sounds/Misc/Phase Lead/Phase Lead-62-127-28VB.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=640 sample=../Sounds/Misc/Phase Lead/Phase Lead-63-64-9V3D.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=705 end=493184 sample=../Sounds/Misc/Phase Lead/Phase Lead-63-127-VZ3H.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=556 end=493569 sample=../Sounds/Misc/Phase Lead/Phase Lead-64-64-Y1E3.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=674 sample=../Sounds/Misc/Phase Lead/Phase Lead-64-127-HWSS.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=494 end=493057 sample=../Sounds/Misc/Phase Lead/Phase Lead-65-64-QX35.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=772 end=493442 sample=../Sounds/Misc/Phase Lead/Phase Lead-65-127-LCV2.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=650 sample=../Sounds/Misc/Phase Lead/Phase Lead-66-64-NI5M.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=665 end=493203 sample=../Sounds/Misc/Phase Lead/Phase Lead-66-127-EXEL.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=666 end=493824 sample=../Sounds/Misc/Phase Lead/Phase Lead-67-64-FOXG.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=735 end=493440 sample=../Sounds/Misc/Phase Lead/Phase Lead-67-127-ZJE6.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=765 end=493952 sample=../Sounds/Misc/Phase Lead/Phase Lead-68-64-W8R9.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=535 end=493570 sample=../Sounds/Misc/Phase Lead/Phase Lead-68-127-T8RO.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=628 sample=../Sounds/Misc/Phase Lead/Phase Lead-69-64-BLPU.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=616 sample=../Sounds/Misc/Phase Lead/Phase Lead-69-127-URSR.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=518 end=493952 sample=../Sounds/Misc/Phase Lead/Phase Lead-70-64-X40J.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=534 end=493971 sample=../Sounds/Misc/Phase Lead/Phase Lead-70-127-7RQI.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=721 end=493446 sample=../Sounds/Misc/Phase Lead/Phase Lead-71-64-5AX3.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=742 end=493568 sample=../Sounds/Misc/Phase Lead/Phase Lead-71-127-CX6G.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=646 end=495616 sample=../Sounds/Misc/Phase Lead/Phase Lead-72-64-7KFK.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=757 end=493192 sample=../Sounds/Misc/Phase Lead/Phase Lead-72-127-CZ9E.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=539 end=493846 sample=../Sounds/Misc/Phase Lead/Phase Lead-73-64-ADZ2.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=671 sample=../Sounds/Misc/Phase Lead/Phase Lead-73-127-K9SA.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=572 sample=../Sounds/Misc/Phase Lead/Phase Lead-74-64-O91H.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=649 sample=../Sounds/Misc/Phase Lead/Phase Lead-74-127-E13N.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=672 end=494978 sample=../Sounds/Misc/Phase Lead/Phase Lead-75-64-QZMI.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=658 end=492933 sample=../Sounds/Misc/Phase Lead/Phase Lead-75-127-ZV9B.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=709 end=494213 sample=../Sounds/Misc/Phase Lead/Phase Lead-76-64-DGV1.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=634 end=493702 sample=../Sounds/Misc/Phase Lead/Phase Lead-76-127-Y1T4.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=678 end=493313 sample=../Sounds/Misc/Phase Lead/Phase Lead-77-64-MTD4.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=781 end=493830 sample=../Sounds/Misc/Phase Lead/Phase Lead-77-127-XAWQ.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=672 sample=../Sounds/Misc/Phase Lead/Phase Lead-78-64-BL15.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=696 end=493312 sample=../Sounds/Misc/Phase Lead/Phase Lead-78-127-6H4W.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=694 end=493703 sample=../Sounds/Misc/Phase Lead/Phase Lead-79-64-BYB2.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=668 end=492929 sample=../Sounds/Misc/Phase Lead/Phase Lead-79-127-Y65K.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=757 end=493824 sample=../Sounds/Misc/Phase Lead/Phase Lead-80-64-LF3E.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=624 end=493442 sample=../Sounds/Misc/Phase Lead/Phase Lead-80-127-PU0I.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=699 end=494468 sample=../Sounds/Misc/Phase Lead/Phase Lead-81-64-CX4H.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=734 end=493096 sample=../Sounds/Misc/Phase Lead/Phase Lead-81-127-NKME.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=540 end=493443 sample=../Sounds/Misc/Phase Lead/Phase Lead-82-64-6KVF.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=618 end=493455 sample=../Sounds/Misc/Phase Lead/Phase Lead-82-127-KN5F.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=600 end=493442 sample=../Sounds/Misc/Phase Lead/Phase Lead-83-64-QU0O.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=643 end=493446 sample=../Sounds/Misc/Phase Lead/Phase Lead-83-127-V6TE.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=721 end=494994 sample=../Sounds/Misc/Phase Lead/Phase Lead-84-64-W62N.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=763 end=493188 sample=../Sounds/Misc/Phase Lead/Phase Lead-84-127-VB6K.wav

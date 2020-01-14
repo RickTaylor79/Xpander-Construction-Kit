@@ -1,0 +1,65 @@
+// this file was generated from SAW-3PHASELOW.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=38 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=116318 loop_end=323611 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-38-16-8IE0.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=155539 loop_end=569235 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-38-32-C4LZ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=129462 loop_end=496051 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-38-48-QKGJ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=112774 loop_end=594052 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-38-64-OKSH.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=182945 loop_end=607903 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-38-79-0F3P.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=100825 loop_end=435097 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-38-95-U3OL.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=363591 loop_end=487048 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-38-111-RDEH.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=98742 loop_end=608116 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-38-127-FQ9F.wav
+<group>lokey=39 hikey=44 pitch_keycenter=42 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=210444 loop_end=343565 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-44-16-GDG3.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=385292 loop_end=588039 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-44-32-GO1D.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=305470 loop_end=515371 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-44-48-3UQ9.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=220398 loop_end=609520 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-44-64-GO1G.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=200336 loop_end=561806 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-44-79-AKUZ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=327411 loop_end=459493 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-44-95-N3BQ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=147375 loop_end=279470 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-44-111-XJHW.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=93192 loop_end=430104 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-44-127-00DN.wav
+<group>lokey=45 hikey=50 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=277940 loop_end=565969 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-50-16-WCWD.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=238922 loop_end=375695 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-50-32-P8PR.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=462004 loop_end=607415 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-50-48-JC8T.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=124351 loop_end=268443 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-50-64-T7B5.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=221417 loop_end=359655 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-50-79-01R2.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=471795 loop_end=587212 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-50-95-76ZX.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=230210 loop_end=549117 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-50-111-2L9N.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=302928 loop_end=437517 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-50-127-NGJQ.wav
+<group>lokey=51 hikey=56 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=479839 loop_end=592016 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-56-16-2H09.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=367782 loop_end=603764 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-56-32-23LO.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=469589 loop_end=604745 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-56-48-O8X0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=205505 loop_end=311006 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-56-64-IARE.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=461417 loop_end=603763 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-56-79-RNAR.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=243728 loop_end=575484 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-56-95-8E14.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=120166 loop_end=514910 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-56-111-TDH0.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=374597 loop_end=580434 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-56-127-TIJO.wav
+<group>lokey=57 hikey=62 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=258280 loop_end=603305 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-62-16-JO25.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=246984 loop_end=524772 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-62-32-R9OB.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=105785 loop_end=296445 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-62-48-3SY0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=308847 loop_end=610259 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-62-64-8XAO.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=170421 loop_end=277662 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-62-79-2VSN.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=151762 loop_end=611098 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-62-95-D1WO.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=260829 loop_end=491610 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-62-111-WLWS.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328792 loop_end=559936 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-62-127-ZI7K.wav
+<group>lokey=63 hikey=68 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=121005 loop_end=234480 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-68-16-EZEF.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=452885 loop_end=564071 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-68-32-H3NM.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=174567 loop_end=293474 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-68-48-EK82.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=368638 loop_end=609649 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-68-64-2TZI.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=377057 loop_end=485100 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-68-79-AMOF.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=168868 loop_end=275103 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-68-95-JQQY.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=126312 loop_end=250957 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-68-111-MC2R.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=106363 loop_end=610107 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-68-127-KBNQ.wav
+<group>lokey=69 hikey=123 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=318998 loop_end=435779 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-72-16-NNHF.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=130567 loop_end=553987 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-72-32-2QGB.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=364656 loop_end=587056 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-72-48-DGKS.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=244070 loop_end=357753 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-72-64-VIHK.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=217248 loop_end=329085 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-72-79-4R0M.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=187711 loop_end=328975 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-72-95-RNMD.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=136104 loop_end=594375 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-72-111-7C9Q.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=159467 loop_end=585071 sample=../Sounds/Saws/SAW-3PHASELOW/(201639 112325)/SAW-3PHASELOW-72-127-5LQ3.wav

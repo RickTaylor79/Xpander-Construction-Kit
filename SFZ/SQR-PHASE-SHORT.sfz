@@ -1,0 +1,19 @@
+// this file was generated from SQR-PHASE-SHORT.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=17 hikey=104 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=11139 loop_end=21413 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-8-IYHW.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=16393 loop_end=26668 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-16-GLXT.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 loop_mode=loop_sustain loop_start=7120 loop_end=17389 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-24-KQUE.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=9568 loop_end=19852 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-32-6BQ6.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 loop_mode=loop_sustain loop_start=11662 loop_end=20473 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-40-81SD.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=15899 loop_end=26174 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-48-CS36.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 loop_mode=loop_sustain loop_start=10729 loop_end=19536 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-56-O5H0.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=8319 loop_end=17121 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-64-HYB7.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=10866 loop_end=21149 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-71-I4QF.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=9009 loop_end=19288 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-79-WX1R.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=16226 loop_end=26501 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-87-SCRS.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=10589 loop_end=19396 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-95-32DE.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 loop_mode=loop_sustain loop_start=9242 loop_end=19511 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-103-TSYV.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=9569 loop_end=18383 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-111-4N9Q.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 loop_mode=loop_sustain loop_start=11272 loop_end=21552 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-119-4IIF.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=15375 loop_end=25650 sample=../Sounds/Short Waves/SQR-PHASE-SHORT/(201639 14220)/tiny-104-127-LO39.wav

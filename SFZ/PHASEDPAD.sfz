@@ -1,0 +1,124 @@
+// this file was generated from PHASEDPAD.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328766 loop_end=367880 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-36-127-3NKY.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=310148 loop_end=390315 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-37-127-ORVC.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238880 loop_end=318679 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-38-127-LHMI.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=347333 loop_end=387014 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-39-127-E9DN.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=220185 loop_end=259783 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-40-127-HG5C.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315218 loop_end=355616 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-41-127-1CRW.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329997 loop_end=369089 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-42-127-TN9P.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315286 loop_end=394887 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-43-127-OUTC.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223429 loop_end=263312 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-44-127-FN6B.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270911 loop_end=310979 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-45-127-5K5S.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263129 loop_end=303205 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-46-127-K71I.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281236 loop_end=321198 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-47-127-YZBJ.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289775 loop_end=329540 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-48-127-6K5U.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=295602 loop_end=335034 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-49-127-7ID7.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239211 loop_end=279416 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-50-127-ARKZ.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248511 loop_end=288171 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-51-127-1Z2W.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241359 loop_end=281465 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-52-127-AMES.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=300268 loop_end=340136 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-53-127-8GFP.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258615 loop_end=298629 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-54-127-5IPR.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251071 loop_end=291084 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-55-127-WO21.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249209 loop_end=289534 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-56-127-LJ8R.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=310307 loop_end=349972 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-57-127-EMAR.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=341120 loop_end=381200 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-58-127-B1FG.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280731 loop_end=320702 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-59-127-7FT1.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=356773 loop_end=396684 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-60-127-97HE.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333072 loop_end=372812 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-61-127-OZPU.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=361101 loop_end=401007 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-62-127-94UE.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251208 loop_end=290851 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-63-127-UDHW.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=323961 loop_end=363801 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-64-127-42SJ.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=222510 loop_end=262390 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-65-127-6QNW.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=350687 loop_end=390350 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-66-127-WL49.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=346620 loop_end=386529 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-67-127-DOGW.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263805 loop_end=303804 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-68-127-VX8F.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=219481 loop_end=259433 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-69-127-QFCN.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=305653 loop_end=345628 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-70-127-PZUR.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243342 loop_end=283396 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-71-127-8SNM.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=293775 loop_end=333615 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-72-127-PBA9.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259367 loop_end=299199 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-73-127-7HJV.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=275871 loop_end=315793 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-74-127-7GHX.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282982 loop_end=322923 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-75-127-6R9S.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241953 loop_end=281851 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-76-127-A024.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224567 loop_end=264498 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-77-127-WQG9.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314110 loop_end=353818 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-78-127-GOO5.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=351740 loop_end=391584 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-79-127-NSVH.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=266473 loop_end=306433 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-80-127-IFV5.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=234959 loop_end=274775 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-81-127-KWDS.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=260489 loop_end=300432 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-82-127-FLEW.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=320944 loop_end=361055 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-83-127-SMA9.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=356479 loop_end=396556 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-84-127-RE6Q.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=299388 loop_end=341275 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-85-127-RLVF.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272659 loop_end=312642 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-86-127-SQGA.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261210 loop_end=301352 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-87-127-7XEM.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247141 loop_end=287080 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-88-127-STLD.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314662 loop_end=353687 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-89-127-J6B7.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246071 loop_end=284055 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-90-127-6NE7.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328056 loop_end=368016 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-91-127-8MTC.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243976 loop_end=282333 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-92-127-O84E.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=352936 loop_end=392695 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-93-127-ND14.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=323084 loop_end=362882 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-94-127-TU12.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=225640 loop_end=264591 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-95-127-V5YX.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263718 loop_end=303058 sample=../Sounds/Misc/PHASEDPAD/(201279 171756)/004 PHASEDPAD-96-127-9NIL.aif

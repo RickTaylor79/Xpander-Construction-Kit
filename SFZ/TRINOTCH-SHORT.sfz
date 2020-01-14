@@ -1,0 +1,19 @@
+// this file was generated from TRINOTCH-SHORT.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=17 hikey=104 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=9025 loop_end=19306 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-8-VUGS.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=4439 loop_end=27974 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-16-UAV5.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 loop_mode=loop_sustain loop_start=4882 loop_end=28405 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-24-TE6R.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=14166 loop_end=24451 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-32-DRJT.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 loop_mode=loop_sustain loop_start=13577 loop_end=23862 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-40-20LF.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=16519 loop_end=26798 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-48-7JLU.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 loop_mode=loop_sustain loop_start=4510 loop_end=28040 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-56-JLRK.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=15092 loop_end=25383 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-64-4EMR.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=15747 loop_end=26033 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-71-HMX2.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=4125 loop_end=15880 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-79-ZQSP.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=4610 loop_end=14889 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-87-N87E.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=5192 loop_end=28724 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-95-EKRV.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 loop_mode=loop_sustain loop_start=4737 loop_end=28261 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-103-V98T.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=17547 loop_end=27834 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-111-QPVA.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 loop_mode=loop_sustain loop_start=18287 loop_end=28574 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-119-N5JP.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=17562 loop_end=27843 sample=../Sounds/Short Waves/TRINOTCH-SHORT/(201639 141845)/tiny-104-127-50WW.wav

@@ -1,0 +1,187 @@
+// this file was generated from Water FM.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=1 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=398581 loop_end=539758 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-36-32-JYJD.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=507997 loop_end=646235 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-36-64-2RJV.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=444703 loop_end=579948 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-36-95-4FHW.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=410836 loop_end=536900 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-36-127-IGM1.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=522480 loop_end=694391 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-37-32-Q28F.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=495513 loop_end=687005 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-37-64-5PUL.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=426393 loop_end=582075 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-37-95-L37K.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=415917 loop_end=541163 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-37-127-R8JK.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=453639 loop_end=594971 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-38-32-GAS4.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=398778 loop_end=573728 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-38-64-9DO1.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=19254 loop_end=37864 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-38-95-UJ9Q.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=414266 loop_end=539870 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-38-127-WHVZ.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=405422 loop_end=571227 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-39-32-FD64.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=404751 loop_end=548035 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-39-64-8FIW.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=415200 loop_end=541191 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-39-95-IVJI.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=420491 loop_end=546487 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-39-127-AVM1.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=460551 loop_end=619315 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-40-32-ZU3P.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=514507 loop_end=673200 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-40-64-1OCK.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=407908 loop_end=541116 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-40-95-I21E.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=416225 loop_end=541578 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-40-127-Y6NQ.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=490591 loop_end=637967 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-41-32-E7YR.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=447779 loop_end=628074 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-41-64-RB2G.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=413304 loop_end=545584 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-41-95-N44B.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=406426 loop_end=531237 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-41-127-8TYH.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=422837 loop_end=549805 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-42-32-5UW4.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=526859 loop_end=665978 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-42-64-M5YD.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=453290 loop_end=596532 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-42-95-GM10.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=410899 loop_end=537288 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-42-127-SJ28.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=570980 loop_end=710323 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-43-32-BV3O.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=529804 loop_end=669090 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-43-64-FKD8.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=437664 loop_end=580957 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-43-95-A455.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=8096 loop_end=18367 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-43-127-B1CX.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=384971 loop_end=556954 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-44-32-5KAZ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=570059 loop_end=730714 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-44-64-JLP3.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=444932 loop_end=579971 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-44-95-Q3UE.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=407356 loop_end=533348 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-44-127-DKKX.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=584682 loop_end=710648 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-45-32-VBCA.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=508569 loop_end=716465 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-45-64-ZDER.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=200602 loop_end=259865 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-45-95-K24Q.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=8096 loop_end=18337 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-45-127-ZPOO.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=595503 loop_end=730608 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-46-32-D87R.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=508561 loop_end=724609 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-46-64-F3UE.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=457346 loop_end=589394 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-46-95-DVOF.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=417960 loop_end=543004 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-46-127-4GXA.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=608855 loop_end=736366 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-47-32-1G7J.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=486956 loop_end=671723 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-47-64-88L4.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=451022 loop_end=576995 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-47-95-3V7S.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=405043 loop_end=532712 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-47-127-ELL7.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=604734 loop_end=732783 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-48-32-XFYC.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=575346 loop_end=729593 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-48-64-3GEI.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=429601 loop_end=561664 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-48-95-CBR3.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=408297 loop_end=533019 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-48-127-M9A8.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=593545 loop_end=732181 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-49-32-SDOP.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=467700 loop_end=668861 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-49-64-CL6Q.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=533680 loop_end=657130 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-49-95-VSQ5.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=415618 loop_end=540454 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-49-127-AJF0.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=603842 loop_end=735838 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-50-32-HPTL.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=511669 loop_end=648868 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-50-64-XR1S.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=587655 loop_end=727653 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-50-95-XSZR.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=410614 loop_end=537524 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-50-127-ZXV3.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=560719 loop_end=733708 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-51-32-TR0N.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=606752 loop_end=732598 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-51-64-1N75.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=409687 loop_end=534284 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-51-95-7UQH.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=407309 loop_end=534188 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-51-127-3VKW.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=594556 loop_end=729665 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-52-32-UOQ8.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=556139 loop_end=682039 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-52-64-WAG9.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=491289 loop_end=624219 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-52-95-F9HY.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=433465 loop_end=558100 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-52-127-XH3F.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=556506 loop_end=735760 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-53-32-7NDS.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=490969 loop_end=642494 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-53-64-MKI4.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=67877 loop_end=95330 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-53-95-VR6U.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=68149 loop_end=111097 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-53-127-WNHY.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=569270 loop_end=709465 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-54-32-OKA2.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=537328 loop_end=680496 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-54-64-SFON.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=514532 loop_end=640062 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-54-95-28IH.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=405965 loop_end=530320 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-54-127-WJMZ.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=529540 loop_end=733234 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-55-32-S1MY.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=586447 loop_end=723576 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-55-64-MLBM.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=503190 loop_end=641508 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-55-95-CME6.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=165365 loop_end=212324 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-55-127-5UYU.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=385011 loop_end=537557 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-56-32-GPNW.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=529674 loop_end=718098 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-56-64-3BHP.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=419458 loop_end=545246 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-56-95-S3EX.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=465354 loop_end=590298 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-56-127-CVQP.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=593067 loop_end=718878 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-57-32-C4Y9.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=231188 loop_end=302754 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-57-64-7ACQ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=512873 loop_end=638460 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-57-95-1CHL.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=403095 loop_end=526918 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-57-127-H93X.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=579000 loop_end=710795 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-58-32-MNBO.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=548424 loop_end=679449 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-58-64-PMFW.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=552795 loop_end=685532 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-58-95-GFLV.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=458494 loop_end=586193 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-58-127-AZFK.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=246454 loop_end=331159 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-59-32-0V9F.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=253047 loop_end=320575 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-59-64-5Z2B.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=177974 loop_end=226192 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-59-95-9CO6.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=29345 loop_end=54951 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-59-127-DGR6.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=316980 loop_end=396243 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-60-32-TETH.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=129039 loop_end=172284 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-60-64-5PLV.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=405015 loop_end=531908 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-60-95-2F4Z.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=438027 loop_end=561891 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-60-127-MB01.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=391177 loop_end=517174 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-61-32-KUDD.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=570385 loop_end=701267 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-61-64-BOU7.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=437801 loop_end=564588 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-61-95-I4NY.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=403074 loop_end=527689 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-61-127-H0JO.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=167236 loop_end=297289 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-62-32-I5YF.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=215945 loop_end=262954 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-62-64-NXJN.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=502671 loop_end=637916 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-62-95-IYKX.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=409798 loop_end=533995 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-62-127-WQO4.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=567005 loop_end=712679 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-63-32-6UAS.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=507901 loop_end=672537 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-63-64-I31M.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=467072 loop_end=613217 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-63-95-G0SR.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=406221 loop_end=532539 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-63-127-QZNK.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=26103 loop_end=38049 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-64-32-UHJ0.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=583682 loop_end=718270 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-64-64-71OB.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=426892 loop_end=552743 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-64-95-SGKK.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=517806 loop_end=649404 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-64-127-9VLI.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=605775 loop_end=736552 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-65-32-8L39.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=591140 loop_end=733922 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-65-64-43ZF.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=516104 loop_end=657362 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-65-95-96HQ.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=536447 loop_end=677753 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-65-127-6GQI.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=561586 loop_end=715223 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-66-32-60N0.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=553712 loop_end=683933 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-66-64-YPXM.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=524687 loop_end=674567 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-66-95-RVQU.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=459884 loop_end=584806 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-66-127-ASZB.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=393006 loop_end=486585 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-67-32-DEGN.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=440960 loop_end=573507 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-67-64-DW9G.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=186744 loop_end=310386 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-67-95-IVT3.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=301417 loop_end=428439 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-67-127-Q8J0.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=521443 loop_end=724249 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-68-32-Z3H5.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=116010 loop_end=240053 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-68-64-H5V1.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=395597 loop_end=522587 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-68-95-9L0N.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=610966 loop_end=736280 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-68-127-P3XJ.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=216062 loop_end=344148 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-69-32-6SRF.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=477012 loop_end=636483 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-69-64-RY7V.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=114239 loop_end=239389 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-69-95-16RA.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=175300 loop_end=219486 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-69-127-08IN.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=598391 loop_end=734975 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-70-32-NYHD.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=222082 loop_end=347925 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-70-64-2F39.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=504066 loop_end=627377 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-70-95-GA0H.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=114946 loop_end=240201 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-70-127-4I21.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=337689 loop_end=462963 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-71-32-AYTN.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=581110 loop_end=705984 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-71-64-KBIN.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=162244 loop_end=286603 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-71-95-SD0M.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=413615 loop_end=540020 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-71-127-RMVV.wav
+<group>lokey=72 hikey=119 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=503205 loop_end=630469 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-72-32-QLI4.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=255356 loop_end=386545 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-72-64-MP72.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=509063 loop_end=637360 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-72-95-69B2.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=212356 loop_end=336574 sample=../Sounds/Misc/Water FM/(201631 0357)/Water FM-72-127-KOAI.wav

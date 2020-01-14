@@ -1,0 +1,65 @@
+// this file was generated from SAW-HP-1P .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=38 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=121825 loop_end=280543 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -38-16-Z3DM.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=304147 loop_end=573458 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -38-32-KQNF.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=392161 loop_end=543714 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -38-48-RAVS.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=418203 loop_end=603545 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -38-64-Y871.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=471360 loop_end=594817 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -38-79-7EDO.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=447908 loop_end=565661 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -38-95-R75A.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=207421 loop_end=342594 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -38-111-Q0HX.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=405969 loop_end=533970 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -38-127-XESW.wav
+<group>lokey=39 hikey=44 pitch_keycenter=42 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=277791 loop_end=484654 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -44-16-E62B.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=315617 loop_end=594158 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -44-32-UPB9.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=252277 loop_end=540005 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -44-48-Q388.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=161049 loop_end=564489 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -44-64-R4WZ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=465255 loop_end=611672 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -44-79-D4W1.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=298223 loop_end=573677 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -44-95-VXU2.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=403269 loop_end=610132 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -44-111-T0EZ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=99150 loop_end=238415 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -44-127-OM84.wav
+<group>lokey=45 hikey=50 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=260821 loop_end=535541 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -50-16-KDES.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=278464 loop_end=456350 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -50-32-D1U1.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=96272 loop_end=569068 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -50-48-QJ7Z.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=225635 loop_end=349827 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -50-64-AO3N.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=228254 loop_end=411993 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -50-79-Y1JB.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=270923 loop_end=598607 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -50-95-2D8C.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=309124 loop_end=455290 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -50-111-IUJP.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=435025 loop_end=555565 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -50-127-WFDB.wav
+<group>lokey=51 hikey=56 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=391846 loop_end=503477 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -56-16-7J5Y.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=230063 loop_end=333469 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -56-32-EVEF.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=422788 loop_end=528780 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -56-48-FB2Z.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=165463 loop_end=592491 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -56-64-STXN.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=263037 loop_end=372102 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -56-79-S7F9.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=110253 loop_end=598759 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -56-95-11ZE.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=347250 loop_end=458876 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -56-111-AAF3.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=303091 loop_end=607580 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -56-127-SOY9.wav
+<group>lokey=57 hikey=62 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=190757 loop_end=306467 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -62-16-3112.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=343975 loop_end=588994 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -62-32-EKF4.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=429605 loop_end=610646 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -62-48-F9MC.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=298735 loop_end=611425 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -62-64-S3GY.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=315082 loop_end=597414 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -62-79-RBBX.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=189883 loop_end=585855 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -62-95-A77G.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=278762 loop_end=393732 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -62-111-N0VI.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=412323 loop_end=542351 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -62-127-YOWU.wav
+<group>lokey=63 hikey=68 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=308292 loop_end=420432 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -68-16-BLCP.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=223729 loop_end=604146 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -68-32-UHVV.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=114849 loop_end=230602 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -68-48-B338.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=292569 loop_end=419002 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -68-64-V6MC.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=410072 loop_end=543785 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -68-79-VD2N.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=457048 loop_end=581409 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -68-95-BBBK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=473799 loop_end=580232 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -68-111-O0SK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=166155 loop_end=605498 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -68-127-LPYU.wav
+<group>lokey=69 hikey=127 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=470173 loop_end=609848 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -72-16-J848.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=235866 loop_end=341049 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -72-32-28CY.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=423719 loop_end=530202 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -72-48-DW69.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=203117 loop_end=325393 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -72-64-AK8R.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=134763 loop_end=241607 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -72-79-OO75.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=379971 loop_end=490872 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -72-95-2NUB.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=163891 loop_end=587692 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -72-111-Z1TX.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=341653 loop_end=447933 sample=../Sounds/Saws/SAWHP1P/(201639 7110)/SAW-HP-1P -72-127-1STE.wav

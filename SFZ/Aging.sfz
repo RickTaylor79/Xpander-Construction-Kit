@@ -1,0 +1,185 @@
+// this file was generated from Aging.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=1 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=637 end=161285 sample=../Sounds/Misc/Aging Toy/Aging Toy-36-64-4KLQ.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=780 end=158382 sample=../Sounds/Misc/Aging Toy/Aging Toy-36-127-M7RT.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=543 sample=../Sounds/Misc/Aging Toy/Aging Toy-37-64-EPW9.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=744 end=194627 sample=../Sounds/Misc/Aging Toy/Aging Toy-37-127-COR3.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=761 end=155617 sample=../Sounds/Misc/Aging Toy/Aging Toy-38-64-VDRI.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=532 end=159558 sample=../Sounds/Misc/Aging Toy/Aging Toy-38-127-V40P.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=673 end=159872 sample=../Sounds/Misc/Aging Toy/Aging Toy-39-64-9EKA.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=684 end=158183 sample=../Sounds/Misc/Aging Toy/Aging Toy-39-127-W7IE.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=666 end=158997 sample=../Sounds/Misc/Aging Toy/Aging Toy-40-64-AH8W.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=742 end=192781 sample=../Sounds/Misc/Aging Toy/Aging Toy-40-127-NTTY.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=695 end=156965 sample=../Sounds/Misc/Aging Toy/Aging Toy-41-64-79C3.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=593 end=160387 sample=../Sounds/Misc/Aging Toy/Aging Toy-41-127-91HX.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=623 sample=../Sounds/Misc/Aging Toy/Aging Toy-42-64-4D1P.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=758 sample=../Sounds/Misc/Aging Toy/Aging Toy-42-127-VBWL.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=550 sample=../Sounds/Misc/Aging Toy/Aging Toy-43-64-A236.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=753 sample=../Sounds/Misc/Aging Toy/Aging Toy-43-127-KKBL.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=708 end=155648 sample=../Sounds/Misc/Aging Toy/Aging Toy-44-64-ZA6L.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=689 end=159872 sample=../Sounds/Misc/Aging Toy/Aging Toy-44-127-IHLH.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=681 sample=../Sounds/Misc/Aging Toy/Aging Toy-45-64-11V3.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=666 end=156760 sample=../Sounds/Misc/Aging Toy/Aging Toy-45-127-WHKH.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=516 end=158590 sample=../Sounds/Misc/Aging Toy/Aging Toy-46-64-0255.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=668 end=193920 sample=../Sounds/Misc/Aging Toy/Aging Toy-46-127-TKZX.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=754 end=155817 sample=../Sounds/Misc/Aging Toy/Aging Toy-47-64-2NPV.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=555 sample=../Sounds/Misc/Aging Toy/Aging Toy-47-127-5JE4.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=697 end=159011 sample=../Sounds/Misc/Aging Toy/Aging Toy-48-64-D8RP.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=674 end=158243 sample=../Sounds/Misc/Aging Toy/Aging Toy-48-127-S13O.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=607 end=159928 sample=../Sounds/Misc/Aging Toy/Aging Toy-49-64-GY9F.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=567 end=193227 sample=../Sounds/Misc/Aging Toy/Aging Toy-49-127-KW3A.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=734 end=156010 sample=../Sounds/Misc/Aging Toy/Aging Toy-50-64-ZHSS.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=619 end=160514 sample=../Sounds/Misc/Aging Toy/Aging Toy-50-127-7D3L.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=517 end=159872 sample=../Sounds/Misc/Aging Toy/Aging Toy-51-64-SJET.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=735 end=157312 sample=../Sounds/Misc/Aging Toy/Aging Toy-51-127-BSOB.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=509 end=159319 sample=../Sounds/Misc/Aging Toy/Aging Toy-52-64-AUXQ.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=494 end=193152 sample=../Sounds/Misc/Aging Toy/Aging Toy-52-127-F8WK.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=715 sample=../Sounds/Misc/Aging Toy/Aging Toy-53-64-JKIF.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=581 end=159744 sample=../Sounds/Misc/Aging Toy/Aging Toy-53-127-A49C.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=639 end=159232 sample=../Sounds/Misc/Aging Toy/Aging Toy-54-64-F8MJ.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=539 end=158720 sample=../Sounds/Misc/Aging Toy/Aging Toy-54-127-YAEF.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=567 sample=../Sounds/Misc/Aging Toy/Aging Toy-55-64-MXBY.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=615 end=193792 sample=../Sounds/Misc/Aging Toy/Aging Toy-55-127-N5YK.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=674 sample=../Sounds/Misc/Aging Toy/Aging Toy-56-64-W8Y4.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=556 end=159495 sample=../Sounds/Misc/Aging Toy/Aging Toy-56-127-E5XW.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=535 end=159360 sample=../Sounds/Misc/Aging Toy/Aging Toy-57-64-1TZZ.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=721 sample=../Sounds/Misc/Aging Toy/Aging Toy-57-127-Z9ET.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=622 sample=../Sounds/Misc/Aging Toy/Aging Toy-58-64-AC6C.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=618 end=194304 sample=../Sounds/Misc/Aging Toy/Aging Toy-58-127-C4PD.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=747 end=154924 sample=../Sounds/Misc/Aging Toy/Aging Toy-59-64-7S7I.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=631 sample=../Sounds/Misc/Aging Toy/Aging Toy-59-127-PK0R.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=688 sample=../Sounds/Misc/Aging Toy/Aging Toy-60-64-GLQD.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=638 end=161920 sample=../Sounds/Misc/Aging Toy/Aging Toy-60-127-NCRW.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=636 end=159232 sample=../Sounds/Misc/Aging Toy/Aging Toy-61-64-4Q1Y.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=628 end=194944 sample=../Sounds/Misc/Aging Toy/Aging Toy-61-127-C2R1.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=711 end=156105 sample=../Sounds/Misc/Aging Toy/Aging Toy-62-64-WKKS.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=548 sample=../Sounds/Misc/Aging Toy/Aging Toy-62-127-4JLS.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=639 end=160418 sample=../Sounds/Misc/Aging Toy/Aging Toy-63-64-LGZ1.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=700 end=157826 sample=../Sounds/Misc/Aging Toy/Aging Toy-63-127-C1L1.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=709 end=160384 sample=../Sounds/Misc/Aging Toy/Aging Toy-64-64-R8J4.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=592 end=194048 sample=../Sounds/Misc/Aging Toy/Aging Toy-64-127-1S8S.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=564 sample=../Sounds/Misc/Aging Toy/Aging Toy-65-64-D9I1.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=703 sample=../Sounds/Misc/Aging Toy/Aging Toy-65-127-PY8L.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=747 end=159802 sample=../Sounds/Misc/Aging Toy/Aging Toy-66-64-JH73.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=644 sample=../Sounds/Misc/Aging Toy/Aging Toy-66-127-O67H.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=708 end=159360 sample=../Sounds/Misc/Aging Toy/Aging Toy-67-64-9LIM.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=573 end=193318 sample=../Sounds/Misc/Aging Toy/Aging Toy-67-127-731W.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=704 end=156416 sample=../Sounds/Misc/Aging Toy/Aging Toy-68-64-RTEV.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=557 sample=../Sounds/Misc/Aging Toy/Aging Toy-68-127-IUIX.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=616 sample=../Sounds/Misc/Aging Toy/Aging Toy-69-64-JVOK.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=698 end=158753 sample=../Sounds/Misc/Aging Toy/Aging Toy-69-127-DHXS.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=666 end=160384 sample=../Sounds/Misc/Aging Toy/Aging Toy-70-64-GXT3.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=747 end=193548 sample=../Sounds/Misc/Aging Toy/Aging Toy-70-127-S2V0.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=764 sample=../Sounds/Misc/Aging Toy/Aging Toy-71-64-7QBF.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=554 sample=../Sounds/Misc/Aging Toy/Aging Toy-71-127-KV5X.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=724 end=159778 sample=../Sounds/Misc/Aging Toy/Aging Toy-72-64-E4D0.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=658 sample=../Sounds/Misc/Aging Toy/Aging Toy-72-127-6JTS.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=634 sample=../Sounds/Misc/Aging Toy/Aging Toy-73-64-I2MQ.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=630 end=193664 sample=../Sounds/Misc/Aging Toy/Aging Toy-73-127-2SC2.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=710 sample=../Sounds/Misc/Aging Toy/Aging Toy-74-64-FUAV.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=691 end=160911 sample=../Sounds/Misc/Aging Toy/Aging Toy-74-127-IWY2.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=701 end=159872 sample=../Sounds/Misc/Aging Toy/Aging Toy-75-64-Z8PU.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=724 end=158592 sample=../Sounds/Misc/Aging Toy/Aging Toy-75-127-J3TI.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=631 sample=../Sounds/Misc/Aging Toy/Aging Toy-76-64-VWE4.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=707 end=193675 sample=../Sounds/Misc/Aging Toy/Aging Toy-76-127-XMFN.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=774 sample=../Sounds/Misc/Aging Toy/Aging Toy-77-64-1YC7.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=708 end=160898 sample=../Sounds/Misc/Aging Toy/Aging Toy-77-127-HNO0.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=683 end=159104 sample=../Sounds/Misc/Aging Toy/Aging Toy-78-64-JANF.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=761 sample=../Sounds/Misc/Aging Toy/Aging Toy-78-127-NVKD.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=707 sample=../Sounds/Misc/Aging Toy/Aging Toy-79-64-AG4D.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=528 sample=../Sounds/Misc/Aging Toy/Aging Toy-79-127-NEVR.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=660 end=156160 sample=../Sounds/Misc/Aging Toy/Aging Toy-80-64-5UOT.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=655 sample=../Sounds/Misc/Aging Toy/Aging Toy-80-127-U7B7.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=794 end=159371 sample=../Sounds/Misc/Aging Toy/Aging Toy-81-64-46ZB.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=558 end=157440 sample=../Sounds/Misc/Aging Toy/Aging Toy-81-127-7WXM.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=719 sample=../Sounds/Misc/Aging Toy/Aging Toy-82-64-6O4K.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=554 sample=../Sounds/Misc/Aging Toy/Aging Toy-82-127-D8PF.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=515 sample=../Sounds/Misc/Aging Toy/Aging Toy-83-64-82AC.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=539 sample=../Sounds/Misc/Aging Toy/Aging Toy-83-127-67TF.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=562 sample=../Sounds/Misc/Aging Toy/Aging Toy-84-64-0V94.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=689 sample=../Sounds/Misc/Aging Toy/Aging Toy-84-127-RS9K.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=733 sample=../Sounds/Misc/Aging Toy/Aging Toy-85-64-P280.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=710 end=194437 sample=../Sounds/Misc/Aging Toy/Aging Toy-85-127-SLIH.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=699 end=157440 sample=../Sounds/Misc/Aging Toy/Aging Toy-86-64-ORXY.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=724 end=160776 sample=../Sounds/Misc/Aging Toy/Aging Toy-86-127-IXSP.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=660 end=161280 sample=../Sounds/Misc/Aging Toy/Aging Toy-87-64-Y0Y0.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=683 sample=../Sounds/Misc/Aging Toy/Aging Toy-87-127-IC34.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=700 end=161152 sample=../Sounds/Misc/Aging Toy/Aging Toy-88-64-FT49.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=751 end=194947 sample=../Sounds/Misc/Aging Toy/Aging Toy-88-127-IS2B.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=658 sample=../Sounds/Misc/Aging Toy/Aging Toy-89-64-E6I6.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=655 sample=../Sounds/Misc/Aging Toy/Aging Toy-89-127-CI3V.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=619 end=161152 sample=../Sounds/Misc/Aging Toy/Aging Toy-90-64-OM14.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=726 sample=../Sounds/Misc/Aging Toy/Aging Toy-90-127-7ZFR.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=668 end=159360 sample=../Sounds/Misc/Aging Toy/Aging Toy-91-64-HAE6.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=597 end=194432 sample=../Sounds/Misc/Aging Toy/Aging Toy-91-127-0CAU.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=611 sample=../Sounds/Misc/Aging Toy/Aging Toy-92-64-P2FO.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=563 end=161536 sample=../Sounds/Misc/Aging Toy/Aging Toy-92-127-WFJ7.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=654 end=161920 sample=../Sounds/Misc/Aging Toy/Aging Toy-93-64-78IY.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=772 sample=../Sounds/Misc/Aging Toy/Aging Toy-93-127-W20W.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=486 sample=../Sounds/Misc/Aging Toy/Aging Toy-94-64-TZY1.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=549 sample=../Sounds/Misc/Aging Toy/Aging Toy-94-127-PCQN.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=647 sample=../Sounds/Misc/Aging Toy/Aging Toy-95-64-UF44.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=697 end=164480 sample=../Sounds/Misc/Aging Toy/Aging Toy-95-127-K26U.wav
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=11 offset=746 end=162689 sample=../Sounds/Misc/Aging Toy/Aging Toy-96-64-FXJ5.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 volume=11 offset=551 end=159488 sample=../Sounds/Misc/Aging Toy/Aging Toy-96-127-W5EV.wav

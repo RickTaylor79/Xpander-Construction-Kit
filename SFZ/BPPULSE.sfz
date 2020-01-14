@@ -1,0 +1,65 @@
+// this file was generated from BPPULSE.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=38 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=93867 loop_end=198397 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-38-16-ZYO6.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=93891 loop_end=198370 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-38-32-SK9Y.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=94305 loop_end=198697 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-38-48-UGQH.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=332358 loop_end=534086 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-38-64-7SKX.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=255003 loop_end=595994 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-38-79-XT66.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=97150 loop_end=603462 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-38-95-NETQ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=101074 loop_end=605911 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-38-111-K3P8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=385214 loop_end=536764 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-38-127-PNAU.wav
+<group>lokey=39 hikey=44 pitch_keycenter=42 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=93546 loop_end=198487 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-44-16-GSQ2.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=94445 loop_end=197429 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-44-32-B5FL.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=92999 loop_end=198944 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-44-48-C3R5.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=93481 loop_end=198516 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-44-64-UCGR.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=140070 loop_end=404246 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-44-79-ZSS0.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=214269 loop_end=349436 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-44-95-VLT8.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=248556 loop_end=601814 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-44-111-ZYWW.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=177994 loop_end=310096 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-44-127-3Z8H.wav
+<group>lokey=45 hikey=50 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=396919 loop_end=576835 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-50-16-SWXI.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=95266 loop_end=598057 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-50-32-FE2D.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=138297 loop_end=591925 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-50-48-HN8J.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=113926 loop_end=611594 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-50-64-GNXC.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=182374 loop_end=498338 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-50-79-XSFB.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=183963 loop_end=599415 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-50-95-RME2.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=372878 loop_end=479344 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-50-111-B4UT.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267351 loop_end=569429 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-50-127-U6IU.wav
+<group>lokey=51 hikey=56 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=115724 loop_end=536203 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-56-16-SQ7H.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=94176 loop_end=197059 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-56-32-S8RM.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=145796 loop_end=572308 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-56-48-ZLC3.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=264323 loop_end=596558 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-56-64-E08S.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=94362 loop_end=197710 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-56-79-MZ27.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=98072 loop_end=235806 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-56-95-4CLQ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=251956 loop_end=424511 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-56-111-NI1Q.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264039 loop_end=370054 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-56-127-4JY3.wav
+<group>lokey=57 hikey=62 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=105374 loop_end=226217 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-62-16-UL53.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=344306 loop_end=610772 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-62-32-JM88.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=220829 loop_end=340180 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-62-48-DN5K.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=130258 loop_end=607558 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-62-64-F8GX.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=364610 loop_end=470806 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-62-79-GUAQ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=432748 loop_end=541143 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-62-95-KCW9.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=345319 loop_end=474600 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-62-111-ZUXC.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=475925 loop_end=588022 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-62-127-8Z4L.wav
+<group>lokey=63 hikey=68 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=223799 loop_end=348921 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-68-16-GEBP.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=223469 loop_end=595320 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-68-32-5HA7.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=182435 loop_end=291762 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-68-48-F6CG.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=93048 loop_end=198755 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-68-64-KJBJ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=122137 loop_end=230941 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-68-79-DBQM.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=247644 loop_end=600151 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-68-95-YOMP.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=452911 loop_end=582966 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-68-111-0LGZ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=402564 loop_end=525639 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-68-127-6NFJ.wav
+<group>lokey=69 hikey=126 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=264429 loop_end=387452 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-72-16-MX8C.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=301209 loop_end=579801 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-72-32-D2AX.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=483460 loop_end=590140 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-72-48-3YOU.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=318599 loop_end=440546 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-72-64-M2EL.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=302705 loop_end=450853 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-72-79-5RZ6.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=104932 loop_end=210860 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-72-95-4652.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=95013 loop_end=573527 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-72-111-PABV.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=465190 loop_end=583631 sample=../Sounds/Squares/BPPULSE/(201639 85844)/BPPULSE-72-127-FKYX.wav

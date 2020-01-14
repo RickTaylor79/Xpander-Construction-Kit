@@ -1,0 +1,246 @@
+// this file was generated from Jab at me.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=3 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=718 end=110739 sample=../Sounds/Misc/Jab at me/Jab at me-36-14-PKKV.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=619 end=115091 sample=../Sounds/Misc/Jab at me/Jab at me-36-56-NDX2.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=608 end=112940 sample=../Sounds/Misc/Jab at me/Jab at me-36-127-869I.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=699 end=113290 sample=../Sounds/Misc/Jab at me/Jab at me-37-14-HWI2.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=583 end=112702 sample=../Sounds/Misc/Jab at me/Jab at me-37-56-NE2G.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=566 end=124033 sample=../Sounds/Misc/Jab at me/Jab at me-37-127-MZ1W.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=484 end=111535 sample=../Sounds/Misc/Jab at me/Jab at me-38-14-UYQ8.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=551 end=116327 sample=../Sounds/Misc/Jab at me/Jab at me-38-56-5B4E.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=507 sample=../Sounds/Misc/Jab at me/Jab at me-38-127-HSEV.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=668 sample=../Sounds/Misc/Jab at me/Jab at me-39-14-NM76.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=625 end=111664 sample=../Sounds/Misc/Jab at me/Jab at me-39-56-HSAT.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=637 sample=../Sounds/Misc/Jab at me/Jab at me-39-127-EGD0.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=647 sample=../Sounds/Misc/Jab at me/Jab at me-40-14-4JDD.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=621 end=114564 sample=../Sounds/Misc/Jab at me/Jab at me-40-56-JQD2.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=762 sample=../Sounds/Misc/Jab at me/Jab at me-40-127-GZOL.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=490 sample=../Sounds/Misc/Jab at me/Jab at me-41-14-RV5U.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=653 sample=../Sounds/Misc/Jab at me/Jab at me-41-56-6MWS.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=539 end=121574 sample=../Sounds/Misc/Jab at me/Jab at me-41-127-94BP.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=765 end=112141 sample=../Sounds/Misc/Jab at me/Jab at me-42-14-M1BX.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=470 end=116143 sample=../Sounds/Misc/Jab at me/Jab at me-42-56-VA5P.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=644 end=115723 sample=../Sounds/Misc/Jab at me/Jab at me-42-127-4AD7.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=587 end=111638 sample=../Sounds/Misc/Jab at me/Jab at me-43-14-KC2B.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=591 sample=../Sounds/Misc/Jab at me/Jab at me-43-56-L5E1.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=604 end=122368 sample=../Sounds/Misc/Jab at me/Jab at me-43-127-49JX.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=732 end=112917 sample=../Sounds/Misc/Jab at me/Jab at me-44-14-6RQT.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=495 end=112768 sample=../Sounds/Misc/Jab at me/Jab at me-44-56-QG4C.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=648 end=114775 sample=../Sounds/Misc/Jab at me/Jab at me-44-127-4LNH.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=632 end=114417 sample=../Sounds/Misc/Jab at me/Jab at me-45-14-3XDJ.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=638 end=111608 sample=../Sounds/Misc/Jab at me/Jab at me-45-56-B7EK.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=549 end=118910 sample=../Sounds/Misc/Jab at me/Jab at me-45-127-DTDK.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=626 end=111057 sample=../Sounds/Misc/Jab at me/Jab at me-46-14-O2CD.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=709 sample=../Sounds/Misc/Jab at me/Jab at me-46-56-OUOA.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=687 end=112653 sample=../Sounds/Misc/Jab at me/Jab at me-46-127-QYMU.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=540 end=107932 sample=../Sounds/Misc/Jab at me/Jab at me-47-14-6KCN.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=687 sample=../Sounds/Misc/Jab at me/Jab at me-47-56-R4EY.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=661 sample=../Sounds/Misc/Jab at me/Jab at me-47-127-WNIB.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=589 sample=../Sounds/Misc/Jab at me/Jab at me-48-14-BKI0.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=727 end=116026 sample=../Sounds/Misc/Jab at me/Jab at me-48-56-I269.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=575 end=116864 sample=../Sounds/Misc/Jab at me/Jab at me-48-127-6AJL.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=478 sample=../Sounds/Misc/Jab at me/Jab at me-49-14-3JX8.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=569 sample=../Sounds/Misc/Jab at me/Jab at me-49-56-ABNZ.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=491 end=123404 sample=../Sounds/Misc/Jab at me/Jab at me-49-127-AROO.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=435 sample=../Sounds/Misc/Jab at me/Jab at me-50-14-2JK7.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=571 end=115906 sample=../Sounds/Misc/Jab at me/Jab at me-50-56-DX9M.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=652 sample=../Sounds/Misc/Jab at me/Jab at me-50-127-PXIA.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=569 end=112786 sample=../Sounds/Misc/Jab at me/Jab at me-51-14-PT2S.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=602 end=116112 sample=../Sounds/Misc/Jab at me/Jab at me-51-56-B4SI.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=474 end=123392 sample=../Sounds/Misc/Jab at me/Jab at me-51-127-6YCD.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=623 end=113556 sample=../Sounds/Misc/Jab at me/Jab at me-52-14-Z30N.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=666 end=116508 sample=../Sounds/Misc/Jab at me/Jab at me-52-56-URTR.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=558 sample=../Sounds/Misc/Jab at me/Jab at me-52-127-VA0M.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=560 sample=../Sounds/Misc/Jab at me/Jab at me-53-14-1JNP.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=758 end=113792 sample=../Sounds/Misc/Jab at me/Jab at me-53-56-1JEM.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=508 sample=../Sounds/Misc/Jab at me/Jab at me-53-127-NPOI.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=750 end=110202 sample=../Sounds/Misc/Jab at me/Jab at me-54-14-Z6DN.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=704 sample=../Sounds/Misc/Jab at me/Jab at me-54-56-BTCA.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=632 sample=../Sounds/Misc/Jab at me/Jab at me-54-127-KH78.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=640 sample=../Sounds/Misc/Jab at me/Jab at me-55-14-P509.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=696 sample=../Sounds/Misc/Jab at me/Jab at me-55-56-J8NA.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=439 end=123293 sample=../Sounds/Misc/Jab at me/Jab at me-55-127-S305.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=621 end=115751 sample=../Sounds/Misc/Jab at me/Jab at me-56-14-XLXS.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=603 sample=../Sounds/Misc/Jab at me/Jab at me-56-56-PLZ7.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=665 end=116227 sample=../Sounds/Misc/Jab at me/Jab at me-56-127-8KL0.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=634 sample=../Sounds/Misc/Jab at me/Jab at me-57-14-KA5L.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=611 sample=../Sounds/Misc/Jab at me/Jab at me-57-56-0Y78.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=517 end=122496 sample=../Sounds/Misc/Jab at me/Jab at me-57-127-MIGK.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=702 end=109609 sample=../Sounds/Misc/Jab at me/Jab at me-58-14-UKNC.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=745 end=113126 sample=../Sounds/Misc/Jab at me/Jab at me-58-56-2AA1.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=633 end=114315 sample=../Sounds/Misc/Jab at me/Jab at me-58-127-QKIL.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=631 end=112768 sample=../Sounds/Misc/Jab at me/Jab at me-59-14-D6DF.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=606 sample=../Sounds/Misc/Jab at me/Jab at me-59-56-1GH0.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=486 sample=../Sounds/Misc/Jab at me/Jab at me-59-127-6LKP.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=668 end=109490 sample=../Sounds/Misc/Jab at me/Jab at me-60-14-1ZJ5.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=609 end=119808 sample=../Sounds/Misc/Jab at me/Jab at me-60-56-C43B.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=560 sample=../Sounds/Misc/Jab at me/Jab at me-60-127-O6HV.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=647 end=112885 sample=../Sounds/Misc/Jab at me/Jab at me-61-14-270P.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=714 sample=../Sounds/Misc/Jab at me/Jab at me-61-56-UAJ9.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=590 sample=../Sounds/Misc/Jab at me/Jab at me-61-127-3U9I.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=663 sample=../Sounds/Misc/Jab at me/Jab at me-62-14-HEA3.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=568 end=115762 sample=../Sounds/Misc/Jab at me/Jab at me-62-56-Y7AF.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=581 end=116480 sample=../Sounds/Misc/Jab at me/Jab at me-62-127-CRHB.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=650 end=112330 sample=../Sounds/Misc/Jab at me/Jab at me-63-14-6N4P.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=578 end=111931 sample=../Sounds/Misc/Jab at me/Jab at me-63-56-WEBR.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=652 end=122722 sample=../Sounds/Misc/Jab at me/Jab at me-63-127-ZLWC.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=736 sample=../Sounds/Misc/Jab at me/Jab at me-64-14-UFY8.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=621 sample=../Sounds/Misc/Jab at me/Jab at me-64-56-8QQI.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=599 sample=../Sounds/Misc/Jab at me/Jab at me-64-127-R4UZ.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=550 sample=../Sounds/Misc/Jab at me/Jab at me-65-14-1KY9.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=683 sample=../Sounds/Misc/Jab at me/Jab at me-65-56-6AOG.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=560 end=118980 sample=../Sounds/Misc/Jab at me/Jab at me-65-127-NATC.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=564 sample=../Sounds/Misc/Jab at me/Jab at me-66-14-AKR4.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=602 end=112053 sample=../Sounds/Misc/Jab at me/Jab at me-66-56-ZAJ9.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=694 end=114975 sample=../Sounds/Misc/Jab at me/Jab at me-66-127-TQ24.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=626 end=111806 sample=../Sounds/Misc/Jab at me/Jab at me-67-14-O7P0.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=576 sample=../Sounds/Misc/Jab at me/Jab at me-67-56-MA72.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=618 sample=../Sounds/Misc/Jab at me/Jab at me-67-127-013O.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=625 sample=../Sounds/Misc/Jab at me/Jab at me-68-14-AX6D.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=609 end=115457 sample=../Sounds/Misc/Jab at me/Jab at me-68-56-L7X0.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=630 sample=../Sounds/Misc/Jab at me/Jab at me-68-127-ISM7.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=643 end=112081 sample=../Sounds/Misc/Jab at me/Jab at me-69-14-CGTQ.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=669 end=112770 sample=../Sounds/Misc/Jab at me/Jab at me-69-56-O927.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=546 end=126848 sample=../Sounds/Misc/Jab at me/Jab at me-69-127-CL9D.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=772 end=113345 sample=../Sounds/Misc/Jab at me/Jab at me-70-14-86ET.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=722 sample=../Sounds/Misc/Jab at me/Jab at me-70-56-823Q.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=634 end=112304 sample=../Sounds/Misc/Jab at me/Jab at me-70-127-HQ92.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=626 end=112691 sample=../Sounds/Misc/Jab at me/Jab at me-71-14-EU5Z.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=664 end=111407 sample=../Sounds/Misc/Jab at me/Jab at me-71-56-TWGN.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=653 sample=../Sounds/Misc/Jab at me/Jab at me-71-127-6HGR.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=568 end=109130 sample=../Sounds/Misc/Jab at me/Jab at me-72-14-S5I1.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=653 end=117381 sample=../Sounds/Misc/Jab at me/Jab at me-72-56-EBXX.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=674 end=116746 sample=../Sounds/Misc/Jab at me/Jab at me-72-127-WSA9.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=737 sample=../Sounds/Misc/Jab at me/Jab at me-73-14-5PVS.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=651 end=113046 sample=../Sounds/Misc/Jab at me/Jab at me-73-56-PB44.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=624 end=121351 sample=../Sounds/Misc/Jab at me/Jab at me-73-127-H34E.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=508 end=112269 sample=../Sounds/Misc/Jab at me/Jab at me-74-14-LUKY.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=777 end=117529 sample=../Sounds/Misc/Jab at me/Jab at me-74-56-4OTQ.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=489 end=114560 sample=../Sounds/Misc/Jab at me/Jab at me-74-127-4I7T.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=749 end=112168 sample=../Sounds/Misc/Jab at me/Jab at me-75-14-QXYB.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=592 end=111771 sample=../Sounds/Misc/Jab at me/Jab at me-75-56-HIJF.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=708 end=121365 sample=../Sounds/Misc/Jab at me/Jab at me-75-127-5QPR.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=610 sample=../Sounds/Misc/Jab at me/Jab at me-76-14-H5VD.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=567 end=116996 sample=../Sounds/Misc/Jab at me/Jab at me-76-56-4AFL.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=718 end=114688 sample=../Sounds/Misc/Jab at me/Jab at me-76-127-MBL1.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=788 end=111874 sample=../Sounds/Misc/Jab at me/Jab at me-77-14-Z0JV.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=676 end=113811 sample=../Sounds/Misc/Jab at me/Jab at me-77-56-CXYQ.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=679 end=125185 sample=../Sounds/Misc/Jab at me/Jab at me-77-127-FVOY.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=618 end=109701 sample=../Sounds/Misc/Jab at me/Jab at me-78-14-SNZB.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=604 sample=../Sounds/Misc/Jab at me/Jab at me-78-56-3NZE.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=590 end=113418 sample=../Sounds/Misc/Jab at me/Jab at me-78-127-1AKI.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=662 end=109854 sample=../Sounds/Misc/Jab at me/Jab at me-79-14-RHKQ.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=740 end=112384 sample=../Sounds/Misc/Jab at me/Jab at me-79-56-YPVH.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=596 end=124171 sample=../Sounds/Misc/Jab at me/Jab at me-79-127-WG0O.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=673 sample=../Sounds/Misc/Jab at me/Jab at me-80-14-6C2Y.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=645 sample=../Sounds/Misc/Jab at me/Jab at me-80-56-ZMLQ.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=658 end=114688 sample=../Sounds/Misc/Jab at me/Jab at me-80-127-V71H.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=775 end=111518 sample=../Sounds/Misc/Jab at me/Jab at me-81-14-4O50.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=611 end=108928 sample=../Sounds/Misc/Jab at me/Jab at me-81-56-VB38.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=470 sample=../Sounds/Misc/Jab at me/Jab at me-81-127-KUVP.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=738 end=111232 sample=../Sounds/Misc/Jab at me/Jab at me-82-14-1JBX.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=626 end=116646 sample=../Sounds/Misc/Jab at me/Jab at me-82-56-6375.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=605 end=115075 sample=../Sounds/Misc/Jab at me/Jab at me-82-127-Q4N4.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=674 end=113428 sample=../Sounds/Misc/Jab at me/Jab at me-83-14-CO44.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=682 end=111012 sample=../Sounds/Misc/Jab at me/Jab at me-83-56-38X8.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=661 end=122399 sample=../Sounds/Misc/Jab at me/Jab at me-83-127-VBEY.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=753 sample=../Sounds/Misc/Jab at me/Jab at me-84-14-I782.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=670 end=115615 sample=../Sounds/Misc/Jab at me/Jab at me-84-56-AZ68.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=545 end=116353 sample=../Sounds/Misc/Jab at me/Jab at me-84-127-P17R.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=662 sample=../Sounds/Misc/Jab at me/Jab at me-85-14-4A0N.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=646 sample=../Sounds/Misc/Jab at me/Jab at me-85-56-7BBA.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=693 end=120320 sample=../Sounds/Misc/Jab at me/Jab at me-85-127-4VBU.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=494 sample=../Sounds/Misc/Jab at me/Jab at me-86-14-OJA1.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=568 end=113409 sample=../Sounds/Misc/Jab at me/Jab at me-86-56-X9N7.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=536 sample=../Sounds/Misc/Jab at me/Jab at me-86-127-E6QY.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=807 end=118926 sample=../Sounds/Misc/Jab at me/Jab at me-87-14-PCDA.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=536 sample=../Sounds/Misc/Jab at me/Jab at me-87-56-41I8.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=636 end=123264 sample=../Sounds/Misc/Jab at me/Jab at me-87-127-65K1.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=539 end=110088 sample=../Sounds/Misc/Jab at me/Jab at me-88-14-TN78.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=670 sample=../Sounds/Misc/Jab at me/Jab at me-88-56-93M1.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=583 end=115200 sample=../Sounds/Misc/Jab at me/Jab at me-88-127-OCQU.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=638 sample=../Sounds/Misc/Jab at me/Jab at me-89-14-R0AT.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=640 sample=../Sounds/Misc/Jab at me/Jab at me-89-56-XFKX.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=623 sample=../Sounds/Misc/Jab at me/Jab at me-89-127-2IZV.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=761 end=110739 sample=../Sounds/Misc/Jab at me/Jab at me-90-14-ZTSN.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=530 end=114439 sample=../Sounds/Misc/Jab at me/Jab at me-90-56-YNVD.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=558 end=114305 sample=../Sounds/Misc/Jab at me/Jab at me-90-127-ECJT.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=589 end=114201 sample=../Sounds/Misc/Jab at me/Jab at me-91-14-5JHL.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=582 end=111635 sample=../Sounds/Misc/Jab at me/Jab at me-91-56-VPR2.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=621 sample=../Sounds/Misc/Jab at me/Jab at me-91-127-GC8C.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=559 end=111635 sample=../Sounds/Misc/Jab at me/Jab at me-92-14-ONEV.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=536 sample=../Sounds/Misc/Jab at me/Jab at me-92-56-4T49.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=599 sample=../Sounds/Misc/Jab at me/Jab at me-92-127-PXDE.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=510 sample=../Sounds/Misc/Jab at me/Jab at me-93-14-0I9V.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=505 end=109717 sample=../Sounds/Misc/Jab at me/Jab at me-93-56-MGEK.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=662 end=121112 sample=../Sounds/Misc/Jab at me/Jab at me-93-127-YJHN.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=534 sample=../Sounds/Misc/Jab at me/Jab at me-94-14-DLZW.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=486 end=113302 sample=../Sounds/Misc/Jab at me/Jab at me-94-56-UI1N.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=547 end=112512 sample=../Sounds/Misc/Jab at me/Jab at me-94-127-ZBD6.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=666 sample=../Sounds/Misc/Jab at me/Jab at me-95-14-6L3W.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=580 sample=../Sounds/Misc/Jab at me/Jab at me-95-56-LS7Q.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=699 end=122265 sample=../Sounds/Misc/Jab at me/Jab at me-95-127-CHRJ.wav
+<group>lokey=96 hikey=122 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=000 hivel=040 amp_velcurve_040=1 offset=619 end=111616 sample=../Sounds/Misc/Jab at me/Jab at me-96-14-LMPV.wav
+	<region> lovel=042 hivel=083 amp_velcurve_083=1 offset=679 end=116357 sample=../Sounds/Misc/Jab at me/Jab at me-96-56-80KH.wav
+	<region> lovel=084 hivel=127 amp_velcurve_127=1 offset=531 end=113540 sample=../Sounds/Misc/Jab at me/Jab at me-96-127-VT2J.wav

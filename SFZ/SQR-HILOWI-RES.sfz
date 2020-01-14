@@ -1,0 +1,65 @@
+// this file was generated from SQR-HILOWI-RES.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=3 hikey=38 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=93015 loop_end=198901 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-38-16-9RU1.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=93658 loop_end=198231 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-38-32-A2DK.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=92831 loop_end=198674 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-38-48-QGNZ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=112161 loop_end=502303 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-38-64-G6DO.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=198158 loop_end=611848 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-38-79-0OCM.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=262963 loop_end=555827 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-38-95-7N5S.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=465624 loop_end=581777 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-38-111-WRPK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=181445 loop_end=334597 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-38-127-Q43B.wav
+<group>lokey=39 hikey=44 pitch_keycenter=42 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=92722 loop_end=198685 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-44-16-GNQO.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=92950 loop_end=197990 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-44-32-CPR4.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=92764 loop_end=198858 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-44-48-E63V.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=93758 loop_end=198795 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-44-64-CL2E.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=227231 loop_end=366484 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-44-79-ZUUB.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=437369 loop_end=567416 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-44-95-S4CN.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=104332 loop_end=609151 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-44-111-G1OF.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333701 loop_end=598908 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-44-127-1CMZ.wav
+<group>lokey=45 hikey=50 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=438831 loop_end=547652 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-50-16-ZQ2A.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=273753 loop_end=530331 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-50-32-SBWW.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=151174 loop_end=609632 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-50-48-5LWR.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=345087 loop_end=581915 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-50-64-QVAT.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=104519 loop_end=579655 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-50-79-321N.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=475958 loop_end=591381 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-50-95-H2LH.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=302626 loop_end=579085 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-50-111-X6CW.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=302103 loop_end=598353 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-50-127-E7QY.wav
+<group>lokey=51 hikey=56 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=92697 loop_end=198694 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-56-16-ACDP.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=93530 loop_end=197532 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-56-32-9Z2E.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=194267 loop_end=320473 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-56-48-JZYG.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=138574 loop_end=244098 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-56-64-XHBN.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=92756 loop_end=198803 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-56-79-8RO7.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=296824 loop_end=535932 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-56-95-Y3TH.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=385450 loop_end=524169 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-56-111-LDBG.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=152768 loop_end=513613 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-56-127-4F8P.wav
+<group>lokey=57 hikey=62 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=182157 loop_end=612209 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-62-16-XKXT.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=198842 loop_end=601904 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-62-32-70LF.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=254938 loop_end=362606 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-62-48-OTYO.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=104194 loop_end=267365 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-62-64-GZ8M.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=418018 loop_end=548424 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-62-79-UA8Y.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=151137 loop_end=447422 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-62-95-TC2E.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=132567 loop_end=255962 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-62-111-BDLT.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=204092 loop_end=322040 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-62-127-H3Z7.wav
+<group>lokey=63 hikey=68 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=201139 loop_end=349960 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-68-16-1EDK.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=152832 loop_end=263212 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-68-32-FR84.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=320844 loop_end=596863 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-68-48-J4HS.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=93819 loop_end=197473 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-68-64-MF4M.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=253416 loop_end=380376 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-68-79-GG68.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=140114 loop_end=603170 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-68-95-N2OQ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=177700 loop_end=609870 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-68-111-JZ0O.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=111959 loop_end=216369 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-68-127-ETKD.wav
+<group>lokey=69 hikey=127 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=265159 loop_end=378634 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-72-16-BKOF.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=297270 loop_end=553515 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-72-32-X4LZ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=220107 loop_end=611186 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-72-48-O3FF.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=301386 loop_end=422191 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-72-64-9PVD.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=409728 loop_end=612131 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-72-79-QCVW.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=478371 loop_end=588754 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-72-95-SZE1.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=428085 loop_end=550754 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-72-111-ZTAJ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=137884 loop_end=556711 sample=../Sounds/Squares/SQR-HILOWI-RES/(201639 121645)/SQR-HILOWI-RES-72-127-M6IO.wav

@@ -1,0 +1,16 @@
+// this file was generated from SAW-LP-2P HI-RES SHRT.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=127 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Misc/short nki/Audio/Short Waves/SAW-LP-2P HI-RES-36-8-CLN1.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Misc/short nki/Audio/Short Waves/SAW-LP-2P HI-RES-36-16-SXNF.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Misc/short nki/Audio/Short Waves/SAW-LP-2P HI-RES-36-24-CLND.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Misc/short nki/Audio/Short Waves/SAW-LP-2P HI-RES-36-32-Q8ED.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Misc/short nki/Audio/Short Waves/SAW-LP-2P HI-RES-36-40-56H5.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Misc/short nki/Audio/Short Waves/SAW-LP-2P HI-RES-36-48-AWQN.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Misc/short nki/Audio/Short Waves/SAW-LP-2P HI-RES-36-56-27YU.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Misc/short nki/Audio/Short Waves/SAW-LP-2P HI-RES-36-64-4GPO.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Misc/short nki/Audio/Short Waves/SAW-LP-2P HI-RES-36-71-DF3T.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Misc/short nki/Audio/Short Waves/SAW-LP-2P HI-RES-36-79-FJN9.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Misc/short nki/Audio/Short Waves/SAW-LP-2P HI-RES-36-87-HW3G.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Misc/short nki/Audio/Short Waves/SAW-LP-2P HI-RES-36-95-ESTJ.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 loop_mode=loop_sustain loop_start=0 loop_end=1347

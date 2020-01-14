@@ -1,0 +1,124 @@
+// this file was generated from Big Stack.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245079 loop_end=338547 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-36-127-V4MX.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251895 loop_end=402598 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-37-127-4KCL.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321713 loop_end=402593 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-38-127-O5UY.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268225 loop_end=402436 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-39-127-9O0N.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246201 loop_end=294448 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-40-127-9D0R.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272438 loop_end=357521 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-41-127-AW8T.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272185 loop_end=336393 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-42-127-7JJR.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=260235 loop_end=298099 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-43-127-9VJS.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247031 loop_end=287875 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-44-127-RZYF.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243409 loop_end=404200 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-45-127-B9H0.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338746 loop_end=372845 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-46-127-UQ9Z.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280199 loop_end=395530 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-47-127-GNQU.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333186 loop_end=366940 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-48-127-BOUS.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314565 loop_end=388622 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-49-127-LQ34.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=323967 loop_end=393882 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-50-127-5F2P.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259876 loop_end=303078 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-51-127-SX4M.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264516 loop_end=310126 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-52-127-BOAK.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251651 loop_end=356992 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-53-127-6A3Y.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269149 loop_end=307348 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-54-127-QKTR.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=250992 loop_end=287547 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-55-127-5T51.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287966 loop_end=322428 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-56-127-BW1L.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=341468 loop_end=374004 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-57-127-MXYU.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256037 loop_end=402151 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-58-127-IBZC.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327521 loop_end=404163 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-59-127-4TB0.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=297741 loop_end=369412 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-60-127-JIZC.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=344658 loop_end=383890 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-61-127-U1EF.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=298573 loop_end=336804 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-62-127-LZSD.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283307 loop_end=331359 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-63-127-OJJ2.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333226 loop_end=393050 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-64-127-Y33Z.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=295990 loop_end=341827 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-65-127-ZQVM.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257103 loop_end=381880 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-66-127-52QD.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=295836 loop_end=336432 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-67-127-Q4PM.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245186 loop_end=368469 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-68-127-IP4P.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314740 loop_end=394930 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-69-127-TZYE.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270495 loop_end=390169 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-70-127-I0FJ.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=308146 loop_end=402856 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-71-127-PO8S.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249233 loop_end=287427 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-72-127-16TY.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271081 loop_end=403266 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-73-127-IUFK.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271124 loop_end=311788 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-74-127-BCJW.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257661 loop_end=402464 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-75-127-AB1L.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256338 loop_end=347281 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-76-127-AJZG.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=331030 loop_end=370662 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-77-127-U8E9.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288737 loop_end=338555 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-78-127-Z1QY.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278290 loop_end=398154 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-79-127-79WU.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319101 loop_end=400197 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-80-127-BIVA.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268513 loop_end=386543 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-81-127-E0YN.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279821 loop_end=400081 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-82-127-9ILF.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=323918 loop_end=404117 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-83-127-X7D0.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290627 loop_end=403234 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-84-127-SEXY.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321363 loop_end=358995 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-85-127-AUYU.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243976 loop_end=392797 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-86-127-KHUU.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286238 loop_end=366387 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-87-127-VQ5W.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=362936 loop_end=403843 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-88-127-XK9K.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=307172 loop_end=344902 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-89-127-LQZ1.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269325 loop_end=360370 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-90-127-N4YV.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258459 loop_end=393634 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-91-127-Y1XO.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329263 loop_end=390978 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-92-127-D8HY.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253176 loop_end=403706 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-93-127-QJRE.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=347416 loop_end=399736 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-94-127-RRNV.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287452 loop_end=326985 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-95-127-XZKC.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255320 loop_end=359521 sample=../Sounds/Misc/Big Stack/(2012619 221412)/Big Stack-96-127-H3F2.aif

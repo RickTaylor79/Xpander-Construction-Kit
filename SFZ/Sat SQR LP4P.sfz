@@ -1,0 +1,65 @@
+// this file was generated from Sat SQR LP4P.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=3 hikey=29 pitch_keycenter=28 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 tune=-4 loop_mode=loop_sustain loop_start=32560 loop_end=114726 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-29-16-F08V.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 tune=-4 loop_mode=loop_sustain loop_start=32547 loop_end=114715 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-29-32-AF81.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 tune=-4 loop_mode=loop_sustain loop_start=31770 loop_end=113935 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-29-48-JTI3.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 tune=-4 loop_mode=loop_sustain loop_start=32132 loop_end=115368 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-29-64-VPU0.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 tune=-4 loop_mode=loop_sustain loop_start=124644 loop_end=403170 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-29-79-L451.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 tune=-4 loop_mode=loop_sustain loop_start=110042 loop_end=313866 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-29-95-0JZC.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 tune=-4 loop_mode=loop_sustain loop_start=130670 loop_end=409206 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-29-111-45YP.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 tune=-4 loop_mode=loop_sustain loop_start=107518 loop_end=386055 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-29-127-G7ZT.wav
+<group>lokey=30 hikey=41 pitch_keycenter=40 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 tune=-4 loop_mode=loop_sustain loop_start=30976 loop_end=114763 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-41-16-0BN3.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 tune=-4 loop_mode=loop_sustain loop_start=32543 loop_end=115261 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-41-32-CR9A.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 tune=-4 loop_mode=loop_sustain loop_start=235097 loop_end=437356 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-41-48-KU4E.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 tune=-4 loop_mode=loop_sustain loop_start=162224 loop_end=389569 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-41-64-GX0J.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 tune=-4 loop_mode=loop_sustain loop_start=115258 loop_end=406644 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-41-79-6E97.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 tune=-4 loop_mode=loop_sustain loop_start=171427 loop_end=322989 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-41-95-A9VT.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 tune=-4 loop_mode=loop_sustain loop_start=243956 loop_end=407799 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-41-111-3FGI.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 tune=-4 loop_mode=loop_sustain loop_start=261622 loop_end=426533 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-41-127-F071.wav
+<group>lokey=42 hikey=53 pitch_keycenter=52 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 tune=-4 loop_mode=loop_sustain loop_start=32411 loop_end=115672 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-53-16-EVA5.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 tune=-4 loop_mode=loop_sustain loop_start=272545 loop_end=424387 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-53-32-BONR.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 tune=-4 loop_mode=loop_sustain loop_start=209366 loop_end=435926 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-53-48-DW3O.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 tune=-4 loop_mode=loop_sustain loop_start=296220 loop_end=416037 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-53-64-VM3P.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 tune=-4 loop_mode=loop_sustain loop_start=277441 loop_end=429816 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-53-79-63XX.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 tune=-4 loop_mode=loop_sustain loop_start=79706 loop_end=441834 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-53-95-YE0A.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 tune=-4 loop_mode=loop_sustain loop_start=65095 loop_end=157698 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-53-111-7BPX.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 tune=-4 loop_mode=loop_sustain loop_start=43925 loop_end=131990 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-53-127-W5AA.wav
+<group>lokey=54 hikey=65 pitch_keycenter=64 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 tune=-4 loop_mode=loop_sustain loop_start=30909 loop_end=115619 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-65-16-4S3L.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 tune=-4 loop_mode=loop_sustain loop_start=188989 loop_end=425376 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-65-32-VFR3.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 tune=-4 loop_mode=loop_sustain loop_start=197606 loop_end=415448 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-65-48-BQIU.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 tune=-4 loop_mode=loop_sustain loop_start=206200 loop_end=430848 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-65-64-NEM2.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 tune=-4 loop_mode=loop_sustain loop_start=56273 loop_end=443275 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-65-79-C1UX.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 tune=-4 loop_mode=loop_sustain loop_start=296064 loop_end=401987 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-65-95-Z8GY.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 tune=-4 loop_mode=loop_sustain loop_start=101799 loop_end=195850 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-65-111-AV24.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 tune=-4 loop_mode=loop_sustain loop_start=65598 loop_end=159648 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-65-127-APGV.wav
+<group>lokey=66 hikey=77 pitch_keycenter=76 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 tune=-4 loop_mode=loop_sustain loop_start=31381 loop_end=114659 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-77-16-QI2Z.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 tune=-4 loop_mode=loop_sustain loop_start=198514 loop_end=423390 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-77-32-4AY3.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 tune=-4 loop_mode=loop_sustain loop_start=233792 loop_end=391070 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-77-48-DQB1.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 tune=-4 loop_mode=loop_sustain loop_start=236645 loop_end=355422 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-77-64-6AKY.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 tune=-4 loop_mode=loop_sustain loop_start=96210 loop_end=198238 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-77-79-4XDE.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 tune=-4 loop_mode=loop_sustain loop_start=242810 loop_end=436931 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-77-95-69K9.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 tune=-4 loop_mode=loop_sustain loop_start=299305 loop_end=388924 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-77-111-LCQI.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 tune=-4 loop_mode=loop_sustain loop_start=253741 loop_end=440120 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-77-127-KHVA.wav
+<group>lokey=78 hikey=89 pitch_keycenter=88 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 tune=-4 loop_mode=loop_sustain loop_start=30736 loop_end=114648 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-89-16-RFLR.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 tune=-4 loop_mode=loop_sustain loop_start=96144 loop_end=425857 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-89-32-TUE4.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 tune=-4 loop_mode=loop_sustain loop_start=292742 loop_end=380989 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-89-48-DH5H.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 tune=-4 loop_mode=loop_sustain loop_start=232634 loop_end=436846 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-89-64-D614.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 tune=-4 loop_mode=loop_sustain loop_start=200802 loop_end=390975 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-89-79-A8GB.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 tune=-4 loop_mode=loop_sustain loop_start=129876 loop_end=213057 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-89-95-GH1K.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 tune=-4 loop_mode=loop_sustain loop_start=270401 loop_end=370825 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-89-111-68IV.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 tune=-4 loop_mode=loop_sustain loop_start=251502 loop_end=350157 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-89-127-EOWQ.wav
+<group>lokey=90 hikey=127 pitch_keycenter=100 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 tune=-4 loop_mode=loop_sustain loop_start=32037 loop_end=113696 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-96-16-4WG4.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 tune=-4 loop_mode=loop_sustain loop_start=31392 loop_end=113719 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-96-32-1LBF.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 tune=-4 loop_mode=loop_sustain loop_start=45806 loop_end=140984 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-96-48-2I71.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 tune=-4 loop_mode=loop_sustain loop_start=198898 loop_end=428108 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-96-64-ZOPE.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 tune=-4 loop_mode=loop_sustain loop_start=287623 loop_end=374441 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-96-79-OQK1.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 tune=-4 loop_mode=loop_sustain loop_start=303779 loop_end=402498 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-96-95-16LX.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 tune=-4 loop_mode=loop_sustain loop_start=164664 loop_end=259026 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-96-111-WF4T.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 tune=-4 loop_mode=loop_sustain loop_start=104942 loop_end=191810 sample=../Sounds/Squares/Sat SQR LP4P/(2016327 10482)/kettle-96-127-EIKJ.wav

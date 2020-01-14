@@ -1,0 +1,76 @@
+// this file was generated from Rezzle.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=1 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=586 end=841121 sample=../Sounds/Misc/Rezzle/Rezzle-48-127-2AK6.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=458 end=838212 sample=../Sounds/Misc/Rezzle/Rezzle-49-127-3BPF.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=593 end=852204 sample=../Sounds/Misc/Rezzle/Rezzle-50-127-KHA0.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=516 end=837749 sample=../Sounds/Misc/Rezzle/Rezzle-51-127-IZ1U.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=647 end=844567 sample=../Sounds/Misc/Rezzle/Rezzle-52-127-KV69.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=809 sample=../Sounds/Misc/Rezzle/Rezzle-53-127-1H9V.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=573 sample=../Sounds/Misc/Rezzle/Rezzle-54-127-29Z3.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=588 end=834937 sample=../Sounds/Misc/Rezzle/Rezzle-55-127-A7XP.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=646 sample=../Sounds/Misc/Rezzle/Rezzle-56-127-Q8VF.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=927 end=832615 sample=../Sounds/Misc/Rezzle/Rezzle-57-127-WSKX.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=513 end=839939 sample=../Sounds/Misc/Rezzle/Rezzle-58-127-P2D7.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=655 end=837446 sample=../Sounds/Misc/Rezzle/Rezzle-59-127-H5N2.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=451 sample=../Sounds/Misc/Rezzle/Rezzle-60-127-DJNS.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=646 sample=../Sounds/Misc/Rezzle/Rezzle-61-127-12SE.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=673 end=837490 sample=../Sounds/Misc/Rezzle/Rezzle-62-127-FK23.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=675 end=823157 sample=../Sounds/Misc/Rezzle/Rezzle-63-127-J7A5.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=488 end=827391 sample=../Sounds/Misc/Rezzle/Rezzle-64-127-1NNL.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=638 end=831391 sample=../Sounds/Misc/Rezzle/Rezzle-65-127-AL1H.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=650 sample=../Sounds/Misc/Rezzle/Rezzle-66-127-K8WF.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=818 end=830685 sample=../Sounds/Misc/Rezzle/Rezzle-67-127-7MKU.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=743 end=843653 sample=../Sounds/Misc/Rezzle/Rezzle-68-127-IUOA.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=547 end=835333 sample=../Sounds/Misc/Rezzle/Rezzle-69-127-A8NT.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=479 end=841647 sample=../Sounds/Misc/Rezzle/Rezzle-70-127-MLHG.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=719 sample=../Sounds/Misc/Rezzle/Rezzle-71-127-HCEI.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=690 end=840457 sample=../Sounds/Misc/Rezzle/Rezzle-72-127-9O4G.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=716 end=829902 sample=../Sounds/Misc/Rezzle/Rezzle-73-127-0QI0.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=688 sample=../Sounds/Misc/Rezzle/Rezzle-74-127-J79E.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=511 end=823648 sample=../Sounds/Misc/Rezzle/Rezzle-75-127-PV1E.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=656 end=824127 sample=../Sounds/Misc/Rezzle/Rezzle-76-127-P4DR.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=534 end=817286 sample=../Sounds/Misc/Rezzle/Rezzle-77-127-2FT4.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=636 end=810026 sample=../Sounds/Misc/Rezzle/Rezzle-78-127-151C.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=745 sample=../Sounds/Misc/Rezzle/Rezzle-79-127-MC99.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=592 sample=../Sounds/Misc/Rezzle/Rezzle-80-127-S8JJ.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=696 end=795582 sample=../Sounds/Misc/Rezzle/Rezzle-81-127-CY0F.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=686 sample=../Sounds/Misc/Rezzle/Rezzle-82-127-YGWA.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=733 end=790541 sample=../Sounds/Misc/Rezzle/Rezzle-83-127-4HS1.wav
+<group>lokey=84 hikey=127 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=606 end=786817 sample=../Sounds/Misc/Rezzle/Rezzle-84-127-HXRR.wav

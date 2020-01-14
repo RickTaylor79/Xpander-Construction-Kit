@@ -1,0 +1,11 @@
+// this file was generated from 4 pole saw vel.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=38 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=544 end=708773 sample=../Sounds/Saws/4 pole saw vel/4 pole saw vel116038-K2WH.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=389 sample=../Sounds/Saws/4 pole saw vel/4 pole saw vel1732038-EAN4.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=713 end=705663 sample=../Sounds/Saws/4 pole saw vel/4 pole saw vel3348038-9UZZ.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=725 end=705602 sample=../Sounds/Saws/4 pole saw vel/4 pole saw vel4964038-405A.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=587 end=705287 sample=../Sounds/Saws/4 pole saw vel/4 pole saw vel6579038-MRJZ.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=683 end=704425 sample=../Sounds/Saws/4 pole saw vel/4 pole saw vel8095038-LGTS.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=327 end=708460 sample=../Sounds/Saws/4 pole saw vel/4 pole saw vel96111038-3KVS.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=396 end=701948

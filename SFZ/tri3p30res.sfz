@@ -1,0 +1,247 @@
+// this file was generated from tri3p30res.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=2 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=269679 loop_end=383760 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC1-32-H89Z.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268477 loop_end=384022 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC1-64-LGNH.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=516572 loop_end=637973 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC1-95-7O66.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=585510 loop_end=708380 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC1-127-0CHO.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=268889 loop_end=384826 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#1-32-CORM.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269553 loop_end=384124 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#1-64-LYDJ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=278740 loop_end=560337 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#1-95-5DKE.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=386873 loop_end=791352 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#1-127-7SWV.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=268243 loop_end=385506 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD1-32-62TG.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269350 loop_end=384017 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD1-64-D8O2.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=276842 loop_end=841071 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD1-95-YYY3.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=648219 loop_end=791566 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD1-127-QB2A.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=269589 loop_end=383943 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#1-32-EZ91.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=267857 loop_end=384669 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#1-64-UXO0.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=317402 loop_end=599000 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#1-95-OD8C.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=491252 loop_end=774085 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#1-127-E67Q.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=267984 loop_end=385250 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE1-32-9X5E.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268080 loop_end=385350 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE1-64-8QD8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=488614 loop_end=749872 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE1-95-MMIU.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=508886 loop_end=750412 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE1-127-86UO.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=471996 loop_end=753605 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF1-32-HDVX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269698 loop_end=383669 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF1-64-YLN8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=293556 loop_end=480946 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF1-95-QC7V.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=496589 loop_end=761805 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF1-127-LPHS.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=307115 loop_end=511898 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#1-32-YI50.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269478 loop_end=384285 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#1-64-BNZD.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=563193 loop_end=767989 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#1-95-FC9Q.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=296372 loop_end=501178 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#1-127-IK1C.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=521243 loop_end=791631 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG1-32-0OA7.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268348 loop_end=383543 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG1-64-H1KV.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=416354 loop_end=646749 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG1-95-5KVM.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324752 loop_end=723078 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG1-127-KUKX.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=370940 loop_end=746776 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#1-32-0RLC.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269172 loop_end=384319 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#1-64-40U7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=493575 loop_end=741384 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#1-95-F4RY.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271477 loop_end=840819 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#1-127-N3ON.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=301048 loop_end=790519 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA1-32-EMYM.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269653 loop_end=385288 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA1-64-5FHT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=438310 loop_end=824355 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA1-95-SCC5.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=428284 loop_end=676091 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA1-127-62GV.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=615397 loop_end=743410 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#1-32-9TZR.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=279709 loop_end=395418 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#1-64-FFKP.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=429328 loop_end=776466 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#1-95-VZBD.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=475434 loop_end=591969 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#1-127-RQGM.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=316931 loop_end=753712 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB1-32-ZFXT.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269571 loop_end=384190 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB1-64-6YSB.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=451404 loop_end=696141 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB1-95-SFA0.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=548523 loop_end=819622 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB1-127-3WSD.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=304008 loop_end=833491 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC2-32-T4QJ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=520226 loop_end=648212 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC2-64-SSS9.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=481516 loop_end=763105 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC2-95-86K9.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278281 loop_end=560612 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC2-127-EY7W.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=542823 loop_end=824449 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#2-32-XJ8S.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=424055 loop_end=836152 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#2-64-EHPH.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=372665 loop_end=836551 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#2-95-JG2U.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280381 loop_end=435014 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#2-127-59U6.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=279739 loop_end=458882 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD2-32-NU11.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=294578 loop_end=564912 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD2-64-MHOT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=342122 loop_end=611826 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD2-95-2C4H.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328536 loop_end=793700 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD2-127-1A89.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=274412 loop_end=479156 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#2-32-X2AH.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=286095 loop_end=815474 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#2-64-AVXY.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287060 loop_end=816472 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#2-95-5P9N.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=368299 loop_end=600739 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#2-127-SY3R.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=562426 loop_end=693581 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE2-32-ATC4.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=400086 loop_end=531241 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE2-64-GR81.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=416512 loop_end=559869 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE2-95-AJYJ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=686879 loop_end=830823 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE2-127-HX7I.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=323825 loop_end=443784 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF2-32-D02N.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=653743 loop_end=772059 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF2-64-PF9X.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=273475 loop_end=610374 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF2-95-36DQ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=364971 loop_end=702423 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF2-127-ARQ0.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=568525 loop_end=686907 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#2-32-SFWC.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=269119 loop_end=389061 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#2-64-IYUZ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=277062 loop_end=431654 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#2-95-CBP8.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=462590 loop_end=618744 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#2-127-7JU2.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=374468 loop_end=655984 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG2-32-0OY8.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=523165 loop_end=643672 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG2-64-KV96.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=329038 loop_end=588129 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG2-95-YOX6.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=569595 loop_end=829679 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG2-127-U77N.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=398843 loop_end=592343 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#2-32-M1RU.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=308208 loop_end=501710 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#2-64-ALKZ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=370855 loop_end=564372 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#2-95-W33U.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=498830 loop_end=692356 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#2-127-02U0.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=12007 loop_end=16344 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA2-32-ORPQ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=582132 loop_end=801297 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA2-64-XQSN.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=516379 loop_end=836887 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA2-95-683R.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271476 loop_end=833367 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA2-127-KJUN.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=13629 loop_end=22220 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#2-32-KQ07.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=623420 loop_end=828217 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#2-64-N32B.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=557512 loop_end=673251 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#2-95-BE4Q.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=448125 loop_end=564285 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#2-127-I7PX.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=54806 loop_end=67592 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB2-32-SUT9.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=279868 loop_end=601403 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB2-64-T7ZT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=425160 loop_end=772290 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB2-95-5QXC.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283620 loop_end=657501 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB2-127-VLN1.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=11719 loop_end=16104 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC3-32-LKBB.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=333655 loop_end=797553 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC3-64-AVTS.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=666131 loop_end=820043 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC3-95-U27A.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274804 loop_end=727792 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC3-127-CFNO.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=14384 loop_end=16453 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#3-32-H54O.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=300051 loop_end=841747 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#3-64-AWD2.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=380426 loop_end=511891 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#3-95-JFHT.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=309335 loop_end=434940 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#3-127-VUTD.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=38228 loop_end=45718 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD3-32-REVQ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=424695 loop_end=552680 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD3-64-IP4F.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=270880 loop_end=542183 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD3-95-5L67.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=450768 loop_end=769635 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD3-127-RYSF.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=7170 loop_end=9949 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#3-32-YK94.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=544652 loop_end=803760 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#3-64-ZTUA.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=282008 loop_end=800883 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#3-95-6J69.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=576756 loop_end=703101 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#3-127-P213.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=37559 loop_end=43948 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE3-32-5WP3.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=490867 loop_end=801151 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE3-64-RZTI.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=577913 loop_end=759619 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE3-95-USWI.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=367914 loop_end=758635 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE3-127-3CKB.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=19328 loop_end=27296 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF3-32-9PAB.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=377657 loop_end=545591 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF3-64-6PUY.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=552847 loop_end=723529 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF3-95-0NYG.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=530978 loop_end=770166 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF3-127-K2RM.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1792 loop_end=2815 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#3-32-DDTX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=494986 loop_end=830835 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#3-64-FX9U.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=307871 loop_end=771731 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#3-95-W5TS.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=511768 loop_end=825679 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#3-127-6ZO4.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=7757 loop_end=11380 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG3-32-ZDS0.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=454652 loop_end=659386 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG3-64-BFNQ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=347108 loop_end=540387 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG3-95-WESQ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=648884 loop_end=781406 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG3-127-MUL7.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=4061 loop_end=6940 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#3-32-NSKE.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=431857 loop_end=817409 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#3-64-M4QU.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=431369 loop_end=839291 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#3-95-C4ZR.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=626543 loop_end=830399 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#3-127-EX69.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1912 loop_end=2914 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA3-32-Y3LU.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=446801 loop_end=611579 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA3-64-7VM7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=642197 loop_end=829810 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA3-95-UMYY.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=447560 loop_end=833459 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA3-127-NY2Q.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1844 loop_end=2867 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#3-32-DSK9.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3427 loop_end=4657 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#3-64-VNCC.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=353469 loop_end=514142 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#3-95-69QZ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=656716 loop_end=832164 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#3-127-2WUE.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=11532 loop_end=14627 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB3-32-E8F7.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=68856 loop_end=92866 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB3-64-O0OE.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=364112 loop_end=485336 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB3-95-QPSN.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269790 loop_end=445244 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB3-127-MNYB.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1921 loop_end=2930 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC4-32-F66K.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3901 loop_end=5545 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC4-64-PMO8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=488239 loop_end=648247 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC4-95-Q1P9.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=464794 loop_end=795257 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC4-127-C2ZE.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=4476 loop_end=7967 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#4-32-OZA7.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3300 loop_end=4673 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#4-64-CRG6.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=393045 loop_end=560121 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#4-95-URZE.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=303700 loop_end=465953 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC#4-127-G71Q.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=6179 loop_end=7227 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD4-32-7GOD.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3366 loop_end=4505 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD4-64-71FO.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=299970 loop_end=817699 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD4-95-7ZU6.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=295414 loop_end=814961 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD4-127-H13B.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1900 loop_end=2923 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#4-32-AXQF.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=16586 loop_end=23043 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#4-64-76U6.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=268323 loop_end=832940 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#4-95-AKIZ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=440352 loop_end=799407 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pD#4-127-AXPK.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1901 loop_end=2924 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE4-32-FOJV.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=15959 loop_end=19150 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE4-64-TCH8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=451206 loop_end=579471 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE4-95-DRXX.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=568438 loop_end=695259 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pE4-127-GRV3.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=18793 loop_end=26793 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF4-32-1MA7.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3415 loop_end=5057 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF4-64-HFYH.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=269489 loop_end=383567 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF4-95-ZTNA.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=468664 loop_end=605755 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF4-127-TPET.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=14342 loop_end=16468 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#4-32-C4OU.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3371 loop_end=4533 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#4-64-YCSK.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=643964 loop_end=825449 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#4-95-0OHW.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=632310 loop_end=814580 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pF#4-127-HWVF.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=12666 loop_end=19062 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG4-32-FJY1.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3307 loop_end=4648 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG4-64-CDKS.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=280074 loop_end=395003 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG4-95-536D.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=529451 loop_end=829844 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG4-127-V9BC.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=6161 loop_end=7209 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#4-32-7CPT.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=2983 loop_end=4015 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#4-64-G5Y6.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=269500 loop_end=384017 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#4-95-GJ3M.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279430 loop_end=837878 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pG#4-127-3FAL.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=3992 loop_end=7290 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA4-32-FD5T.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=2994 loop_end=4026 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA4-64-SZ6V.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=559606 loop_end=713582 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA4-95-TN9H.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=585376 loop_end=739469 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA4-127-ANB7.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=6202 loop_end=7250 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#4-32-PXL5.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3030 loop_end=4055 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#4-64-4I5W.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=268040 loop_end=383693 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#4-95-YLQH.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=302108 loop_end=837720 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pA#4-127-6O20.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=7930 loop_end=11569 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB4-32-WFM2.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=3342 loop_end=4890 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB4-64-D0F9.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=268991 loop_end=385219 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB4-95-WFNO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=463714 loop_end=835276 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pB4-127-SIME.aif
+<group>lokey=84 hikey=127 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=1847 loop_end=2870 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC5-32-NFR4.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=16156 loop_end=24106 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC5-64-VM6V.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=365660 loop_end=497837 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC5-95-BDPD.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=342435 loop_end=834875 sample=../Sounds/Triangles/tri3p30res/(2016224 44324)/ob3pC5-127-UIEY.aif

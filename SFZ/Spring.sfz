@@ -1,0 +1,100 @@
+// this file was generated from Spring.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251712 loop_end=328410 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-36-127-NW1Z.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=291886 loop_end=368781 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-37-127-7V08.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281546 loop_end=355346 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-38-127-GQAZ.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=325737 loop_end=398490 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-39-127-MMBG.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252852 loop_end=392307 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-40-127-VIHL.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=339304 loop_end=402315 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-41-127-4JQT.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246396 loop_end=310906 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-42-127-GEKS.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313881 loop_end=374099 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-43-127-FVK7.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286656 loop_end=400347 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-44-127-MTYE.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290570 loop_end=404308 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-45-127-NXHS.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270270 loop_end=377792 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-46-127-62L7.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267277 loop_end=374668 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-47-127-7PZG.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289713 loop_end=391083 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-48-127-MKTZ.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248795 loop_end=346061 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-49-127-X7R2.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265325 loop_end=313936 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-50-127-OTA7.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=291850 loop_end=382898 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-51-127-BSMM.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=309054 loop_end=398053 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-52-127-IX4T.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246780 loop_end=335882 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-53-127-SSRB.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253907 loop_end=338855 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-54-127-GJTR.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=330609 loop_end=372559 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-55-127-3K7W.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=305109 loop_end=386000 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-56-127-RZOG.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270203 loop_end=347046 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-57-127-N5LY.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243455 loop_end=320329 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-58-127-OCFO.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268087 loop_end=373571 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-59-127-T9OW.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=291685 loop_end=390993 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-60-127-0GTO.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=295817 loop_end=395172 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-61-127-EWVQ.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273329 loop_end=369592 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-62-127-0SU4.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243694 loop_end=340096 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-63-127-S889.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=304569 loop_end=394724 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-64-127-79DT.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278536 loop_end=362439 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-65-127-JM4U.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247561 loop_end=331172 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-66-127-1EZT.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253987 loop_end=331712 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-67-127-S4EW.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259863 loop_end=355137 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-68-127-QWOH.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270226 loop_end=365818 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-69-127-QJ4P.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274336 loop_end=361366 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-70-127-3C43.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272202 loop_end=359189 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-71-127-63XF.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=260202 loop_end=338836 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-72-127-G4XZ.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=277279 loop_end=375651 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-73-127-QFTZ.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280497 loop_end=378760 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-74-127-YN1V.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286601 loop_end=392110 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-75-127-L5QQ.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=294813 loop_end=394109 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-76-127-14VJ.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288525 loop_end=387795 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-77-127-GJ0B.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264414 loop_end=357483 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-78-127-536Z.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256024 loop_end=349367 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-79-127-U4DE.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248036 loop_end=349455 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-80-127-RN4Z.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276386 loop_end=397176 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-81-127-5TSK.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280452 loop_end=401336 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-82-127-4GKV.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248891 loop_end=348196 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-83-127-DPVS.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261724 loop_end=375462 sample=../Sounds/Misc/Spring/(2012621 154828)/Spring-84-127-3Y7H.aif

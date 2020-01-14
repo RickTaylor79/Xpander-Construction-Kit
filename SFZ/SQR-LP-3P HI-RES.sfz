@@ -1,0 +1,10 @@
+// this file was generated from SQR-LP-3P HI-RES.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=9 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=794 loop_end=135920 sample=../Sounds/Squares/SQR-LP-3P HI-RES/(201633 203121)/SQR-LP-3P HI-RES-36-16-M4XN.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=927 loop_end=136040 sample=../Sounds/Squares/SQR-LP-3P HI-RES/(201633 203121)/SQR-LP-3P HI-RES-36-32-BMPS.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=994 loop_end=136194 sample=../Sounds/Squares/SQR-LP-3P HI-RES/(201633 203121)/SQR-LP-3P HI-RES-36-48-UI0O.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=1019 loop_end=136188 sample=../Sounds/Squares/SQR-LP-3P HI-RES/(201633 203121)/SQR-LP-3P HI-RES-36-64-Q8K8.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=214847 loop_end=560958 sample=../Sounds/Squares/SQR-LP-3P HI-RES/(201633 203121)/SQR-LP-3P HI-RES-36-79-LKWF.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=429433 loop_end=659832 sample=../Sounds/Squares/SQR-LP-3P HI-RES/(201633 203121)/SQR-LP-3P HI-RES-36-95-DLY8.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=42499 loop_end=663042

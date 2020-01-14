@@ -1,0 +1,100 @@
+// this file was generated from Monster Chord.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=551 end=530584 loop_mode=loop_sustain loop_start=379902 loop_end=466222 sample=../Sounds/Misc/Monster Chord/Monster Chord-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=777 end=531709 loop_mode=loop_sustain loop_start=388165 loop_end=462007 sample=../Sounds/Misc/Monster Chord/Monster Chord-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=512 end=530226 loop_mode=loop_sustain loop_start=372550 loop_end=483073 sample=../Sounds/Misc/Monster Chord/Monster Chord-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=664 end=530754 loop_mode=loop_sustain loop_start=376604 loop_end=462775 sample=../Sounds/Misc/Monster Chord/Monster Chord-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=637 loop_mode=loop_sustain loop_start=377417 loop_end=452370 sample=../Sounds/Misc/Monster Chord/Monster Chord-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=865 end=531313 loop_mode=loop_sustain loop_start=403454 loop_end=499442 sample=../Sounds/Misc/Monster Chord/Monster Chord-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=841 loop_mode=loop_sustain loop_start=410866 loop_end=497183 sample=../Sounds/Misc/Monster Chord/Monster Chord-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=830 end=531646 loop_mode=loop_sustain loop_start=437492 loop_end=497790 sample=../Sounds/Misc/Monster Chord/Monster Chord-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=693 end=531058 loop_mode=loop_sustain loop_start=404915 loop_end=490698 sample=../Sounds/Misc/Monster Chord/Monster Chord-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=446 end=530429 loop_mode=loop_sustain loop_start=418504 loop_end=491456 sample=../Sounds/Misc/Monster Chord/Monster Chord-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=379 end=530057 loop_mode=loop_sustain loop_start=413443 loop_end=450502 sample=../Sounds/Misc/Monster Chord/Monster Chord-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=775 end=530645 loop_mode=loop_sustain loop_start=376200 loop_end=425104 sample=../Sounds/Misc/Monster Chord/Monster Chord-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=747 end=531048 loop_mode=loop_sustain loop_start=412276 loop_end=449346 sample=../Sounds/Misc/Monster Chord/Monster Chord-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=624 end=531419 loop_mode=loop_sustain loop_start=417465 loop_end=455309 sample=../Sounds/Misc/Monster Chord/Monster Chord-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=543 end=530376 loop_mode=loop_sustain loop_start=407140 loop_end=443760 sample=../Sounds/Misc/Monster Chord/Monster Chord-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=582 end=530492 loop_mode=loop_sustain loop_start=443100 loop_end=491255 sample=../Sounds/Misc/Monster Chord/Monster Chord-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=575 end=530554 loop_mode=loop_sustain loop_start=445472 loop_end=481308 sample=../Sounds/Misc/Monster Chord/Monster Chord-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=388 end=530957 loop_mode=loop_sustain loop_start=415267 loop_end=452113 sample=../Sounds/Misc/Monster Chord/Monster Chord-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=883 end=530755 loop_mode=loop_sustain loop_start=421493 loop_end=459123 sample=../Sounds/Misc/Monster Chord/Monster Chord-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=773 loop_mode=loop_sustain loop_start=415685 loop_end=452547 sample=../Sounds/Misc/Monster Chord/Monster Chord-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=612 loop_mode=loop_sustain loop_start=402499 loop_end=451737 sample=../Sounds/Misc/Monster Chord/Monster Chord-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=506 end=530404 loop_mode=loop_sustain loop_start=395255 loop_end=422094 sample=../Sounds/Misc/Monster Chord/Monster Chord-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=845 end=531328 loop_mode=loop_sustain loop_start=406263 loop_end=455792 sample=../Sounds/Misc/Monster Chord/Monster Chord-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=870 end=530846 loop_mode=loop_sustain loop_start=385340 loop_end=471519 sample=../Sounds/Misc/Monster Chord/Monster Chord-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=362 loop_mode=loop_sustain loop_start=462370 loop_end=499240 sample=../Sounds/Misc/Monster Chord/Monster Chord-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=775 end=531633 loop_mode=loop_sustain loop_start=413909 loop_end=451413 sample=../Sounds/Misc/Monster Chord/Monster Chord-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=366 loop_mode=loop_sustain loop_start=439709 loop_end=500155 sample=../Sounds/Misc/Monster Chord/Monster Chord-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=427 end=531279 loop_mode=loop_sustain loop_start=390788 loop_end=418251 sample=../Sounds/Misc/Monster Chord/Monster Chord-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=848 end=530798 loop_mode=loop_sustain loop_start=380627 loop_end=418454 sample=../Sounds/Misc/Monster Chord/Monster Chord-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=599 end=530554 loop_mode=loop_sustain loop_start=386800 loop_end=449242 sample=../Sounds/Misc/Monster Chord/Monster Chord-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=616 end=530513 loop_mode=loop_sustain loop_start=404851 loop_end=442117 sample=../Sounds/Misc/Monster Chord/Monster Chord-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=815 loop_mode=loop_sustain loop_start=444324 loop_end=492305 sample=../Sounds/Misc/Monster Chord/Monster Chord-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=412 loop_mode=loop_sustain loop_start=409523 loop_end=458626 sample=../Sounds/Misc/Monster Chord/Monster Chord-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=420 end=530918 loop_mode=loop_sustain loop_start=446595 loop_end=494739 sample=../Sounds/Misc/Monster Chord/Monster Chord-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=397 end=530993 loop_mode=loop_sustain loop_start=447999 loop_end=496555 sample=../Sounds/Misc/Monster Chord/Monster Chord-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=735 end=531133 loop_mode=loop_sustain loop_start=462136 loop_end=498608 sample=../Sounds/Misc/Monster Chord/Monster Chord-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=770 end=531164 loop_mode=loop_sustain loop_start=401925 loop_end=439561 sample=../Sounds/Misc/Monster Chord/Monster Chord-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=528 end=530362 loop_mode=loop_sustain loop_start=390085 loop_end=416149 sample=../Sounds/Misc/Monster Chord/Monster Chord-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=455 loop_mode=loop_sustain loop_start=416245 loop_end=453818 sample=../Sounds/Misc/Monster Chord/Monster Chord-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=218 end=531138 loop_mode=loop_sustain loop_start=426858 loop_end=463664 sample=../Sounds/Misc/Monster Chord/Monster Chord-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=749 end=531472 loop_mode=loop_sustain loop_start=376802 loop_end=426904 sample=../Sounds/Misc/Monster Chord/Monster Chord-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=387 end=530449 loop_mode=loop_sustain loop_start=429577 loop_end=466145 sample=../Sounds/Misc/Monster Chord/Monster Chord-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=526 end=531105 loop_mode=loop_sustain loop_start=418473 loop_end=491912 sample=../Sounds/Misc/Monster Chord/Monster Chord-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=359 loop_mode=loop_sustain loop_start=405719 loop_end=434925 sample=../Sounds/Misc/Monster Chord/Monster Chord-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=380 end=530970 loop_mode=loop_sustain loop_start=444843 loop_end=491988 sample=../Sounds/Misc/Monster Chord/Monster Chord-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=693 end=530556 loop_mode=loop_sustain loop_start=408267 loop_end=434847 sample=../Sounds/Misc/Monster Chord/Monster Chord-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=339 end=530171 loop_mode=loop_sustain loop_start=383234 loop_end=432698 sample=../Sounds/Misc/Monster Chord/Monster Chord-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=688 end=531440 loop_mode=loop_sustain loop_start=463256 loop_end=497767 sample=../Sounds/Misc/Monster Chord/Monster Chord-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=821 end=531453 loop_mode=loop_sustain loop_start=372649 loop_end=422813 sample=../Sounds/Misc/Monster Chord/Monster Chord-84-127.aif

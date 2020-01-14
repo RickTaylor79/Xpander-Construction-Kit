@@ -1,0 +1,65 @@
+// this file was generated from SQR-NTCH-LOW.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=38 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=243296 loop_end=609886 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-38-16-4S6L.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=221719 loop_end=608792 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-38-32-8QDB.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=203628 loop_end=571242 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-38-48-F6OC.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=220701 loop_end=351772 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-38-64-45LD.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=119600 loop_end=609069 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-38-79-HFE0.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=482746 loop_end=600503 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-38-95-4YZG.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=474012 loop_end=591777 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-38-111-HYOT.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=99667 loop_end=343955 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-38-127-XNA1.wav
+<group>lokey=39 hikey=44 pitch_keycenter=42 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=385733 loop_end=594609 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-44-16-WJLD.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=254806 loop_end=581448 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-44-32-91E4.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=395550 loop_end=612638 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-44-48-IB9O.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=123858 loop_end=256987 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-44-64-RCIC.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=259283 loop_end=391370 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-44-79-ZDIF.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=335819 loop_end=538585 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-44-95-9XDB.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=254912 loop_end=535501 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-44-111-QHW0.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=147552 loop_end=600160 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-44-127-M2WM.wav
+<group>lokey=45 hikey=50 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=496105 loop_end=603338 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-50-16-3BER.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=272582 loop_end=593078 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-50-32-J5E3.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=405509 loop_end=542270 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-50-48-LV4R.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=182231 loop_end=588030 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-50-64-175U.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=353098 loop_end=607332 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-50-79-84Z5.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=136809 loop_end=484680 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-50-95-PTLH.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=397027 loop_end=503521 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-50-111-MKA4.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=427309 loop_end=599342 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-50-127-UGMZ.wav
+<group>lokey=51 hikey=56 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=406495 loop_end=548915 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-56-16-XL02.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=121992 loop_end=258689 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-56-32-33QS.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=119646 loop_end=261987 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-56-48-FZ3Y.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=374342 loop_end=608840 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-56-64-U9KG.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=304239 loop_end=450175 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-56-79-YF19.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=417928 loop_end=588927 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-56-95-5BS6.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=387873 loop_end=522503 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-56-111-3BN3.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=310494 loop_end=444074 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-56-127-PMY2.wav
+<group>lokey=57 hikey=62 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=298566 loop_end=420890 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-62-16-1XM8.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=471216 loop_end=609444 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-62-32-D9BL.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=205811 loop_end=347219 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-62-48-5NVL.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=273691 loop_end=579415 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-62-64-I9EM.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=410838 loop_end=514832 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-62-79-E0RQ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=456097 loop_end=604926 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-62-95-X6FW.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=176742 loop_end=306428 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-62-111-BSPI.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=100004 loop_end=572064 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-62-127-O349.wav
+<group>lokey=63 hikey=68 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=343710 loop_end=549329 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-68-16-Y52D.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=137866 loop_end=602472 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-68-32-6FBN.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=92772 loop_end=208090 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-68-48-9LHL.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=176568 loop_end=288780 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-68-64-OFOE.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=197877 loop_end=323816 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-68-79-VWKX.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=322723 loop_end=533419 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-68-95-DTQ7.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=451046 loop_end=587876 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-68-111-G1GP.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=456286 loop_end=564847 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-68-127-HZJW.wav
+<group>lokey=69 hikey=127 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=213633 loop_end=326573 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-72-16-K8JI.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=378886 loop_end=487620 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-72-32-Q454.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=204041 loop_end=314394 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-72-48-JCM2.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=302024 loop_end=601265 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-72-64-C8JB.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=330297 loop_end=438451 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-72-79-V5MZ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=219122 loop_end=569462 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-72-95-RTC8.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=394225 loop_end=511578 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-72-111-L0DX.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=362212 loop_end=525141 sample=../Sounds/Squares/SQR-NTCH-LOW/(201639 113838)/SQR-NTCH-LOW-72-127-ZS2N.wav

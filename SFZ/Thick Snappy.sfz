@@ -1,0 +1,266 @@
+// this file was generated from Thick Snappy.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=21 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=72625 loop_end=181373 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-21-32-U9OW.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72030 loop_end=180926 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-21-127-V38Y.wav
+<group> key=22 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=82644 loop_end=191271 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-22-32-Q9X4.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71476 loop_end=180211 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-22-127-CDCC.wav
+<group> key=23 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=73019 loop_end=180592 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-23-32-5MTF.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=81338 loop_end=190202 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-23-127-7ZEX.wav
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=83037 loop_end=191753 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-24-32-1SAB.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72557 loop_end=181464 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-24-127-0UZ1.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=82295 loop_end=190914 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-25-32-2PQ7.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72279 loop_end=181091 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-25-127-19ZF.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=70970 loop_end=179678 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-26-32-IKES.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71331 loop_end=180180 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-26-127-2K2N.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=72251 loop_end=180918 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-27-32-E5VV.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72381 loop_end=181212 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-27-127-AJG6.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=72037 loop_end=180651 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-28-32-0FLS.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71272 loop_end=180017 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-28-127-SM9G.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=72316 loop_end=180965 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-29-32-11ET.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72229 loop_end=181074 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-29-127-N5RV.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=71396 loop_end=180148 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-30-32-SN8K.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=73019 loop_end=180425 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-30-127-ON1J.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=70970 loop_end=179543 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-31-32-CHUS.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72150 loop_end=180973 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-31-127-IL1C.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=70970 loop_end=179593 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-32-32-NIZN.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71374 loop_end=180232 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-32-127-2TJ9.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=71559 loop_end=180181 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-33-32-N7T0.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71752 loop_end=180577 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-33-127-GERE.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=71890 loop_end=180499 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-34-32-3OKJ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=70970 loop_end=179626 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-34-127-UX6U.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=71302 loop_end=179997 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-35-32-4FL9.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71349 loop_end=180214 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-35-127-45Y8.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=71270 loop_end=179513 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-36-32-4WNU.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72799 loop_end=181571 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-36-127-L638.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=72211 loop_end=180158 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-37-32-TN32.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72131 loop_end=179723 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-37-127-EYP3.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=72360 loop_end=180527 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-38-32-HN5X.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72189 loop_end=180509 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-38-127-U5RQ.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=72795 loop_end=180613 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-39-32-U5L5.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=82259 loop_end=190214 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-39-127-IA94.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=70970 loop_end=181571 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-40-32-XG6N.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71433 loop_end=180694 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-40-127-JI8V.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=184396 loop_end=561230 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-41-32-FJ5D.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241783 loop_end=473188 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-41-127-IAYL.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=406271 loop_end=589249 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-42-32-UOBC.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=110595 loop_end=372381 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-42-127-6NIF.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=403871 loop_end=607654 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-43-32-V11A.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=110840 loop_end=466175 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-43-127-A58J.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=214578 loop_end=536899 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-44-32-SQB5.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=403036 loop_end=588315 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-44-127-65CG.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288993 loop_end=593128 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-45-32-9QQP.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=397471 loop_end=605319 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-45-127-KFIE.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=257889 loop_end=607048 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-46-32-B4TD.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=340066 loop_end=488586 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-46-127-OA15.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=154326 loop_end=426797 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-47-32-P4VG.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=127612 loop_end=284879 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-47-127-0CFY.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=84153 loop_end=472187 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-48-32-SAYY.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=90776 loop_end=607863 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-48-127-DF3G.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=113852 loop_end=561277 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-49-32-QWT9.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=411633 loop_end=544816 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-49-127-KA26.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=99342 loop_end=568079 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-50-32-4TZN.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=388135 loop_end=524303 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-50-127-2NEU.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=412853 loop_end=526492 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-51-32-PZKP.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=153499 loop_end=597938 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-51-127-H32L.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=439135 loop_end=566073 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-52-32-HNK5.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316628 loop_end=542871 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-52-127-SVWZ.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=75022 loop_end=605394 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-53-32-GCTI.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=123923 loop_end=580652 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-53-127-P9VL.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=235550 loop_end=529410 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-54-32-HFMU.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71051 loop_end=318079 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-54-127-PWGJ.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=75131 loop_end=588216 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-55-32-6EWA.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=120972 loop_end=310145 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-55-127-7PJC.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=144902 loop_end=586310 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-56-32-L05R.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=75786 loop_end=268299 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-56-127-NJNN.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=159964 loop_end=569567 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-57-32-05FB.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286200 loop_end=593459 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-57-127-90AE.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=189732 loop_end=450800 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-58-32-H551.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=154733 loop_end=560324 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-58-127-IW83.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=103592 loop_end=323757 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-59-32-258A.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=351941 loop_end=588457 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-59-127-QFI2.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=121071 loop_end=608540 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-60-32-2MIX.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=189146 loop_end=357200 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-60-127-W4TP.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=232002 loop_end=525581 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-61-32-53WM.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=147249 loop_end=284449 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-61-127-UJPC.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=93085 loop_end=217992 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-62-32-BSTN.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=175192 loop_end=446607 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-62-127-KJC3.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=167759 loop_end=456597 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-63-32-XFAF.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=105190 loop_end=587048 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-63-127-RZ30.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=264195 loop_end=565311 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-64-32-183L.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=494801 loop_end=608452 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-64-127-GWV1.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=151193 loop_end=308499 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-65-32-ESD2.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=77887 loop_end=588880 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-65-127-SD10.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=109246 loop_end=603432 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-66-32-THOJ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=90405 loop_end=204045 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-66-127-593S.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=103412 loop_end=305144 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-67-32-OSJ6.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=89839 loop_end=337712 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-67-127-2M4M.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=87174 loop_end=510142 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-68-32-9WP7.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=375742 loop_end=522294 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-68-127-Z7EP.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=465996 loop_end=596019 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-69-32-ZHOW.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=127602 loop_end=568962 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-69-127-ZZJ7.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=477188 loop_end=608491 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-70-32-10UY.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=351416 loop_end=479482 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-70-127-LOGB.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=280733 loop_end=401200 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-71-32-UCBB.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=83975 loop_end=208730 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-71-127-CGAL.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=256540 loop_end=368098 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-72-32-596O.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=399362 loop_end=605161 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-72-127-GZZA.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=194606 loop_end=418946 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-73-32-0FF8.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71178 loop_end=291449 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-73-127-YUQG.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=183433 loop_end=578849 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-74-32-5IFS.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313359 loop_end=497678 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-74-127-URE6.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=311493 loop_end=443511 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-75-32-NVUP.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=117026 loop_end=440522 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-75-127-6VJS.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=363356 loop_end=590683 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-76-32-0D49.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=395216 loop_end=557098 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-76-127-D51U.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=122356 loop_end=311913 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-77-32-PRWS.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=294788 loop_end=539357 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-77-127-2KJK.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=367118 loop_end=561615 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-78-32-Y0RP.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=307294 loop_end=608573 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-78-127-ZNLI.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=85393 loop_end=221455 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-79-32-4MGU.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=110644 loop_end=273659 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-79-127-1EBO.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=136358 loop_end=269449 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-80-32-LQMG.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=221953 loop_end=595706 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-80-127-60TE.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=243266 loop_end=379610 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-81-32-RSI2.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=89377 loop_end=230940 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-81-127-KRXR.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=187649 loop_end=605365 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-82-32-CF0L.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=362701 loop_end=606484 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-82-127-L9GH.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=372834 loop_end=559398 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-83-32-B019.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=94849 loop_end=569053 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-83-127-E7UU.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=81120 loop_end=233710 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-84-32-72QD.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=110907 loop_end=286951 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-84-127-VNIT.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=452400 loop_end=579441 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-85-32-43QS.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=466111 loop_end=576710 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-85-127-YMGH.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=345025 loop_end=600875 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-86-32-T4FH.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329253 loop_end=605678 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-86-127-KSON.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=168226 loop_end=561492 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-87-32-A3VU.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=392464 loop_end=604459 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-87-127-90DE.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=78090 loop_end=599333 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-88-32-9W4Q.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=161494 loop_end=531188 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-88-127-BE2K.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=309368 loop_end=482534 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-89-32-2XIG.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=156780 loop_end=274411 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-89-127-NQ6S.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=384690 loop_end=598742 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-90-32-BNPZ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=427948 loop_end=537550 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-90-127-HR54.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=419934 loop_end=598056 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-91-32-Y8X9.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=74384 loop_end=204387 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-91-127-S1PV.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=75862 loop_end=588906 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-92-32-UYLA.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=85674 loop_end=467513 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-92-127-0EK2.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=99344 loop_end=212979 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-93-32-JSQ2.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236203 loop_end=445007 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-93-127-NR8X.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=195460 loop_end=577300 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-94-32-RZII.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=180704 loop_end=346508 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-94-127-VWZQ.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=110257 loop_end=233055 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-95-32-P4X0.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=117186 loop_end=262504 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-95-127-XCHY.wav
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=111842 loop_end=327911 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-96-32-31BS.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=98429 loop_end=232632 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-96-127-CA91.wav
+<group> key=97 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=329795 loop_end=603204 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-97-32-EMUS.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=244400 loop_end=561838 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-97-127-SFRW.wav
+<group> key=98 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=82807 loop_end=593829 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-98-32-Y6ZU.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=382969 loop_end=514113 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-98-127-I4Q8.wav
+<group> key=99 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=98743 loop_end=379363 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-99-32-1U7N.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=78485 loop_end=563885 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-99-127-YB9Z.wav
+<group> key=100 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=88296 loop_end=498940 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-100-32-YNSO.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=220045 loop_end=559991 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-100-127-2ENC.wav
+<group> key=101 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=124774 loop_end=581513 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-101-32-KX9R.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=349150 loop_end=545763 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-101-127-TICS.wav
+<group> key=102 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=273165 loop_end=429823 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-102-32-81S0.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=170664 loop_end=607863 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-102-127-K383.wav
+<group> key=103 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=222098 loop_end=344011 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-103-32-9BPT.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=467956 loop_end=607219 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-103-127-8NQG.wav
+<group> key=104 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=83602 loop_end=293554 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-104-32-2UOO.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=124627 loop_end=607922 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-104-127-B6ZI.wav
+<group> key=105 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=281240 loop_end=424590 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-105-32-YK72.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=434488 loop_end=544061 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-105-127-EZNN.wav
+<group> key=106 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=343751 loop_end=479971 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-106-32-4NKE.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=88629 loop_end=600609 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-106-127-JPNG.wav
+<group> key=107 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=280527 loop_end=553960 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-107-32-KZFK.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=330324 loop_end=579183 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-107-127-PKKF.wav
+<group> key=108 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=272281 loop_end=423774 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-108-32-HSXY.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=332678 loop_end=465823 sample=../Sounds/Misc/Thick Snappy/(201631 44227)/Thick Snappy-108-127-UQ8H.wav

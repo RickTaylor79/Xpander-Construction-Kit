@@ -1,0 +1,181 @@
+// this file was generated from Chill Em.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=13 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=823 end=136955 sample=../Sounds/Misc/Chill Em/Chill Em-48-32-2A05.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=736 sample=../Sounds/Misc/Chill Em/Chill Em-48-64-LX7O.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=728 end=139928 sample=../Sounds/Misc/Chill Em/Chill Em-48-95-VAY8.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=550 end=139264 sample=../Sounds/Misc/Chill Em/Chill Em-48-127-BJI4.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=746 end=139124 sample=../Sounds/Misc/Chill Em/Chill Em-49-32-GYVU.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=632 end=136112 sample=../Sounds/Misc/Chill Em/Chill Em-49-64-0Y8I.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=685 end=141842 sample=../Sounds/Misc/Chill Em/Chill Em-49-95-V93E.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=767 sample=../Sounds/Misc/Chill Em/Chill Em-49-127-NA6N.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=556 end=124009 sample=../Sounds/Misc/Chill Em/Chill Em-50-32-697I.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=612 end=42750 sample=../Sounds/Misc/Chill Em/Chill Em-50-64-2NDE.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=1041 sample=../Sounds/Misc/Chill Em/Chill Em-50-95-3H6L.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=767 end=30706 sample=../Sounds/Misc/Chill Em/Chill Em-50-127-JUK5.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=651 sample=../Sounds/Misc/Chill Em/Chill Em-51-32-C5S5.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=627 sample=../Sounds/Misc/Chill Em/Chill Em-51-64-1ZIZ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=635 end=138368 sample=../Sounds/Misc/Chill Em/Chill Em-51-95-P1YD.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=708 end=137216 sample=../Sounds/Misc/Chill Em/Chill Em-51-127-AUQG.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=577 end=136506 sample=../Sounds/Misc/Chill Em/Chill Em-52-32-EF6I.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=859 end=136708 sample=../Sounds/Misc/Chill Em/Chill Em-52-64-6DUE.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=895 end=140800 sample=../Sounds/Misc/Chill Em/Chill Em-52-95-14SX.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=764 sample=../Sounds/Misc/Chill Em/Chill Em-52-127-F9QF.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=710 end=137088 sample=../Sounds/Misc/Chill Em/Chill Em-53-32-QKFL.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=747 end=139479 sample=../Sounds/Misc/Chill Em/Chill Em-53-64-Z1QF.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=957 end=140928 sample=../Sounds/Misc/Chill Em/Chill Em-53-95-EJVZ.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=730 end=136832 sample=../Sounds/Misc/Chill Em/Chill Em-53-127-3RKV.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=773 end=138357 sample=../Sounds/Misc/Chill Em/Chill Em-54-32-9OFQ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=887 sample=../Sounds/Misc/Chill Em/Chill Em-54-64-CKJQ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=750 sample=../Sounds/Misc/Chill Em/Chill Em-54-95-3F4N.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=751 sample=../Sounds/Misc/Chill Em/Chill Em-54-127-FLWC.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=686 end=135921 sample=../Sounds/Misc/Chill Em/Chill Em-55-32-KL6N.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=619 sample=../Sounds/Misc/Chill Em/Chill Em-55-64-982L.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=737 end=141307 sample=../Sounds/Misc/Chill Em/Chill Em-55-95-BZSE.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=735 sample=../Sounds/Misc/Chill Em/Chill Em-55-127-B44E.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=767 end=133632 sample=../Sounds/Misc/Chill Em/Chill Em-56-32-TE2P.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=754 end=139136 sample=../Sounds/Misc/Chill Em/Chill Em-56-64-EZ10.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=724 sample=../Sounds/Misc/Chill Em/Chill Em-56-95-NLF3.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=675 sample=../Sounds/Misc/Chill Em/Chill Em-56-127-JR4M.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=720 end=137856 sample=../Sounds/Misc/Chill Em/Chill Em-57-32-UE1S.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=738 sample=../Sounds/Misc/Chill Em/Chill Em-57-64-A8CL.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=740 end=138570 sample=../Sounds/Misc/Chill Em/Chill Em-57-95-SY6B.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=629 end=138013 sample=../Sounds/Misc/Chill Em/Chill Em-57-127-0MEQ.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=888 end=138240 sample=../Sounds/Misc/Chill Em/Chill Em-58-32-214B.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=850 sample=../Sounds/Misc/Chill Em/Chill Em-58-64-XAC5.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=895 end=142464 sample=../Sounds/Misc/Chill Em/Chill Em-58-95-6QYH.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=864 sample=../Sounds/Misc/Chill Em/Chill Em-58-127-NVCY.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=750 sample=../Sounds/Misc/Chill Em/Chill Em-59-32-8UVZ.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=767 end=134566 sample=../Sounds/Misc/Chill Em/Chill Em-59-127-XM0T.wav
+<group>lokey=59 hikey=60 pitch_keycenter=59 pitch_keytrack=1
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=761 end=140318 sample=../Sounds/Misc/Chill Em/Chill Em-59-64-63SK.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=763 end=141360 sample=../Sounds/Misc/Chill Em/Chill Em-59-95-VZ55.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=885 end=138570 sample=../Sounds/Misc/Chill Em/Chill Em-60-32-3VI4.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=940 sample=../Sounds/Misc/Chill Em/Chill Em-60-127-JPNR.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=601 end=139904 sample=../Sounds/Misc/Chill Em/Chill Em-61-32-FHZZ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=745 end=136320 sample=../Sounds/Misc/Chill Em/Chill Em-61-64-JYYA.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=814 sample=../Sounds/Misc/Chill Em/Chill Em-61-95-4WOO.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=716 sample=../Sounds/Misc/Chill Em/Chill Em-61-127-MIRJ.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=720 sample=../Sounds/Misc/Chill Em/Chill Em-62-32-P8VC.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=760 sample=../Sounds/Misc/Chill Em/Chill Em-62-64-3ZC8.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=844 end=141065 sample=../Sounds/Misc/Chill Em/Chill Em-62-95-2L78.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=983 end=138132 sample=../Sounds/Misc/Chill Em/Chill Em-62-127-ZQJ6.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=734 sample=../Sounds/Misc/Chill Em/Chill Em-63-32-295S.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=624 sample=../Sounds/Misc/Chill Em/Chill Em-63-64-8RI4.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=766 sample=../Sounds/Misc/Chill Em/Chill Em-63-95-Q951.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=766 end=139520 sample=../Sounds/Misc/Chill Em/Chill Em-63-127-XEA0.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=639 sample=../Sounds/Misc/Chill Em/Chill Em-64-32-LVB1.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=621 end=136528 sample=../Sounds/Misc/Chill Em/Chill Em-64-64-TTV0.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=895 end=68738 sample=../Sounds/Misc/Chill Em/Chill Em-64-95-XJED.wav
+<group>lokey=64 hikey=65 pitch_keycenter=64 pitch_keytrack=1
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=767 end=168192 sample=../Sounds/Misc/Chill Em/Chill Em-64-127-X4QC.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=892 sample=../Sounds/Misc/Chill Em/Chill Em-65-32-D2PS.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=635 sample=../Sounds/Misc/Chill Em/Chill Em-65-64-EOQ2.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=978 sample=../Sounds/Misc/Chill Em/Chill Em-65-95-CM4W.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=613 end=137262 sample=../Sounds/Misc/Chill Em/Chill Em-66-32-QESX.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=690 sample=../Sounds/Misc/Chill Em/Chill Em-66-64-UG4Q.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=750 end=139522 sample=../Sounds/Misc/Chill Em/Chill Em-66-95-61IM.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1023 sample=../Sounds/Misc/Chill Em/Chill Em-66-127-J3J9.wav
+<group>lokey=67 hikey=68 pitch_keycenter=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=631 end=134275 sample=../Sounds/Misc/Chill Em/Chill Em-68-32-ZQZZ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=755 sample=../Sounds/Misc/Chill Em/Chill Em-68-64-NEM3.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=829 sample=../Sounds/Misc/Chill Em/Chill Em-68-95-V1R6.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=762 end=134912 sample=../Sounds/Misc/Chill Em/Chill Em-68-127-KYCL.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=767 end=29449 sample=../Sounds/Misc/Chill Em/Chill Em-69-32-FBS8.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=626 end=120096 sample=../Sounds/Misc/Chill Em/Chill Em-69-64-ON9I.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=767 sample=../Sounds/Misc/Chill Em/Chill Em-69-127-EQ1X.wav
+<group>lokey=69 hikey=70 pitch_keycenter=70 pitch_keytrack=1
+	<region> lovel=064 hivel=094 amp_velcurve_094=1 offset=805 end=141440 sample=../Sounds/Misc/Chill Em/Chill Em-70-95-BM4Z.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=628 end=138282 sample=../Sounds/Misc/Chill Em/Chill Em-70-32-UJP2.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=625 end=136320 sample=../Sounds/Misc/Chill Em/Chill Em-70-64-OYZ3.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=767 sample=../Sounds/Misc/Chill Em/Chill Em-70-127-8BR1.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=847 end=134533 sample=../Sounds/Misc/Chill Em/Chill Em-71-32-1IQ7.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=667 sample=../Sounds/Misc/Chill Em/Chill Em-71-64-MOZG.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=638 sample=../Sounds/Misc/Chill Em/Chill Em-71-95-66D1.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1151 end=136195 sample=../Sounds/Misc/Chill Em/Chill Em-71-127-H732.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=637 end=137901 sample=../Sounds/Misc/Chill Em/Chill Em-72-32-R3DI.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=621 sample=../Sounds/Misc/Chill Em/Chill Em-72-64-KQ8J.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=860 sample=../Sounds/Misc/Chill Em/Chill Em-72-95-SKWO.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=767 sample=../Sounds/Misc/Chill Em/Chill Em-72-127-5GVB.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=749 sample=../Sounds/Misc/Chill Em/Chill Em-73-32-KQD4.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=852 sample=../Sounds/Misc/Chill Em/Chill Em-73-64-NNOO.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=634 end=141056 sample=../Sounds/Misc/Chill Em/Chill Em-73-95-CQ44.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=841 sample=../Sounds/Misc/Chill Em/Chill Em-73-127-RAC1.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=854 sample=../Sounds/Misc/Chill Em/Chill Em-74-32-5SOH.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=864 sample=../Sounds/Misc/Chill Em/Chill Em-74-64-1YZD.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=762 end=141184 sample=../Sounds/Misc/Chill Em/Chill Em-74-95-DAN9.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=757 sample=../Sounds/Misc/Chill Em/Chill Em-74-127-TQ3N.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=718 end=138273 sample=../Sounds/Misc/Chill Em/Chill Em-75-32-PZG7.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=767 sample=../Sounds/Misc/Chill Em/Chill Em-75-64-M60R.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=706 sample=../Sounds/Misc/Chill Em/Chill Em-75-95-F96I.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=876 sample=../Sounds/Misc/Chill Em/Chill Em-75-127-3L9J.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=721 sample=../Sounds/Misc/Chill Em/Chill Em-76-32-63R4.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=895 sample=../Sounds/Misc/Chill Em/Chill Em-76-64-DJGY.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=713 end=140544 sample=../Sounds/Misc/Chill Em/Chill Em-76-95-TZ5A.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=762 end=166784 sample=../Sounds/Misc/Chill Em/Chill Em-76-127-7IZ1.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=755 end=134144 sample=../Sounds/Misc/Chill Em/Chill Em-77-32-YZ99.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=767 end=140547 sample=../Sounds/Misc/Chill Em/Chill Em-77-64-UHSL.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=761 end=141056 sample=../Sounds/Misc/Chill Em/Chill Em-77-95-03AL.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=1011 end=136960 sample=../Sounds/Misc/Chill Em/Chill Em-77-127-NSKE.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=888 end=138112 sample=../Sounds/Misc/Chill Em/Chill Em-78-32-JO9S.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=757 sample=../Sounds/Misc/Chill Em/Chill Em-78-64-OVWD.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=759 end=139273 sample=../Sounds/Misc/Chill Em/Chill Em-78-95-6T80.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=868 end=138243 sample=../Sounds/Misc/Chill Em/Chill Em-78-127-LAUI.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=623 sample=../Sounds/Misc/Chill Em/Chill Em-79-32-IZT0.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=751 sample=../Sounds/Misc/Chill Em/Chill Em-79-64-8IJY.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=711 end=142081 sample=../Sounds/Misc/Chill Em/Chill Em-79-95-FAOC.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=767 end=167680 sample=../Sounds/Misc/Chill Em/Chill Em-79-127-708R.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=855 sample=../Sounds/Misc/Chill Em/Chill Em-80-32-GP0N.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=632 sample=../Sounds/Misc/Chill Em/Chill Em-80-64-BOKQ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=747 sample=../Sounds/Misc/Chill Em/Chill Em-80-95-W8RO.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=868 end=135692 sample=../Sounds/Misc/Chill Em/Chill Em-80-127-0FGL.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=610 end=139412 sample=../Sounds/Misc/Chill Em/Chill Em-81-32-GZIB.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=855 end=166802 sample=../Sounds/Misc/Chill Em/Chill Em-81-64-IW8M.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=726 end=138624 sample=../Sounds/Misc/Chill Em/Chill Em-81-95-PV2A.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=895 end=139392 sample=../Sounds/Misc/Chill Em/Chill Em-81-127-3JSP.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=767 end=138113 sample=../Sounds/Misc/Chill Em/Chill Em-82-32-BR99.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=636 end=137601 sample=../Sounds/Misc/Chill Em/Chill Em-82-64-Z6L3.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=767 sample=../Sounds/Misc/Chill Em/Chill Em-82-95-14LZ.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=856 sample=../Sounds/Misc/Chill Em/Chill Em-82-127-RMQ7.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=584 sample=../Sounds/Misc/Chill Em/Chill Em-83-32-9DH7.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=749 end=140302 sample=../Sounds/Misc/Chill Em/Chill Em-83-64-L9XO.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=633 end=141580 sample=../Sounds/Misc/Chill Em/Chill Em-83-95-LQ7W.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=741 end=137344 sample=../Sounds/Misc/Chill Em/Chill Em-83-127-YTFK.wav
+<group>lokey=84 hikey=122 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=597 sample=../Sounds/Misc/Chill Em/Chill Em-84-32-K4WY.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=716 end=167169 sample=../Sounds/Misc/Chill Em/Chill Em-84-64-NSTS.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=767 sample=../Sounds/Misc/Chill Em/Chill Em-84-95-OQGN.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=747 end=138240 sample=../Sounds/Misc/Chill Em/Chill Em-84-127-PDWS.wav

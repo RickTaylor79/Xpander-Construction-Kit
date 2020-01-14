@@ -1,0 +1,198 @@
+// this file was generated from Sink.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=1 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=300 end=381696 sample=../Sounds/Misc/Sink/Sink-36-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=628 sample=../Sounds/Misc/Sink/Sink-36-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=595 end=370564 sample=../Sounds/Misc/Sink/Sink-36-120.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=816 end=367940 sample=../Sounds/Misc/Sink/Sink-37-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=554 end=371423 sample=../Sounds/Misc/Sink/Sink-37-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=418 end=376766 sample=../Sounds/Misc/Sink/Sink-37-120.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=375 sample=../Sounds/Misc/Sink/Sink-38-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=510 end=375168 sample=../Sounds/Misc/Sink/Sink-38-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=784 end=368899 sample=../Sounds/Misc/Sink/Sink-38-120.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=374 end=367616 sample=../Sounds/Misc/Sink/Sink-39-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=380 sample=../Sounds/Misc/Sink/Sink-39-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=389 end=366800 sample=../Sounds/Misc/Sink/Sink-39-120.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=429 end=374144 sample=../Sounds/Misc/Sink/Sink-40-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=833 end=365424 sample=../Sounds/Misc/Sink/Sink-40-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=804 sample=../Sounds/Misc/Sink/Sink-40-120.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=486 end=383817 sample=../Sounds/Misc/Sink/Sink-41-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=484 sample=../Sounds/Misc/Sink/Sink-41-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=648 end=377730 sample=../Sounds/Misc/Sink/Sink-41-120.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=476 sample=../Sounds/Misc/Sink/Sink-42-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=653 sample=../Sounds/Misc/Sink/Sink-42-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=796 end=382845 sample=../Sounds/Misc/Sink/Sink-42-120.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=604 end=378590 sample=../Sounds/Misc/Sink/Sink-43-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=916 sample=../Sounds/Misc/Sink/Sink-43-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=472 end=368062 sample=../Sounds/Misc/Sink/Sink-43-120.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=564 sample=../Sounds/Misc/Sink/Sink-44-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=765 end=386816 sample=../Sounds/Misc/Sink/Sink-44-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=610 sample=../Sounds/Misc/Sink/Sink-44-120.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=731 end=382304 sample=../Sounds/Misc/Sink/Sink-45-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=427 sample=../Sounds/Misc/Sink/Sink-45-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=590 sample=../Sounds/Misc/Sink/Sink-45-120.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=516 end=386051 sample=../Sounds/Misc/Sink/Sink-46-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=426 end=375936 sample=../Sounds/Misc/Sink/Sink-46-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=443 sample=../Sounds/Misc/Sink/Sink-46-120.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=457 end=373794 sample=../Sounds/Misc/Sink/Sink-47-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=574 sample=../Sounds/Misc/Sink/Sink-47-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=764 end=394880 sample=../Sounds/Misc/Sink/Sink-47-120.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=784 sample=../Sounds/Misc/Sink/Sink-48-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=718 end=380928 sample=../Sounds/Misc/Sink/Sink-48-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=610 sample=../Sounds/Misc/Sink/Sink-48-120.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=756 end=371072 sample=../Sounds/Misc/Sink/Sink-49-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=738 sample=../Sounds/Misc/Sink/Sink-49-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=487 end=373760 sample=../Sounds/Misc/Sink/Sink-49-120.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=757 end=380032 sample=../Sounds/Misc/Sink/Sink-50-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=312 sample=../Sounds/Misc/Sink/Sink-50-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=604 sample=../Sounds/Misc/Sink/Sink-50-120.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=329 sample=../Sounds/Misc/Sink/Sink-51-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=594 sample=../Sounds/Misc/Sink/Sink-51-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=828 sample=../Sounds/Misc/Sink/Sink-51-120.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=481 sample=../Sounds/Misc/Sink/Sink-52-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=479 sample=../Sounds/Misc/Sink/Sink-52-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=538 sample=../Sounds/Misc/Sink/Sink-52-120.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=330 end=375042 sample=../Sounds/Misc/Sink/Sink-53-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=555 end=381696 sample=../Sounds/Misc/Sink/Sink-53-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=336 end=373888 sample=../Sounds/Misc/Sink/Sink-53-120.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=503 sample=../Sounds/Misc/Sink/Sink-54-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=575 sample=../Sounds/Misc/Sink/Sink-54-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=663 sample=../Sounds/Misc/Sink/Sink-54-120.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=727 end=385024 sample=../Sounds/Misc/Sink/Sink-55-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=590 sample=../Sounds/Misc/Sink/Sink-55-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=579 end=379136 sample=../Sounds/Misc/Sink/Sink-55-120.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=340 end=388736 sample=../Sounds/Misc/Sink/Sink-56-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=722 end=379392 sample=../Sounds/Misc/Sink/Sink-56-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=594 sample=../Sounds/Misc/Sink/Sink-56-120.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=826 end=378368 sample=../Sounds/Misc/Sink/Sink-57-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=362 sample=../Sounds/Misc/Sink/Sink-57-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=350 end=400014 sample=../Sounds/Misc/Sink/Sink-57-120.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=804 end=379648 sample=../Sounds/Misc/Sink/Sink-58-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=611 end=380288 sample=../Sounds/Misc/Sink/Sink-58-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=507 end=377856 sample=../Sounds/Misc/Sink/Sink-58-120.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=826 sample=../Sounds/Misc/Sink/Sink-59-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=503 end=394496 sample=../Sounds/Misc/Sink/Sink-59-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=393 end=382594 sample=../Sounds/Misc/Sink/Sink-59-120.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=799 end=385536 sample=../Sounds/Misc/Sink/Sink-60-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=631 sample=../Sounds/Misc/Sink/Sink-60-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=781 end=383744 sample=../Sounds/Misc/Sink/Sink-60-120.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=879 end=395158 sample=../Sounds/Misc/Sink/Sink-61-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=465 sample=../Sounds/Misc/Sink/Sink-61-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=747 end=382112 sample=../Sounds/Misc/Sink/Sink-61-120.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=639 sample=../Sounds/Misc/Sink/Sink-62-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=620 end=383616 sample=../Sounds/Misc/Sink/Sink-62-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=455 sample=../Sounds/Misc/Sink/Sink-62-120.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=721 sample=../Sounds/Misc/Sink/Sink-63-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=845 sample=../Sounds/Misc/Sink/Sink-63-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=825 sample=../Sounds/Misc/Sink/Sink-63-120.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=780 sample=../Sounds/Misc/Sink/Sink-64-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=558 end=393728 sample=../Sounds/Misc/Sink/Sink-64-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=380 end=384258 sample=../Sounds/Misc/Sink/Sink-64-120.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=363 sample=../Sounds/Misc/Sink/Sink-65-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=803 end=381449 sample=../Sounds/Misc/Sink/Sink-65-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=480 sample=../Sounds/Misc/Sink/Sink-65-120.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=788 sample=../Sounds/Misc/Sink/Sink-66-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=338 sample=../Sounds/Misc/Sink/Sink-66-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=380 sample=../Sounds/Misc/Sink/Sink-66-120.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=597 end=380544 sample=../Sounds/Misc/Sink/Sink-67-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=847 end=380032 sample=../Sounds/Misc/Sink/Sink-67-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=723 end=398467 sample=../Sounds/Misc/Sink/Sink-67-120.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=805 end=381312 sample=../Sounds/Misc/Sink/Sink-68-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=730 end=391819 sample=../Sounds/Misc/Sink/Sink-68-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=419 end=381057 sample=../Sounds/Misc/Sink/Sink-68-120.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=737 end=389888 sample=../Sounds/Misc/Sink/Sink-69-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=532 sample=../Sounds/Misc/Sink/Sink-69-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=825 end=378496 sample=../Sounds/Misc/Sink/Sink-69-120.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=489 end=385174 sample=../Sounds/Misc/Sink/Sink-70-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=560 end=384789 sample=../Sounds/Misc/Sink/Sink-70-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=640 end=388873 sample=../Sounds/Misc/Sink/Sink-70-120.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=365 end=392576 sample=../Sounds/Misc/Sink/Sink-71-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=379 sample=../Sounds/Misc/Sink/Sink-71-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=618 end=392192 sample=../Sounds/Misc/Sink/Sink-71-120.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=397 sample=../Sounds/Misc/Sink/Sink-72-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=647 end=391936 sample=../Sounds/Misc/Sink/Sink-72-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=729 end=401920 sample=../Sounds/Misc/Sink/Sink-72-120.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=474 end=382466 sample=../Sounds/Misc/Sink/Sink-73-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=336 end=393216 sample=../Sounds/Misc/Sink/Sink-73-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=847 sample=../Sounds/Misc/Sink/Sink-73-120.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=474 end=386304 sample=../Sounds/Misc/Sink/Sink-74-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=502 end=397952 sample=../Sounds/Misc/Sink/Sink-74-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=340 end=380047 sample=../Sounds/Misc/Sink/Sink-74-120.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=758 end=391951 sample=../Sounds/Misc/Sink/Sink-75-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=589 sample=../Sounds/Misc/Sink/Sink-75-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=497 end=387331 sample=../Sounds/Misc/Sink/Sink-75-120.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=452 end=397070 sample=../Sounds/Misc/Sink/Sink-76-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=761 end=385280 sample=../Sounds/Misc/Sink/Sink-76-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=430 end=390915 sample=../Sounds/Misc/Sink/Sink-76-120.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=310 end=379527 sample=../Sounds/Misc/Sink/Sink-77-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=441 end=384128 sample=../Sounds/Misc/Sink/Sink-77-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=743 end=396928 sample=../Sounds/Misc/Sink/Sink-77-120.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=749 end=382348 sample=../Sounds/Misc/Sink/Sink-78-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=740 end=394381 sample=../Sounds/Misc/Sink/Sink-78-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=379 end=382470 sample=../Sounds/Misc/Sink/Sink-78-120.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=360 sample=../Sounds/Misc/Sink/Sink-79-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=578 end=398464 sample=../Sounds/Misc/Sink/Sink-79-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=780 end=377344 sample=../Sounds/Misc/Sink/Sink-79-120.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=446 end=384782 sample=../Sounds/Misc/Sink/Sink-80-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=629 end=382080 sample=../Sounds/Misc/Sink/Sink-80-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=668 end=385152 sample=../Sounds/Misc/Sink/Sink-80-120.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=476 end=393475 sample=../Sounds/Misc/Sink/Sink-81-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=520 end=385152 sample=../Sounds/Misc/Sink/Sink-81-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=822 end=384898 sample=../Sounds/Misc/Sink/Sink-81-120.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=598 end=377473 sample=../Sounds/Misc/Sink/Sink-82-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=441 sample=../Sounds/Misc/Sink/Sink-82-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=778 end=395523 sample=../Sounds/Misc/Sink/Sink-82-120.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=375 sample=../Sounds/Misc/Sink/Sink-83-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=826 sample=../Sounds/Misc/Sink/Sink-83-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=580 sample=../Sounds/Misc/Sink/Sink-83-120.aif
+<group>lokey=84 hikey=127 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=040 amp_velcurve_040=1 volume=12 offset=630 end=384772 sample=../Sounds/Misc/Sink/Sink-84-40.aif
+	<region> lovel=041 hivel=080 amp_velcurve_080=1 volume=12 offset=526 sample=../Sounds/Misc/Sink/Sink-84-80.aif
+	<region> lovel=080 hivel=127 amp_velcurve_127=1 volume=12 offset=853 end=389129 sample=../Sounds/Misc/Sink/Sink-84-120.aif

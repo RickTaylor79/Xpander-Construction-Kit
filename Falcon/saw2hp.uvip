@@ -1,0 +1,595 @@
+<UVI4>
+    <Program Name="Program" Bypass="0" Gain="1" Pan="0" DisplayName="New Program" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" Polyphony="16" NotePolyphony="0" ProgramPath="" LoopProgram="0" Streaming="1" BypassInsertFX="0">
+        <ControlSignalSources/>
+        <Layers>
+            <Layer Name="Layer 0" Bypass="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Layer 1" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.029999999" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0" BypassInsertFX="0">
+                <Properties Color="ff02b0ff"/>
+                <ControlSignalSources/>
+                <BusRouters/>
+                <Keygroups>
+                    <Keygroup Name="Keygroup 0" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-0-D1 1-16.wav" OutputName="" ExclusiveGroup="0" LowKey="0" HighKey="43" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-12" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-0-D1 1-16.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 8" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-39-G#1 1-16.wav" OutputName="" ExclusiveGroup="0" LowKey="44" HighKey="49" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-12" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-39-G#1 1-16.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 16" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-45-D2 1-16.wav" OutputName="" ExclusiveGroup="0" LowKey="50" HighKey="55" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-12" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-45-D2 1-16.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 24" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-51-G#2 1-16.wav" OutputName="" ExclusiveGroup="0" LowKey="56" HighKey="61" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-12" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-51-G#2 1-16.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 32" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-57-D3 1-16.wav" OutputName="" ExclusiveGroup="0" LowKey="62" HighKey="67" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-12" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-57-D3 1-16.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 40" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-63-G#3 1-16.wav" OutputName="" ExclusiveGroup="0" LowKey="68" HighKey="73" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-12" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-63-G#3 1-16.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 48" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-69-G8 1-16.wav" OutputName="" ExclusiveGroup="0" LowKey="74" HighKey="125" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-12" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="74" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-69-G8 1-16.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                </Keygroups>
+            </Layer>
+            <Layer Name="Layer 1" Bypass="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Layer 2" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.029999999" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0" BypassInsertFX="0">
+                <Properties Color="ffa398e8"/>
+                <ControlSignalSources/>
+                <BusRouters/>
+                <Keygroups>
+                    <Keygroup Name="Keygroup 0" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-69-G8 33-48.wav" OutputName="" ExclusiveGroup="0" LowKey="74" HighKey="125" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.050000001" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="74" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-69-G8 33-48.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="678144" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="155355" End="203712" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 1" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-57-D3 33-48.wav" OutputName="" ExclusiveGroup="0" LowKey="62" HighKey="67" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.050000001" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-57-D3 33-48.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 2" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-63-G#3 33-48.wav" OutputName="" ExclusiveGroup="0" LowKey="68" HighKey="73" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.050000001" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-63-G#3 33-48.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="678912" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="124253" End="171666" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 3" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-51-G#2 33-48.wav" OutputName="" ExclusiveGroup="0" LowKey="56" HighKey="61" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.050000001" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-51-G#2 33-48.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 4" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-39-G#1 33-48.wav" OutputName="" ExclusiveGroup="0" LowKey="44" HighKey="49" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-39-G#1 33-48.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="680960" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="26761" End="65847" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 5" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-45-D2 33-48.wav" OutputName="" ExclusiveGroup="0" LowKey="50" HighKey="55" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.050000001" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-45-D2 33-48.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 6" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-0-D1 33-48.wav" OutputName="" ExclusiveGroup="0" LowKey="0" HighKey="43" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="1" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="0" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="0" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="0.050000001" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                        </ControlSignalSources>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-0-D1 33-48.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                </Keygroups>
+            </Layer>
+            <Layer Name="Layer 2" Bypass="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Layer 3" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.029999999" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0" BypassInsertFX="0">
+                <Properties Color="ffbe88cc"/>
+                <ControlSignalSources/>
+                <BusRouters/>
+                <Keygroups>
+                    <Keygroup Name="Keygroup 0" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-69-G8 65-79.wav" OutputName="" ExclusiveGroup="0" LowKey="74" HighKey="125" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="74" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-69-G8 65-79.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="678400" PlayDirection="0" PlayRelease="0">
+                                    <Loop Start="350052" End="384425" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 1" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-63-G#3 65-79.wav" OutputName="" ExclusiveGroup="0" LowKey="68" HighKey="73" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-63-G#3 65-79.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="678912" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="175760" End="262755" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 2" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-45-D2 65-79.wav" OutputName="" ExclusiveGroup="0" LowKey="50" HighKey="55" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-45-D2 65-79.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 3" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-57-D3 65-79.wav" OutputName="" ExclusiveGroup="0" LowKey="62" HighKey="67" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-57-D3 65-79.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="679424" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="152022" End="226517" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 4" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-51-G#2 65-79.wav" OutputName="" ExclusiveGroup="0" LowKey="56" HighKey="61" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-51-G#2 65-79.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="680192" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="207054" End="290941" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 5" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-39-G#1 65-79.wav" OutputName="" ExclusiveGroup="0" LowKey="44" HighKey="49" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-39-G#1 65-79.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 6" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-0-D1 65-79.wav" OutputName="" ExclusiveGroup="0" LowKey="0" HighKey="43" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-0-D1 65-79.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                </Keygroups>
+            </Layer>
+            <Layer Name="Layer 3" Bypass="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Layer 4" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.029999999" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0" BypassInsertFX="0">
+                <Properties Color="ffca7d6d"/>
+                <ControlSignalSources/>
+                <BusRouters/>
+                <Keygroups>
+                    <Keygroup Name="Keygroup 0" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-69-G8 96-111.wav" OutputName="" ExclusiveGroup="0" LowKey="74" HighKey="125" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="2" Gain="1" Pitch="0" NoteTracking="1" BaseNote="74" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-69-G8 96-111.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 1" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-63-G#3 96-111.wav" OutputName="" ExclusiveGroup="0" LowKey="68" HighKey="73" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="2" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-63-G#3 96-111.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="680960" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="435577" End="479477" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 2" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-57-D3 96-111.wav" OutputName="" ExclusiveGroup="0" LowKey="62" HighKey="67" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="2" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-57-D3 96-111.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 3" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-51-G#2 96-111.wav" OutputName="" ExclusiveGroup="0" LowKey="56" HighKey="61" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="2" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-51-G#2 96-111.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 4" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-45-D2 96-111.wav" OutputName="" ExclusiveGroup="0" LowKey="50" HighKey="55" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="2" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-45-D2 96-111.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 5" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-39-G#1 96-111.wav" OutputName="" ExclusiveGroup="0" LowKey="44" HighKey="49" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="2" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-39-G#1 96-111.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 6" Bypass="0" Gain="1" Pan="0" DisplayName="saw2hp1lpres-0-D1 96-111.wav" OutputName="" ExclusiveGroup="0" LowKey="0" HighKey="43" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <ControlSignalSources>
+                            <AHD Name="AHD 1" DisplayName="AHD 1" Bypass="0" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0" AttackTime="0" AttackCurve="0" HoldTime="0" DecayTime="30" DecayCurve="0"/>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="1">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/AHD 1" Destination="Volume" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="2" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./saw2hp Samples/saw2hp1lpres-0-D1 96-111.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                </Keygroups>
+            </Layer>
+        </Layers>
+    </Program>
+</UVI4>

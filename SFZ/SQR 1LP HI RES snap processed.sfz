@@ -1,0 +1,127 @@
+// this file was generated from SQR 1LP HI RES snap processed.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=2 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20381 loop_end=21052 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC1-79-40GU.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20517 loop_end=21188 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC1-95-Z4UL.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20077 loop_end=21420 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC1-111-JQNI.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20132 loop_end=21475 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC1-127-2YOB.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20070 loop_end=21338 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC#1-79-S50W.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20090 loop_end=21358 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC#1-95-PB83.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20155 loop_end=21423 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC#1-111-GYOT.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20306 loop_end=21572 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC#1-127-5U2S.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20237 loop_end=21434 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD1-79-5PJ3.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20135 loop_end=21332 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD1-95-91ZR.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20284 loop_end=21481 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD1-111-3UD6.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20156 loop_end=21353 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD1-127-JVI9.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20097 loop_end=21226 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD#1-79-9HQX.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20314 loop_end=21443 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD#1-95-M7T6.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20302 loop_end=21431 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD#1-111-5KCX.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20145 loop_end=21274 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD#1-127-73O1.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20100 loop_end=21166 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzE1-79-OLZ1.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20178 loop_end=21244 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzE1-95-FCV6.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20440 loop_end=21506 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzE1-111-2SC5.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20193 loop_end=21259 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzE1-127-8Y74.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20118 loop_end=21124 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF1-79-FLZO.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20134 loop_end=21140 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF1-95-NUL8.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20230 loop_end=21236 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF1-111-KOH7.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20459 loop_end=21465 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF1-127-IN1A.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20451 loop_end=21401 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF#1-79-JOHU.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20283 loop_end=21233 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF#1-95-D2NN.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20081 loop_end=21506 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF#1-111-L5Y3.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20468 loop_end=21418 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF#1-127-5NK9.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20339 loop_end=21235 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG1-79-0TXX.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20143 loop_end=21488 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG1-95-QD77.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20336 loop_end=21232 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG1-111-P006.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20375 loop_end=21271 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG1-127-NB5D.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20324 loop_end=21170 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG#1-79-LPTI.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20307 loop_end=21153 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG#1-95-N4HT.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20502 loop_end=21348 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG#1-111-9H2J.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20256 loop_end=21525 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG#1-127-B3X8.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20116 loop_end=21314 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA1-79-39G7.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20305 loop_end=21103 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA1-95-WL3Z.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20434 loop_end=21232 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA1-111-4T7A.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20374 loop_end=21172 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA1-127-7PRL.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20191 loop_end=21321 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA#1-79-Q2Q7.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20343 loop_end=21096 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA#1-95-RPU5.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20218 loop_end=21348 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA#1-111-F7T4.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20430 loop_end=21183 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA#1-127-O8W8.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20090 loop_end=21513 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzB1-79-OLSZ.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20376 loop_end=21087 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzB1-95-2M0S.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20500 loop_end=21211 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzB1-111-SC3I.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20061 loop_end=21484 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzB1-127-WMNI.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20203 loop_end=21210 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC2-79-YP5X.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20150 loop_end=21493 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC2-95-IWMM.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20445 loop_end=21116 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC2-111-TYOV.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20502 loop_end=21173 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC2-127-OCPA.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20074 loop_end=21342 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC#2-79-TLL3.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20083 loop_end=21351 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC#2-95-1P6L.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20112 loop_end=21380 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC#2-111-CRJP.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20244 loop_end=21512 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC#2-127-62GO.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20280 loop_end=21476 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD2-79-8SX9.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20284 loop_end=21481 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD2-95-KAYE.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20254 loop_end=21151 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD2-111-3MD0.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20158 loop_end=21354 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD2-127-KG6T.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20450 loop_end=21297 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD#2-79-LC2O.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20230 loop_end=21359 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD#2-95-4S1Y.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20171 loop_end=21300 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD#2-111-H2YV.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20328 loop_end=21457 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzD#2-127-GPAS.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20173 loop_end=21505 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzE2-79-QRNZ.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20403 loop_end=21469 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzE2-95-NOJY.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20051 loop_end=21117 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzE2-111-1KZ4.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20469 loop_end=21268 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzE2-127-FMMY.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20327 loop_end=21081 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF2-79-SVIY.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20361 loop_end=21115 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF2-95-AX5I.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20276 loop_end=21534 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF2-111-UBRE.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20228 loop_end=21486 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF2-127-EDXU.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20355 loop_end=21542 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF#2-79-0XZB.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20444 loop_end=21156 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF#2-95-MB4T.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20411 loop_end=21360 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF#2-111-GJ64.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20335 loop_end=21284 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzF#2-127-D53V.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20150 loop_end=21270 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG2-79-ZAWD.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20211 loop_end=21107 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG2-95-FW6V.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20306 loop_end=21202 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG2-111-WEMK.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20148 loop_end=21492 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG2-127-ZJLJ.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20403 loop_end=21249 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG#2-79-0IFE.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20052 loop_end=21110 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG#2-95-ULH1.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20084 loop_end=21142 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG#2-111-4G4I.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20481 loop_end=21115 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzG#2-127-S8PC.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20051 loop_end=21249 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA2-79-4LHH.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20143 loop_end=21341 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA2-95-NCG1.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20140 loop_end=21338 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA2-111-UCKW.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20289 loop_end=21487 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA2-127-AAY9.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20173 loop_end=21492 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA#2-79-M512.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20179 loop_end=21498 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA#2-95-FVU9.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20320 loop_end=21262 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA#2-111-73GA.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20231 loop_end=21173 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzA#2-127-0WE5.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20501 loop_end=21212 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzB2-79-N48G.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20099 loop_end=21522 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzB2-95-2WF1.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20403 loop_end=21292 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzB2-111-4L2P.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20240 loop_end=21129 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzB2-127-U09L.aif
+<group>lokey=60 hikey=115 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=000 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=20103 loop_end=21278 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC3-79-3CYI.aif
+	<region> lovel=032 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20440 loop_end=21279 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC3-95-FWES.aif
+	<region> lovel=066 hivel=096 amp_velcurve_096=1 loop_mode=loop_sustain loop_start=20483 loop_end=21154 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC3-111-7NL6.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20314 loop_end=21489 sample=../Sounds/Squares/SQR 1LP HI RES snap processed/(2016222 201214)/kitzC3-127-BG3U.aif

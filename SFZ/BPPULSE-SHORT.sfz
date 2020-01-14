@@ -1,0 +1,15 @@
+// this file was generated from BPPULSE-SHORT.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=17 hikey=104 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 end=1348 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/BPPULSE Samples/tiny-104-8-POVV.wav
+	<region> lovel=011 hivel=020 amp_velcurve_020=1 end=1348 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/BPPULSE Samples/tiny-104-16-TMRC.wav
+	<region> lovel=021 hivel=030 amp_velcurve_030=1 end=1348 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/BPPULSE Samples/tiny-104-24-ABOD.wav
+	<region> lovel=031 hivel=040 amp_velcurve_040=1 end=1348 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/BPPULSE Samples/tiny-104-32-HCRY.wav
+	<region> lovel=040 hivel=050 amp_velcurve_050=1 end=1348 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/BPPULSE Samples/tiny-104-40-IKWK.wav
+	<region> lovel=051 hivel=060 amp_velcurve_060=1 end=1348 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/BPPULSE Samples/tiny-104-48-WOX3.wav
+	<region> lovel=061 hivel=070 amp_velcurve_070=1 end=1348 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/BPPULSE Samples/tiny-104-56-3AHH.wav
+	<region> lovel=071 hivel=080 amp_velcurve_080=1 end=1348 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/BPPULSE Samples/tiny-104-64-KSJQ.wav
+	<region> lovel=081 hivel=090 amp_velcurve_090=1 end=1348 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/BPPULSE Samples/tiny-104-71-XTGR.wav
+	<region> lovel=091 hivel=100 amp_velcurve_100=1 end=1348 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/BPPULSE Samples/tiny-104-79-PWT0.wav
+	<region> lovel=101 hivel=110 amp_velcurve_110=1 end=1348 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/BPPULSE Samples/tiny-104-87-9EPO.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 end=1348 loop_mode=loop_sustain loop_start=0 loop_end=1347 sample=../Sounds/Short Waves/BPPULSE Samples/tiny-104-95-OUZK.wav

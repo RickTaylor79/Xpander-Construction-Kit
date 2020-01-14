@@ -1,0 +1,57 @@
+// this file was generated from 2plptrmidresnoise.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=26 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=480 end=674350 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D0-21-8SZH.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=390 end=672638 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D0-42-L28B.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=528 end=668619 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D0-64-5AN2.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=534 end=666736 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D0-85-A5TP.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=426 end=666716 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D0-106-9DQ8.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=470 end=673474 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D0-127-HE0D.aif
+<group>lokey=27 hikey=32 pitch_keycenter=30 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=536 end=665973 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#0-21-GRLX.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=439 end=672809 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#0-42-1EAJ.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=418 end=668769 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#0-64-Q524.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=436 end=665773 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#0-85-JPZS.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=391 end=670434 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#0-106-OGOL.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=338 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#0-127-SXZN.aif
+<group>lokey=33 hikey=38 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=482 end=672977 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D1-21-JYRI.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=485 end=670698 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D1-42-4TXO.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=554 end=670564 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D1-64-NRNH.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=510 end=672579 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D1-85-4NBH.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=404 end=664493 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D1-106-C2JO.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=408 end=665315 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D1-127-0YF3.aif
+<group>lokey=39 hikey=44 pitch_keycenter=42 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=517 end=665979 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#1-21-9GUV.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=529 end=666524 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#1-42-0FI7.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=372 end=666143 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#1-64-M9R8.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=406 end=665988 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#1-85-F4IW.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=538 end=665133 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#1-106-00DG.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=401 end=666577 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#1-127-T8IR.aif
+<group>lokey=45 hikey=50 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=552 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D2-21-CKIV.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=537 end=666745 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D2-42-LDX4.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=350 end=665729 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D2-64-RLKV.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=510 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D2-85-9IE7.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=441 end=666272 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D2-106-ACUZ.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=608 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D2-127-Q4E7.aif
+<group>lokey=51 hikey=56 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=391 end=665799 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#2-21-HR06.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=369 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#2-42-FDKM.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=416 end=669601 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#2-64-HF8X.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=457 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#2-85-P7XI.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=371 end=664861 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#2-106-ETBZ.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=532 end=665564 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#2-127-RJPO.aif
+<group>lokey=57 hikey=62 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=410 end=665709 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D3-21-UGKF.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=536 end=665082 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D3-42-PIXM.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=509 end=665667 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D3-64-12VQ.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=552 end=664860 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D3-85-6V58.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=425 end=665974 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D3-106-X7SL.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=489 end=664956 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016D3-127-ZW5K.aif
+<group>lokey=63 hikey=68 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=439 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#3-21-BL0R.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=461 end=665194 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#3-42-IF24.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=646 end=171773 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#3-64-CEMR.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=437 end=166251 sample=../Sounds/Triangles/2plptrmidresnoise/xp2016G#3-85-SDKR.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1

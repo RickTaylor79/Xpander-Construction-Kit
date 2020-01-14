@@ -1,0 +1,113 @@
+// this file was generated from Tube String.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=3 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1361 sample=../Sounds/Misc/Tube String/Tube String-36-64-VPUN.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1030 sample=../Sounds/Misc/Tube String/Tube String-36-127-FMVM.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1318 end=745216 sample=../Sounds/Misc/Tube String/Tube String-37-64-A6W4.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1461 end=747736 sample=../Sounds/Misc/Tube String/Tube String-37-127-PI11.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1199 end=756608 sample=../Sounds/Misc/Tube String/Tube String-38-64-E93C.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1534 end=748016 sample=../Sounds/Misc/Tube String/Tube String-38-127-48ZW.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1401 end=748399 sample=../Sounds/Misc/Tube String/Tube String-39-64-BRAJ.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1508 sample=../Sounds/Misc/Tube String/Tube String-39-127-4BEF.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1331 end=745984 sample=../Sounds/Misc/Tube String/Tube String-40-64-BVRQ.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1386 end=747520 sample=../Sounds/Misc/Tube String/Tube String-40-127-O7OB.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1399 end=754846 sample=../Sounds/Misc/Tube String/Tube String-41-64-GHH7.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1464 end=744381 sample=../Sounds/Misc/Tube String/Tube String-41-127-X7F4.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1390 sample=../Sounds/Misc/Tube String/Tube String-42-64-SZM5.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1535 end=746968 sample=../Sounds/Misc/Tube String/Tube String-42-127-IQWH.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1404 end=745730 sample=../Sounds/Misc/Tube String/Tube String-43-64-73JY.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1369 end=747264 sample=../Sounds/Misc/Tube String/Tube String-43-127-OZSS.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1407 end=755772 sample=../Sounds/Misc/Tube String/Tube String-44-64-CDK3.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1371 end=743958 sample=../Sounds/Misc/Tube String/Tube String-44-127-86FL.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1251 end=746752 sample=../Sounds/Misc/Tube String/Tube String-45-64-5R4A.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1347 end=747298 sample=../Sounds/Misc/Tube String/Tube String-45-127-6S9A.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1374 sample=../Sounds/Misc/Tube String/Tube String-46-64-AO9X.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1407 end=746561 sample=../Sounds/Misc/Tube String/Tube String-46-127-5N27.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1407 sample=../Sounds/Misc/Tube String/Tube String-47-64-J95Q.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1347 end=743225 sample=../Sounds/Misc/Tube String/Tube String-47-127-9VZW.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1336 sample=../Sounds/Misc/Tube String/Tube String-48-64-UAO0.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1366 sample=../Sounds/Misc/Tube String/Tube String-48-127-49FI.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1339 end=747150 sample=../Sounds/Misc/Tube String/Tube String-49-64-9FBX.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1358 end=746118 sample=../Sounds/Misc/Tube String/Tube String-49-127-RHVE.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1360 end=754959 sample=../Sounds/Misc/Tube String/Tube String-50-64-6JUD.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1279 end=744749 sample=../Sounds/Misc/Tube String/Tube String-50-127-8183.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1400 end=746880 sample=../Sounds/Misc/Tube String/Tube String-51-64-M6SQ.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1249 end=747008 sample=../Sounds/Misc/Tube String/Tube String-51-127-W9MJ.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1529 end=746925 sample=../Sounds/Misc/Tube String/Tube String-52-64-UZ44.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1397 end=746406 sample=../Sounds/Misc/Tube String/Tube String-52-127-HKL9.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1236 end=758538 sample=../Sounds/Misc/Tube String/Tube String-53-64-WJH7.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1496 end=743982 sample=../Sounds/Misc/Tube String/Tube String-53-127-AC3F.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1492 end=749571 sample=../Sounds/Misc/Tube String/Tube String-54-64-65T2.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1314 end=747904 sample=../Sounds/Misc/Tube String/Tube String-54-127-HSPP.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1535 sample=../Sounds/Misc/Tube String/Tube String-55-64-CHWP.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1516 sample=../Sounds/Misc/Tube String/Tube String-55-127-304C.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1268 end=756608 sample=../Sounds/Misc/Tube String/Tube String-56-64-YCK6.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1506 sample=../Sounds/Misc/Tube String/Tube String-56-127-NFDZ.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1382 end=748947 sample=../Sounds/Misc/Tube String/Tube String-57-64-89UM.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1402 end=746886 sample=../Sounds/Misc/Tube String/Tube String-57-127-QPZT.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1246 end=922752 sample=../Sounds/Misc/Tube String/Tube String-58-64-T6W4.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=283 end=848664 sample=../Sounds/Misc/Tube String/Tube String-58-127-A0HF.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1401 end=758147 sample=../Sounds/Misc/Tube String/Tube String-59-64-QRFM.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1379 end=757454 sample=../Sounds/Misc/Tube String/Tube String-59-127-I37I.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1250 end=1014996 sample=../Sounds/Misc/Tube String/Tube String-60-64-XYCI.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=125 sample=../Sounds/Misc/Tube String/Tube String-60-127-GA79.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1388 sample=../Sounds/Misc/Tube String/Tube String-61-64-83C1.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1629 sample=../Sounds/Misc/Tube String/Tube String-61-127-5RE7.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=106 sample=../Sounds/Misc/Tube String/Tube String-62-64-PD6O.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1384 sample=../Sounds/Misc/Tube String/Tube String-62-127-JVIX.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=153 end=747146 sample=../Sounds/Misc/Tube String/Tube String-63-64-OKF9.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1375 sample=../Sounds/Misc/Tube String/Tube String-63-127-ZXWT.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1258 end=745371 sample=../Sounds/Misc/Tube String/Tube String-64-64-NDVI.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1260 end=745607 sample=../Sounds/Misc/Tube String/Tube String-64-127-32G9.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1406 sample=../Sounds/Misc/Tube String/Tube String-65-64-G2V9.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1396 end=744604 sample=../Sounds/Misc/Tube String/Tube String-65-127-6EJS.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1271 end=747915 sample=../Sounds/Misc/Tube String/Tube String-66-64-7L7N.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1366 end=746624 sample=../Sounds/Misc/Tube String/Tube String-66-127-8DSW.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1266 sample=../Sounds/Misc/Tube String/Tube String-67-64-AHK7.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1403 end=747136 sample=../Sounds/Misc/Tube String/Tube String-67-127-LRYW.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1257 end=758016 sample=../Sounds/Misc/Tube String/Tube String-68-64-D6JF.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1386 end=773145 sample=../Sounds/Misc/Tube String/Tube String-68-127-PQ4V.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=760 end=747392 sample=../Sounds/Misc/Tube String/Tube String-69-64-6ALO.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1493 end=765332 sample=../Sounds/Misc/Tube String/Tube String-69-127-XV7U.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=90 end=745088 sample=../Sounds/Misc/Tube String/Tube String-70-64-QGGE.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1250 end=751855 sample=../Sounds/Misc/Tube String/Tube String-70-127-PL0S.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1402 end=755722 sample=../Sounds/Misc/Tube String/Tube String-71-64-AXHN.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1372 end=744448 sample=../Sounds/Misc/Tube String/Tube String-71-127-1480.wav
+<group>lokey=72 hikey=124 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1406 sample=../Sounds/Misc/Tube String/Tube String-72-64-X66J.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1398 sample=../Sounds/Misc/Tube String/Tube String-72-127-G5WZ.wav

@@ -1,0 +1,12 @@
+// this file was generated from SAWX2-3HI1LO-SHORT.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=17 hikey=104 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=0 loop_end=2695 sample=../Sounds/Saws/SAWX2-3HI1LO-SHORT/(201639 142718)/tiny-104-64-KHZ2.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=0 loop_end=2695 sample=../Sounds/Saws/SAWX2-3HI1LO-SHORT/(201639 142718)/tiny-104-71-43P9.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=0 loop_end=2695 sample=../Sounds/Saws/SAWX2-3HI1LO-SHORT/(201639 142718)/tiny-104-79-MITP.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=0 loop_end=2695 sample=../Sounds/Saws/SAWX2-3HI1LO-SHORT/(201639 142718)/tiny-104-87-AR5J.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=0 loop_end=2695 sample=../Sounds/Saws/SAWX2-3HI1LO-SHORT/(201639 142718)/tiny-104-95-GJIY.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 loop_mode=loop_sustain loop_start=0 loop_end=2695 sample=../Sounds/Saws/SAWX2-3HI1LO-SHORT/(201639 142718)/tiny-104-103-LBFX.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=0 loop_end=2695 sample=../Sounds/Saws/SAWX2-3HI1LO-SHORT/(201639 142718)/tiny-104-111-CBQH.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 loop_mode=loop_sustain loop_start=0 loop_end=2695 sample=../Sounds/Saws/SAWX2-3HI1LO-SHORT/(201639 142718)/tiny-104-119-WKX9.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=0 loop_end=2695 sample=../Sounds/Saws/SAWX2-3HI1LO-SHORT/(201639 142718)/tiny-104-127-HHBJ.wav

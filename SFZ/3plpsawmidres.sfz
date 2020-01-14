@@ -1,0 +1,146 @@
+// this file was generated from 3plpsawmidres.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=24 hikey=25 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=632 end=666500 sample=../Sounds/Saws/3plpsawmidres/xp2016C#0-16-BL7Y.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=599 end=658478 sample=../Sounds/Saws/3plpsawmidres/xp2016C#0-32-5NYT.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=755 end=673144 sample=../Sounds/Saws/3plpsawmidres/xp2016C#0-48-H9FT.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=430 end=665061 sample=../Sounds/Saws/3plpsawmidres/xp2016C#0-64-NJP0.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=654 end=672858 sample=../Sounds/Saws/3plpsawmidres/xp2016C#0-79-72CC.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=621 end=665387 sample=../Sounds/Saws/3plpsawmidres/xp2016C#0-95-2839.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=478 end=673261 sample=../Sounds/Saws/3plpsawmidres/xp2016C#0-111-ZYQN.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=433 end=674000 sample=../Sounds/Saws/3plpsawmidres/xp2016C#0-127-RDHP.aif
+<group>lokey=26 hikey=30 pitch_keycenter=29 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=680 end=665789 sample=../Sounds/Saws/3plpsawmidres/xp2016F#0-16-NFMK.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=529 end=667096 sample=../Sounds/Saws/3plpsawmidres/xp2016F#0-32-T9OY.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=656 sample=../Sounds/Saws/3plpsawmidres/xp2016F#0-48-O2GH.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=518 end=665379 sample=../Sounds/Saws/3plpsawmidres/xp2016F#0-64-C50N.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=682 end=665946 sample=../Sounds/Saws/3plpsawmidres/xp2016F#0-79-D6HA.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=651 end=673366 sample=../Sounds/Saws/3plpsawmidres/xp2016F#0-95-YX9G.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=575 end=665954 sample=../Sounds/Saws/3plpsawmidres/xp2016F#0-111-J28G.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=593 end=665890 sample=../Sounds/Saws/3plpsawmidres/xp2016F#0-127-FB6U.aif
+<group>lokey=31 hikey=35 pitch_keycenter=34 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=483 end=665436 sample=../Sounds/Saws/3plpsawmidres/xp2016B0-16-GSFF.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=634 end=666051 sample=../Sounds/Saws/3plpsawmidres/xp2016B0-32-NCAI.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=657 end=664040 sample=../Sounds/Saws/3plpsawmidres/xp2016B0-48-IMMP.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=640 end=665248 sample=../Sounds/Saws/3plpsawmidres/xp2016B0-64-9TVK.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=602 sample=../Sounds/Saws/3plpsawmidres/xp2016B0-79-J5KQ.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=437 end=665043 sample=../Sounds/Saws/3plpsawmidres/xp2016B0-95-GFK8.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=555 end=671724 sample=../Sounds/Saws/3plpsawmidres/xp2016B0-111-V7RK.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=440 sample=../Sounds/Saws/3plpsawmidres/xp2016B0-127-6IXN.aif
+<group>lokey=36 hikey=40 pitch_keycenter=39 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=677 end=665594 sample=../Sounds/Saws/3plpsawmidres/xp2016E1-16-5EWC.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=621 end=666097 sample=../Sounds/Saws/3plpsawmidres/xp2016E1-32-I13M.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=426 end=668613 sample=../Sounds/Saws/3plpsawmidres/xp2016E1-48-HR3X.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=552 end=665726 sample=../Sounds/Saws/3plpsawmidres/xp2016E1-64-0F0T.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=550 end=663627 sample=../Sounds/Saws/3plpsawmidres/xp2016E1-79-4GJC.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=684 end=665007 sample=../Sounds/Saws/3plpsawmidres/xp2016E1-95-465F.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=633 end=665081 sample=../Sounds/Saws/3plpsawmidres/xp2016E1-111-THTB.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=546 end=666218 sample=../Sounds/Saws/3plpsawmidres/xp2016E1-127-0IMO.aif
+<group>lokey=41 hikey=45 pitch_keycenter=44 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=604 end=664824 sample=../Sounds/Saws/3plpsawmidres/xp2016A1-16-ZL29.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=559 end=665554 sample=../Sounds/Saws/3plpsawmidres/xp2016A1-32-6W1Y.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=471 end=665394 sample=../Sounds/Saws/3plpsawmidres/xp2016A1-48-CBTW.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=557 end=665188 sample=../Sounds/Saws/3plpsawmidres/xp2016A1-64-U0J8.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=536 end=665313 sample=../Sounds/Saws/3plpsawmidres/xp2016A1-79-PDTH.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=661 end=668470 sample=../Sounds/Saws/3plpsawmidres/xp2016A1-95-B526.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=513 end=665595 sample=../Sounds/Saws/3plpsawmidres/xp2016A1-111-0WWJ.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=638 end=665207 sample=../Sounds/Saws/3plpsawmidres/xp2016A1-127-2ZGT.aif
+<group>lokey=46 hikey=50 pitch_keycenter=49 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=481 end=664908 sample=../Sounds/Saws/3plpsawmidres/xp2016D2-16-BETI.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=642 end=665342 sample=../Sounds/Saws/3plpsawmidres/xp2016D2-32-0YO7.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=555 end=665327 sample=../Sounds/Saws/3plpsawmidres/xp2016D2-48-9K8X.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=479 end=664809 sample=../Sounds/Saws/3plpsawmidres/xp2016D2-64-RH9X.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=497 end=664937 sample=../Sounds/Saws/3plpsawmidres/xp2016D2-79-UTIM.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=443 end=664408 sample=../Sounds/Saws/3plpsawmidres/xp2016D2-95-654G.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=357 end=666207 sample=../Sounds/Saws/3plpsawmidres/xp2016D2-111-3XAL.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=537 end=665201 sample=../Sounds/Saws/3plpsawmidres/xp2016D2-127-0YI8.aif
+<group>lokey=51 hikey=55 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=458 end=665421 sample=../Sounds/Saws/3plpsawmidres/xp2016G2-16-FMPP.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=535 end=664173 sample=../Sounds/Saws/3plpsawmidres/xp2016G2-32-4LGL.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=518 end=665824 sample=../Sounds/Saws/3plpsawmidres/xp2016G2-48-EBN9.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=440 end=665015 sample=../Sounds/Saws/3plpsawmidres/xp2016G2-64-5V7O.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=587 end=664688 sample=../Sounds/Saws/3plpsawmidres/xp2016G2-79-Y95I.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=620 end=663126 sample=../Sounds/Saws/3plpsawmidres/xp2016G2-95-XKJV.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=600 end=664928 sample=../Sounds/Saws/3plpsawmidres/xp2016G2-111-UD7A.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=558 sample=../Sounds/Saws/3plpsawmidres/xp2016G2-127-WYT1.aif
+<group>lokey=56 hikey=60 pitch_keycenter=59 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=414 end=664812 sample=../Sounds/Saws/3plpsawmidres/xp2016C3-16-414E.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=499 end=664115 sample=../Sounds/Saws/3plpsawmidres/xp2016C3-32-9A9M.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=556 end=664680 sample=../Sounds/Saws/3plpsawmidres/xp2016C3-48-HYLY.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=495 sample=../Sounds/Saws/3plpsawmidres/xp2016C3-64-O3TI.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=478 end=664556 sample=../Sounds/Saws/3plpsawmidres/xp2016C3-79-ELLC.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=553 end=665077 sample=../Sounds/Saws/3plpsawmidres/xp2016C3-95-VS02.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=544 end=665449 sample=../Sounds/Saws/3plpsawmidres/xp2016C3-111-6LYX.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=613 end=665293 sample=../Sounds/Saws/3plpsawmidres/xp2016C3-127-8UGC.aif
+<group>lokey=61 hikey=65 pitch_keycenter=64 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=371 end=665847 sample=../Sounds/Saws/3plpsawmidres/xp2016F3-16-5DP6.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=516 end=664681 sample=../Sounds/Saws/3plpsawmidres/xp2016F3-32-EMKC.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=536 end=664314 sample=../Sounds/Saws/3plpsawmidres/xp2016F3-48-VS4R.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=424 end=663432 sample=../Sounds/Saws/3plpsawmidres/xp2016F3-64-U8UU.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=376 sample=../Sounds/Saws/3plpsawmidres/xp2016F3-79-CB24.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=408 end=664043 sample=../Sounds/Saws/3plpsawmidres/xp2016F3-95-GV3M.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=536 end=664617 sample=../Sounds/Saws/3plpsawmidres/xp2016F3-111-3F38.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=527 end=664669 sample=../Sounds/Saws/3plpsawmidres/xp2016F3-127-KWMY.aif
+<group>lokey=66 hikey=70 pitch_keycenter=69 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=446 end=664436 sample=../Sounds/Saws/3plpsawmidres/xp2016A#3-16-JHK2.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=576 end=663817 sample=../Sounds/Saws/3plpsawmidres/xp2016A#3-32-2MFM.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=655 end=664403 sample=../Sounds/Saws/3plpsawmidres/xp2016A#3-48-P0HR.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=556 sample=../Sounds/Saws/3plpsawmidres/xp2016A#3-64-VCEX.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=643 sample=../Sounds/Saws/3plpsawmidres/xp2016A#3-79-ZZOX.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=610 end=664278 sample=../Sounds/Saws/3plpsawmidres/xp2016A#3-95-C3O0.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=548 end=664543 sample=../Sounds/Saws/3plpsawmidres/xp2016A#3-111-FRI4.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=513 end=662632 sample=../Sounds/Saws/3plpsawmidres/xp2016A#3-127-687F.aif
+<group>lokey=71 hikey=75 pitch_keycenter=74 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=476 end=662543 sample=../Sounds/Saws/3plpsawmidres/xp2016D#4-16-7WG6.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=532 end=663881 sample=../Sounds/Saws/3plpsawmidres/xp2016D#4-32-2JCR.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=443 end=662336 sample=../Sounds/Saws/3plpsawmidres/xp2016D#4-48-A2O4.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=517 end=663786 sample=../Sounds/Saws/3plpsawmidres/xp2016D#4-64-5BXE.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=449 end=663256 sample=../Sounds/Saws/3plpsawmidres/xp2016D#4-79-NKHI.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=558 end=663320 sample=../Sounds/Saws/3plpsawmidres/xp2016D#4-95-GVF0.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=561 end=663160 sample=../Sounds/Saws/3plpsawmidres/xp2016D#4-111-KEXV.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=712 end=664431 sample=../Sounds/Saws/3plpsawmidres/xp2016D#4-127-IULI.aif
+<group>lokey=76 hikey=80 pitch_keycenter=79 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=448 end=662845 sample=../Sounds/Saws/3plpsawmidres/xp2016G#4-16-IEL7.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=664 end=663793 sample=../Sounds/Saws/3plpsawmidres/xp2016G#4-32-QVRM.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=570 end=662579 sample=../Sounds/Saws/3plpsawmidres/xp2016G#4-48-SKAX.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=620 sample=../Sounds/Saws/3plpsawmidres/xp2016G#4-64-MB7D.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=605 end=663403 sample=../Sounds/Saws/3plpsawmidres/xp2016G#4-79-PZ2C.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=750 end=662183 sample=../Sounds/Saws/3plpsawmidres/xp2016G#4-95-A5GB.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=514 end=663916 sample=../Sounds/Saws/3plpsawmidres/xp2016G#4-111-HLN6.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=603 sample=../Sounds/Saws/3plpsawmidres/xp2016G#4-127-18I7.aif
+<group>lokey=81 hikey=85 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=398 end=662813 sample=../Sounds/Saws/3plpsawmidres/xp2016C#5-16-LZMV.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=453 end=663153 sample=../Sounds/Saws/3plpsawmidres/xp2016C#5-32-M8DY.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=419 end=663033 sample=../Sounds/Saws/3plpsawmidres/xp2016C#5-48-6M25.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=684 end=663108 sample=../Sounds/Saws/3plpsawmidres/xp2016C#5-64-DRC3.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=412 end=663662 sample=../Sounds/Saws/3plpsawmidres/xp2016C#5-79-JPXH.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=654 end=662736 sample=../Sounds/Saws/3plpsawmidres/xp2016C#5-95-1HKT.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=560 end=662451 sample=../Sounds/Saws/3plpsawmidres/xp2016C#5-111-OB6B.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=596 end=663901 sample=../Sounds/Saws/3plpsawmidres/xp2016C#5-127-71C9.aif
+<group>lokey=86 hikey=90 pitch_keycenter=89 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=711 end=663532 sample=../Sounds/Saws/3plpsawmidres/xp2016F#5-16-5CHZ.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=554 end=663278 sample=../Sounds/Saws/3plpsawmidres/xp2016F#5-32-PCC9.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=394 end=663032 sample=../Sounds/Saws/3plpsawmidres/xp2016F#5-48-L9J1.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=417 end=662643 sample=../Sounds/Saws/3plpsawmidres/xp2016F#5-64-FPPP.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=649 sample=../Sounds/Saws/3plpsawmidres/xp2016F#5-79-6MNA.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=583 sample=../Sounds/Saws/3plpsawmidres/xp2016F#5-95-YPMA.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=571 end=664152 sample=../Sounds/Saws/3plpsawmidres/xp2016F#5-111-XFD3.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=617 end=663793 sample=../Sounds/Saws/3plpsawmidres/xp2016F#5-127-KFLF.aif
+<group>lokey=91 hikey=95 pitch_keycenter=94 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=625 end=663252 sample=../Sounds/Saws/3plpsawmidres/xp2016B5-16-W3RA.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=684 end=663296 sample=../Sounds/Saws/3plpsawmidres/xp2016B5-32-38T1.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=539 end=663451 sample=../Sounds/Saws/3plpsawmidres/xp2016B5-48-3001.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=678 end=663636 sample=../Sounds/Saws/3plpsawmidres/xp2016B5-64-24O7.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=507 end=663422 sample=../Sounds/Saws/3plpsawmidres/xp2016B5-79-KA0L.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=683 end=663135 sample=../Sounds/Saws/3plpsawmidres/xp2016B5-95-UGCR.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=616 end=663230 sample=../Sounds/Saws/3plpsawmidres/xp2016B5-111-BFXG.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=530 end=663636 sample=../Sounds/Saws/3plpsawmidres/xp2016B5-127-V6S7.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=625 end=663313 sample=../Sounds/Saws/3plpsawmidres/xp2016C6-16-KC7I.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=853 end=663878 sample=../Sounds/Saws/3plpsawmidres/xp2016C6-32-RWAA.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=515 end=663108 sample=../Sounds/Saws/3plpsawmidres/xp2016C6-48-25MB.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=468 sample=../Sounds/Saws/3plpsawmidres/xp2016C6-64-40XH.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=554 end=663901 sample=../Sounds/Saws/3plpsawmidres/xp2016C6-79-BJJM.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=450 end=663542 sample=../Sounds/Saws/3plpsawmidres/xp2016C6-95-DUG0.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=633 end=662927 sample=../Sounds/Saws/3plpsawmidres/xp2016C6-111-IWUK.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=663 end=663721 sample=../Sounds/Saws/3plpsawmidres/xp2016C6-127-3MS6.aif

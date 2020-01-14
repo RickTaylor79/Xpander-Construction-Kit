@@ -1,0 +1,65 @@
+// this file was generated from SAW-HILOWRES.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=1 hikey=38 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=273022 loop_end=545406 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-38-16-4HYH.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=376409 loop_end=494159 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-38-32-HSMA.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=450812 loop_end=587581 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-38-48-AVUQ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=314455 loop_end=600150 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-38-64-YHML.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=406789 loop_end=589058 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-38-79-4MZE.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=95426 loop_end=211720 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-38-95-PION.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=151962 loop_end=271196 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-38-111-FJD3.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=260950 loop_end=564060 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-38-127-T5IO.wav
+<group>lokey=39 hikey=44 pitch_keycenter=42 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=133843 loop_end=273106 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-44-16-F5Q2.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=302826 loop_end=497385 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-44-32-2ZWN.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=92729 loop_end=596551 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-44-48-CEUP.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=154776 loop_end=551063 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-44-64-7DI6.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=168280 loop_end=299335 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-44-79-O75T.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=121868 loop_end=591883 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-44-95-AT68.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=370363 loop_end=512712 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-44-111-6PHT.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257449 loop_end=388538 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-44-127-M1MG.wav
+<group>lokey=45 hikey=50 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=119704 loop_end=608884 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-50-16-JY70.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=138129 loop_end=563090 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-50-32-AXXR.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=191936 loop_end=411806 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-50-48-T1OU.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=497486 loop_end=612171 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-50-64-A8QN.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=224108 loop_end=603277 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-50-79-43FM.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=189357 loop_end=565163 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-50-95-4T6T.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=431651 loop_end=577779 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-50-111-SF23.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256812 loop_end=611865 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-50-127-QGSW.wav
+<group>lokey=51 hikey=56 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=362953 loop_end=568797 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-56-16-TD5L.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=262889 loop_end=536285 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-56-32-1NDG.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=452061 loop_end=556497 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-56-48-OT99.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=241640 loop_end=607714 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-56-64-CFXD.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=265663 loop_end=372657 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-56-79-TOAS.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=338137 loop_end=611556 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-56-95-QX0L.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=388507 loop_end=491943 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-56-111-GO3B.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=220811 loop_end=366340 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-56-127-3RVK.wav
+<group>lokey=57 hikey=62 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=320615 loop_end=449923 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-62-16-8F2Q.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=254604 loop_end=607883 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-62-32-LDVL.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=182259 loop_end=365555 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-62-48-DZ06.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=308801 loop_end=596180 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-62-64-PVAX.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=227228 loop_end=515330 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-62-79-5RWC.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=320078 loop_end=474057 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-62-95-Y4H7.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=394574 loop_end=530844 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-62-111-DMBK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=147544 loop_end=271407 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-62-127-BRVR.wav
+<group>lokey=63 hikey=68 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=362556 loop_end=509250 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-68-16-S4T9.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=108148 loop_end=216188 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-68-32-JG8W.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=412085 loop_end=606124 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-68-48-37D8.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=357011 loop_end=532615 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-68-64-NQO1.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=186913 loop_end=350513 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-68-79-33IG.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=172191 loop_end=608393 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-68-95-3D1W.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=411869 loop_end=612546 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-68-111-WAR3.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226132 loop_end=610194 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-68-127-GU3J.wav
+<group>lokey=69 hikey=127 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=101649 loop_end=604089 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-72-16-PESW.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=293552 loop_end=427990 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-72-32-9G7U.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=159192 loop_end=271568 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-72-48-A8HN.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=225799 loop_end=601672 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-72-64-JHF0.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=319064 loop_end=450152 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-72-79-V3WR.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=432414 loop_end=546062 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-72-95-XX6P.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=154944 loop_end=297083 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-72-111-TBEK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327675 loop_end=437320 sample=../Sounds/Saws/SAW-HILOWRES/(201639 12131)/SAW-HILOWRES-72-127-1J4V.wav

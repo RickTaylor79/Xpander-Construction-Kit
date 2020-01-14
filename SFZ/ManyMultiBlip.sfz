@@ -1,0 +1,429 @@
+// this file was generated from ManyMultiBlip.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=1 hikey=24 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=648 end=211010 sample=../Sounds/Misc/ManyMultiBlip/kettle-24-21-7Y4T.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=707 end=210598 sample=../Sounds/Misc/ManyMultiBlip/kettle-24-42-QVYO.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=748 end=222051 sample=../Sounds/Misc/ManyMultiBlip/kettle-24-64-I8I2.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=655 end=208822 sample=../Sounds/Misc/ManyMultiBlip/kettle-24-85-TTDR.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=628 end=146042 sample=../Sounds/Misc/ManyMultiBlip/kettle-24-106-LRYP.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=692 end=212522 sample=../Sounds/Misc/ManyMultiBlip/kettle-24-127-CBHI.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=622 end=213258 sample=../Sounds/Misc/ManyMultiBlip/kettle-25-21-3743.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=775 end=211911 sample=../Sounds/Misc/ManyMultiBlip/kettle-25-42-25S6.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=751 end=223326 sample=../Sounds/Misc/ManyMultiBlip/kettle-25-64-9R5X.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=794 end=210173 sample=../Sounds/Misc/ManyMultiBlip/kettle-25-85-ZHU5.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=668 end=145613 sample=../Sounds/Misc/ManyMultiBlip/kettle-25-106-V0Y6.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=716 end=214016 sample=../Sounds/Misc/ManyMultiBlip/kettle-25-127-OV4O.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=738 end=212487 sample=../Sounds/Misc/ManyMultiBlip/kettle-26-21-EOLO.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=711 end=211300 sample=../Sounds/Misc/ManyMultiBlip/kettle-26-42-F2PJ.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=767 sample=../Sounds/Misc/ManyMultiBlip/kettle-26-64-ZKMQ.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=684 end=208488 sample=../Sounds/Misc/ManyMultiBlip/kettle-26-85-L2IS.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=819 end=149832 sample=../Sounds/Misc/ManyMultiBlip/kettle-26-106-0S4G.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=745 end=213595 sample=../Sounds/Misc/ManyMultiBlip/kettle-26-127-5283.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=820 end=213229 sample=../Sounds/Misc/ManyMultiBlip/kettle-27-21-BKG4.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=674 end=208871 sample=../Sounds/Misc/ManyMultiBlip/kettle-27-42-S2JJ.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=639 end=224012 sample=../Sounds/Misc/ManyMultiBlip/kettle-27-64-O64O.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=645 end=208271 sample=../Sounds/Misc/ManyMultiBlip/kettle-27-85-263Q.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=684 end=146216 sample=../Sounds/Misc/ManyMultiBlip/kettle-27-106-BU50.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=716 end=212867 sample=../Sounds/Misc/ManyMultiBlip/kettle-27-127-4SZS.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=686 end=212785 sample=../Sounds/Misc/ManyMultiBlip/kettle-28-21-8FEG.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=734 end=210945 sample=../Sounds/Misc/ManyMultiBlip/kettle-28-42-38FC.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=655 end=223056 sample=../Sounds/Misc/ManyMultiBlip/kettle-28-64-TYT3.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=727 end=208387 sample=../Sounds/Misc/ManyMultiBlip/kettle-28-85-VL2O.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=808 end=146645 sample=../Sounds/Misc/ManyMultiBlip/kettle-28-106-FEZX.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=672 end=213730 sample=../Sounds/Misc/ManyMultiBlip/kettle-28-127-9TCX.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=727 end=212210 sample=../Sounds/Misc/ManyMultiBlip/kettle-29-21-HIZX.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=688 end=212761 sample=../Sounds/Misc/ManyMultiBlip/kettle-29-42-MPNZ.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=754 end=223663 sample=../Sounds/Misc/ManyMultiBlip/kettle-29-64-H6OX.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=804 end=208985 sample=../Sounds/Misc/ManyMultiBlip/kettle-29-85-L083.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=722 end=146027 sample=../Sounds/Misc/ManyMultiBlip/kettle-29-106-HV31.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=679 end=212571 sample=../Sounds/Misc/ManyMultiBlip/kettle-29-127-V7H7.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=725 end=211612 sample=../Sounds/Misc/ManyMultiBlip/kettle-30-21-1PMD.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=725 end=211132 sample=../Sounds/Misc/ManyMultiBlip/kettle-30-42-5OW0.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=668 end=221840 sample=../Sounds/Misc/ManyMultiBlip/kettle-30-64-MD1S.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=681 end=207925 sample=../Sounds/Misc/ManyMultiBlip/kettle-30-85-FBFF.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=632 end=144154 sample=../Sounds/Misc/ManyMultiBlip/kettle-30-106-JS01.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=636 end=212738 sample=../Sounds/Misc/ManyMultiBlip/kettle-30-127-924C.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=658 end=213259 sample=../Sounds/Misc/ManyMultiBlip/kettle-31-21-20DU.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=785 end=211016 sample=../Sounds/Misc/ManyMultiBlip/kettle-31-42-99GO.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=645 end=222179 sample=../Sounds/Misc/ManyMultiBlip/kettle-31-64-6CZD.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=680 end=209825 sample=../Sounds/Misc/ManyMultiBlip/kettle-31-85-0JRX.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=668 end=145893 sample=../Sounds/Misc/ManyMultiBlip/kettle-31-106-PIHZ.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=704 sample=../Sounds/Misc/ManyMultiBlip/kettle-31-127-J1PB.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=598 end=213287 sample=../Sounds/Misc/ManyMultiBlip/kettle-32-21-BFID.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=864 end=210903 sample=../Sounds/Misc/ManyMultiBlip/kettle-32-42-T2BF.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=722 sample=../Sounds/Misc/ManyMultiBlip/kettle-32-64-7TGH.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=859 end=208815 sample=../Sounds/Misc/ManyMultiBlip/kettle-32-85-I5AH.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=716 end=146013 sample=../Sounds/Misc/ManyMultiBlip/kettle-32-106-Y7R0.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=667 end=213635 sample=../Sounds/Misc/ManyMultiBlip/kettle-32-127-4CRU.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=641 end=212572 sample=../Sounds/Misc/ManyMultiBlip/kettle-33-21-F7H1.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=760 end=211516 sample=../Sounds/Misc/ManyMultiBlip/kettle-33-42-RH7B.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=633 end=222217 sample=../Sounds/Misc/ManyMultiBlip/kettle-33-64-D2NW.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=727 end=208819 sample=../Sounds/Misc/ManyMultiBlip/kettle-33-85-6KA7.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=715 end=145544 sample=../Sounds/Misc/ManyMultiBlip/kettle-33-106-UZAV.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=672 end=212964 sample=../Sounds/Misc/ManyMultiBlip/kettle-33-127-CQ5D.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=682 end=212438 sample=../Sounds/Misc/ManyMultiBlip/kettle-34-21-FK55.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=705 end=211518 sample=../Sounds/Misc/ManyMultiBlip/kettle-34-42-QG6K.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=761 end=222602 sample=../Sounds/Misc/ManyMultiBlip/kettle-34-64-VCT4.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=728 end=208898 sample=../Sounds/Misc/ManyMultiBlip/kettle-34-85-7Y3K.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=678 end=145450 sample=../Sounds/Misc/ManyMultiBlip/kettle-34-106-VW56.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=656 end=213477 sample=../Sounds/Misc/ManyMultiBlip/kettle-34-127-XPB2.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=770 end=211840 sample=../Sounds/Misc/ManyMultiBlip/kettle-35-21-5CTP.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=724 sample=../Sounds/Misc/ManyMultiBlip/kettle-35-42-T07N.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=659 end=223109 sample=../Sounds/Misc/ManyMultiBlip/kettle-35-64-Y2XS.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=633 end=208176 sample=../Sounds/Misc/ManyMultiBlip/kettle-35-85-NIJK.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=645 end=145044 sample=../Sounds/Misc/ManyMultiBlip/kettle-35-106-5385.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=676 end=213258 sample=../Sounds/Misc/ManyMultiBlip/kettle-35-127-YHKM.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=528 end=212381 sample=../Sounds/Misc/ManyMultiBlip/kettle-36-21-7ZL9.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=657 end=210860 sample=../Sounds/Misc/ManyMultiBlip/kettle-36-42-G2N1.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=851 end=223107 sample=../Sounds/Misc/ManyMultiBlip/kettle-36-64-0E3L.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=696 end=208001 sample=../Sounds/Misc/ManyMultiBlip/kettle-36-85-YVE8.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=687 end=144024 sample=../Sounds/Misc/ManyMultiBlip/kettle-36-106-UFNH.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=722 end=212739 sample=../Sounds/Misc/ManyMultiBlip/kettle-36-127-V0Z2.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=745 end=213348 sample=../Sounds/Misc/ManyMultiBlip/kettle-37-21-6S74.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=670 end=208335 sample=../Sounds/Misc/ManyMultiBlip/kettle-37-42-QW2T.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=844 end=222217 sample=../Sounds/Misc/ManyMultiBlip/kettle-37-64-UWPA.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=774 end=208814 sample=../Sounds/Misc/ManyMultiBlip/kettle-37-85-ZCLL.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=691 sample=../Sounds/Misc/ManyMultiBlip/kettle-37-106-C914.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=687 end=213112 sample=../Sounds/Misc/ManyMultiBlip/kettle-37-127-0Q8S.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=775 sample=../Sounds/Misc/ManyMultiBlip/kettle-38-21-FE4P.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=692 end=210974 sample=../Sounds/Misc/ManyMultiBlip/kettle-38-42-PNK4.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=683 end=222872 sample=../Sounds/Misc/ManyMultiBlip/kettle-38-64-TKD4.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=674 end=208703 sample=../Sounds/Misc/ManyMultiBlip/kettle-38-85-PPHG.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=723 end=145557 sample=../Sounds/Misc/ManyMultiBlip/kettle-38-106-QOYZ.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=648 end=213447 sample=../Sounds/Misc/ManyMultiBlip/kettle-38-127-1KOX.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=643 end=213007 sample=../Sounds/Misc/ManyMultiBlip/kettle-39-21-P20V.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=649 end=210063 sample=../Sounds/Misc/ManyMultiBlip/kettle-39-42-QV9E.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=540 end=222519 sample=../Sounds/Misc/ManyMultiBlip/kettle-39-64-EPJI.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=771 end=208575 sample=../Sounds/Misc/ManyMultiBlip/kettle-39-85-SI1I.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=698 end=144457 sample=../Sounds/Misc/ManyMultiBlip/kettle-39-106-2UQY.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=693 end=212480 sample=../Sounds/Misc/ManyMultiBlip/kettle-39-127-8AN0.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=640 end=213248 sample=../Sounds/Misc/ManyMultiBlip/kettle-40-21-WSNN.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=648 end=210849 sample=../Sounds/Misc/ManyMultiBlip/kettle-40-42-T2J3.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=780 end=222848 sample=../Sounds/Misc/ManyMultiBlip/kettle-40-64-4O0G.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=732 end=208022 sample=../Sounds/Misc/ManyMultiBlip/kettle-40-85-VTCB.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=686 end=144572 sample=../Sounds/Misc/ManyMultiBlip/kettle-40-106-O9I7.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=633 end=213403 sample=../Sounds/Misc/ManyMultiBlip/kettle-40-127-H665.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=635 end=213105 sample=../Sounds/Misc/ManyMultiBlip/kettle-41-21-PNXS.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=767 end=210304 sample=../Sounds/Misc/ManyMultiBlip/kettle-41-42-ZLV5.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=674 end=222252 sample=../Sounds/Misc/ManyMultiBlip/kettle-41-64-C23Y.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=677 end=208213 sample=../Sounds/Misc/ManyMultiBlip/kettle-41-85-O6XK.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=687 end=144901 sample=../Sounds/Misc/ManyMultiBlip/kettle-41-106-TVYF.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=633 end=213335 sample=../Sounds/Misc/ManyMultiBlip/kettle-41-127-C81Y.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=600 end=211418 sample=../Sounds/Misc/ManyMultiBlip/kettle-42-21-IC3W.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=662 end=213126 sample=../Sounds/Misc/ManyMultiBlip/kettle-42-42-DTDI.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=690 end=222362 sample=../Sounds/Misc/ManyMultiBlip/kettle-42-64-HQM6.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=863 end=208405 sample=../Sounds/Misc/ManyMultiBlip/kettle-42-85-MMIE.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=704 sample=../Sounds/Misc/ManyMultiBlip/kettle-42-106-WGO4.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=730 end=212900 sample=../Sounds/Misc/ManyMultiBlip/kettle-42-127-ITUF.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=701 end=211539 sample=../Sounds/Misc/ManyMultiBlip/kettle-43-21-MC6V.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=593 end=211988 sample=../Sounds/Misc/ManyMultiBlip/kettle-43-42-ASTF.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=857 sample=../Sounds/Misc/ManyMultiBlip/kettle-43-64-YDG5.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=778 end=207812 sample=../Sounds/Misc/ManyMultiBlip/kettle-43-85-FW2C.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=796 end=145299 sample=../Sounds/Misc/ManyMultiBlip/kettle-43-106-PQZ9.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=791 end=212452 sample=../Sounds/Misc/ManyMultiBlip/kettle-43-127-O9SS.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=670 sample=../Sounds/Misc/ManyMultiBlip/kettle-44-21-GJM0.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=744 end=210960 sample=../Sounds/Misc/ManyMultiBlip/kettle-44-42-J32N.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=679 end=222253 sample=../Sounds/Misc/ManyMultiBlip/kettle-44-64-7TWD.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=697 sample=../Sounds/Misc/ManyMultiBlip/kettle-44-85-L294.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=697 end=145152 sample=../Sounds/Misc/ManyMultiBlip/kettle-44-106-X3G9.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=641 end=213790 sample=../Sounds/Misc/ManyMultiBlip/kettle-44-127-GI1E.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=614 end=211727 sample=../Sounds/Misc/ManyMultiBlip/kettle-45-21-QLL1.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=666 end=211791 sample=../Sounds/Misc/ManyMultiBlip/kettle-45-42-I74P.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=702 end=223257 sample=../Sounds/Misc/ManyMultiBlip/kettle-45-64-XHOL.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=661 end=207689 sample=../Sounds/Misc/ManyMultiBlip/kettle-45-85-YNV3.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=832 sample=../Sounds/Misc/ManyMultiBlip/kettle-45-106-F53X.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=668 end=213378 sample=../Sounds/Misc/ManyMultiBlip/kettle-45-127-XF0F.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=700 end=212778 sample=../Sounds/Misc/ManyMultiBlip/kettle-46-21-7VC5.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=693 end=210636 sample=../Sounds/Misc/ManyMultiBlip/kettle-46-42-HDNN.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=774 sample=../Sounds/Misc/ManyMultiBlip/kettle-46-64-VYHT.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=813 end=209001 sample=../Sounds/Misc/ManyMultiBlip/kettle-46-85-XNIP.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=679 end=144770 sample=../Sounds/Misc/ManyMultiBlip/kettle-46-106-0UP8.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=683 end=212640 sample=../Sounds/Misc/ManyMultiBlip/kettle-46-127-7AGY.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=668 end=211907 sample=../Sounds/Misc/ManyMultiBlip/kettle-47-21-LKZD.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=632 end=210631 sample=../Sounds/Misc/ManyMultiBlip/kettle-47-42-OZ7V.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=795 end=222555 sample=../Sounds/Misc/ManyMultiBlip/kettle-47-64-R7YD.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=671 end=208714 sample=../Sounds/Misc/ManyMultiBlip/kettle-47-85-NSA1.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=685 sample=../Sounds/Misc/ManyMultiBlip/kettle-47-106-RZUH.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=717 end=213137 sample=../Sounds/Misc/ManyMultiBlip/kettle-47-127-2XTJ.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=802 end=213300 sample=../Sounds/Misc/ManyMultiBlip/kettle-48-21-OZFA.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=706 end=210502 sample=../Sounds/Misc/ManyMultiBlip/kettle-48-42-7J6M.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=562 sample=../Sounds/Misc/ManyMultiBlip/kettle-48-64-GJA5.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=722 end=208260 sample=../Sounds/Misc/ManyMultiBlip/kettle-48-85-I710.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=804 end=144910 sample=../Sounds/Misc/ManyMultiBlip/kettle-48-106-QYX3.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=634 end=212381 sample=../Sounds/Misc/ManyMultiBlip/kettle-48-127-PPDJ.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=700 end=212292 sample=../Sounds/Misc/ManyMultiBlip/kettle-49-21-M4AX.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=782 end=211387 sample=../Sounds/Misc/ManyMultiBlip/kettle-49-42-D9Z7.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=790 end=222668 sample=../Sounds/Misc/ManyMultiBlip/kettle-49-64-AOJH.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=722 end=209298 sample=../Sounds/Misc/ManyMultiBlip/kettle-49-85-88YH.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=710 sample=../Sounds/Misc/ManyMultiBlip/kettle-49-106-P1XX.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=627 end=212113 sample=../Sounds/Misc/ManyMultiBlip/kettle-49-127-MGTY.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=724 end=212409 sample=../Sounds/Misc/ManyMultiBlip/kettle-50-21-GS4G.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=666 end=211515 sample=../Sounds/Misc/ManyMultiBlip/kettle-50-42-3MZ3.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=608 end=223044 sample=../Sounds/Misc/ManyMultiBlip/kettle-50-64-ZICP.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=690 end=208003 sample=../Sounds/Misc/ManyMultiBlip/kettle-50-85-XEMH.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=759 end=144060 sample=../Sounds/Misc/ManyMultiBlip/kettle-50-106-4FZF.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=709 end=213159 sample=../Sounds/Misc/ManyMultiBlip/kettle-50-127-MFHS.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=669 end=211801 sample=../Sounds/Misc/ManyMultiBlip/kettle-51-21-V26I.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=667 end=210584 sample=../Sounds/Misc/ManyMultiBlip/kettle-51-42-A8ZJ.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=870 end=223906 sample=../Sounds/Misc/ManyMultiBlip/kettle-51-64-XSLD.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=677 end=208143 sample=../Sounds/Misc/ManyMultiBlip/kettle-51-85-XS6P.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=684 end=143747 sample=../Sounds/Misc/ManyMultiBlip/kettle-51-106-9I4R.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=848 end=213288 sample=../Sounds/Misc/ManyMultiBlip/kettle-51-127-A2NB.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=762 end=213813 sample=../Sounds/Misc/ManyMultiBlip/kettle-52-21-0856.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=715 end=211474 sample=../Sounds/Misc/ManyMultiBlip/kettle-52-42-I03M.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=669 end=222345 sample=../Sounds/Misc/ManyMultiBlip/kettle-52-64-2OOK.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=687 end=207772 sample=../Sounds/Misc/ManyMultiBlip/kettle-52-85-9EB8.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=672 end=144045 sample=../Sounds/Misc/ManyMultiBlip/kettle-52-106-RAO2.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=617 end=212410 sample=../Sounds/Misc/ManyMultiBlip/kettle-52-127-1CJV.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=701 end=212866 sample=../Sounds/Misc/ManyMultiBlip/kettle-53-21-F5E3.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=837 end=212011 sample=../Sounds/Misc/ManyMultiBlip/kettle-53-42-2XEN.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=649 end=223105 sample=../Sounds/Misc/ManyMultiBlip/kettle-53-64-9W0D.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=701 end=207865 sample=../Sounds/Misc/ManyMultiBlip/kettle-53-85-3M54.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=825 end=144953 sample=../Sounds/Misc/ManyMultiBlip/kettle-53-106-ITZ9.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=649 end=212294 sample=../Sounds/Misc/ManyMultiBlip/kettle-53-127-6X0S.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=691 sample=../Sounds/Misc/ManyMultiBlip/kettle-54-21-JURM.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=793 end=210205 sample=../Sounds/Misc/ManyMultiBlip/kettle-54-42-K3NZ.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=685 end=222601 sample=../Sounds/Misc/ManyMultiBlip/kettle-54-64-F1WA.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=780 end=208258 sample=../Sounds/Misc/ManyMultiBlip/kettle-54-85-C82X.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=725 sample=../Sounds/Misc/ManyMultiBlip/kettle-54-106-68NL.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=661 end=214026 sample=../Sounds/Misc/ManyMultiBlip/kettle-54-127-64ZK.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=700 end=212113 sample=../Sounds/Misc/ManyMultiBlip/kettle-55-21-J5L9.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=805 end=210735 sample=../Sounds/Misc/ManyMultiBlip/kettle-55-42-P9ER.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=672 end=222722 sample=../Sounds/Misc/ManyMultiBlip/kettle-55-64-J876.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=679 end=208173 sample=../Sounds/Misc/ManyMultiBlip/kettle-55-85-S8WX.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=653 sample=../Sounds/Misc/ManyMultiBlip/kettle-55-106-IVDR.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=679 end=212608 sample=../Sounds/Misc/ManyMultiBlip/kettle-55-127-2ZUD.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=671 end=213181 sample=../Sounds/Misc/ManyMultiBlip/kettle-56-21-V6YI.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=661 end=210944 sample=../Sounds/Misc/ManyMultiBlip/kettle-56-42-4HFS.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=723 end=222689 sample=../Sounds/Misc/ManyMultiBlip/kettle-56-64-57GI.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=695 end=208129 sample=../Sounds/Misc/ManyMultiBlip/kettle-56-85-J3X6.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=860 sample=../Sounds/Misc/ManyMultiBlip/kettle-56-106-Q3S1.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=734 sample=../Sounds/Misc/ManyMultiBlip/kettle-56-127-405J.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=652 end=212148 sample=../Sounds/Misc/ManyMultiBlip/kettle-57-21-PHU2.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=664 end=212129 sample=../Sounds/Misc/ManyMultiBlip/kettle-57-42-T72L.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=651 end=222125 sample=../Sounds/Misc/ManyMultiBlip/kettle-57-64-OOY4.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=663 end=208148 sample=../Sounds/Misc/ManyMultiBlip/kettle-57-85-END6.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=669 end=146572 sample=../Sounds/Misc/ManyMultiBlip/kettle-57-106-QXO9.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=644 end=212736 sample=../Sounds/Misc/ManyMultiBlip/kettle-57-127-5LM9.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=824 end=212539 sample=../Sounds/Misc/ManyMultiBlip/kettle-58-21-OJWZ.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=582 end=210764 sample=../Sounds/Misc/ManyMultiBlip/kettle-58-42-EGCG.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=683 end=223537 sample=../Sounds/Misc/ManyMultiBlip/kettle-58-64-2J36.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=583 end=207750 sample=../Sounds/Misc/ManyMultiBlip/kettle-58-85-P5V4.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=812 sample=../Sounds/Misc/ManyMultiBlip/kettle-58-106-IVI0.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=636 end=213003 sample=../Sounds/Misc/ManyMultiBlip/kettle-58-127-DA4F.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=705 end=211975 sample=../Sounds/Misc/ManyMultiBlip/kettle-59-21-Y52U.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=716 end=211242 sample=../Sounds/Misc/ManyMultiBlip/kettle-59-42-2CPN.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=641 end=222745 sample=../Sounds/Misc/ManyMultiBlip/kettle-59-64-VSH4.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=755 end=208396 sample=../Sounds/Misc/ManyMultiBlip/kettle-59-85-HKLB.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=750 sample=../Sounds/Misc/ManyMultiBlip/kettle-59-106-S7N5.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=649 sample=../Sounds/Misc/ManyMultiBlip/kettle-59-127-RYEH.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=736 end=212608 sample=../Sounds/Misc/ManyMultiBlip/kettle-60-21-6GW2.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=719 sample=../Sounds/Misc/ManyMultiBlip/kettle-60-42-H748.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=587 end=222083 sample=../Sounds/Misc/ManyMultiBlip/kettle-60-64-9Y56.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=631 end=207488 sample=../Sounds/Misc/ManyMultiBlip/kettle-60-85-OBCK.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=554 end=143872 sample=../Sounds/Misc/ManyMultiBlip/kettle-60-106-P6M5.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=636 end=213275 sample=../Sounds/Misc/ManyMultiBlip/kettle-60-127-1U5L.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=614 end=213134 sample=../Sounds/Misc/ManyMultiBlip/kettle-61-21-0VAY.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=685 end=210862 sample=../Sounds/Misc/ManyMultiBlip/kettle-61-42-4VE1.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=696 end=222733 sample=../Sounds/Misc/ManyMultiBlip/kettle-61-64-B4OC.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=737 end=208006 sample=../Sounds/Misc/ManyMultiBlip/kettle-61-85-ZYKW.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=593 sample=../Sounds/Misc/ManyMultiBlip/kettle-61-106-1D3D.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=740 end=212736 sample=../Sounds/Misc/ManyMultiBlip/kettle-61-127-01C9.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=701 end=211848 sample=../Sounds/Misc/ManyMultiBlip/kettle-62-21-QXMK.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=730 end=210564 sample=../Sounds/Misc/ManyMultiBlip/kettle-62-42-FIQX.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=556 end=222376 sample=../Sounds/Misc/ManyMultiBlip/kettle-62-64-E2LB.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=697 end=208075 sample=../Sounds/Misc/ManyMultiBlip/kettle-62-85-JW7C.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=659 sample=../Sounds/Misc/ManyMultiBlip/kettle-62-106-OVKW.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=686 sample=../Sounds/Misc/ManyMultiBlip/kettle-62-127-VULX.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=713 end=212019 sample=../Sounds/Misc/ManyMultiBlip/kettle-63-21-RKRZ.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=764 end=211097 sample=../Sounds/Misc/ManyMultiBlip/kettle-63-42-QY3C.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=630 end=222336 sample=../Sounds/Misc/ManyMultiBlip/kettle-63-64-3JBD.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=723 end=207616 sample=../Sounds/Misc/ManyMultiBlip/kettle-63-85-VED4.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=653 end=143373 sample=../Sounds/Misc/ManyMultiBlip/kettle-63-106-574D.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=689 end=213277 sample=../Sounds/Misc/ManyMultiBlip/kettle-63-127-D7X0.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=681 sample=../Sounds/Misc/ManyMultiBlip/kettle-64-21-QU2G.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=758 end=211240 sample=../Sounds/Misc/ManyMultiBlip/kettle-64-42-MNQE.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=655 end=222234 sample=../Sounds/Misc/ManyMultiBlip/kettle-64-64-TDO4.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=667 end=207617 sample=../Sounds/Misc/ManyMultiBlip/kettle-64-85-1CDF.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=718 end=144897 sample=../Sounds/Misc/ManyMultiBlip/kettle-64-106-GFBV.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=770 end=213400 sample=../Sounds/Misc/ManyMultiBlip/kettle-64-127-9NWB.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=733 end=212358 sample=../Sounds/Misc/ManyMultiBlip/kettle-65-21-BTKP.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=776 end=210515 sample=../Sounds/Misc/ManyMultiBlip/kettle-65-42-YV9K.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=646 end=222081 sample=../Sounds/Misc/ManyMultiBlip/kettle-65-64-4BPX.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=810 end=207841 sample=../Sounds/Misc/ManyMultiBlip/kettle-65-85-Q221.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=797 end=143360 sample=../Sounds/Misc/ManyMultiBlip/kettle-65-106-PXKY.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=612 end=213134 sample=../Sounds/Misc/ManyMultiBlip/kettle-65-127-3FKH.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=838 end=211840 sample=../Sounds/Misc/ManyMultiBlip/kettle-66-21-KPOD.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=577 end=210065 sample=../Sounds/Misc/ManyMultiBlip/kettle-66-42-NA86.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=611 end=222090 sample=../Sounds/Misc/ManyMultiBlip/kettle-66-64-6SRW.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=806 end=207684 sample=../Sounds/Misc/ManyMultiBlip/kettle-66-85-5XZF.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=617 end=143105 sample=../Sounds/Misc/ManyMultiBlip/kettle-66-106-937O.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=750 end=212883 sample=../Sounds/Misc/ManyMultiBlip/kettle-66-127-QPAP.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=873 end=214288 sample=../Sounds/Misc/ManyMultiBlip/kettle-67-21-S3GA.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=699 end=211615 sample=../Sounds/Misc/ManyMultiBlip/kettle-67-42-SOS2.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=749 end=222211 sample=../Sounds/Misc/ManyMultiBlip/kettle-67-64-I9RE.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=622 end=208022 sample=../Sounds/Misc/ManyMultiBlip/kettle-67-85-NXIV.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=632 end=143001 sample=../Sounds/Misc/ManyMultiBlip/kettle-67-106-KTOE.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=726 sample=../Sounds/Misc/ManyMultiBlip/kettle-67-127-0DIG.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=628 end=213018 sample=../Sounds/Misc/ManyMultiBlip/kettle-68-21-82I0.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=788 end=211367 sample=../Sounds/Misc/ManyMultiBlip/kettle-68-42-B39I.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=712 sample=../Sounds/Misc/ManyMultiBlip/kettle-68-64-3QEF.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=731 end=207788 sample=../Sounds/Misc/ManyMultiBlip/kettle-68-85-18S8.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=746 end=148096 sample=../Sounds/Misc/ManyMultiBlip/kettle-68-106-TAVB.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=742 end=213123 sample=../Sounds/Misc/ManyMultiBlip/kettle-68-127-WS1P.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=722 end=212498 sample=../Sounds/Misc/ManyMultiBlip/kettle-69-21-U8X6.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=728 end=210587 sample=../Sounds/Misc/ManyMultiBlip/kettle-69-42-E35R.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=650 end=222633 sample=../Sounds/Misc/ManyMultiBlip/kettle-69-64-LSJ5.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=744 sample=../Sounds/Misc/ManyMultiBlip/kettle-69-85-G9HC.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=1072 end=144812 sample=../Sounds/Misc/ManyMultiBlip/kettle-69-106-I8JJ.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=846 end=213183 sample=../Sounds/Misc/ManyMultiBlip/kettle-69-127-FU3J.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=631 end=211613 sample=../Sounds/Misc/ManyMultiBlip/kettle-70-21-1Y6Y.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=735 end=210621 sample=../Sounds/Misc/ManyMultiBlip/kettle-70-42-SWAN.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=610 end=221845 sample=../Sounds/Misc/ManyMultiBlip/kettle-70-64-WJUZ.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=759 end=207897 sample=../Sounds/Misc/ManyMultiBlip/kettle-70-85-LG9J.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=779 end=142479 sample=../Sounds/Misc/ManyMultiBlip/kettle-70-106-G2R6.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=683 end=211737 sample=../Sounds/Misc/ManyMultiBlip/kettle-70-127-5KBE.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=819 end=211996 sample=../Sounds/Misc/ManyMultiBlip/kettle-71-21-9SEV.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=583 end=210834 sample=../Sounds/Misc/ManyMultiBlip/kettle-71-42-QJS2.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=793 end=222470 sample=../Sounds/Misc/ManyMultiBlip/kettle-71-64-OB3T.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=778 end=208047 sample=../Sounds/Misc/ManyMultiBlip/kettle-71-85-ESHS.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=728 sample=../Sounds/Misc/ManyMultiBlip/kettle-71-106-1PIC.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=697 end=213262 sample=../Sounds/Misc/ManyMultiBlip/kettle-71-127-V0QL.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=669 sample=../Sounds/Misc/ManyMultiBlip/kettle-72-21-S7I3.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=704 end=211352 sample=../Sounds/Misc/ManyMultiBlip/kettle-72-42-4NUZ.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=765 end=223629 sample=../Sounds/Misc/ManyMultiBlip/kettle-72-64-7MP5.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=734 end=208425 sample=../Sounds/Misc/ManyMultiBlip/kettle-72-85-6PJE.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=595 end=144256 sample=../Sounds/Misc/ManyMultiBlip/kettle-72-106-991R.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=746 end=212481 sample=../Sounds/Misc/ManyMultiBlip/kettle-72-127-NZTJ.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=718 end=211860 sample=../Sounds/Misc/ManyMultiBlip/kettle-73-21-729G.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=588 end=211203 sample=../Sounds/Misc/ManyMultiBlip/kettle-73-42-YOLD.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=608 end=222373 sample=../Sounds/Misc/ManyMultiBlip/kettle-73-64-67NO.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=744 end=207775 sample=../Sounds/Misc/ManyMultiBlip/kettle-73-85-JYJ7.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=711 sample=../Sounds/Misc/ManyMultiBlip/kettle-73-106-VB4G.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=557 end=212366 sample=../Sounds/Misc/ManyMultiBlip/kettle-73-127-LOD1.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=662 end=212505 sample=../Sounds/Misc/ManyMultiBlip/kettle-74-21-P38K.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=648 end=211712 sample=../Sounds/Misc/ManyMultiBlip/kettle-74-42-X6YH.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=769 end=222513 sample=../Sounds/Misc/ManyMultiBlip/kettle-74-64-VQ3H.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=770 sample=../Sounds/Misc/ManyMultiBlip/kettle-74-85-QNGT.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=750 sample=../Sounds/Misc/ManyMultiBlip/kettle-74-106-SNZ6.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=581 end=211467 sample=../Sounds/Misc/ManyMultiBlip/kettle-74-127-7MR6.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=696 end=211863 sample=../Sounds/Misc/ManyMultiBlip/kettle-75-21-UMYO.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=746 end=210707 sample=../Sounds/Misc/ManyMultiBlip/kettle-75-42-IWMY.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=761 end=221961 sample=../Sounds/Misc/ManyMultiBlip/kettle-75-64-QW84.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=815 end=207747 sample=../Sounds/Misc/ManyMultiBlip/kettle-75-85-IE3G.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=611 end=144384 sample=../Sounds/Misc/ManyMultiBlip/kettle-75-106-HYDN.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=701 end=212876 sample=../Sounds/Misc/ManyMultiBlip/kettle-75-127-3RWN.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=721 end=212499 sample=../Sounds/Misc/ManyMultiBlip/kettle-76-21-GQC5.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=636 end=210691 sample=../Sounds/Misc/ManyMultiBlip/kettle-76-42-O451.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=570 end=222593 sample=../Sounds/Misc/ManyMultiBlip/kettle-76-64-H448.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=805 end=207908 sample=../Sounds/Misc/ManyMultiBlip/kettle-76-85-KFEJ.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=742 sample=../Sounds/Misc/ManyMultiBlip/kettle-76-106-CHME.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=723 end=213014 sample=../Sounds/Misc/ManyMultiBlip/kettle-76-127-WJGA.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=753 sample=../Sounds/Misc/ManyMultiBlip/kettle-77-21-M2GY.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=808 end=211472 sample=../Sounds/Misc/ManyMultiBlip/kettle-77-42-4LTL.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=796 end=222604 sample=../Sounds/Misc/ManyMultiBlip/kettle-77-64-7IJL.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=700 end=208161 sample=../Sounds/Misc/ManyMultiBlip/kettle-77-85-HEIX.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=625 sample=../Sounds/Misc/ManyMultiBlip/kettle-77-106-VHTJ.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=674 end=212248 sample=../Sounds/Misc/ManyMultiBlip/kettle-77-127-MVQ5.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=822 end=212510 sample=../Sounds/Misc/ManyMultiBlip/kettle-78-21-P1Y0.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=763 end=210590 sample=../Sounds/Misc/ManyMultiBlip/kettle-78-42-1MCG.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=690 end=223746 sample=../Sounds/Misc/ManyMultiBlip/kettle-78-64-BTI2.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=826 end=208807 sample=../Sounds/Misc/ManyMultiBlip/kettle-78-85-ZU3M.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=699 end=141737 sample=../Sounds/Misc/ManyMultiBlip/kettle-78-106-68HO.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=656 end=211728 sample=../Sounds/Misc/ManyMultiBlip/kettle-78-127-N036.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=793 end=212482 sample=../Sounds/Misc/ManyMultiBlip/kettle-79-21-N220.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=696 sample=../Sounds/Misc/ManyMultiBlip/kettle-79-42-827Z.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=649 sample=../Sounds/Misc/ManyMultiBlip/kettle-79-64-IE4C.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=696 end=208794 sample=../Sounds/Misc/ManyMultiBlip/kettle-79-85-5GUG.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=725 sample=../Sounds/Misc/ManyMultiBlip/kettle-79-106-N0DV.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=785 end=211712 sample=../Sounds/Misc/ManyMultiBlip/kettle-79-127-S0OH.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=591 end=211866 sample=../Sounds/Misc/ManyMultiBlip/kettle-80-21-ZQFR.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=627 end=212352 sample=../Sounds/Misc/ManyMultiBlip/kettle-80-42-250E.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=786 end=222208 sample=../Sounds/Misc/ManyMultiBlip/kettle-80-64-C139.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=721 end=208296 sample=../Sounds/Misc/ManyMultiBlip/kettle-80-85-4UPD.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=722 sample=../Sounds/Misc/ManyMultiBlip/kettle-80-106-9JOF.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=772 end=212519 sample=../Sounds/Misc/ManyMultiBlip/kettle-80-127-U6AU.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=772 end=213337 sample=../Sounds/Misc/ManyMultiBlip/kettle-81-21-7CXX.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=741 end=211970 sample=../Sounds/Misc/ManyMultiBlip/kettle-81-42-K91A.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=722 sample=../Sounds/Misc/ManyMultiBlip/kettle-81-64-H43T.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=779 end=208640 sample=../Sounds/Misc/ManyMultiBlip/kettle-81-85-Q8YZ.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=586 end=140714 sample=../Sounds/Misc/ManyMultiBlip/kettle-81-106-QXRX.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=738 sample=../Sounds/Misc/ManyMultiBlip/kettle-81-127-ZM33.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=709 end=211605 sample=../Sounds/Misc/ManyMultiBlip/kettle-82-21-T288.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=743 end=210593 sample=../Sounds/Misc/ManyMultiBlip/kettle-82-42-DEMN.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=740 end=222087 sample=../Sounds/Misc/ManyMultiBlip/kettle-82-64-YDFC.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=543 end=207744 sample=../Sounds/Misc/ManyMultiBlip/kettle-82-85-1E73.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=682 sample=../Sounds/Misc/ManyMultiBlip/kettle-82-106-URVQ.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=748 end=212257 sample=../Sounds/Misc/ManyMultiBlip/kettle-82-127-6QJ2.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=614 end=212367 sample=../Sounds/Misc/ManyMultiBlip/kettle-83-21-95V1.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=723 end=211201 sample=../Sounds/Misc/ManyMultiBlip/kettle-83-42-QWR8.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=759 end=222208 sample=../Sounds/Misc/ManyMultiBlip/kettle-83-64-FA90.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=748 end=209309 sample=../Sounds/Misc/ManyMultiBlip/kettle-83-85-7ABR.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=802 sample=../Sounds/Misc/ManyMultiBlip/kettle-83-106-D3KP.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=750 end=212608 sample=../Sounds/Misc/ManyMultiBlip/kettle-83-127-0AJZ.wav
+<group>lokey=84 hikey=125 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=725 end=212238 sample=../Sounds/Misc/ManyMultiBlip/kettle-84-21-M6FG.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=624 end=210064 sample=../Sounds/Misc/ManyMultiBlip/kettle-84-42-N119.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=640 sample=../Sounds/Misc/ManyMultiBlip/kettle-84-64-O2JJ.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=550 sample=../Sounds/Misc/ManyMultiBlip/kettle-84-85-54ZR.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=798 end=141582 sample=../Sounds/Misc/ManyMultiBlip/kettle-84-106-P00R.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=637 end=212610 sample=../Sounds/Misc/ManyMultiBlip/kettle-84-127-UHXC.wav

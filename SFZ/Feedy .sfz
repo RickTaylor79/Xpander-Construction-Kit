@@ -1,0 +1,307 @@
+// this file was generated from Feedy .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=7 hikey=24 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=569 sample=../Sounds/Misc/Feedy/Feedy -24-32-OITT.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=681 end=134188 sample=../Sounds/Misc/Feedy/Feedy -24-64-1G8I.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=646 end=133851 sample=../Sounds/Misc/Feedy/Feedy -24-95-YCRO.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=575 end=143931 sample=../Sounds/Misc/Feedy/Feedy -24-127-KY9O.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=608 end=130762 sample=../Sounds/Misc/Feedy/Feedy -25-32-Y8UJ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=666 end=136137 sample=../Sounds/Misc/Feedy/Feedy -25-64-1VG4.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=604 end=134999 sample=../Sounds/Misc/Feedy/Feedy -25-95-EO7T.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=753 end=134493 sample=../Sounds/Misc/Feedy/Feedy -25-127-NM8N.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=657 end=133880 sample=../Sounds/Misc/Feedy/Feedy -26-32-OUEX.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=682 end=143735 sample=../Sounds/Misc/Feedy/Feedy -26-64-ZOH8.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=736 end=130652 sample=../Sounds/Misc/Feedy/Feedy -26-95-80PU.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=701 sample=../Sounds/Misc/Feedy/Feedy -26-127-38EN.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=628 end=135896 sample=../Sounds/Misc/Feedy/Feedy -27-32-X7Z9.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=726 end=133665 sample=../Sounds/Misc/Feedy/Feedy -27-64-80HA.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=712 end=133632 sample=../Sounds/Misc/Feedy/Feedy -27-95-3WUF.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=775 end=143443 sample=../Sounds/Misc/Feedy/Feedy -27-127-2UA7.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=656 end=130493 sample=../Sounds/Misc/Feedy/Feedy -28-32-UOXT.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=624 end=135949 sample=../Sounds/Misc/Feedy/Feedy -28-64-Y35V.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=722 sample=../Sounds/Misc/Feedy/Feedy -28-95-NWEI.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=779 end=134522 sample=../Sounds/Misc/Feedy/Feedy -28-127-A0VK.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=757 end=134154 sample=../Sounds/Misc/Feedy/Feedy -29-32-SS2O.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=724 sample=../Sounds/Misc/Feedy/Feedy -29-64-C6JJ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=709 end=130568 sample=../Sounds/Misc/Feedy/Feedy -29-95-C8QB.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=772 sample=../Sounds/Misc/Feedy/Feedy -29-127-570N.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=527 end=135328 sample=../Sounds/Misc/Feedy/Feedy -30-32-G0JJ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=675 sample=../Sounds/Misc/Feedy/Feedy -30-64-64B2.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=627 end=134591 sample=../Sounds/Misc/Feedy/Feedy -30-95-MP5Q.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=700 sample=../Sounds/Misc/Feedy/Feedy -30-127-ZYZA.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=755 sample=../Sounds/Misc/Feedy/Feedy -31-32-HQFO.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=722 end=135739 sample=../Sounds/Misc/Feedy/Feedy -31-64-RT6G.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=691 sample=../Sounds/Misc/Feedy/Feedy -31-95-Q1B6.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=859 end=134276 sample=../Sounds/Misc/Feedy/Feedy -31-127-WNF4.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=570 sample=../Sounds/Misc/Feedy/Feedy -32-32-LRCB.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=540 sample=../Sounds/Misc/Feedy/Feedy -32-64-DSPN.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=593 sample=../Sounds/Misc/Feedy/Feedy -32-95-1WBV.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=646 sample=../Sounds/Misc/Feedy/Feedy -32-127-K749.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=571 end=134766 sample=../Sounds/Misc/Feedy/Feedy -33-32-GIT2.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=641 sample=../Sounds/Misc/Feedy/Feedy -33-64-PQ7O.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=576 end=133020 sample=../Sounds/Misc/Feedy/Feedy -33-95-GUJD.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=634 end=144384 sample=../Sounds/Misc/Feedy/Feedy -33-127-XREN.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=772 end=131456 sample=../Sounds/Misc/Feedy/Feedy -34-32-9Q56.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=675 end=135937 sample=../Sounds/Misc/Feedy/Feedy -34-64-NYXA.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=621 end=135561 sample=../Sounds/Misc/Feedy/Feedy -34-95-DYMH.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=509 end=134657 sample=../Sounds/Misc/Feedy/Feedy -34-127-ASD9.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=542 end=133500 sample=../Sounds/Misc/Feedy/Feedy -35-32-8SKT.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=554 end=143250 sample=../Sounds/Misc/Feedy/Feedy -35-64-1TUT.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=679 end=131960 sample=../Sounds/Misc/Feedy/Feedy -35-95-BQDZ.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=482 end=135808 sample=../Sounds/Misc/Feedy/Feedy -35-127-WUI3.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=656 end=135580 sample=../Sounds/Misc/Feedy/Feedy -36-32-9FKK.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=643 sample=../Sounds/Misc/Feedy/Feedy -36-64-CDTE.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=736 sample=../Sounds/Misc/Feedy/Feedy -36-95-GG62.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=678 end=144905 sample=../Sounds/Misc/Feedy/Feedy -36-127-GPZA.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=726 end=132224 sample=../Sounds/Misc/Feedy/Feedy -37-32-LQX4.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=669 sample=../Sounds/Misc/Feedy/Feedy -37-64-2DSW.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=760 sample=../Sounds/Misc/Feedy/Feedy -37-95-3DF8.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=668 end=134010 sample=../Sounds/Misc/Feedy/Feedy -37-127-8E9O.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=553 sample=../Sounds/Misc/Feedy/Feedy -38-32-6D03.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=668 end=143310 sample=../Sounds/Misc/Feedy/Feedy -38-64-9JFK.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=635 end=131088 sample=../Sounds/Misc/Feedy/Feedy -38-95-EFEB.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=845 sample=../Sounds/Misc/Feedy/Feedy -38-127-PXLR.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=582 end=134914 sample=../Sounds/Misc/Feedy/Feedy -39-32-S4WK.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=624 end=134998 sample=../Sounds/Misc/Feedy/Feedy -39-64-4X1R.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=759 end=133516 sample=../Sounds/Misc/Feedy/Feedy -39-95-Q4WQ.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=637 sample=../Sounds/Misc/Feedy/Feedy -39-127-8JMF.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=778 sample=../Sounds/Misc/Feedy/Feedy -40-32-2QKE.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=732 end=136029 sample=../Sounds/Misc/Feedy/Feedy -40-64-GEVD.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=781 sample=../Sounds/Misc/Feedy/Feedy -40-95-Y22N.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=662 sample=../Sounds/Misc/Feedy/Feedy -40-127-YNBC.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=867 end=132550 sample=../Sounds/Misc/Feedy/Feedy -41-32-ESV4.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=828 end=143108 sample=../Sounds/Misc/Feedy/Feedy -41-64-BUG6.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=696 end=130633 sample=../Sounds/Misc/Feedy/Feedy -41-95-RWUR.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=737 end=136307 sample=../Sounds/Misc/Feedy/Feedy -41-127-E8IA.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=824 end=134563 sample=../Sounds/Misc/Feedy/Feedy -42-32-GYNJ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=573 sample=../Sounds/Misc/Feedy/Feedy -42-64-CRJA.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=640 end=134841 sample=../Sounds/Misc/Feedy/Feedy -42-95-WJQP.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=784 end=142606 sample=../Sounds/Misc/Feedy/Feedy -42-127-LZPR.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=694 end=131541 sample=../Sounds/Misc/Feedy/Feedy -43-32-U0JG.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=630 end=135906 sample=../Sounds/Misc/Feedy/Feedy -43-64-GGGE.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=624 sample=../Sounds/Misc/Feedy/Feedy -43-95-JRBH.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=510 end=133903 sample=../Sounds/Misc/Feedy/Feedy -43-127-6I01.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=545 end=133642 sample=../Sounds/Misc/Feedy/Feedy -44-32-EOJS.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=773 sample=../Sounds/Misc/Feedy/Feedy -44-64-9UD2.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=724 end=131363 sample=../Sounds/Misc/Feedy/Feedy -44-95-7TB2.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=606 end=137061 sample=../Sounds/Misc/Feedy/Feedy -44-127-LGFE.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=541 end=135386 sample=../Sounds/Misc/Feedy/Feedy -45-32-UP4W.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=775 sample=../Sounds/Misc/Feedy/Feedy -45-64-8EZ0.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=646 end=133152 sample=../Sounds/Misc/Feedy/Feedy -45-95-UYC4.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=688 end=143232 sample=../Sounds/Misc/Feedy/Feedy -45-127-DEHE.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=644 end=131968 sample=../Sounds/Misc/Feedy/Feedy -46-32-S280.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=696 sample=../Sounds/Misc/Feedy/Feedy -46-64-U6R6.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=711 end=135554 sample=../Sounds/Misc/Feedy/Feedy -46-95-O0G5.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=621 end=134457 sample=../Sounds/Misc/Feedy/Feedy -46-127-88TS.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=680 sample=../Sounds/Misc/Feedy/Feedy -47-32-R2TK.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=651 sample=../Sounds/Misc/Feedy/Feedy -47-64-Y5BI.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=525 sample=../Sounds/Misc/Feedy/Feedy -47-95-5M7W.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=669 end=136401 sample=../Sounds/Misc/Feedy/Feedy -47-127-Z3IL.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=677 end=135696 sample=../Sounds/Misc/Feedy/Feedy -48-32-SIB2.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=640 sample=../Sounds/Misc/Feedy/Feedy -48-64-J63L.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=603 end=133762 sample=../Sounds/Misc/Feedy/Feedy -48-95-LHMP.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=826 sample=../Sounds/Misc/Feedy/Feedy -48-127-DOQG.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=715 sample=../Sounds/Misc/Feedy/Feedy -49-32-Z03D.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=770 end=135944 sample=../Sounds/Misc/Feedy/Feedy -49-64-NOWM.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=786 end=135578 sample=../Sounds/Misc/Feedy/Feedy -49-95-402T.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=672 sample=../Sounds/Misc/Feedy/Feedy -49-127-AQ63.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=813 sample=../Sounds/Misc/Feedy/Feedy -50-32-QY8D.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=839 end=144426 sample=../Sounds/Misc/Feedy/Feedy -50-64-5MNH.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=606 sample=../Sounds/Misc/Feedy/Feedy -50-95-CHCT.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=736 sample=../Sounds/Misc/Feedy/Feedy -50-127-XG7D.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=569 sample=../Sounds/Misc/Feedy/Feedy -51-32-5QTA.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=642 sample=../Sounds/Misc/Feedy/Feedy -51-64-ERAE.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=741 sample=../Sounds/Misc/Feedy/Feedy -51-95-OP7G.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=542 sample=../Sounds/Misc/Feedy/Feedy -51-127-RWSP.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=662 sample=../Sounds/Misc/Feedy/Feedy -52-32-4L8I.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=597 end=135730 sample=../Sounds/Misc/Feedy/Feedy -52-64-LJO5.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=777 sample=../Sounds/Misc/Feedy/Feedy -52-95-YAHD.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=528 end=134425 sample=../Sounds/Misc/Feedy/Feedy -52-127-EIHJ.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=660 end=134063 sample=../Sounds/Misc/Feedy/Feedy -53-32-C90D.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=862 sample=../Sounds/Misc/Feedy/Feedy -53-64-25D1.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=655 end=131074 sample=../Sounds/Misc/Feedy/Feedy -53-95-F9J0.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=649 sample=../Sounds/Misc/Feedy/Feedy -53-127-XK9S.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=751 end=135936 sample=../Sounds/Misc/Feedy/Feedy -54-32-QQM5.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=551 end=134409 sample=../Sounds/Misc/Feedy/Feedy -54-64-YWKX.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=850 sample=../Sounds/Misc/Feedy/Feedy -54-95-28UV.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=628 end=144290 sample=../Sounds/Misc/Feedy/Feedy -54-127-C6K2.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=586 end=131111 sample=../Sounds/Misc/Feedy/Feedy -55-32-OJ8D.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=645 end=135952 sample=../Sounds/Misc/Feedy/Feedy -55-64-ZNF6.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=656 end=135317 sample=../Sounds/Misc/Feedy/Feedy -55-95-UKOL.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=645 sample=../Sounds/Misc/Feedy/Feedy -55-127-ECEE.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=613 sample=../Sounds/Misc/Feedy/Feedy -56-32-R6LN.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=562 sample=../Sounds/Misc/Feedy/Feedy -56-64-QXCZ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=779 end=131873 sample=../Sounds/Misc/Feedy/Feedy -56-95-JWQK.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=643 end=136844 sample=../Sounds/Misc/Feedy/Feedy -56-127-NSRD.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=639 end=135195 sample=../Sounds/Misc/Feedy/Feedy -57-32-EG6O.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=705 sample=../Sounds/Misc/Feedy/Feedy -57-64-E4YN.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=584 sample=../Sounds/Misc/Feedy/Feedy -57-95-FEK9.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=727 end=143789 sample=../Sounds/Misc/Feedy/Feedy -57-127-GFHO.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=696 end=131749 sample=../Sounds/Misc/Feedy/Feedy -58-32-A1XJ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=656 sample=../Sounds/Misc/Feedy/Feedy -58-64-84C0.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=570 end=135424 sample=../Sounds/Misc/Feedy/Feedy -58-95-RFGN.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=551 sample=../Sounds/Misc/Feedy/Feedy -58-127-3Y31.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=501 end=133548 sample=../Sounds/Misc/Feedy/Feedy -59-32-D08K.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=705 end=143365 sample=../Sounds/Misc/Feedy/Feedy -59-64-Q450.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=671 end=131622 sample=../Sounds/Misc/Feedy/Feedy -59-95-HOP5.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=577 sample=../Sounds/Misc/Feedy/Feedy -59-127-0IZI.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=604 end=135442 sample=../Sounds/Misc/Feedy/Feedy -60-32-MUTV.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=654 sample=../Sounds/Misc/Feedy/Feedy -60-64-HUWL.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=726 end=133409 sample=../Sounds/Misc/Feedy/Feedy -60-95-4BQW.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=766 sample=../Sounds/Misc/Feedy/Feedy -60-127-QSSI.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=646 sample=../Sounds/Misc/Feedy/Feedy -61-32-WRER.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=585 sample=../Sounds/Misc/Feedy/Feedy -61-64-523X.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=695 sample=../Sounds/Misc/Feedy/Feedy -61-95-F67F.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=496 end=135825 sample=../Sounds/Misc/Feedy/Feedy -61-127-9VK0.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=719 end=133661 sample=../Sounds/Misc/Feedy/Feedy -62-32-PU90.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=709 sample=../Sounds/Misc/Feedy/Feedy -62-64-0WCF.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=753 sample=../Sounds/Misc/Feedy/Feedy -62-95-OPBH.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=696 sample=../Sounds/Misc/Feedy/Feedy -62-127-9SZ4.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=621 end=136473 sample=../Sounds/Misc/Feedy/Feedy -63-32-LKR4.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=681 sample=../Sounds/Misc/Feedy/Feedy -63-64-6QP7.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=630 end=133779 sample=../Sounds/Misc/Feedy/Feedy -63-95-KXTN.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=582 end=143616 sample=../Sounds/Misc/Feedy/Feedy -63-127-KFRP.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=713 end=131840 sample=../Sounds/Misc/Feedy/Feedy -64-32-MIOE.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=683 end=135707 sample=../Sounds/Misc/Feedy/Feedy -64-64-VHCY.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=619 sample=../Sounds/Misc/Feedy/Feedy -64-95-5LX5.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=619 end=134151 sample=../Sounds/Misc/Feedy/Feedy -64-127-6NY6.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=733 end=133536 sample=../Sounds/Misc/Feedy/Feedy -65-32-26XA.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=765 end=143875 sample=../Sounds/Misc/Feedy/Feedy -65-64-NYU5.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=717 end=131335 sample=../Sounds/Misc/Feedy/Feedy -65-95-MZ9R.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=764 end=136320 sample=../Sounds/Misc/Feedy/Feedy -65-127-B1HM.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=522 end=135447 sample=../Sounds/Misc/Feedy/Feedy -66-32-CL6Q.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=670 end=134301 sample=../Sounds/Misc/Feedy/Feedy -66-64-GMWI.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=737 sample=../Sounds/Misc/Feedy/Feedy -66-95-IVOR.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=701 end=144010 sample=../Sounds/Misc/Feedy/Feedy -66-127-2A7J.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=650 end=131590 sample=../Sounds/Misc/Feedy/Feedy -67-32-E115.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=610 end=135938 sample=../Sounds/Misc/Feedy/Feedy -67-64-W7AO.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=604 end=135195 sample=../Sounds/Misc/Feedy/Feedy -67-95-CB71.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=587 end=135433 sample=../Sounds/Misc/Feedy/Feedy -67-127-D018.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=802 sample=../Sounds/Misc/Feedy/Feedy -68-32-IZ2H.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=493 end=142985 sample=../Sounds/Misc/Feedy/Feedy -68-64-7BJ6.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=715 end=131217 sample=../Sounds/Misc/Feedy/Feedy -68-95-DBWB.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=690 end=136206 sample=../Sounds/Misc/Feedy/Feedy -68-127-N8RG.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=537 sample=../Sounds/Misc/Feedy/Feedy -69-32-LZWK.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=595 end=134789 sample=../Sounds/Misc/Feedy/Feedy -69-64-2WAO.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=725 end=134291 sample=../Sounds/Misc/Feedy/Feedy -69-95-ABUG.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=666 end=143753 sample=../Sounds/Misc/Feedy/Feedy -69-127-4Z5U.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=537 end=131733 sample=../Sounds/Misc/Feedy/Feedy -70-32-4P31.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=759 sample=../Sounds/Misc/Feedy/Feedy -70-64-3BLV.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=535 end=135304 sample=../Sounds/Misc/Feedy/Feedy -70-95-7WID.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=606 end=135313 sample=../Sounds/Misc/Feedy/Feedy -70-127-JNN1.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=588 end=133638 sample=../Sounds/Misc/Feedy/Feedy -71-32-E0BN.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=639 end=143616 sample=../Sounds/Misc/Feedy/Feedy -71-64-LHO4.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=598 end=130822 sample=../Sounds/Misc/Feedy/Feedy -71-95-7M5J.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=653 sample=../Sounds/Misc/Feedy/Feedy -71-127-T0FP.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=718 sample=../Sounds/Misc/Feedy/Feedy -72-32-2MFL.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=611 end=134930 sample=../Sounds/Misc/Feedy/Feedy -72-64-Z556.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=674 sample=../Sounds/Misc/Feedy/Feedy -72-95-TY90.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=736 end=144256 sample=../Sounds/Misc/Feedy/Feedy -72-127-SHVZ.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=689 end=131728 sample=../Sounds/Misc/Feedy/Feedy -73-32-57H0.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=760 end=136577 sample=../Sounds/Misc/Feedy/Feedy -73-64-QWAT.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=560 sample=../Sounds/Misc/Feedy/Feedy -73-95-GM5F.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=842 end=135050 sample=../Sounds/Misc/Feedy/Feedy -73-127-D2S7.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=619 sample=../Sounds/Misc/Feedy/Feedy -74-32-QTMT.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=566 sample=../Sounds/Misc/Feedy/Feedy -74-64-99PG.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=775 sample=../Sounds/Misc/Feedy/Feedy -74-95-6M31.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=748 end=136585 sample=../Sounds/Misc/Feedy/Feedy -74-127-B7UO.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=763 end=136073 sample=../Sounds/Misc/Feedy/Feedy -75-32-9KYJ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=595 end=134400 sample=../Sounds/Misc/Feedy/Feedy -75-64-EZ42.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=645 end=134410 sample=../Sounds/Misc/Feedy/Feedy -75-95-JPAK.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=590 end=144648 sample=../Sounds/Misc/Feedy/Feedy -75-127-4PET.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=718 sample=../Sounds/Misc/Feedy/Feedy -76-32-P3VC.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=586 end=135936 sample=../Sounds/Misc/Feedy/Feedy -76-64-9PA6.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=768 end=135561 sample=../Sounds/Misc/Feedy/Feedy -76-95-HMDH.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=623 sample=../Sounds/Misc/Feedy/Feedy -76-127-1BJW.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=787 end=134161 sample=../Sounds/Misc/Feedy/Feedy -77-32-U1AZ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=669 end=143105 sample=../Sounds/Misc/Feedy/Feedy -77-64-LTUA.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=709 end=131590 sample=../Sounds/Misc/Feedy/Feedy -77-95-TU2G.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=596 sample=../Sounds/Misc/Feedy/Feedy -77-127-NT48.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=774 end=136196 sample=../Sounds/Misc/Feedy/Feedy -78-32-GGI4.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=747 sample=../Sounds/Misc/Feedy/Feedy -78-64-LM9B.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=717 sample=../Sounds/Misc/Feedy/Feedy -78-95-VVHU.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=741 end=143747 sample=../Sounds/Misc/Feedy/Feedy -78-127-FHYL.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=715 sample=../Sounds/Misc/Feedy/Feedy -79-32-6XKF.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=837 end=137219 sample=../Sounds/Misc/Feedy/Feedy -79-64-2I68.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=683 sample=../Sounds/Misc/Feedy/Feedy -79-95-I6OL.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=678 end=134791 sample=../Sounds/Misc/Feedy/Feedy -79-127-BWLF.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=833 sample=../Sounds/Misc/Feedy/Feedy -80-32-VOS4.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=612 end=143875 sample=../Sounds/Misc/Feedy/Feedy -80-64-SZF0.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=724 sample=../Sounds/Misc/Feedy/Feedy -80-95-KWF8.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=687 end=136975 sample=../Sounds/Misc/Feedy/Feedy -80-127-8KBY.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=695 end=135559 sample=../Sounds/Misc/Feedy/Feedy -81-32-UO68.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=751 sample=../Sounds/Misc/Feedy/Feedy -81-64-OM33.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=649 end=133640 sample=../Sounds/Misc/Feedy/Feedy -81-95-U0SO.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=615 sample=../Sounds/Misc/Feedy/Feedy -81-127-4XJV.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=578 sample=../Sounds/Misc/Feedy/Feedy -82-32-NYFG.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=711 sample=../Sounds/Misc/Feedy/Feedy -82-64-8L7I.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=705 end=135043 sample=../Sounds/Misc/Feedy/Feedy -82-95-FLTO.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=756 end=134922 sample=../Sounds/Misc/Feedy/Feedy -82-127-EQX4.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=546 end=133771 sample=../Sounds/Misc/Feedy/Feedy -83-32-77WO.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=597 end=143881 sample=../Sounds/Misc/Feedy/Feedy -83-64-EQ3D.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=525 end=130966 sample=../Sounds/Misc/Feedy/Feedy -83-95-5BEH.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=771 sample=../Sounds/Misc/Feedy/Feedy -83-127-H6OV.wav
+<group>lokey=84 hikey=127 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=528 end=135306 sample=../Sounds/Misc/Feedy/Feedy -84-32-4SPL.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=697 end=135567 sample=../Sounds/Misc/Feedy/Feedy -84-64-OQAS.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=760 end=134541 sample=../Sounds/Misc/Feedy/Feedy -84-95-9ORE.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=546 end=143619 sample=../Sounds/Misc/Feedy/Feedy -84-127-KXCM.wav

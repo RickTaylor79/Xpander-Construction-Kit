@@ -1,0 +1,102 @@
+// this file was generated from The Bumps.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=11662 loop_end=395664 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-36-42-YLHM.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=93788 loop_end=340569 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-36-85-N48A.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=151065 loop_end=273493 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-36-127-9PJD.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=173921 loop_end=365065 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-37-42-VHDK.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=122280 loop_end=382380 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-37-85-DVFX.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=74301 loop_end=386282 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-37-127-10M4.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=241045 loop_end=371090 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-38-42-A8WN.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=8823 loop_end=388458 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-38-85-Z56N.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=58362 loop_end=310265 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-38-127-1I8X.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=152314 loop_end=278461 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-39-42-ZOPY.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=107603 loop_end=357380 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-39-85-WB6F.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=2507 loop_end=384478 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-39-127-H090.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=180740 loop_end=364927 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-40-42-SQPP.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=263055 loop_end=386960 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-40-85-PHHM.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269659 loop_end=395725 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-40-127-2Z0D.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=44137 loop_end=359435 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-41-42-LZZ5.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=60541 loop_end=372761 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-41-85-Q936.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=138143 loop_end=390069 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-41-127-DJ3R.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=67648 loop_end=193529 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-42-42-1HHY.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=15739 loop_end=141582 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-42-85-NARJ.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=74802 loop_end=263336 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-42-127-QRIZ.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=113863 loop_end=365561 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-43-42-9YEI.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=141999 loop_end=393852 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-43-85-RQ3G.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=10130 loop_end=388007 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-43-127-1W4H.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=201761 loop_end=327737 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-44-42-1O5U.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=166152 loop_end=292079 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-44-85-DDW3.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=170442 loop_end=296232 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-44-127-PRW3.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=62661 loop_end=314673 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-45-42-94TG.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=16725 loop_end=394550 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-45-85-3AEN.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=88523 loop_end=340396 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-45-127-ZKPU.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=16708 loop_end=142848 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-46-42-1OFM.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=41208 loop_end=167268 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-46-85-GY1J.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=175475 loop_end=301417 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-46-127-14VS.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=10684 loop_end=136434 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-47-42-INPY.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=28957 loop_end=154757 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-47-85-VI4Z.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=17363 loop_end=395196 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-47-127-SGNJ.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=5783 loop_end=383744 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-48-42-WP82.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=167936 loop_end=294096 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-48-85-VNLT.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=50751 loop_end=176796 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-48-127-K01V.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=262793 loop_end=388558 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-49-42-SUIA.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=18727 loop_end=144550 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-49-85-D23B.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=16925 loop_end=394738 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-49-127-YBIN.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=140838 loop_end=266281 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-50-42-6BZC.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=103964 loop_end=229973 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-50-85-0CAD.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=84513 loop_end=210403 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-50-127-ES3Z.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=173566 loop_end=299068 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-51-42-SVGU.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=123075 loop_end=249244 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-51-85-4GPN.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252469 loop_end=377934 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-51-127-VZ84.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=18212 loop_end=395971 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-52-42-KCNH.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=115941 loop_end=367896 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-52-85-0BA3.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252184 loop_end=378842 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-52-127-8NRH.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=144392 loop_end=270430 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-53-42-0P7E.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=42070 loop_end=168126 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-53-85-PNYC.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224262 loop_end=350245 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-53-127-UL46.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=112459 loop_end=238384 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-54-42-9EL3.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=39959 loop_end=166284 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-54-85-C2D2.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=99575 loop_end=351505 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-54-127-QLPO.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=237782 loop_end=363671 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-55-42-PGVX.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=64754 loop_end=190661 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-55-85-K42W.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=205786 loop_end=394749 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-55-127-4C9P.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=249089 loop_end=375048 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-56-42-DELE.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=208158 loop_end=333997 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-56-85-IC1R.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142344 loop_end=394269 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-56-127-NYYZ.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=146316 loop_end=272306 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-57-42-3660.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=57641 loop_end=183647 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-57-85-MUBM.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258274 loop_end=384196 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-57-127-EKJL.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=149319 loop_end=275455 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-58-42-5F04.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=148655 loop_end=274654 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-58-85-GODX.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142351 loop_end=268670 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-58-127-26IC.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=46074 loop_end=172184 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-59-42-RENT.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=105528 loop_end=357399 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-59-85-RZGM.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=180581 loop_end=306243 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-59-127-A126.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=5476 loop_end=8679 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-60-42-KS4F.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=40064 loop_end=166215 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-60-85-T1EV.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236801 loop_end=362500 sample=../Sounds/Misc/The Bumps/(2016229 181633)/The Bumps-60-127-1R3Q.wav

@@ -1,0 +1,124 @@
+// this file was generated from ZX.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257484 loop_end=397808 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-36-127-M639.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251119 loop_end=392433 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-37-127-PSG1.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253615 loop_end=310842 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-38-127-38YJ.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257412 loop_end=400315 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-39-127-CTRE.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252506 loop_end=393736 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-40-127-R9DW.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226126 loop_end=366231 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-41-127-HPJ8.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257113 loop_end=399078 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-42-127-L0JL.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256979 loop_end=398037 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-43-127-L5QH.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257663 loop_end=398548 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-44-127-03T5.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258003 loop_end=398791 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-45-127-C6CW.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256409 loop_end=397505 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-46-127-QY19.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257582 loop_end=398429 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-47-127-GBJM.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257527 loop_end=398367 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-48-127-D6O4.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258456 loop_end=398547 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-49-127-VLQ7.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226384 loop_end=367538 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-50-127-L5XK.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254962 loop_end=397143 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-51-127-289U.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252590 loop_end=393180 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-52-127-5ZUA.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257777 loop_end=397936 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-53-127-4IMD.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224681 loop_end=365689 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-54-127-22WK.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257779 loop_end=398457 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-55-127-7H8K.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252669 loop_end=393941 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-56-127-WICJ.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258469 loop_end=399424 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-57-127-F7BR.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257361 loop_end=398772 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-58-127-XG27.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256084 loop_end=397277 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-59-127-BN28.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252718 loop_end=393782 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-60-127-F01O.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256391 loop_end=398102 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-61-127-PTZR.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223552 loop_end=364676 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-62-127-RSF9.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223745 loop_end=364812 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-63-127-O6H1.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257152 loop_end=398516 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-64-127-67VN.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224334 loop_end=366055 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-65-127-J7KJ.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223758 loop_end=364717 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-66-127-460S.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258040 loop_end=398451 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-67-127-RLWV.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224487 loop_end=364612 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-68-127-A9MG.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224562 loop_end=364618 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-69-127-CK46.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258126 loop_end=399095 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-70-127-1X3D.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243723 loop_end=385005 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-71-127-UG5Y.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248028 loop_end=389265 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-72-127-LHCU.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=244966 loop_end=386631 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-73-127-C7I2.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248339 loop_end=389629 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-74-127-25UD.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=244997 loop_end=386139 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-75-127-G360.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257151 loop_end=397726 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-76-127-0ULM.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224051 loop_end=365176 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-77-127-LUES.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256445 loop_end=397387 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-78-127-BF2V.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256658 loop_end=397623 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-79-127-QCPB.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247334 loop_end=388882 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-80-127-1JU2.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224437 loop_end=365779 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-81-127-U1BE.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257864 loop_end=399040 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-82-127-U45Z.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223983 loop_end=365472 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-83-127-R5KF.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=244689 loop_end=385637 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-84-127-GHID.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258084 loop_end=398440 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-85-127-KUMJ.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248298 loop_end=389352 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-86-127-JEK5.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256510 loop_end=397405 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-87-127-W1CU.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247834 loop_end=388450 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-88-127-FMWH.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245586 loop_end=386287 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-89-127-YSWR.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245396 loop_end=386189 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-90-127-6VTP.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257964 loop_end=398881 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-91-127-9PXH.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246400 loop_end=387402 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-92-127-22VR.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256620 loop_end=397634 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-93-127-DQSR.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257788 loop_end=399021 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-94-127-FF6K.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246557 loop_end=387342 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-95-127-XU0Y.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256939 loop_end=397878 sample=../Sounds/Misc/ZX/(201279 163740)/001 ZX-96-127-UI4P.aif

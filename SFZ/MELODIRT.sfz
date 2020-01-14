@@ -1,0 +1,124 @@
+// this file was generated from MELODIRT.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=361 end=443966 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=522 end=442289 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=578 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=388 end=444226 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=785 end=444508 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=775 end=442250 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=592 end=445053 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=423 end=444603 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=756 end=446379 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=352 end=444793 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=559 end=444535 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=440 end=444506 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=322 end=443341 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=448 end=444157 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=783 end=446480 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=452 end=444003 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=725 end=444801 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=616 end=444143 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=713 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=660 end=443803 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=480 end=442402 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=417 end=441875 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=697 end=443714 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=340 end=443191 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=695 end=444315 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=357 end=443349 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=653 end=444194 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=687 end=443594 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=559 end=442589 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=445 end=443883 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=253 end=441494 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=720 end=442708 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=779 end=443867 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=363 end=442052 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=430 end=442624 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=360 end=443485 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=586 end=443504 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=491 end=442621 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=814 end=442957 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=401 end=441913 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=763 end=443120 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=504 end=442014 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=334 end=441774 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=494 end=442090 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=494 end=445992 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=315 end=442480 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=567 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=753 end=442439 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=698 end=441930 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=592 end=443215 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=711 end=443004 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=755 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=636 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=691 end=442736 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=703 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=588 end=442771 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=745 end=443254 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=645 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=441 end=442558 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=668 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-95-127.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=549 sample=../Sounds/Misc/MELODIRT/005 MELODIRT-96-127.aif

@@ -1,0 +1,261 @@
+// this file was generated from LFO2modwheel.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=6 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=486 end=695038 sample=../Sounds/Saws/2 saw rise/xpander-C1-C11-21-T2LJ.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=361 sample=../Sounds/Saws/2 saw rise/xpander-C1-C122-42-XH3D.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=454 end=687437 sample=../Sounds/Saws/2 saw rise/xpander-C1-C143-64-E2D6.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=494 end=686329 sample=../Sounds/Saws/2 saw rise/xpander-C1-C165-85-841S.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=589 end=689809 sample=../Sounds/Saws/2 saw rise/xpander-C1-C186-106-VVGW.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=417 sample=../Sounds/Saws/2 saw rise/xpander-C1-C1107-127-EBLT.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=535 end=693509 sample=../Sounds/Saws/2 saw rise/xpander-C#1-C#11-21-9142.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=441 end=683346 sample=../Sounds/Saws/2 saw rise/xpander-C#1-C#122-42-CZS6.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=470 end=685045 sample=../Sounds/Saws/2 saw rise/xpander-C#1-C#143-64-DVBP.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=392 end=686184 sample=../Sounds/Saws/2 saw rise/xpander-C#1-C#165-85-3ANE.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=622 end=690387 sample=../Sounds/Saws/2 saw rise/xpander-C#1-C#186-106-1GHL.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=569 end=687452 sample=../Sounds/Saws/2 saw rise/xpander-C#1-C#1107-127-MUIE.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=528 end=692596 sample=../Sounds/Saws/2 saw rise/xpander-D1-D11-21-PKHN.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=450 end=682354 sample=../Sounds/Saws/2 saw rise/xpander-D1-D122-42-D1F6.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=400 end=684134 sample=../Sounds/Saws/2 saw rise/xpander-D1-D143-64-YEW5.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=438 end=685874 sample=../Sounds/Saws/2 saw rise/xpander-D1-D165-85-U6YD.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=407 end=689134 sample=../Sounds/Saws/2 saw rise/xpander-D1-D186-106-Q76X.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=490 end=687947 sample=../Sounds/Saws/2 saw rise/xpander-D1-D1107-127-SC8Z.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=556 sample=../Sounds/Saws/2 saw rise/xpander-D#1-D#11-21-PQPY.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=380 sample=../Sounds/Saws/2 saw rise/xpander-D#1-D#122-42-0MIR.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=360 end=683157 sample=../Sounds/Saws/2 saw rise/xpander-D#1-D#143-64-2JGT.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=518 end=684791 sample=../Sounds/Saws/2 saw rise/xpander-D#1-D#165-85-DU7U.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=455 end=689371 sample=../Sounds/Saws/2 saw rise/xpander-D#1-D#186-106-M0VH.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=497 end=691189 sample=../Sounds/Saws/2 saw rise/xpander-D#1-D#1107-127-QDYF.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=510 end=693248 sample=../Sounds/Saws/2 saw rise/xpander-E1-E11-21-6LK1.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=361 end=682900 sample=../Sounds/Saws/2 saw rise/xpander-E1-E122-42-PM5J.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=580 sample=../Sounds/Saws/2 saw rise/xpander-E1-E143-64-VWUF.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=375 end=685824 sample=../Sounds/Saws/2 saw rise/xpander-E1-E165-85-54OJ.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=363 end=688844 sample=../Sounds/Saws/2 saw rise/xpander-E1-E186-106-NM5M.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=404 sample=../Sounds/Saws/2 saw rise/xpander-E1-E1107-127-9WXN.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=280 sample=../Sounds/Saws/2 saw rise/xpander-F1-F11-21-9EVR.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=401 end=681548 sample=../Sounds/Saws/2 saw rise/xpander-F1-F122-42-GEVK.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=430 end=685073 sample=../Sounds/Saws/2 saw rise/xpander-F1-F143-64-KN0K.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=484 sample=../Sounds/Saws/2 saw rise/xpander-F1-F165-85-DD02.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=465 end=689503 sample=../Sounds/Saws/2 saw rise/xpander-F1-F186-106-VVMO.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=477 end=689463 sample=../Sounds/Saws/2 saw rise/xpander-F1-F1107-127-YYCH.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=573 sample=../Sounds/Saws/2 saw rise/xpander-F#1-F#11-21-BDLC.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=466 end=683370 sample=../Sounds/Saws/2 saw rise/xpander-F#1-F#122-42-D19S.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=431 sample=../Sounds/Saws/2 saw rise/xpander-F#1-F#143-64-0ZWP.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=320 end=686643 sample=../Sounds/Saws/2 saw rise/xpander-F#1-F#165-85-L67Q.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=560 end=689393 sample=../Sounds/Saws/2 saw rise/xpander-F#1-F#186-106-N7CA.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=412 end=688131 sample=../Sounds/Saws/2 saw rise/xpander-F#1-F#1107-127-9RBP.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=353 end=694241 sample=../Sounds/Saws/2 saw rise/xpander-G1-G11-21-TYEK.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=498 sample=../Sounds/Saws/2 saw rise/xpander-G1-G122-42-JCR1.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=339 end=685651 sample=../Sounds/Saws/2 saw rise/xpander-G1-G143-64-QQCO.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=376 end=685960 sample=../Sounds/Saws/2 saw rise/xpander-G1-G165-85-AGIZ.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=414 sample=../Sounds/Saws/2 saw rise/xpander-G1-G186-106-OHUL.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=412 end=690764 sample=../Sounds/Saws/2 saw rise/xpander-G1-G1107-127-I4NP.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=337 end=694601 sample=../Sounds/Saws/2 saw rise/xpander-G#1-G#11-21-K675.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=445 end=683481 sample=../Sounds/Saws/2 saw rise/xpander-G#1-G#122-42-K9FA.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=349 end=686548 sample=../Sounds/Saws/2 saw rise/xpander-G#1-G#143-64-MP6N.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=399 end=685539 sample=../Sounds/Saws/2 saw rise/xpander-G#1-G#165-85-HSBB.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=379 end=689873 sample=../Sounds/Saws/2 saw rise/xpander-G#1-G#186-106-BC74.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=387 end=688036 sample=../Sounds/Saws/2 saw rise/xpander-G#1-G#1107-127-JMUR.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=375 end=694493 sample=../Sounds/Saws/2 saw rise/xpander-A1-A11-21-46CC.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=433 sample=../Sounds/Saws/2 saw rise/xpander-A1-A122-42-RRJS.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=314 end=687421 sample=../Sounds/Saws/2 saw rise/xpander-A1-A143-64-G1JY.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=402 end=684682 sample=../Sounds/Saws/2 saw rise/xpander-A1-A165-85-3I07.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=506 sample=../Sounds/Saws/2 saw rise/xpander-A1-A186-106-4QDK.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=467 end=689101 sample=../Sounds/Saws/2 saw rise/xpander-A1-A1107-127-L84X.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=642 end=694079 sample=../Sounds/Saws/2 saw rise/xpander-A#1-A#11-21-GJC7.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=363 end=682855 sample=../Sounds/Saws/2 saw rise/xpander-A#1-A#122-42-GKYO.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=505 end=685347 sample=../Sounds/Saws/2 saw rise/xpander-A#1-A#143-64-UZI5.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=469 end=686306 sample=../Sounds/Saws/2 saw rise/xpander-A#1-A#165-85-432J.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=342 end=688621 sample=../Sounds/Saws/2 saw rise/xpander-A#1-A#186-106-BGT8.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=367 end=687588 sample=../Sounds/Saws/2 saw rise/xpander-A#1-A#1107-127-5Z0Z.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=357 sample=../Sounds/Saws/2 saw rise/xpander-B1-B11-21-TE6G.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=516 end=683338 sample=../Sounds/Saws/2 saw rise/xpander-B1-B122-42-KAZN.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=495 end=687963 sample=../Sounds/Saws/2 saw rise/xpander-B1-B143-64-5LOT.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=309 end=686779 sample=../Sounds/Saws/2 saw rise/xpander-B1-B165-85-42BC.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=361 sample=../Sounds/Saws/2 saw rise/xpander-B1-B186-106-07F4.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=411 end=689544 sample=../Sounds/Saws/2 saw rise/xpander-B1-B1107-127-609U.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=285 sample=../Sounds/Saws/2 saw rise/xpander-C2-C21-21-OCD3.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=505 end=682051 sample=../Sounds/Saws/2 saw rise/xpander-C2-C222-42-P1J9.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=462 end=684990 sample=../Sounds/Saws/2 saw rise/xpander-C2-C243-64-OBMN.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=438 end=685404 sample=../Sounds/Saws/2 saw rise/xpander-C2-C265-85-O0C4.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=548 end=689608 sample=../Sounds/Saws/2 saw rise/xpander-C2-C286-106-9T8M.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=559 end=689218 sample=../Sounds/Saws/2 saw rise/xpander-C2-C2107-127-IMDU.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=456 sample=../Sounds/Saws/2 saw rise/xpander-C#2-C#21-21-0HK5.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=545 end=682755 sample=../Sounds/Saws/2 saw rise/xpander-C#2-C#222-42-E86T.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=520 end=685524 sample=../Sounds/Saws/2 saw rise/xpander-C#2-C#243-64-5AHL.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=417 sample=../Sounds/Saws/2 saw rise/xpander-C#2-C#265-85-5ADR.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=328 end=689887 sample=../Sounds/Saws/2 saw rise/xpander-C#2-C#286-106-1LKP.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=487 end=688436 sample=../Sounds/Saws/2 saw rise/xpander-C#2-C#2107-127-E66E.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=574 end=694660 sample=../Sounds/Saws/2 saw rise/xpander-D2-D21-21-FTEC.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=335 end=681783 sample=../Sounds/Saws/2 saw rise/xpander-D2-D222-42-KC7F.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=400 end=684482 sample=../Sounds/Saws/2 saw rise/xpander-D2-D243-64-JRQP.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=536 sample=../Sounds/Saws/2 saw rise/xpander-D2-D265-85-86LN.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=682 end=689493 sample=../Sounds/Saws/2 saw rise/xpander-D2-D286-106-GWW1.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=374 end=690256 sample=../Sounds/Saws/2 saw rise/xpander-D2-D2107-127-RSUU.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=395 end=693845 sample=../Sounds/Saws/2 saw rise/xpander-D#2-D#21-21-8YG0.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=385 sample=../Sounds/Saws/2 saw rise/xpander-D#2-D#222-42-MP14.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=494 end=685480 sample=../Sounds/Saws/2 saw rise/xpander-D#2-D#243-64-F7HT.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=447 sample=../Sounds/Saws/2 saw rise/xpander-D#2-D#265-85-3JOB.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=622 sample=../Sounds/Saws/2 saw rise/xpander-D#2-D#286-106-N36E.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=529 sample=../Sounds/Saws/2 saw rise/xpander-D#2-D#2107-127-27PK.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=368 end=695296 sample=../Sounds/Saws/2 saw rise/xpander-E2-E21-21-NMUM.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=499 sample=../Sounds/Saws/2 saw rise/xpander-E2-E222-42-HBHS.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=485 end=683837 sample=../Sounds/Saws/2 saw rise/xpander-E2-E243-64-VDCH.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=505 end=686078 sample=../Sounds/Saws/2 saw rise/xpander-E2-E265-85-ZTWS.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=511 end=688927 sample=../Sounds/Saws/2 saw rise/xpander-E2-E286-106-FL77.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=401 end=688962 sample=../Sounds/Saws/2 saw rise/xpander-E2-E2107-127-20QS.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=329 sample=../Sounds/Saws/2 saw rise/xpander-F2-F21-21-JTK0.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=431 sample=../Sounds/Saws/2 saw rise/xpander-F2-F222-42-ALW5.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=464 end=686808 sample=../Sounds/Saws/2 saw rise/xpander-F2-F243-64-E8SM.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=397 end=685741 sample=../Sounds/Saws/2 saw rise/xpander-F2-F265-85-B9GX.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=453 end=688273 sample=../Sounds/Saws/2 saw rise/xpander-F2-F286-106-6VNW.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=462 sample=../Sounds/Saws/2 saw rise/xpander-F2-F2107-127-09AM.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=501 end=693728 sample=../Sounds/Saws/2 saw rise/xpander-F#2-F#21-21-L3ZJ.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=519 end=683065 sample=../Sounds/Saws/2 saw rise/xpander-F#2-F#222-42-IYMJ.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=304 end=684848 sample=../Sounds/Saws/2 saw rise/xpander-F#2-F#243-64-8I6I.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=548 end=687302 sample=../Sounds/Saws/2 saw rise/xpander-F#2-F#265-85-IB1K.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=359 sample=../Sounds/Saws/2 saw rise/xpander-F#2-F#286-106-L2PT.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=554 end=689759 sample=../Sounds/Saws/2 saw rise/xpander-F#2-F#2107-127-DHCB.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=401 end=694701 sample=../Sounds/Saws/2 saw rise/xpander-G2-G21-21-U5EA.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=551 sample=../Sounds/Saws/2 saw rise/xpander-G2-G222-42-EL35.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=400 end=686555 sample=../Sounds/Saws/2 saw rise/xpander-G2-G243-64-76YN.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=524 end=685568 sample=../Sounds/Saws/2 saw rise/xpander-G2-G265-85-TD56.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=426 sample=../Sounds/Saws/2 saw rise/xpander-G2-G286-106-39F5.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=317 end=689309 sample=../Sounds/Saws/2 saw rise/xpander-G2-G2107-127-4FDG.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=525 end=184301 sample=../Sounds/Saws/2 saw rise/xpander-G#2-G#21-21-YEC2.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=453 end=176718 sample=../Sounds/Saws/2 saw rise/xpander-G#2-G#222-42-S4F4.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=309 sample=../Sounds/Saws/2 saw rise/xpander-G#2-G#243-64-SFS2.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=311 end=159475 sample=../Sounds/Saws/2 saw rise/xpander-G#2-G#265-85-1JR0.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=575 end=160258 sample=../Sounds/Saws/2 saw rise/xpander-G#2-G#286-106-L87G.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=288 end=217792 sample=../Sounds/Saws/2 saw rise/xpander-G#2-G#2107-127-JT3M.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=445 sample=../Sounds/Saws/2 saw rise/xpander-A2-A21-21-JQFD.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=556 end=682841 sample=../Sounds/Saws/2 saw rise/xpander-A2-A222-42-IAIA.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=525 end=684372 sample=../Sounds/Saws/2 saw rise/xpander-A2-A243-64-7NQ0.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=292 end=685771 sample=../Sounds/Saws/2 saw rise/xpander-A2-A265-85-GJ8Z.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=478 end=690413 sample=../Sounds/Saws/2 saw rise/xpander-A2-A286-106-Z131.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=444 sample=../Sounds/Saws/2 saw rise/xpander-A2-A2107-127-XYG3.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=398 end=694411 sample=../Sounds/Saws/2 saw rise/xpander-A#2-A#21-21-FD9X.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=341 end=682890 sample=../Sounds/Saws/2 saw rise/xpander-A#2-A#222-42-OP13.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=432 sample=../Sounds/Saws/2 saw rise/xpander-A#2-A#243-64-7D9C.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=601 end=685985 sample=../Sounds/Saws/2 saw rise/xpander-A#2-A#265-85-ZEBI.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=257 end=688394 sample=../Sounds/Saws/2 saw rise/xpander-A#2-A#286-106-YGZ7.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=472 end=690320 sample=../Sounds/Saws/2 saw rise/xpander-A#2-A#2107-127-8ZMU.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=481 end=693537 sample=../Sounds/Saws/2 saw rise/xpander-B2-B21-21-TI63.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=509 sample=../Sounds/Saws/2 saw rise/xpander-B2-B222-42-CLAU.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=343 end=685783 sample=../Sounds/Saws/2 saw rise/xpander-B2-B243-64-JRRQ.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=470 end=685880 sample=../Sounds/Saws/2 saw rise/xpander-B2-B265-85-SUNK.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=643 end=688434 sample=../Sounds/Saws/2 saw rise/xpander-B2-B286-106-U8OT.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=401 end=688807 sample=../Sounds/Saws/2 saw rise/xpander-B2-B2107-127-8ONI.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=408 sample=../Sounds/Saws/2 saw rise/xpander-C3-C31-21-3IP0.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=455 end=683796 sample=../Sounds/Saws/2 saw rise/xpander-C3-C322-42-S6B7.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=598 sample=../Sounds/Saws/2 saw rise/xpander-C3-C343-64-7MQ0.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=483 sample=../Sounds/Saws/2 saw rise/xpander-C3-C365-85-AALT.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=309 end=161311 sample=../Sounds/Saws/2 saw rise/xpander-C3-C386-106-CAXH.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=398 end=231015 sample=../Sounds/Saws/2 saw rise/xpander-C3-C3107-127-99MK.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=378 end=693912 sample=../Sounds/Saws/2 saw rise/xpander-C#3-C#31-21-QIG2.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=372 end=684068 sample=../Sounds/Saws/2 saw rise/xpander-C#3-C#322-42-GSO3.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=735 end=685443 sample=../Sounds/Saws/2 saw rise/xpander-C#3-C#343-64-FJ4O.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=389 end=685715 sample=../Sounds/Saws/2 saw rise/xpander-C#3-C#365-85-CBZC.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=159 end=308970 sample=../Sounds/Saws/2 saw rise/xpander-C#3-C#386-106-XFT8.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=433 end=689704 sample=../Sounds/Saws/2 saw rise/xpander-C#3-C#3107-127-Z9SN.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=526 end=693407 sample=../Sounds/Saws/2 saw rise/xpander-D3-D31-21-KRKR.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=434 sample=../Sounds/Saws/2 saw rise/xpander-D3-D322-42-LUPF.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=517 sample=../Sounds/Saws/2 saw rise/xpander-D3-D343-64-VZPI.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=363 end=686113 sample=../Sounds/Saws/2 saw rise/xpander-D3-D365-85-BH1J.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=482 end=688915 sample=../Sounds/Saws/2 saw rise/xpander-D3-D386-106-9AQZ.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=502 end=689665 sample=../Sounds/Saws/2 saw rise/xpander-D3-D3107-127-UA3F.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=350 end=693653 sample=../Sounds/Saws/2 saw rise/xpander-D#3-D#31-21-5Q53.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=506 end=682629 sample=../Sounds/Saws/2 saw rise/xpander-D#3-D#322-42-W5GZ.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=513 end=686523 sample=../Sounds/Saws/2 saw rise/xpander-D#3-D#343-64-29RA.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=360 sample=../Sounds/Saws/2 saw rise/xpander-D#3-D#365-85-UU67.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=393 end=690102 sample=../Sounds/Saws/2 saw rise/xpander-D#3-D#386-106-2QY9.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=406 end=690233 sample=../Sounds/Saws/2 saw rise/xpander-D#3-D#3107-127-1P3T.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=456 end=694603 sample=../Sounds/Saws/2 saw rise/xpander-E3-E31-21-NOVR.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=456 end=682685 sample=../Sounds/Saws/2 saw rise/xpander-E3-E322-42-GCKX.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=688 end=686220 sample=../Sounds/Saws/2 saw rise/xpander-E3-E343-64-S17Z.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=375 sample=../Sounds/Saws/2 saw rise/xpander-E3-E365-85-YR76.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=297 end=688648 sample=../Sounds/Saws/2 saw rise/xpander-E3-E386-106-SQUF.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=527 sample=../Sounds/Saws/2 saw rise/xpander-E3-E3107-127-BNDG.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=460 sample=../Sounds/Saws/2 saw rise/xpander-F3-F31-21-F7AV.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=546 end=682400 sample=../Sounds/Saws/2 saw rise/xpander-F3-F322-42-E095.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=539 sample=../Sounds/Saws/2 saw rise/xpander-F3-F343-64-WEG8.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=584 end=685783 sample=../Sounds/Saws/2 saw rise/xpander-F3-F365-85-EULK.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=437 end=688911 sample=../Sounds/Saws/2 saw rise/xpander-F3-F386-106-MDAR.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=395 end=690322 sample=../Sounds/Saws/2 saw rise/xpander-F3-F3107-127-C3WN.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=245 end=693267 sample=../Sounds/Saws/2 saw rise/xpander-F#3-F#31-21-TSDM.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=424 sample=../Sounds/Saws/2 saw rise/xpander-F#3-F#322-42-WZD4.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=462 end=684482 sample=../Sounds/Saws/2 saw rise/xpander-F#3-F#343-64-1CR6.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=526 end=686247 sample=../Sounds/Saws/2 saw rise/xpander-F#3-F#365-85-87DW.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=606 end=689578 sample=../Sounds/Saws/2 saw rise/xpander-F#3-F#386-106-B1X2.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=463 end=690436 sample=../Sounds/Saws/2 saw rise/xpander-F#3-F#3107-127-K9WI.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=511 end=694227 sample=../Sounds/Saws/2 saw rise/xpander-G3-G31-21-73SN.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=571 end=683468 sample=../Sounds/Saws/2 saw rise/xpander-G3-G322-42-S36Y.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=406 end=684668 sample=../Sounds/Saws/2 saw rise/xpander-G3-G343-64-9BK4.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=480 end=686540 sample=../Sounds/Saws/2 saw rise/xpander-G3-G365-85-W2O3.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=654 sample=../Sounds/Saws/2 saw rise/xpander-G3-G386-106-GV4A.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=564 end=689296 sample=../Sounds/Saws/2 saw rise/xpander-G3-G3107-127-41FY.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=414 end=695454 sample=../Sounds/Saws/2 saw rise/xpander-G#3-G#31-21-9B8Q.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=378 end=682581 sample=../Sounds/Saws/2 saw rise/xpander-G#3-G#322-42-30YQ.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=461 end=684776 sample=../Sounds/Saws/2 saw rise/xpander-G#3-G#343-64-UXJ2.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=489 sample=../Sounds/Saws/2 saw rise/xpander-G#3-G#365-85-4ZJE.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=415 end=689209 sample=../Sounds/Saws/2 saw rise/xpander-G#3-G#386-106-GR67.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=474 sample=../Sounds/Saws/2 saw rise/xpander-G#3-G#3107-127-YNAS.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=550 sample=../Sounds/Saws/2 saw rise/xpander-A3-A31-21-T97V.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=373 end=682232 sample=../Sounds/Saws/2 saw rise/xpander-A3-A322-42-HRWC.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=412 end=686911 sample=../Sounds/Saws/2 saw rise/xpander-A3-A343-64-YB8Y.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=355 end=685866 sample=../Sounds/Saws/2 saw rise/xpander-A3-A365-85-QZ01.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=395 end=688522 sample=../Sounds/Saws/2 saw rise/xpander-A3-A386-106-SNU2.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=439 sample=../Sounds/Saws/2 saw rise/xpander-A3-A3107-127-5NXF.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=363 end=693830 sample=../Sounds/Saws/2 saw rise/xpander-A#3-A#31-21-H5EU.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=578 end=684084 sample=../Sounds/Saws/2 saw rise/xpander-A#3-A#322-42-YLTV.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=431 end=686144 sample=../Sounds/Saws/2 saw rise/xpander-A#3-A#343-64-WD1F.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=445 end=686130 sample=../Sounds/Saws/2 saw rise/xpander-A#3-A#365-85-HXLE.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=416 end=690156 sample=../Sounds/Saws/2 saw rise/xpander-A#3-A#386-106-U0VH.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=480 end=690761 sample=../Sounds/Saws/2 saw rise/xpander-A#3-A#3107-127-S871.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=479 sample=../Sounds/Saws/2 saw rise/xpander-B3-B31-21-RMM2.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=437 sample=../Sounds/Saws/2 saw rise/xpander-B3-B322-42-BHZY.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=481 end=685063 sample=../Sounds/Saws/2 saw rise/xpander-B3-B343-64-W4U5.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=433 sample=../Sounds/Saws/2 saw rise/xpander-B3-B365-85-YZ71.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=481 end=689705 sample=../Sounds/Saws/2 saw rise/xpander-B3-B386-106-X9DL.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=588 end=690155 sample=../Sounds/Saws/2 saw rise/xpander-B3-B3107-127-W3V2.aif
+<group>lokey=72 hikey=124 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=541 end=696095 sample=../Sounds/Saws/2 saw rise/xpander-E8-E81-21-TO30.aif
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=590 end=683151 sample=../Sounds/Saws/2 saw rise/xpander-E8-E822-42-7PTY.aif
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=377 end=686216 sample=../Sounds/Saws/2 saw rise/xpander-E8-E843-64-RR1T.aif
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=494 sample=../Sounds/Saws/2 saw rise/xpander-E8-E865-85-1MYJ.aif
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=451 end=690062 sample=../Sounds/Saws/2 saw rise/xpander-E8-E886-106-OJ22.aif
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=361 end=690470 sample=../Sounds/Saws/2 saw rise/xpander-E8-E8107-127-1BBR.aif

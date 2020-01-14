@@ -1,0 +1,102 @@
+// this file was generated from Noize Baz.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=6 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=456 sample=../Sounds/Misc/Noize Baz/Noize Baz-48-42-79LE.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=520 end=234721 sample=../Sounds/Misc/Noize Baz/Noize Baz-48-85-Y763.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=704 end=233028 sample=../Sounds/Misc/Noize Baz/Noize Baz-48-127-7JNH.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=767 end=233085 sample=../Sounds/Misc/Noize Baz/Noize Baz-49-42-015S.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=587 end=241060 sample=../Sounds/Misc/Noize Baz/Noize Baz-49-85-KT8J.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=620 end=229423 sample=../Sounds/Misc/Noize Baz/Noize Baz-49-127-QSW2.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=714 end=236483 sample=../Sounds/Misc/Noize Baz/Noize Baz-50-42-AGXI.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=712 end=235487 sample=../Sounds/Misc/Noize Baz/Noize Baz-50-85-HPC0.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=658 sample=../Sounds/Misc/Noize Baz/Noize Baz-50-127-3F67.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=611 end=233260 sample=../Sounds/Misc/Noize Baz/Noize Baz-51-42-VRRM.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=548 end=240984 sample=../Sounds/Misc/Noize Baz/Noize Baz-51-85-BFXL.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=589 end=230038 sample=../Sounds/Misc/Noize Baz/Noize Baz-51-127-S1TF.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=734 end=235749 sample=../Sounds/Misc/Noize Baz/Noize Baz-52-42-GHMQ.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=561 end=235081 sample=../Sounds/Misc/Noize Baz/Noize Baz-52-85-JMZG.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=812 end=234353 sample=../Sounds/Misc/Noize Baz/Noize Baz-52-127-U2WY.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=755 end=233064 sample=../Sounds/Misc/Noize Baz/Noize Baz-53-42-MT4C.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=600 end=241090 sample=../Sounds/Misc/Noize Baz/Noize Baz-53-85-ZSV2.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=706 end=229776 sample=../Sounds/Misc/Noize Baz/Noize Baz-53-127-XZM0.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=602 end=236210 sample=../Sounds/Misc/Noize Baz/Noize Baz-54-42-4TTT.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=606 end=234198 sample=../Sounds/Misc/Noize Baz/Noize Baz-54-85-DXMZ.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=517 end=234323 sample=../Sounds/Misc/Noize Baz/Noize Baz-54-127-X0B8.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=751 end=233113 sample=../Sounds/Misc/Noize Baz/Noize Baz-55-42-PFTN.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=572 end=241235 sample=../Sounds/Misc/Noize Baz/Noize Baz-55-85-RHPR.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=739 end=230488 sample=../Sounds/Misc/Noize Baz/Noize Baz-55-127-OG8Q.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=536 end=235470 sample=../Sounds/Misc/Noize Baz/Noize Baz-56-42-8GSY.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=634 sample=../Sounds/Misc/Noize Baz/Noize Baz-56-85-KGL6.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=499 sample=../Sounds/Misc/Noize Baz/Noize Baz-56-127-JGSB.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=644 end=233363 sample=../Sounds/Misc/Noize Baz/Noize Baz-57-42-00GZ.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=482 end=240736 sample=../Sounds/Misc/Noize Baz/Noize Baz-57-85-GJZ8.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=676 end=229915 sample=../Sounds/Misc/Noize Baz/Noize Baz-57-127-476X.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=618 end=234713 sample=../Sounds/Misc/Noize Baz/Noize Baz-58-42-9F35.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=652 end=235317 sample=../Sounds/Misc/Noize Baz/Noize Baz-58-85-F25V.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=644 end=233229 sample=../Sounds/Misc/Noize Baz/Noize Baz-58-127-NMNP.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=590 end=232827 sample=../Sounds/Misc/Noize Baz/Noize Baz-59-42-ETAS.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=732 end=240736 sample=../Sounds/Misc/Noize Baz/Noize Baz-59-85-28OE.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=579 end=229478 sample=../Sounds/Misc/Noize Baz/Noize Baz-59-127-PG1J.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=672 end=236805 sample=../Sounds/Misc/Noize Baz/Noize Baz-60-42-ABJ0.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=647 end=235410 sample=../Sounds/Misc/Noize Baz/Noize Baz-60-85-6VY2.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=687 end=233530 sample=../Sounds/Misc/Noize Baz/Noize Baz-60-127-A0H3.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=644 end=232915 sample=../Sounds/Misc/Noize Baz/Noize Baz-61-42-LKP2.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=463 end=241154 sample=../Sounds/Misc/Noize Baz/Noize Baz-61-85-AZ50.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=640 end=230216 sample=../Sounds/Misc/Noize Baz/Noize Baz-61-127-YHVX.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=631 sample=../Sounds/Misc/Noize Baz/Noize Baz-62-42-T2NE.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=609 end=235172 sample=../Sounds/Misc/Noize Baz/Noize Baz-62-85-X6QV.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=638 end=234872 sample=../Sounds/Misc/Noize Baz/Noize Baz-62-127-TP7B.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=746 end=233530 sample=../Sounds/Misc/Noize Baz/Noize Baz-63-42-EK68.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=580 end=241266 sample=../Sounds/Misc/Noize Baz/Noize Baz-63-85-VGZ4.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=679 end=230784 sample=../Sounds/Misc/Noize Baz/Noize Baz-63-127-SR32.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=731 end=236163 sample=../Sounds/Misc/Noize Baz/Noize Baz-64-42-H4Q6.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=722 end=234830 sample=../Sounds/Misc/Noize Baz/Noize Baz-64-85-231U.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=660 sample=../Sounds/Misc/Noize Baz/Noize Baz-64-127-XFHZ.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=676 end=233722 sample=../Sounds/Misc/Noize Baz/Noize Baz-65-42-SPKT.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=709 end=241319 sample=../Sounds/Misc/Noize Baz/Noize Baz-65-85-40F6.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=679 end=231057 sample=../Sounds/Misc/Noize Baz/Noize Baz-65-127-KCEH.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=547 end=235299 sample=../Sounds/Misc/Noize Baz/Noize Baz-66-42-R1YZ.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=605 sample=../Sounds/Misc/Noize Baz/Noize Baz-66-85-VAMH.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=503 end=234140 sample=../Sounds/Misc/Noize Baz/Noize Baz-66-127-2P4K.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=610 end=233592 sample=../Sounds/Misc/Noize Baz/Noize Baz-67-42-103J.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=482 end=240652 sample=../Sounds/Misc/Noize Baz/Noize Baz-67-85-J8SV.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=672 end=230525 sample=../Sounds/Misc/Noize Baz/Noize Baz-67-127-F80U.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=705 end=236284 sample=../Sounds/Misc/Noize Baz/Noize Baz-68-42-WP8A.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=496 sample=../Sounds/Misc/Noize Baz/Noize Baz-68-85-QMR4.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=587 end=233235 sample=../Sounds/Misc/Noize Baz/Noize Baz-68-127-989Z.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=551 end=233183 sample=../Sounds/Misc/Noize Baz/Noize Baz-69-42-94M4.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=523 end=240990 sample=../Sounds/Misc/Noize Baz/Noize Baz-69-85-6XJ5.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=470 end=230287 sample=../Sounds/Misc/Noize Baz/Noize Baz-69-127-ZJAO.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=632 end=236032 sample=../Sounds/Misc/Noize Baz/Noize Baz-70-42-2PR0.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=707 sample=../Sounds/Misc/Noize Baz/Noize Baz-70-85-WF9J.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=605 end=233615 sample=../Sounds/Misc/Noize Baz/Noize Baz-70-127-ZSAE.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=714 end=233750 sample=../Sounds/Misc/Noize Baz/Noize Baz-71-42-PQOT.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=642 end=241155 sample=../Sounds/Misc/Noize Baz/Noize Baz-71-85-CFKN.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=659 end=230763 sample=../Sounds/Misc/Noize Baz/Noize Baz-71-127-D1TX.wav
+<group>lokey=72 hikey=126 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=703 end=236113 sample=../Sounds/Misc/Noize Baz/Noize Baz-72-42-TRLV.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=592 end=235283 sample=../Sounds/Misc/Noize Baz/Noize Baz-72-85-P1OZ.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=670 end=234185 sample=../Sounds/Misc/Noize Baz/Noize Baz-72-127-87HP.wav

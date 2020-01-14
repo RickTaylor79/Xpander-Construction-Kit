@@ -1,0 +1,37 @@
+// this file was generated from TRI-BP-3P.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=38 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=93485 loop_end=197988 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-38-32-VFRG.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=282579 loop_end=611283 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-38-64-MHTC.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288616 loop_end=416618 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-38-95-PD7O.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315899 loop_end=483858 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-38-127-B7BD.wav
+<group>lokey=39 hikey=44 pitch_keycenter=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=93232 loop_end=197323 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-44-32-0VDM.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=453514 loop_end=580469 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-44-64-8T6F.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=366903 loop_end=501057 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-44-95-RBP4.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=448570 loop_end=573508 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-44-127-6QW4.wav
+<group>lokey=45 hikey=50 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=93343 loop_end=198458 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-50-32-I8X0.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=221018 loop_end=594777 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-50-64-5FLU.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=427582 loop_end=546045 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-50-95-IU4J.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=364025 loop_end=611205 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-50-127-ZONT.wav
+<group>lokey=51 hikey=56 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=93701 loop_end=198752 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-56-32-EZLC.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=92605 loop_end=197208 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-56-64-F0E6.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=428690 loop_end=536813 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-56-95-Y2LS.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=181485 loop_end=292812 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-56-127-9LVU.wav
+<group>lokey=57 hikey=62 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=192309 loop_end=310721 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-62-32-D5VF.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=298579 loop_end=411494 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-62-64-EYST.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=174387 loop_end=278072 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-62-95-BXES.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=130601 loop_end=258626 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-62-127-UE0C.wav
+<group>lokey=63 hikey=68 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=130635 loop_end=610891 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-68-32-8C7I.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=370160 loop_end=505579 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-68-64-9PCP.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=470458 loop_end=612634 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-68-95-JMYT.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=93673 loop_end=229879 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-68-127-43ED.wav
+<group>lokey=69 hikey=127 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=198181 loop_end=340261 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-72-32-8GO3.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=425310 loop_end=550137 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-72-64-IWY9.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=213627 loop_end=344837 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-72-95-3OFM.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=174410 loop_end=282457 sample=../Sounds/Triangles/TRI-BP-3P/(201639 7244)/TRI-BP-3P-72-127-WAT1.wav

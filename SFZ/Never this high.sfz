@@ -1,0 +1,161 @@
+// this file was generated from Never this high.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=579 end=186841 sample=../Sounds/Misc/Never this high/Never this high-48-44-B37O.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=696 sample=../Sounds/Misc/Never this high/Never this high-48-127-W4K9.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=739 sample=../Sounds/Misc/Never this high/Never this high-49-44-SZR9.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=613 end=200982 sample=../Sounds/Misc/Never this high/Never this high-49-127-Y92M.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=647 end=183984 sample=../Sounds/Misc/Never this high/Never this high-50-44-UM42.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=629 end=192409 sample=../Sounds/Misc/Never this high/Never this high-50-127-M7BW.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=733 sample=../Sounds/Misc/Never this high/Never this high-51-44-MRTE.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=803 sample=../Sounds/Misc/Never this high/Never this high-51-127-U6NW.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=635 sample=../Sounds/Misc/Never this high/Never this high-52-44-NR3L.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=669 end=201207 sample=../Sounds/Misc/Never this high/Never this high-52-127-2SAN.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=610 sample=../Sounds/Misc/Never this high/Never this high-53-44-PR3I.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=701 sample=../Sounds/Misc/Never this high/Never this high-53-127-TETU.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=932 end=186746 sample=../Sounds/Misc/Never this high/Never this high-54-44-AYOO.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=618 end=191369 sample=../Sounds/Misc/Never this high/Never this high-54-127-BSUH.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=721 sample=../Sounds/Misc/Never this high/Never this high-55-44-4P44.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=724 end=199558 sample=../Sounds/Misc/Never this high/Never this high-55-127-YI8A.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=607 sample=../Sounds/Misc/Never this high/Never this high-56-44-B8VA.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=527 end=194164 sample=../Sounds/Misc/Never this high/Never this high-56-127-2COE.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=752 end=184651 sample=../Sounds/Misc/Never this high/Never this high-57-44-I5K9.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=812 end=193834 sample=../Sounds/Misc/Never this high/Never this high-57-127-FTVE.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=541 end=185294 sample=../Sounds/Misc/Never this high/Never this high-58-44-MVOS.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=688 end=199826 sample=../Sounds/Misc/Never this high/Never this high-58-127-TKZK.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=621 sample=../Sounds/Misc/Never this high/Never this high-59-44-CKFD.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=757 end=192662 sample=../Sounds/Misc/Never this high/Never this high-59-127-SDEM.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=606 sample=../Sounds/Misc/Never this high/Never this high-60-44-HMC5.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=663 sample=../Sounds/Misc/Never this high/Never this high-60-127-6IN5.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=724 sample=../Sounds/Misc/Never this high/Never this high-61-44-IM0G.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=654 end=202346 sample=../Sounds/Misc/Never this high/Never this high-61-127-1CNH.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=672 end=182787 sample=../Sounds/Misc/Never this high/Never this high-62-44-NY5P.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=560 end=193543 sample=../Sounds/Misc/Never this high/Never this high-62-127-W12E.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=666 sample=../Sounds/Misc/Never this high/Never this high-63-44-H2UV.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=766 end=192256 sample=../Sounds/Misc/Never this high/Never this high-63-127-BOCH.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=545 end=185459 sample=../Sounds/Misc/Never this high/Never this high-64-44-28H6.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=765 sample=../Sounds/Misc/Never this high/Never this high-64-127-R9S6.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=706 end=182365 sample=../Sounds/Misc/Never this high/Never this high-65-44-JL5S.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=596 end=192984 sample=../Sounds/Misc/Never this high/Never this high-65-127-D7XC.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=820 end=187202 sample=../Sounds/Misc/Never this high/Never this high-66-44-R668.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=837 end=192155 sample=../Sounds/Misc/Never this high/Never this high-66-127-36D8.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=517 end=185829 sample=../Sounds/Misc/Never this high/Never this high-67-44-HAHC.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=780 end=200829 sample=../Sounds/Misc/Never this high/Never this high-67-127-4YBC.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=669 sample=../Sounds/Misc/Never this high/Never this high-68-44-88B2.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=596 end=193357 sample=../Sounds/Misc/Never this high/Never this high-68-127-XCOX.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=496 sample=../Sounds/Misc/Never this high/Never this high-69-44-PZKS.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=764 end=192660 sample=../Sounds/Misc/Never this high/Never this high-69-127-6LHC.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=738 end=188502 sample=../Sounds/Misc/Never this high/Never this high-70-44-7048.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=684 end=200960 sample=../Sounds/Misc/Never this high/Never this high-70-127-BT7Q.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=562 sample=../Sounds/Misc/Never this high/Never this high-71-44-ZSB6.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=685 end=195170 sample=../Sounds/Misc/Never this high/Never this high-71-127-JRO1.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=626 end=185746 sample=../Sounds/Misc/Never this high/Never this high-72-44-VIOW.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=560 end=190792 sample=../Sounds/Misc/Never this high/Never this high-72-127-OB3V.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=722 sample=../Sounds/Misc/Never this high/Never this high-73-44-B0P8.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=749 end=200064 sample=../Sounds/Misc/Never this high/Never this high-73-127-5SSB.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=802 sample=../Sounds/Misc/Never this high/Never this high-74-44-TS91.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=732 end=193208 sample=../Sounds/Misc/Never this high/Never this high-74-127-UWRN.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=804 sample=../Sounds/Misc/Never this high/Never this high-75-44-MENH.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=636 sample=../Sounds/Misc/Never this high/Never this high-75-127-ORXE.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=781 end=185801 sample=../Sounds/Misc/Never this high/Never this high-76-44-VBTP.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=709 end=201343 sample=../Sounds/Misc/Never this high/Never this high-76-127-JPHD.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=572 sample=../Sounds/Misc/Never this high/Never this high-77-44-NG0O.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=726 end=194108 sample=../Sounds/Misc/Never this high/Never this high-77-127-XS2D.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=530 end=187467 sample=../Sounds/Misc/Never this high/Never this high-78-44-2D84.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=668 end=192073 sample=../Sounds/Misc/Never this high/Never this high-78-127-QDCT.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=701 end=186815 sample=../Sounds/Misc/Never this high/Never this high-79-44-4817.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=656 end=200591 sample=../Sounds/Misc/Never this high/Never this high-79-127-3FAS.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=610 end=184530 sample=../Sounds/Misc/Never this high/Never this high-80-44-NJS2.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=706 end=193713 sample=../Sounds/Misc/Never this high/Never this high-80-127-QXFH.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=670 end=186716 sample=../Sounds/Misc/Never this high/Never this high-81-44-5GT8.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=708 end=192309 sample=../Sounds/Misc/Never this high/Never this high-81-127-M99H.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=799 end=185905 sample=../Sounds/Misc/Never this high/Never this high-82-44-Q21R.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=578 end=201010 sample=../Sounds/Misc/Never this high/Never this high-82-127-71V6.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=693 sample=../Sounds/Misc/Never this high/Never this high-83-44-XG1B.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=669 end=193725 sample=../Sounds/Misc/Never this high/Never this high-83-127-3PEU.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=568 end=186291 sample=../Sounds/Misc/Never this high/Never this high-84-44-IKN8.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=686 end=192026 sample=../Sounds/Misc/Never this high/Never this high-84-127-0U4J.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=598 end=185774 sample=../Sounds/Misc/Never this high/Never this high-85-44-SABR.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=615 end=201379 sample=../Sounds/Misc/Never this high/Never this high-85-127-AJUU.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=553 end=185273 sample=../Sounds/Misc/Never this high/Never this high-86-44-YUJC.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=731 end=193421 sample=../Sounds/Misc/Never this high/Never this high-86-127-XU4E.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=623 end=187418 sample=../Sounds/Misc/Never this high/Never this high-87-44-C3RV.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=771 end=192036 sample=../Sounds/Misc/Never this high/Never this high-87-127-BBVD.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=593 end=186004 sample=../Sounds/Misc/Never this high/Never this high-88-44-S1FB.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=555 sample=../Sounds/Misc/Never this high/Never this high-88-127-AZ58.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=763 end=182966 sample=../Sounds/Misc/Never this high/Never this high-89-44-RUSO.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=520 sample=../Sounds/Misc/Never this high/Never this high-89-127-6V1I.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=758 sample=../Sounds/Misc/Never this high/Never this high-90-44-NIKX.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=786 end=192916 sample=../Sounds/Misc/Never this high/Never this high-90-127-DLO0.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=708 end=185600 sample=../Sounds/Misc/Never this high/Never this high-91-44-NT7H.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=800 end=200471 sample=../Sounds/Misc/Never this high/Never this high-91-127-EU5F.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=558 end=182049 sample=../Sounds/Misc/Never this high/Never this high-92-44-RRII.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=722 end=193421 sample=../Sounds/Misc/Never this high/Never this high-92-127-L3FN.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=762 sample=../Sounds/Misc/Never this high/Never this high-93-44-BX3P.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=629 end=192164 sample=../Sounds/Misc/Never this high/Never this high-93-127-4KTH.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=647 end=185377 sample=../Sounds/Misc/Never this high/Never this high-94-44-DFFY.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=595 end=201119 sample=../Sounds/Misc/Never this high/Never this high-94-127-FOUL.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=698 end=182937 sample=../Sounds/Misc/Never this high/Never this high-95-44-3XXR.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=551 end=193793 sample=../Sounds/Misc/Never this high/Never this high-95-127-XVDY.wav
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=620 sample=../Sounds/Misc/Never this high/Never this high-96-44-XXJF.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=687 sample=../Sounds/Misc/Never this high/Never this high-96-127-TLFG.wav
+<group> key=97 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=734 sample=../Sounds/Misc/Never this high/Never this high-97-44-U3X4.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=710 end=201126 sample=../Sounds/Misc/Never this high/Never this high-97-127-7LXQ.wav
+<group> key=98 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=591 end=184192 sample=../Sounds/Misc/Never this high/Never this high-98-44-KS28.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=692 sample=../Sounds/Misc/Never this high/Never this high-98-127-3PQP.wav
+<group> key=99 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=600 end=187398 sample=../Sounds/Misc/Never this high/Never this high-99-44-YQ2K.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=670 end=192149 sample=../Sounds/Misc/Never this high/Never this high-99-127-WGKK.wav
+<group> key=100 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 volume=12 offset=783 sample=../Sounds/Misc/Never this high/Never this high-100-44-6KCL.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 volume=12 offset=738 end=201088

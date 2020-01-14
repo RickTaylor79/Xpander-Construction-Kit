@@ -1,0 +1,247 @@
+// this file was generated from Thick Shiner.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=616 end=672605 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-48-64-XCVS.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=706 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-48-90-UDS6.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=819 end=673094 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-48-110-7994.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=649 end=672637 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-48-127-AGW3.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=692 end=673281 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-49-64-JTAB.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=769 end=673792 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-49-90-E9BS.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=612 end=672862 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-49-110-TUL7.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=677 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-49-127-J5M6.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=632 end=673419 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-50-64-4INF.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=692 end=671744 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-50-90-J63W.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=621 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-50-110-063T.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=565 end=672220 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-50-127-L8DX.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=525 end=671807 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-51-64-IJO8.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=689 end=672592 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-51-90-FH1K.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=668 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-51-110-2TKX.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=792 end=673557 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-51-127-HBEB.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=582 end=674121 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-52-64-CLI2.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=780 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-52-90-G0XR.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=717 end=672663 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-52-110-LQGC.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=696 end=672890 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-52-127-GA4G.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=629 end=674833 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-53-64-HJPU.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=692 end=674063 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-53-90-21F5.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=764 end=673468 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-53-110-7SOZ.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=614 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-53-127-J22S.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=650 end=672861 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-54-64-1F9B.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=559 end=671827 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-54-90-HHI6.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=707 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-54-110-KC8T.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=633 end=672650 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-54-127-SMYY.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=527 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-55-64-6ZMR.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=684 end=672894 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-55-90-SAT1.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=602 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-55-110-AI4C.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=750 end=672670 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-55-127-WF2X.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=709 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-56-64-I9QP.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=710 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-56-90-7HXU.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=694 end=671774 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-56-110-VPNO.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=694 end=674817 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-56-127-5R32.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=626 end=672554 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-57-64-T7N5.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=736 end=672256 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-57-90-EEAX.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=736 end=672596 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-57-110-33IT.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=606 end=673536 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-57-127-R2L2.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=687 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-58-64-KJJ8.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=577 end=673593 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-58-90-MZ89.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=579 end=672532 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-58-110-709P.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=583 end=672529 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-58-127-SFNP.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=698 end=672579 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-59-64-QPUY.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=738 end=672066 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-59-90-P0YF.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=721 end=673301 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-59-110-CJA3.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=735 end=672768 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-59-127-XI7F.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=702 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-60-64-SO2M.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=616 end=674304 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-60-90-V491.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=608 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-60-110-TIAX.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=542 end=730915 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-60-127-XT4B.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=727 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-61-64-JICP.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=529 end=674617 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-61-90-YYZM.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=656 end=673280 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-61-110-XTA4.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=530 end=672768 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-61-127-0R6N.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=659 end=673285 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-62-64-1A9Q.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=632 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-62-90-ZSOR.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=471 end=672522 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-62-110-SFUO.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=739 end=672054 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-62-127-CGW2.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=733 end=672303 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-63-64-XRQR.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=576 end=672294 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-63-90-CCZE.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=721 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-63-110-VPKY.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=742 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-63-127-0A82.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=745 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-64-64-6R4Q.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=649 end=672293 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-64-90-UDS7.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=668 end=672569 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-64-110-GCQR.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=670 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-64-127-2L0X.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=653 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-65-64-2DTO.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=527 end=673316 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-65-90-2KTP.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=724 end=672070 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-65-110-2VOZ.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=583 end=672538 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-65-127-I3R5.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=574 end=671805 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-66-64-FNVW.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=664 end=672550 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-66-90-NI0Z.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=677 end=672086 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-66-110-CNMF.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=691 end=672537 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-66-127-H4Z9.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=758 end=672827 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-67-64-6253.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=678 end=671781 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-67-90-7TNA.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=675 end=672829 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-67-110-6RTV.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=616 end=672045 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-67-127-SXN2.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=545 end=673294 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-68-64-7Y4Q.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=741 end=673564 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-68-90-V5TR.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=589 end=672007 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-68-110-R7Q2.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=629 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-68-127-1PQ8.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=719 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-69-64-8XK6.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=568 end=672562 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-69-90-12PC.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=690 end=673537 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-69-110-4F57.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=668 end=672801 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-69-127-ZNTR.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=568 end=671850 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-70-64-9DTR.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=728 end=674634 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-70-90-AP1U.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=582 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-70-110-NCG9.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=769 end=673024 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-70-127-2VTC.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=717 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-71-64-F9OD.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=579 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-71-90-YXED.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=587 end=672822 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-71-110-233M.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=783 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-71-127-MDED.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=680 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-72-64-ZVQT.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=546 end=672002 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-72-90-4C7I.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=598 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-72-110-R7YN.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=712 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-72-127-1UCO.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=728 end=672530 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-73-64-C21Q.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=703 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-73-90-QHL3.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=514 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-73-110-HSJZ.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=731 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-73-127-6STF.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=629 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-74-64-KY36.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=719 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-74-90-FNHU.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=654 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-74-110-D0I1.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=722 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-74-127-TYCX.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=560 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-75-64-D0X0.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=687 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-75-90-2RMU.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=553 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-75-110-8F2K.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=713 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-75-127-VD5M.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=571 end=672566 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-76-64-UOWW.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=672 end=672774 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-76-90-H41Y.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=689 end=672796 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-76-110-M3NO.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=645 end=672545 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-76-127-7BJF.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=707 end=673024 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-77-64-66K7.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=631 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-77-90-MQ1W.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=683 end=672397 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-77-110-LAJA.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=705 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-77-127-GIPN.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=595 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-78-64-LDL3.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=684 end=672797 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-78-90-WW29.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=746 end=672256 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-78-110-4SUN.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=615 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-78-127-WWBC.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=655 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-79-64-AZA1.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=490 end=672784 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-79-90-0XD4.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=680 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-79-110-VMG1.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=534 end=672013 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-79-127-VPAD.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=605 end=672517 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-80-64-85BA.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=619 end=672015 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-80-90-6F53.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=853 end=673076 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-80-110-GQLE.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=630 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-80-127-8BXC.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=677 end=672785 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-81-64-A1FV.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=582 end=672000 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-81-90-SVTE.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=701 end=672790 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-81-110-VG65.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=699 end=672029 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-81-127-0J9D.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=732 end=672847 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-82-64-OG1G.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=674 end=671755 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-82-90-31AK.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=527 end=672785 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-82-110-9WSJ.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=701 end=672768 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-82-127-MA3H.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=732 end=672261 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-83-64-LYTO.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=639 end=671757 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-83-90-722T.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=632 end=672524 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-83-110-RB49.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=631 end=672021 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-83-127-9QZT.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=610 end=672021 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-84-64-YRLM.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=646 end=671757 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-84-90-H57S.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=592 end=672773 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-84-110-F94B.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=697 end=672256 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-84-127-PKZS.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=632 end=672119 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-85-64-75QD.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=711 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-85-90-UPZP.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=634 end=671752 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-85-110-N5OH.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=603 end=672512 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-85-127-5DIN.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=752 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-86-64-2HOP.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=692 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-86-90-AO6Y.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=629 end=672564 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-86-110-QF7O.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=623 end=673280 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-86-127-NGX7.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=662 end=672263 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-87-64-AYP9.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=731 end=673050 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-87-90-ZOU4.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=713 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-87-110-XX3M.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=664 end=672771 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-87-127-MR23.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=759 end=672125 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-88-64-7ORU.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=681 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-88-90-I384.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=660 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-88-110-2BV5.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=661 end=672518 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-88-127-Z62V.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=707 end=673033 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-89-64-8C9G.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=591 end=672024 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-89-90-A2OB.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=545 end=671802 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-89-110-BOHC.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=598 end=672256 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-89-127-KI1K.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=551 end=672773 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-90-64-R5VC.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=718 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-90-90-8L64.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=574 end=672006 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-90-110-ZI0L.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=719 end=672284 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-90-127-EWNU.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=764 end=672850 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-91-64-HIVY.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=669 end=672512 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-91-90-4ROR.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=663 end=673290 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-91-110-RR6D.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=680 end=673027 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-91-127-9VII.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=744 end=672256 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-92-64-GAL4.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=793 end=673032 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-92-90-43H7.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=542 end=672919 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-92-110-V5O9.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=609 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-92-127-IFE2.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=729 end=672258 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-93-64-PESZ.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=625 end=672257 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-93-90-VDDC.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=502 end=672008 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-93-110-F1GG.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=725 end=672257 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-93-127-V3YV.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=525 end=672835 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-94-64-FHIW.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=618 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-94-90-6NUJ.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=779 end=673034 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-94-110-BY1Z.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=674 end=673286 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-94-127-74LE.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=651 end=672785 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-95-64-EC6V.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=644 end=672771 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-95-90-Y5VJ.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=637 end=673147 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-95-110-PC81.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=759 end=673040 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-95-127-V25C.wav
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=564 end=672000 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-96-64-NIVJ.wav
+	<region> lovel=065 hivel=090 amp_velcurve_090=1 offset=661 end=672518 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-96-90-27O5.wav
+	<region> lovel=091 hivel=110 amp_velcurve_110=1 offset=588 end=672512 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-96-110-5UO1.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 offset=529 sample=../Sounds/Misc/Thick Shiner/Thick Shiner-96-127-YDCH.wav

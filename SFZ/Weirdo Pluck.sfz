@@ -1,0 +1,443 @@
+// this file was generated from Weirdo Pluck.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=712 end=96231 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-48-16-DCW6.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=650 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-48-32-YWGM.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=765 end=97280 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-48-48-KSFA.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=719 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-48-64-HZ02.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=618 end=97143 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-48-79-G7BW.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=545 end=99584 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-48-95-BWAH.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=566 end=97280 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-48-111-HRT4.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=529 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-48-127-DLA4.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=516 end=96832 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-49-16-L9SA.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=720 end=94720 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-49-32-42DQ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=584 end=96818 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-49-48-ZDLV.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=520 end=96005 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-49-64-GOVU.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=651 end=96768 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-49-79-1ZVH.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=782 end=96579 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-49-95-FY4G.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=602 end=95104 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-49-111-1G0U.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=684 end=96130 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-49-127-BJ8Z.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=668 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-50-16-0F8Q.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=665 end=94665 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-50-32-1AZP.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=645 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-50-48-QPL0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=791 end=96694 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-50-64-G1G6.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=594 end=97826 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-50-79-Q8TB.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=722 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-50-95-4W43.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=722 end=97030 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-50-111-E66E.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=518 end=96848 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-50-127-EFCC.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=718 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-51-16-3E6K.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=566 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-51-32-W8F4.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=637 end=95946 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-51-48-7SHT.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=657 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-51-64-CQT7.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=659 end=96217 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-51-79-X0XO.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=607 end=97082 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-51-95-XR0H.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=463 end=96384 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-51-111-LWKE.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=694 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-51-127-Y5KP.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=619 end=96384 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-52-16-P1F8.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=687 end=95311 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-52-32-TSG6.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=705 end=97293 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-52-48-XW4D.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=711 end=96420 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-52-64-0JGB.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=520 end=97351 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-52-79-47SZ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=783 end=97230 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-52-95-1UGX.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=557 end=97357 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-52-111-58LE.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=532 end=96512 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-52-127-FRYA.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=777 end=97024 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-53-16-HSB9.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=663 end=96574 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-53-32-6UN3.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=589 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-53-48-KARP.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=632 end=97057 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-53-64-JTIO.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=727 end=96606 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-53-79-R7RN.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=750 end=96384 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-53-95-461S.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=585 end=96690 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-53-111-EVMN.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=637 end=96897 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-53-127-ZJP3.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=534 end=96385 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-54-16-55Z3.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=739 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-54-32-EPWF.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=692 end=96451 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-54-48-1UDV.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=640 end=95411 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-54-64-K9X3.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=688 end=96768 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-54-79-SGEH.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=662 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-54-95-PGH8.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=636 end=97280 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-54-111-XCZI.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=526 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-54-127-QQ1N.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=592 end=96000 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-55-16-A6XJ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=713 end=96715 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-55-32-JLD0.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=724 end=97024 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-55-48-BW4L.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=642 end=96000 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-55-64-54K1.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=666 end=96768 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-55-79-GAL4.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=692 end=97280 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-55-95-24HU.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=605 end=96306 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-55-111-DSQK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=647 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-55-127-V1E2.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=699 end=96768 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-56-16-MARE.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=645 end=96256 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-56-32-K4I4.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=669 end=96154 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-56-48-EM7I.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=606 end=96898 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-56-64-3U8Z.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=737 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-56-79-TBWV.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=671 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-56-95-I52H.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=547 end=97541 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-56-111-8VP4.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=602 end=96512 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-56-127-SHC5.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=749 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-57-16-F9YG.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=695 end=96569 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-57-32-QX7I.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=671 end=96256 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-57-48-FWMI.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=692 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-57-64-SV5F.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=649 end=96542 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-57-79-IF96.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=705 end=96256 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-57-95-8MF7.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=550 end=96579 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-57-111-SZEP.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=634 end=96897 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-57-127-KU4H.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=624 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-58-16-7K4S.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=574 end=95890 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-58-32-SOCW.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=651 end=96655 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-58-48-2NM2.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=603 end=96463 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-58-64-UXE5.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=780 end=96282 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-58-79-D5E0.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=681 end=96914 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-58-95-2MP2.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=777 end=96784 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-58-111-IFGN.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=652 end=96686 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-58-127-HAVV.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=590 end=96403 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-59-16-B96Y.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=567 end=96787 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-59-32-S169.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=715 end=97310 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-59-48-8XEQ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=692 end=97152 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-59-64-UPBT.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=559 end=96827 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-59-79-XKQO.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=617 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-59-95-5VCB.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=784 end=97408 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-59-111-59SL.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=690 end=96441 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-59-127-V4LC.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=799 end=96512 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-60-16-U6DG.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=633 end=96802 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-60-32-IIHK.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=600 end=97292 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-60-48-XJFQ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=724 end=96436 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-60-64-SJT7.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=579 end=96949 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-60-79-C7QL.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=684 end=96655 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-60-95-Z3GS.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=741 end=97024 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-60-111-QI0E.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=660 end=96671 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-60-127-6Z40.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=625 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-61-16-C0XT.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=704 end=96576 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-61-32-JU3G.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=721 end=96801 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-61-48-5MMG.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=548 end=96690 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-61-64-3G2J.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=510 end=96768 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-61-79-1YHC.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=551 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-61-95-19VQ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=799 end=96793 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-61-111-N4GT.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=741 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-61-127-G0MC.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=760 end=97153 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-62-16-CS74.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=751 end=97024 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-62-32-9M29.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=632 end=96926 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-62-48-UWPB.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=619 end=97051 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-62-64-N7I3.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=637 end=96316 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-62-79-7Y4T.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=837 end=97163 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-62-95-PU6P.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=610 end=96898 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-62-111-HEUX.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=715 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-62-127-UG2D.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=647 end=96180 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-63-16-5QGY.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=675 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-63-32-NCWT.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=586 end=96768 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-63-48-78QZ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=631 end=97920 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-63-64-QS1P.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=743 end=96828 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-63-79-RBCB.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=664 end=96898 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-63-95-ZPSE.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=720 end=96911 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-63-111-6BOF.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=722 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-63-127-O91S.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=759 end=96923 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-64-16-ELQG.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=570 end=97024 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-64-32-7EBH.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=571 end=97448 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-64-48-MXS1.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=646 end=96641 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-64-64-1WZL.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=541 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-64-79-ALYC.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=516 end=97206 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-64-95-VR5Q.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=590 end=96431 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-64-111-5LQX.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=649 end=97052 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-64-127-BYIW.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=530 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-65-16-E216.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=514 end=96384 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-65-32-BDQW.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=727 end=96256 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-65-48-6XW0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=528 end=96806 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-65-64-UCQ3.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=584 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-65-79-FLRR.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=519 end=96519 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-65-95-HSDY.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=616 end=96805 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-65-111-NTS4.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=509 end=96683 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-65-127-DOUE.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=636 end=96513 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-66-16-WT47.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=489 end=96403 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-66-32-OOM7.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=580 end=97283 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-66-48-74WP.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=678 end=96768 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-66-64-EFUP.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=727 end=97171 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-66-79-I5C7.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=606 end=97408 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-66-95-MUVP.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=663 end=97024 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-66-111-1FLH.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=561 end=96679 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-66-127-E2YD.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=566 end=96654 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-67-16-DL6F.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=488 end=95645 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-67-32-LDVZ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=671 end=97593 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-67-48-Z3UB.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=703 end=97046 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-67-64-WJ70.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=642 end=97937 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-67-79-WFIQ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=649 end=97073 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-67-95-LDNQ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=737 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-67-111-AHH7.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=686 end=97688 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-67-127-981D.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=748 end=97571 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-68-16-B7P1.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=653 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-68-32-JUG0.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=630 end=98191 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-68-48-0RM0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=590 end=96768 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-68-64-2OHX.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=599 end=97024 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-68-79-DPKK.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=670 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-68-95-I2MH.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=705 end=97280 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-68-111-04O6.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=683 end=96922 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-68-127-VLZJ.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=611 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-69-16-ULEQ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=621 end=97419 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-69-32-AQEI.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=634 end=97299 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-69-48-PWGH.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=645 end=98304 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-69-64-5S2T.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=525 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-69-79-II7S.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=932 end=97701 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-69-95-PH26.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=681 end=97408 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-69-111-YCMH.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=685 end=97159 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-69-127-YA7I.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=608 end=96922 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-70-16-JQX7.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=698 end=97158 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-70-32-HT3H.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=581 end=97554 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-70-48-KPCP.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=699 end=96793 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-70-64-KYPJ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=711 end=97432 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-70-79-OPXF.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=737 end=97677 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-70-95-PKX7.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=614 end=97792 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-70-111-2J1H.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=657 end=97825 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-70-127-XVNK.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=502 end=97047 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-71-16-5NHD.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=615 end=96921 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-71-32-SNEH.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=886 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-71-48-9F4Z.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=677 end=97408 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-71-64-VWIJ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=668 end=96785 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-71-79-FFII.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=634 end=97024 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-71-95-R2Q0.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=705 end=97815 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-71-111-O9NF.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=579 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-71-127-OGXN.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=661 end=97178 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-72-16-9K75.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=589 end=32742 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-72-32-2IN9.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=604 end=76421 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-72-48-X9V3.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=700 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-72-64-E8AM.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=714 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-72-79-L4QT.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=687 end=10081 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-72-95-W8L5.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=705 end=47023 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-72-111-R0KF.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=801 end=96654 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-72-127-O8ZE.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=755 end=96128 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-73-16-1UPJ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=607 end=104704 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-73-32-RL9L.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=702 end=97426 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-73-48-HLN0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=744 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-73-64-FV0A.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=778 end=97290 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-73-79-DX1Q.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=635 end=97152 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-73-95-KZ3V.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=781 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-73-111-1O3Z.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=642 end=96928 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-73-127-92OU.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=692 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-74-16-4GRA.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=743 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-74-32-WFKA.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=509 end=97152 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-74-48-I5GV.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=754 end=97410 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-74-64-0K7K.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=709 end=96776 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-74-79-WT6C.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=673 end=98176 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-74-95-O7G5.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=699 end=103841 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-74-111-7J9Y.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=694 end=97043 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-74-127-3ZFM.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=692 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-75-16-IVCS.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=563 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-75-32-4JUP.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=679 end=95872 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-75-48-T84H.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=619 end=97167 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-75-64-ZBG1.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=770 end=98453 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-75-79-03NH.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=690 end=97282 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-75-95-EEOD.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=579 end=96267 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-75-111-CAU0.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=508 end=98560 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-75-127-ASPG.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=689 end=97536 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-76-16-A9VT.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=695 end=96642 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-76-32-VMAC.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=725 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-76-48-9VVW.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=667 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-76-64-FZ6D.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=533 end=98050 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-76-79-RBD5.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=659 end=96900 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-76-95-GM8X.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=712 end=97410 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-76-111-XK8S.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=691 end=97557 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-76-127-ASJ2.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=684 end=98048 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-77-16-UYZM.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=673 end=96768 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-77-32-GCA1.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=698 end=5555 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-77-48-1QU7.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=665 end=96395 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-77-64-AP5Q.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=592 end=98442 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-77-79-XFVA.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=732 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-77-95-YRTX.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=663 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-77-111-HEUU.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=540 end=97408 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-77-127-1H7D.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=728 end=97539 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-78-16-I95I.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=841 end=97024 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-78-32-XT72.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=595 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-78-48-SUY5.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=728 end=97280 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-78-64-B6KO.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=555 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-78-79-I2V6.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=545 end=97152 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-78-95-Q3X7.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=584 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-78-111-EH33.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=748 end=97291 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-78-127-PE61.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=490 end=97035 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-79-16-DHVS.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=602 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-79-32-XEVA.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=602 end=101767 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-79-48-EOL0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=686 end=97280 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-79-64-BH3E.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=762 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-79-79-8LXH.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=673 end=97306 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-79-95-0634.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=675 end=97028 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-79-111-XZM2.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=612 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-79-127-DL63.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=637 end=97415 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-80-16-628B.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=684 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-80-32-ODDB.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=598 end=97418 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-80-48-OC1B.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=673 end=97408 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-80-64-420D.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=723 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-80-79-523T.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=567 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-80-95-885B.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=689 end=97038 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-80-111-MAJ7.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=798 end=97536 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-80-127-QJ6P.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=648 end=97280 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-81-16-KB6S.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=761 end=97024 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-81-32-2BHE.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=629 end=97152 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-81-48-KJJS.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=734 end=96915 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-81-64-ZBEF.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=651 end=97426 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-81-79-KOVL.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=523 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-81-95-D4H0.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=694 end=97920 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-81-111-CAEJ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=511 end=45826 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-81-127-GHLX.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=628 end=96384 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-82-16-JYMB.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=595 end=97152 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-82-32-IZKN.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=658 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-82-48-HWUA.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=540 end=96770 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-82-64-628H.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=637 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-82-79-A8E2.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=644 end=96781 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-82-95-E8K5.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=690 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-82-111-CPAG.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=665 end=96900 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-82-127-U431.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=643 end=96401 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-83-16-N659.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=842 end=96775 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-83-32-LFFC.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=692 end=7885 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-83-48-6BF4.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=604 end=97408 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-83-64-VNI9.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=793 end=97024 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-83-79-GAEO.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=662 end=97280 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-83-95-W5NA.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=565 end=96899 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-83-111-F3JS.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=697 end=97156 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-83-127-EHD3.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=747 end=5185 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-84-16-GLF4.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=637 end=97408 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-84-32-RHB3.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=617 end=96768 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-84-48-DUUW.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=689 end=96902 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-84-64-S8JA.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=724 end=97024 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-84-79-GOYG.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=740 end=97415 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-84-95-QRRF.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=669 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-84-111-QYLO.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=760 end=96655 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-84-127-3C3N.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=798 end=97154 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-85-16-415Q.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=607 end=96128 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-85-32-QZQU.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=611 end=96768 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-85-48-BOPF.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=699 end=97408 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-85-64-A5IG.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=656 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-85-79-NA63.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=563 end=97152 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-85-95-BB9Q.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=629 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-85-111-7PV2.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=697 end=96902 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-85-127-PQF8.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=674 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-86-16-FLB3.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=574 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-86-32-G0FA.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=535 end=96909 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-86-48-XI3G.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=791 end=96640 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-86-64-BKV3.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=672 end=96774 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-86-79-NRR2.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=646 end=97280 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-86-95-H40H.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=654 end=96905 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-86-111-DHT8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=561 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-86-127-JYXN.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=700 end=97536 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-87-16-M2C5.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=695 end=96897 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-87-32-CXE4.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=619 end=96512 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-87-48-LK5G.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=792 end=96910 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-87-64-ARFU.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=665 end=96906 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-87-79-A4DU.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=588 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-87-95-1KO6.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=680 end=96898 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-87-111-9OXP.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=746 end=97156 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-87-127-4C9I.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=688 end=96775 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-88-16-H6H3.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=570 end=97414 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-88-32-G0RV.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=683 end=96900 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-88-48-S5T7.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=585 end=96512 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-88-64-W60D.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=643 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-88-79-TVIF.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=721 end=97408 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-88-95-DES6.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=675 end=97414 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-88-111-R7B9.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=620 end=97800 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-88-127-EYON.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=759 end=97408 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-89-16-0S97.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=677 end=98688 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-89-32-FD5F.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=636 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-89-48-R2QB.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=747 end=97418 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-89-64-2448.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=596 end=97536 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-89-79-L370.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=633 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-89-95-DUC9.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=697 end=97408 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-89-111-5X9B.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=706 end=99712 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-89-127-5MIV.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=616 end=98176 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-90-16-UBML.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=674 end=97280 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-90-32-NU5K.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=538 end=97028 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-90-48-EMU0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=732 end=97932 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-90-64-6NOT.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=615 end=97291 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-90-79-A7IF.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=665 end=96774 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-90-95-1T8N.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=630 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-90-111-4AYA.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=715 end=97420 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-90-127-XCBX.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=760 end=97280 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-91-16-7FCH.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=630 end=96778 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-91-32-SQ1E.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=687 end=96898 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-91-48-QUSM.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=670 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-91-64-9EI4.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=535 end=96768 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-91-79-WV7I.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=645 end=97792 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-91-95-V492.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=647 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-91-111-2MZW.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=666 end=97536 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-91-127-2U1P.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=693 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-92-16-EB56.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=565 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-92-32-7YFY.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=684 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-92-48-0E5I.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=623 end=98304 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-92-64-YJNQ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=577 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-92-79-WJVG.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=588 end=97664 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-92-95-ZBI3.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=700 end=97540 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-92-111-47I3.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=767 end=96524 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-92-127-SEZO.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=682 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-93-16-7B14.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=771 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-93-32-FZIB.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=717 end=97286 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-93-48-8ZMT.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=597 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-93-64-472D.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=750 end=97409 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-93-79-TUC8.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=600 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-93-95-NZVM.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=583 end=96777 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-93-111-TY06.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=665 end=97409 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-93-127-FLAK.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=702 end=96514 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-94-16-A83Y.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=711 end=97542 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-94-32-9DL9.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=700 end=97413 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-94-48-Q7SL.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=639 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-94-64-KPS6.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=645 end=96768 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-94-79-OEKM.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=708 end=96903 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-94-95-5E8O.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=637 end=97280 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-94-111-EX16.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=548 end=97161 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-94-127-SK0D.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=611 end=97410 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-95-16-TJKV.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=619 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-95-32-RCFB.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=662 end=96896 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-95-48-ED8Z.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=529 end=97152 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-95-64-7QS6.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=652 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-95-79-60DE.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=800 end=96906 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-95-95-S4BW.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=612 end=97927 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-95-111-DA28.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=677 end=97024 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-95-127-D9I9.wav
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=492 end=97669 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-96-16-BGZZ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=698 end=96768 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-96-32-G1DL.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=728 end=96768 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-96-48-0HXW.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=605 end=97282 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-96-64-X56M.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=710 end=97031 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-96-79-Y5CR.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=801 end=98432 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-96-95-S00B.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=590 end=97414 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-96-111-N0MM.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=587 end=96898 sample=../Sounds/Misc/Weirdo Pluck/Weirdo Pluck-96-127-F0SU.wav

@@ -1,0 +1,146 @@
+// this file was generated from 4plpsqrmidresnoise.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=24 hikey=25 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=512 end=664392 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#0-16-FPIC.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=598 end=670325 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#0-32-U524.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=459 end=665853 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#0-48-E0JA.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=558 end=664525 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#0-64-ODMY.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=535 end=665852 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#0-79-1RRE.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=633 end=670967 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#0-95-RYJE.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=502 end=666494 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#0-111-AABX.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=683 end=666045 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#0-127-WX45.aif
+<group>lokey=26 hikey=30 pitch_keycenter=29 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=674 end=669423 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#0-16-UMG2.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=469 end=669484 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#0-32-E9Q9.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=503 end=665599 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#0-48-DKG2.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=502 end=668844 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#0-64-2CJK.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=487 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#0-79-HNA1.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=581 end=664181 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#0-95-D8I1.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=662 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#0-111-0R62.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=421 end=665504 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#0-127-XTU5.aif
+<group>lokey=31 hikey=35 pitch_keycenter=34 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=588 end=665894 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B0-16-04O0.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=629 end=665201 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B0-32-Y03H.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=538 end=669814 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B0-48-XAH5.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=523 end=664898 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B0-64-SG58.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=427 end=665329 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B0-79-ATU6.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=366 end=665383 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B0-95-4GHL.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=628 end=665435 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B0-111-WZSY.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=474 end=664285 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B0-127-048N.aif
+<group>lokey=36 hikey=40 pitch_keycenter=39 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=672 end=665216 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016E1-16-HEMJ.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=588 end=665457 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016E1-32-R8R7.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=546 end=663281 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016E1-48-Z5RC.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=529 end=664816 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016E1-64-JQPA.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=524 end=665595 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016E1-79-SH8Y.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=547 end=664879 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016E1-95-KXPD.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=525 end=665087 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016E1-111-WH14.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=437 end=664883 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016E1-127-Y6EE.aif
+<group>lokey=41 hikey=45 pitch_keycenter=44 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=475 end=665308 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A1-16-45BJ.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=451 end=665623 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A1-32-UQ36.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=652 end=665572 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A1-48-LHK5.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=574 end=664618 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A1-64-CA02.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=447 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A1-79-QL11.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=522 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A1-95-P73Q.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=456 end=665265 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A1-111-QO8X.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=535 end=665588 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A1-127-WA24.aif
+<group>lokey=46 hikey=50 pitch_keycenter=49 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=682 end=664319 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D2-16-WUAZ.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=582 end=665699 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D2-32-ZZ9I.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=526 end=665839 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D2-48-03LO.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=578 end=663532 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D2-64-W14A.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=529 end=664172 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D2-79-VEY0.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=604 end=664304 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D2-95-YFES.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=573 end=665645 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D2-111-2JKU.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=595 end=663594 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D2-127-B7LX.aif
+<group>lokey=51 hikey=55 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=584 end=664827 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G2-16-7Z9Q.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=616 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G2-32-9GVH.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=456 end=665706 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G2-48-JOYH.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=507 end=665344 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G2-64-BYQ4.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=742 end=665714 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G2-79-EIFW.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=591 end=665371 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G2-95-BJ31.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=406 end=663766 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G2-111-JI23.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=655 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G2-127-JRVX.aif
+<group>lokey=56 hikey=60 pitch_keycenter=59 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=865 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C3-16-DKOS.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=502 end=665214 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C3-32-S27R.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=504 end=665468 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C3-48-D44Z.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=635 end=663095 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C3-64-UJ6M.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=603 end=664187 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C3-79-HEYP.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=579 end=664415 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C3-95-SBGR.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=521 end=665060 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C3-111-GJGN.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=646 end=664438 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C3-127-UKT1.aif
+<group>lokey=61 hikey=65 pitch_keycenter=64 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=572 end=664047 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F3-16-66P2.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=585 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F3-32-AU7U.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=431 end=664952 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F3-48-EDV6.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=533 end=664811 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F3-64-JTTT.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=553 end=663479 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F3-79-S90R.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=552 end=663934 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F3-95-0NUE.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=363 end=664703 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F3-111-4L5P.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=486 end=664272 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F3-127-FO8N.aif
+<group>lokey=66 hikey=70 pitch_keycenter=69 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=620 end=662543 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A#3-16-O0GX.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=427 end=663296 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A#3-32-PJ69.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=440 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A#3-48-NTJB.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=551 end=664424 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A#3-64-AZGX.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=572 end=663415 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A#3-79-M2GF.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=582 end=663828 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A#3-95-DRPL.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=549 end=664063 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A#3-111-7PWF.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=603 end=664563 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016A#3-127-VOWS.aif
+<group>lokey=71 hikey=75 pitch_keycenter=74 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=569 end=663654 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D#4-16-429C.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=599 end=663896 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D#4-32-8P42.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=599 end=662307 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D#4-48-N5LD.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=460 end=664354 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D#4-64-80DL.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=515 end=663536 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D#4-79-ZDM7.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=384 end=662722 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D#4-95-S84J.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=415 end=663628 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D#4-111-Y1MR.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=675 end=662780 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016D#4-127-PU85.aif
+<group>lokey=76 hikey=80 pitch_keycenter=79 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=401 end=663273 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G#4-16-53PV.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=557 end=663566 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G#4-32-WZ4O.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=410 end=662432 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G#4-48-B926.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=495 end=663640 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G#4-64-PDJH.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=677 end=663603 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G#4-79-JS68.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=765 end=663050 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G#4-95-4M9F.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=624 end=662340 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G#4-111-L19S.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=495 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016G#4-127-MLG2.aif
+<group>lokey=81 hikey=85 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=727 end=662789 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#5-16-E31W.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=536 end=663168 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#5-32-VG9G.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=412 end=663900 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#5-48-813Q.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=450 end=663383 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#5-64-W78O.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=413 end=664188 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#5-79-VTI7.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=426 end=663186 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#5-95-NTYV.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=650 end=663915 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#5-111-DB8J.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=505 end=663276 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C#5-127-PU9V.aif
+<group>lokey=86 hikey=90 pitch_keycenter=89 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=515 end=663415 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#5-16-9RHW.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=484 end=663154 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#5-32-KFTH.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=663 end=662836 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#5-48-73OH.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=568 end=664029 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#5-64-E6AW.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=498 end=663668 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#5-79-S7GQ.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=635 end=663897 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#5-95-ZDQ5.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=475 end=663761 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#5-111-RSPJ.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=520 end=664170 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016F#5-127-569T.aif
+<group>lokey=91 hikey=95 pitch_keycenter=94 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=510 end=663327 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B5-16-2VVZ.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=698 end=663839 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B5-32-0FB2.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=503 end=663258 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B5-48-TN0P.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=554 end=663798 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B5-64-DF4W.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=653 end=662993 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B5-79-YMF2.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=348 end=662905 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B5-95-5MJE.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=618 end=662863 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B5-111-8XVI.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=451 end=663634 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016B5-127-9F97.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=617 end=663295 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C6-16-Y5OB.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=594 end=663525 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C6-32-LIUR.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=574 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C6-48-06VA.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=494 end=662408 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C6-64-JNK3.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=832 end=662691 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C6-79-FTQO.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=569 end=664269 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C6-95-2S2P.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=468 end=663040 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C6-111-T9S7.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=643 end=663925 sample=../Sounds/Squares/4plpsqrmidresnoise/xp2016C6-127-942D.aif

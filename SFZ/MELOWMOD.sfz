@@ -1,0 +1,148 @@
+// this file was generated from MELOWMOD.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=309949 loop_end=397762 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-24-127-93WF.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=300526 loop_end=387117 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-25-127-9A91.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261098 loop_end=367028 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-26-127-Y5MS.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241805 loop_end=396349 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-27-127-HXX7.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=309900 loop_end=348465 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-28-127-KWP3.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223367 loop_end=329617 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-29-127-BY6R.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265233 loop_end=303418 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-30-127-I7XJ.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279470 loop_end=318150 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-31-127-RI2C.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261225 loop_end=300342 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-32-127-7ADD.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=299775 loop_end=395336 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-33-127-NGGA.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=340779 loop_end=380177 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-34-127-CC4O.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256214 loop_end=342746 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-35-127-NC5K.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284472 loop_end=400520 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-36-127-0BZ9.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=299512 loop_end=338323 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-37-127-FO6R.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=221084 loop_end=336516 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-38-127-D670.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226515 loop_end=313312 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-39-127-8F90.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285509 loop_end=401217 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-40-127-JCXH.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261646 loop_end=367842 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-41-127-ELGQ.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259317 loop_end=345182 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-42-127-X2QN.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251332 loop_end=338621 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-43-127-8HIR.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226605 loop_end=313298 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-44-127-9R97.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271018 loop_end=309514 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-45-127-V4GO.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=311463 loop_end=398527 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-46-127-H1SJ.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=299393 loop_end=338340 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-47-127-FH8J.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=294909 loop_end=381604 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-48-127-DNPO.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226327 loop_end=265159 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-49-127-LNSX.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283925 loop_end=370769 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-50-127-DCGM.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=221884 loop_end=309517 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-51-127-B4RB.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=357288 loop_end=396100 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-52-127-2T21.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=225305 loop_end=263707 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-53-127-CO09.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224493 loop_end=311530 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-54-127-EMOU.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241365 loop_end=328217 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-55-127-PK9S.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329213 loop_end=367478 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-56-127-44FR.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235704 loop_end=273805 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-57-127-9MYP.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=308744 loop_end=396016 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-58-127-YB4B.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270978 loop_end=309564 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-59-127-GNDJ.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=358362 loop_end=396300 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-60-127-QO5M.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290560 loop_end=329245 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-61-127-PO4W.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270931 loop_end=309993 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-62-127-TY3M.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253238 loop_end=340275 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-63-127-GUVO.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338360 loop_end=377730 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-64-127-N1U4.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263316 loop_end=350358 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-65-127-7HK6.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319636 loop_end=357796 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-66-127-QD71.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289180 loop_end=329247 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-67-127-S9VF.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=232658 loop_end=271113 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-68-127-DVIC.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=320790 loop_end=359685 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-69-127-GKYO.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319615 loop_end=358327 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-70-127-P9GH.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=358350 loop_end=395685 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-71-127-PGZ8.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280196 loop_end=319589 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-72-127-PITH.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=232001 loop_end=271252 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-73-127-MOJP.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=309707 loop_end=395640 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-74-127-Z5UP.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=320791 loop_end=359715 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-75-127-OCNL.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319489 loop_end=358032 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-76-127-2FPW.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=331049 loop_end=369633 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-77-127-OWFL.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241024 loop_end=280857 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-78-127-N74J.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269726 loop_end=357056 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-79-127-722F.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=262894 loop_end=350447 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-80-127-1LND.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251430 loop_end=289590 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-81-127-9114.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280947 loop_end=319709 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-82-127-2MC3.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=312325 loop_end=351360 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-83-127-R6C0.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241274 loop_end=280231 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-84-127-UZ7F.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252018 loop_end=358499 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-85-127-EVGS.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=358146 loop_end=396148 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-86-127-8AJL.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=244932 loop_end=282891 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-87-127-CITG.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=222175 loop_end=261033 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-88-127-C4PT.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280496 loop_end=318835 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-89-127-6PBU.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261432 loop_end=300495 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-90-127-72BZ.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=358470 loop_end=396936 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-91-127-1PSQ.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=350404 loop_end=388968 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-92-127-SAED.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329227 loop_end=369947 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-93-127-BA66.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281017 loop_end=319785 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-94-127-NBYP.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272660 loop_end=311476 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-95-127-14KR.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319841 loop_end=359575 sample=../Sounds/Misc/MELOWMOD/(201279 182145)/012 MELOWMOD-96-127-D6WA.aif

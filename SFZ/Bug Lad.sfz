@@ -1,0 +1,124 @@
+// this file was generated from Bug Lad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=353622 loop_end=402185 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-24-127-3A7K.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=311175 loop_end=381459 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-25-127-TOHD.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316757 loop_end=403740 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-26-127-YSKD.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324407 loop_end=404232 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-27-127-Y72K.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264329 loop_end=394316 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-28-127-PAWS.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=277330 loop_end=392999 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-29-127-OJBK.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282708 loop_end=322835 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-30-127-ZGU2.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=326173 loop_end=360419 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-31-127-D3E3.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=312645 loop_end=389463 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-32-127-OWYC.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=358649 loop_end=395789 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-33-127-2WJ4.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316371 loop_end=390835 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-34-127-9WV5.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=323527 loop_end=400953 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-35-127-TBEE.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=365277 loop_end=400416 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-36-127-FZTF.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=312321 loop_end=388317 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-37-127-CC8L.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338702 loop_end=373116 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-38-127-9YVZ.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=352782 loop_end=389264 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-39-127-GPTB.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269708 loop_end=305672 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-40-127-XVIE.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324081 loop_end=397570 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-41-127-14OY.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=326379 loop_end=400001 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-42-127-S4LC.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=348663 loop_end=384814 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-43-127-R6UE.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=336795 loop_end=375614 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-44-127-1MY6.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=354208 loop_end=392462 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-45-127-7CVY.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=358408 loop_end=396758 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-46-127-274B.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=332755 loop_end=371442 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-47-127-ETU1.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=317208 loop_end=372287 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-48-127-DUCE.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=361932 loop_end=397374 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-49-127-2HML.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=340609 loop_end=376767 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-50-127-7APV.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=344311 loop_end=381564 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-51-127-B1JH.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=359055 loop_end=395558 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-52-127-GFDL.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=362313 loop_end=398784 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-53-127-TKVN.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=365517 loop_end=402798 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-54-127-85M7.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=340709 loop_end=376133 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-55-127-N847.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=340888 loop_end=379647 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-56-127-U0QS.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=339689 loop_end=374674 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-57-127-M3L6.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316671 loop_end=391073 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-58-127-0DLY.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329246 loop_end=402322 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-59-127-13NI.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=322687 loop_end=396216 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-60-127-F0L0.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338894 loop_end=377675 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-61-127-3UDY.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=360289 loop_end=395240 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-62-127-Z08C.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=367420 loop_end=402397 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-63-127-01MF.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=363281 loop_end=398299 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-64-127-38ZM.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=302861 loop_end=338825 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-65-127-PKOS.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=351031 loop_end=385933 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-66-127-SQNT.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=318985 loop_end=392673 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-67-127-25E2.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=358300 loop_end=397071 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-68-127-9S79.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=361303 loop_end=396179 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-69-127-QUUW.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313706 loop_end=387141 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-70-127-EZHB.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280348 loop_end=390924 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-71-127-WR2G.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315089 loop_end=351849 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-72-127-OI36.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=339888 loop_end=378035 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-73-127-0GF8.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=357923 loop_end=394153 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-74-127-U0NY.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=340420 loop_end=377026 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-75-127-QWJ6.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=360136 loop_end=396905 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-76-127-F9PZ.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282701 loop_end=392540 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-77-127-ZJWC.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319325 loop_end=354822 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-78-127-X91Z.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=365532 loop_end=402987 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-79-127-ZXJD.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268793 loop_end=305051 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-80-127-JB13.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=317234 loop_end=353174 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-81-127-0GVU.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315211 loop_end=388708 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-82-127-CKPA.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=362419 loop_end=398244 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-83-127-V7K9.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273463 loop_end=402406 sample=../Sounds/Misc/Bug Lad/(2012621 193922)/Bug Lad-84-127-M9MJ.aif

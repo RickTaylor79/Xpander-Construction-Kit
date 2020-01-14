@@ -1,0 +1,148 @@
+// this file was generated from BEDNOTCH.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238904 loop_end=399665 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-24-127-EJ3I.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273822 loop_end=382109 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-25-127-S4FH.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=309541 loop_end=398642 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-26-127-62CW.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226403 loop_end=299127 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-27-127-RBTK.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228725 loop_end=273757 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-28-127-3RBO.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=219817 loop_end=390858 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-29-127-WOVR.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=300335 loop_end=398675 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-30-127-727U.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=218495 loop_end=397670 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-31-127-YPRQ.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270719 loop_end=315804 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-32-127-4D2K.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=232752 loop_end=385331 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-33-127-81YQ.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282490 loop_end=399205 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-34-127-F4JU.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=300446 loop_end=345503 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-35-127-CQE8.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=307186 loop_end=378714 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-36-127-UDH7.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270095 loop_end=378309 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-37-127-Z2YP.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289970 loop_end=397581 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-38-127-HUZK.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247098 loop_end=399715 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-39-127-UCTR.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226385 loop_end=297620 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-40-127-UWC5.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239518 loop_end=311305 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-41-127-BKFU.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243831 loop_end=315385 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-42-127-Z0S1.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239589 loop_end=392143 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-43-127-E87P.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=302725 loop_end=374109 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-44-127-AB00.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226061 loop_end=297848 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-45-127-VZUW.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278311 loop_end=350227 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-46-127-ZXDI.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=220153 loop_end=291589 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-47-127-2RAS.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261384 loop_end=332867 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-48-127-MEHN.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258276 loop_end=330185 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-49-127-7698.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241802 loop_end=394395 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-50-127-SCJA.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316279 loop_end=388008 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-51-127-M0C5.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=217299 loop_end=289019 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-52-127-IEZ2.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230467 loop_end=383008 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-53-127-LTR1.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233697 loop_end=386245 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-54-127-4K3P.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230580 loop_end=383063 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-55-127-7EB3.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=221227 loop_end=373901 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-56-127-AMDS.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=244864 loop_end=397411 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-57-127-3JUS.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=225426 loop_end=377948 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-58-127-PDJF.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247708 loop_end=400385 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-59-127-MLCG.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=218134 loop_end=370822 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-60-127-C685.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247746 loop_end=400249 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-61-127-S5QR.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233587 loop_end=386231 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-62-127-Y4U4.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230430 loop_end=383001 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-63-127-T6JZ.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246775 loop_end=399271 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-64-127-DHSI.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=234293 loop_end=386815 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-65-127-6W6U.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238112 loop_end=390647 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-66-127-4KKQ.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=234427 loop_end=386933 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-67-127-MYFB.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242651 loop_end=395177 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-68-127-AQCY.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245212 loop_end=397784 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-69-127-2W6D.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228319 loop_end=380953 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-70-127-BSVX.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233976 loop_end=386490 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-71-127-A8IU.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245244 loop_end=397571 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-72-127-1T27.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239565 loop_end=392105 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-73-127-726E.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228987 loop_end=381507 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-74-127-8EDE.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245734 loop_end=398326 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-75-127-742S.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245705 loop_end=398242 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-76-127-E5LF.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=227926 loop_end=380446 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-77-127-GB0V.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247416 loop_end=399958 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-78-127-OU7F.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226819 loop_end=379386 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-79-127-LPDO.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243541 loop_end=396102 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-80-127-SJZT.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242617 loop_end=395165 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-81-127-E8H9.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233055 loop_end=385620 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-82-127-1PUR.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246871 loop_end=399406 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-83-127-SKJC.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=222870 loop_end=375391 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-84-127-682K.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=219762 loop_end=372323 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-85-127-2ABG.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239155 loop_end=391692 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-86-127-UL76.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246094 loop_end=398637 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-87-127-96W9.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245571 loop_end=398128 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-88-127-TRBY.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246146 loop_end=398735 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-89-127-MCIC.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238014 loop_end=390529 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-90-127-N17O.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245481 loop_end=398026 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-91-127-K9RE.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245197 loop_end=397720 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-92-127-Z1JA.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243342 loop_end=395862 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-93-127-OUN6.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243280 loop_end=395847 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-94-127-C0CH.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=277476 loop_end=394149 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-95-127-1YGI.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=234950 loop_end=387512 sample=../Sounds/Misc/BEDNOTCH/(201279 162618)/000 BEDNOTCH-96-127-9O7F.aif

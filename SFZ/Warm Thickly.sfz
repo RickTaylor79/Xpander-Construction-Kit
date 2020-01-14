@@ -1,0 +1,150 @@
+// this file was generated from Warm Thickly.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=33 pitch_keycenter=33 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=228195 loop_end=457656 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-33-14-KGHN.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=115855 loop_end=442517 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-33-56-ER41.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=102422 loop_end=429077 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-33-127-95BG.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=289662 loop_end=452493 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-34-14-4UAR.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=35780 loop_end=198612 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-34-56-9JAV.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=293936 loop_end=456769 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-34-127-00CY.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=285299 loop_end=386722 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-35-14-01D0.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=32958 loop_end=152319 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-35-56-6SHR.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=123958 loop_end=244868 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-35-127-O1HY.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=266907 loop_end=461271 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-36-14-GUBN.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=270329 loop_end=453622 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-36-56-L5RZ.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=135226 loop_end=318519 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-36-127-PBVJ.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=196222 loop_end=465840 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-37-14-ENN3.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=123749 loop_end=476012 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-37-56-P3S8.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=24059 loop_end=452058 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-37-127-5COK.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=314908 loop_end=439453 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-38-14-KJVG.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=164148 loop_end=312330 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-38-56-O1TP.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=134393 loop_end=283879 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-38-127-N8RE.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=54897 loop_end=473229 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-39-14-IJLB.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=43740 loop_end=285684 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-39-56-8J88.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=361342 loop_end=473967 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-39-127-PP1R.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=358325 loop_end=471609 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-40-14-BE54.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=130786 loop_end=225977 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-40-56-YVGK.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72455 loop_end=384893 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-40-127-UL5K.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=120057 loop_end=330673 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-41-14-WR6K.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=263496 loop_end=458129 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-41-56-B5HB.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72839 loop_end=358447 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-41-127-9NPJ.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=167665 loop_end=468988 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-42-14-K7JX.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=127019 loop_end=285742 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-42-56-SQ34.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=67944 loop_end=226670 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-42-127-8VM9.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=177470 loop_end=397962 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-43-14-7ZYY.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=217454 loop_end=403085 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-43-56-97CA.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=188076 loop_end=304950 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-43-127-YRMS.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=206034 loop_end=362687 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-44-14-4XON.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=151070 loop_end=272964 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-44-56-ILSZ.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=181347 loop_end=303239 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-44-127-V0SV.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=337239 loop_end=478957 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-45-14-H8L0.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=41429 loop_end=134592 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-45-56-IC8G.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=179955 loop_end=324298 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-45-127-R9J8.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=347610 loop_end=440480 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-46-14-1ZF3.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=279852 loop_end=441651 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-46-56-YZRK.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=134902 loop_end=296701 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-46-127-L3LJ.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=344015 loop_end=478805 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-47-14-U9SK.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=22314 loop_end=356179 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-47-56-7OX6.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=185182 loop_end=471903 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-47-127-YJPE.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=371651 loop_end=465774 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-48-14-5MD2.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=97547 loop_end=477729 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-48-56-7EEJ.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=170852 loop_end=415357 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-48-127-XT1T.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=371023 loop_end=479690 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-49-14-LDOD.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=241347 loop_end=465974 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-49-56-MOAY.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=185585 loop_end=410214 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-49-127-ZE63.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=356400 loop_end=454686 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-50-14-ADU0.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=209923 loop_end=315096 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-50-56-7TOS.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=35676 loop_end=142150 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-50-127-PF9R.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=367965 loop_end=463202 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-51-14-5HTS.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=36716 loop_end=253785 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-51-56-95CE.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=100193 loop_end=386835 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-51-127-XPOT.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=277926 loop_end=380669 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-52-14-3DIS.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=38151 loop_end=153155 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-52-56-8E52.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=208652 loop_end=360140 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-52-127-MAX6.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=376139 loop_end=479993 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-53-14-ZFWU.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=354118 loop_end=461564 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-53-56-G1KV.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=129443 loop_end=361393 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-53-127-HP0P.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=195569 loop_end=289939 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-54-14-KVAS.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=352762 loop_end=455707 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-54-56-MYGM.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=139245 loop_end=407538 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-54-127-4156.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=382606 loop_end=479772 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-55-14-AONH.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=301743 loop_end=443800 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-55-56-IDD8.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=177558 loop_end=463904 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-55-127-QXAU.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=340092 loop_end=479043 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-56-14-C9QR.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=80006 loop_end=431325 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-56-56-XLN2.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=28563 loop_end=144353 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-56-127-EO4G.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=319388 loop_end=417354 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-57-14-O3HL.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=163789 loop_end=338296 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-57-56-I0OX.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=28743 loop_end=456035 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-57-127-ADHR.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=372577 loop_end=467091 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-58-14-ZGH7.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=315292 loop_end=474187 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-58-56-5UL8.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=74833 loop_end=196789 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-58-127-NXLD.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=319479 loop_end=418032 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-59-14-QGPW.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=68315 loop_end=329886 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-59-56-HHID.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=77863 loop_end=324439 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-59-127-7I4Z.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=309973 loop_end=407583 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-60-14-5ZWZ.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=144722 loop_end=322663 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-60-56-HMQ8.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=74644 loop_end=383836 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-60-127-3E8E.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=278055 loop_end=392552 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-61-14-7J5T.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=95716 loop_end=401211 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-61-56-ZTLO.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=195393 loop_end=323593 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-61-127-BLG4.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=317995 loop_end=414104 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-62-14-G5HA.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=23659 loop_end=236675 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-62-56-7FWR.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=64328 loop_end=478077 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-62-127-26TJ.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=344831 loop_end=439406 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-63-14-27OA.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=83143 loop_end=214340 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-63-56-E3VY.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=298261 loop_end=401488 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-63-127-Y714.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=374770 loop_end=470742 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-64-14-Y71M.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=49594 loop_end=211202 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-64-56-X4SJ.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=33475 loop_end=280115 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-64-127-K2I9.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=386298 loop_end=478562 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-65-14-KZ5P.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=61558 loop_end=469036 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-65-56-E6N7.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=145457 loop_end=375840 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-65-127-33PP.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=374228 loop_end=468064 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-66-14-UGAT.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=70383 loop_end=322391 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-66-56-F4CF.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241444 loop_end=409106 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-66-127-ML7D.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=383613 loop_end=478558 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-67-14-ZZ1U.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=212946 loop_end=461224 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-67-56-A8PH.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=87812 loop_end=211585 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-67-127-4UVL.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=385157 loop_end=479052 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-68-14-CJCW.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=38924 loop_end=279969 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-68-56-LS7J.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=167843 loop_end=444319 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-68-127-0W0W.wav
+<group>lokey=69 hikey=127 pitch_keycenter=69 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=384431 loop_end=478400 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-69-14-X037.wav
+	<region> lovel=043 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=158365 loop_end=423446 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-69-56-ACNE.wav
+	<region> lovel=088 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=54953 loop_end=176892 sample=../Sounds/Misc/Warm Thickly/(2016328 101540)/kettle-69-127-ELJT.wav

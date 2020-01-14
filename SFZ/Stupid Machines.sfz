@@ -1,0 +1,149 @@
+// this file was generated from Stupid Machines.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=853 end=32456 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-36-32-HBVA.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=786 end=36900 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-36-127-6XFS.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=573 end=30516 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-37-32-XOV0.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=664 end=31768 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-37-127-2LX1.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=686 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-38-32-BNFZ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=642 end=29708 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-38-127-PP3L.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=699 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-39-32-UP4Z.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=764 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-39-127-ECVH.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=596 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-40-32-YWXT.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=746 end=32512 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-40-127-JWJJ.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=830 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-41-32-7DUC.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=740 end=30848 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-41-127-IKG4.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=557 end=31746 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-42-32-K12P.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=764 end=36224 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-42-127-3Q2N.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=753 end=31263 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-43-32-CB9R.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=699 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-43-127-DA43.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=676 end=32640 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-44-32-17N0.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=583 end=30473 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-44-127-7KYN.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=778 end=31506 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-45-32-3CC1.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=591 end=36224 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-45-127-C9NJ.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=708 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-46-32-BRMI.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=586 end=31384 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-46-127-K32P.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=778 end=30858 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-47-32-LC7U.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=803 end=31744 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-47-127-34JA.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=546 end=32128 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-48-32-L4C8.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=749 end=35336 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-48-127-X370.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=764 end=30727 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-49-32-IYP7.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=578 end=32512 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-49-127-DSZN.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=543 end=30976 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-50-32-U9AK.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=620 end=31510 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-50-127-D4H7.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=641 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-51-32-GVA1.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=671 end=34816 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-51-127-S9BJ.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=615 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-52-32-WVZK.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=589 end=32650 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-52-127-9QFX.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=749 end=30992 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-53-32-AGMD.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=719 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-53-127-KW0R.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=666 end=32000 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-54-32-WWOP.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=565 end=35840 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-54-127-6FBT.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=723 end=30336 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-55-32-SW0X.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=702 end=32128 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-55-127-YUZM.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=729 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-56-32-UASO.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=660 end=31488 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-56-127-L3EB.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=644 end=31872 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-57-32-4ICY.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=805 end=36480 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-57-127-OI85.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=697 end=30592 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-58-32-TFDZ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=617 end=32640 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-58-127-URJZ.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=589 end=32768 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-59-32-FF4U.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=609 end=31744 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-59-127-LWLK.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=620 end=32128 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-60-32-GZO6.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=497 end=35712 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-60-127-9GSZ.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=753 end=31872 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-61-32-SIG7.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=530 end=32640 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-61-127-WRCQ.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=492 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-62-32-160P.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=736 end=32265 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-62-127-RQEI.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=661 end=32384 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-63-32-16YT.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=589 end=35328 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-63-127-I0VQ.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=785 end=30976 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-64-32-EVPG.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=475 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-64-127-QUMK.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=561 end=32000 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-65-32-H9JZ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=598 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-65-127-LL1C.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=683 end=31876 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-66-32-AGW0.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=713 end=35584 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-66-127-MGX7.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=698 end=30592 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-67-32-74ZY.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=664 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-67-127-VGBN.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=679 end=31396 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-68-32-TKG8.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=753 end=31104 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-68-127-K460.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=612 end=33024 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-69-32-HV9K.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=661 end=35840 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-69-127-2N0V.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=736 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-70-32-HXIH.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=682 end=30469 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-70-127-94IU.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=587 end=32384 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-71-32-L2IU.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=654 end=31872 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-71-127-BH7P.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=670 end=31488 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-72-32-PKGC.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=742 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-72-127-01EE.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=685 end=30848 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-73-32-88OK.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=683 end=31616 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-73-127-E8H8.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=623 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-74-32-L4DL.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=577 end=29312 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-74-127-K09G.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=631 end=31744 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-75-32-1B9L.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=736 end=35840 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-75-127-PQM1.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=516 end=31104 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-76-32-354L.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=542 end=31744 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-76-127-8L4Z.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=776 end=31752 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-77-32-KUNG.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=727 end=31488 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-77-127-MK25.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=691 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-78-32-OZJE.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=660 end=35328 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-78-127-AVXT.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=669 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-79-32-OONX.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=634 end=33536 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-79-127-VBZF.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=617 end=32768 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-80-32-2UMD.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=658 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-80-127-GIP0.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=722 end=31616 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-81-32-ZMLI.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=519 end=33152 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-81-127-IRJV.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=622 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-82-32-BPB0.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=584 end=31872 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-82-127-CXIE.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=705 end=32512 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-83-32-DVAE.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=724 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-83-127-ZLNH.wav
+<group>lokey=84 hikey=126 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=12 offset=565 end=30848 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-84-32-O3RY.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 volume=12 offset=507 end=35200 sample=../Sounds/Misc/Stupid Machines/Stupid Machines-84-127-RD75.wav

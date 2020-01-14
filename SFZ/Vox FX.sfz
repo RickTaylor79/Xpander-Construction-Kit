@@ -1,0 +1,198 @@
+// this file was generated from Vox FX.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1043 end=909290 sample=../Sounds/Misc/Vox FX/Vox FX-48-42-EH08.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1013 sample=../Sounds/Misc/Vox FX/Vox FX-48-85-3EE0.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=907 end=909312 sample=../Sounds/Misc/Vox FX/Vox FX-48-127-RQLX.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1001 end=908545 sample=../Sounds/Misc/Vox FX/Vox FX-49-42-DUXO.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1144 sample=../Sounds/Misc/Vox FX/Vox FX-49-85-CUOY.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1297 sample=../Sounds/Misc/Vox FX/Vox FX-49-127-RRAQ.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=925 sample=../Sounds/Misc/Vox FX/Vox FX-50-42-1IGI.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1068 end=909242 sample=../Sounds/Misc/Vox FX/Vox FX-50-85-46F4.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=955 end=909826 sample=../Sounds/Misc/Vox FX/Vox FX-50-127-OUMK.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=804 end=908672 sample=../Sounds/Misc/Vox FX/Vox FX-51-42-1D0R.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1004 end=916352 sample=../Sounds/Misc/Vox FX/Vox FX-51-85-UM9Z.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=943 end=906376 sample=../Sounds/Misc/Vox FX/Vox FX-51-127-7QTD.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=941 end=910416 sample=../Sounds/Misc/Vox FX/Vox FX-52-42-E4FC.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=797 end=908618 sample=../Sounds/Misc/Vox FX/Vox FX-52-85-XITC.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1049 end=909312 sample=../Sounds/Misc/Vox FX/Vox FX-52-127-625C.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=928 end=909653 sample=../Sounds/Misc/Vox FX/Vox FX-53-42-M4M5.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1151 sample=../Sounds/Misc/Vox FX/Vox FX-53-85-K5TK.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=961 end=907648 sample=../Sounds/Misc/Vox FX/Vox FX-53-127-OXY2.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1050 end=911154 sample=../Sounds/Misc/Vox FX/Vox FX-54-42-S83G.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=965 end=909058 sample=../Sounds/Misc/Vox FX/Vox FX-54-85-M1K6.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1112 end=909743 sample=../Sounds/Misc/Vox FX/Vox FX-54-127-N329.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1131 end=908551 sample=../Sounds/Misc/Vox FX/Vox FX-55-42-4TEY.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=873 end=916864 sample=../Sounds/Misc/Vox FX/Vox FX-55-85-BYZ5.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=936 end=907539 sample=../Sounds/Misc/Vox FX/Vox FX-55-127-R2VT.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=965 end=910296 sample=../Sounds/Misc/Vox FX/Vox FX-56-42-5GXN.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=973 end=908977 sample=../Sounds/Misc/Vox FX/Vox FX-56-85-N8ZT.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1110 sample=../Sounds/Misc/Vox FX/Vox FX-56-127-I7M3.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=856 end=910038 sample=../Sounds/Misc/Vox FX/Vox FX-57-42-7BDC.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=960 sample=../Sounds/Misc/Vox FX/Vox FX-57-85-4X8M.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1142 end=908290 sample=../Sounds/Misc/Vox FX/Vox FX-57-127-56SM.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=894 end=909986 sample=../Sounds/Misc/Vox FX/Vox FX-58-42-A8FN.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1135 end=909261 sample=../Sounds/Misc/Vox FX/Vox FX-58-85-ITKI.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=857 end=909222 sample=../Sounds/Misc/Vox FX/Vox FX-58-127-WHWI.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1135 end=909103 sample=../Sounds/Misc/Vox FX/Vox FX-59-42-OC1V.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=991 end=916224 sample=../Sounds/Misc/Vox FX/Vox FX-59-85-2T9G.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1098 end=908453 sample=../Sounds/Misc/Vox FX/Vox FX-59-127-LNLJ.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1119 end=909826 sample=../Sounds/Misc/Vox FX/Vox FX-60-42-X1EH.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=931 end=909570 sample=../Sounds/Misc/Vox FX/Vox FX-60-85-UPB3.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1131 end=909312 sample=../Sounds/Misc/Vox FX/Vox FX-60-127-QN85.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1074 sample=../Sounds/Misc/Vox FX/Vox FX-61-42-TUZR.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1110 sample=../Sounds/Misc/Vox FX/Vox FX-61-85-IIYF.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=827 end=907776 sample=../Sounds/Misc/Vox FX/Vox FX-61-127-L7FJ.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1144 end=909312 sample=../Sounds/Misc/Vox FX/Vox FX-62-42-504C.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1102 end=909568 sample=../Sounds/Misc/Vox FX/Vox FX-62-85-KKCA.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1125 sample=../Sounds/Misc/Vox FX/Vox FX-62-127-VSXK.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1011 sample=../Sounds/Misc/Vox FX/Vox FX-63-42-Y8WC.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=945 sample=../Sounds/Misc/Vox FX/Vox FX-63-85-57YP.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1394 end=907663 sample=../Sounds/Misc/Vox FX/Vox FX-63-127-TOWW.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1120 end=910464 sample=../Sounds/Misc/Vox FX/Vox FX-64-42-TP88.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1094 sample=../Sounds/Misc/Vox FX/Vox FX-64-85-41OE.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=991 end=909696 sample=../Sounds/Misc/Vox FX/Vox FX-64-127-V80W.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1127 end=909184 sample=../Sounds/Misc/Vox FX/Vox FX-65-42-L6L5.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1023 end=916097 sample=../Sounds/Misc/Vox FX/Vox FX-65-85-0OKA.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1133 sample=../Sounds/Misc/Vox FX/Vox FX-65-127-VZ0K.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=990 sample=../Sounds/Misc/Vox FX/Vox FX-66-42-DTMD.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=980 end=908820 sample=../Sounds/Misc/Vox FX/Vox FX-66-85-B55D.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1133 sample=../Sounds/Misc/Vox FX/Vox FX-66-127-C23I.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=966 end=909349 sample=../Sounds/Misc/Vox FX/Vox FX-67-42-PSOI.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1021 sample=../Sounds/Misc/Vox FX/Vox FX-67-85-3X0R.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1007 end=907904 sample=../Sounds/Misc/Vox FX/Vox FX-67-127-EIPB.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1110 end=910757 sample=../Sounds/Misc/Vox FX/Vox FX-68-42-9FAS.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1133 sample=../Sounds/Misc/Vox FX/Vox FX-68-85-HFPH.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1132 end=909440 sample=../Sounds/Misc/Vox FX/Vox FX-68-127-XQNB.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1006 end=909696 sample=../Sounds/Misc/Vox FX/Vox FX-69-42-YJ4D.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=868 sample=../Sounds/Misc/Vox FX/Vox FX-69-85-WDJR.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1115 end=907904 sample=../Sounds/Misc/Vox FX/Vox FX-69-127-YM7M.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1140 sample=../Sounds/Misc/Vox FX/Vox FX-70-42-6KB2.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1014 end=909056 sample=../Sounds/Misc/Vox FX/Vox FX-70-85-NHTO.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1146 end=909444 sample=../Sounds/Misc/Vox FX/Vox FX-70-127-ON6T.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1053 sample=../Sounds/Misc/Vox FX/Vox FX-71-42-9PGF.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=982 sample=../Sounds/Misc/Vox FX/Vox FX-71-85-6OQG.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1023 end=908818 sample=../Sounds/Misc/Vox FX/Vox FX-71-127-HCYE.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1011 end=909454 sample=../Sounds/Misc/Vox FX/Vox FX-72-42-NFRJ.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=873 end=910981 sample=../Sounds/Misc/Vox FX/Vox FX-72-85-UAS5.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1144 sample=../Sounds/Misc/Vox FX/Vox FX-72-127-C2J2.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1124 end=909440 sample=../Sounds/Misc/Vox FX/Vox FX-73-42-HJDC.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=857 end=915884 sample=../Sounds/Misc/Vox FX/Vox FX-73-85-PBTV.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=947 end=908288 sample=../Sounds/Misc/Vox FX/Vox FX-73-127-SD23.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1007 end=909956 sample=../Sounds/Misc/Vox FX/Vox FX-74-42-ZLAW.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1090 sample=../Sounds/Misc/Vox FX/Vox FX-74-85-OU9Q.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1126 sample=../Sounds/Misc/Vox FX/Vox FX-74-127-QIND.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1111 sample=../Sounds/Misc/Vox FX/Vox FX-75-42-C4E7.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=943 end=916496 sample=../Sounds/Misc/Vox FX/Vox FX-75-85-68YQ.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=989 end=908032 sample=../Sounds/Misc/Vox FX/Vox FX-75-127-QS35.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=991 sample=../Sounds/Misc/Vox FX/Vox FX-76-42-KP79.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1008 end=909584 sample=../Sounds/Misc/Vox FX/Vox FX-76-85-EU4I.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1131 end=909068 sample=../Sounds/Misc/Vox FX/Vox FX-76-127-ZT7Y.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1003 sample=../Sounds/Misc/Vox FX/Vox FX-77-42-GQ0I.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=885 end=918656 sample=../Sounds/Misc/Vox FX/Vox FX-77-85-DUNE.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=994 sample=../Sounds/Misc/Vox FX/Vox FX-77-127-8ITO.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1021 sample=../Sounds/Misc/Vox FX/Vox FX-78-42-VYPV.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1012 end=909824 sample=../Sounds/Misc/Vox FX/Vox FX-78-85-9ODD.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1146 end=908800 sample=../Sounds/Misc/Vox FX/Vox FX-78-127-RY7T.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1002 end=909327 sample=../Sounds/Misc/Vox FX/Vox FX-79-42-NT0H.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=982 sample=../Sounds/Misc/Vox FX/Vox FX-79-85-82ZY.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1121 sample=../Sounds/Misc/Vox FX/Vox FX-79-127-I68L.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=979 end=910336 sample=../Sounds/Misc/Vox FX/Vox FX-80-42-ZOZG.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1139 end=909457 sample=../Sounds/Misc/Vox FX/Vox FX-80-85-D8YO.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1023 end=909696 sample=../Sounds/Misc/Vox FX/Vox FX-80-127-PYSZ.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=978 end=909185 sample=../Sounds/Misc/Vox FX/Vox FX-81-42-YBIQ.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=747 end=916480 sample=../Sounds/Misc/Vox FX/Vox FX-81-85-R2BY.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1014 end=907520 sample=../Sounds/Misc/Vox FX/Vox FX-81-127-G27G.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=967 sample=../Sounds/Misc/Vox FX/Vox FX-82-42-BB4Q.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1009 sample=../Sounds/Misc/Vox FX/Vox FX-82-85-GZRC.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=959 end=909952 sample=../Sounds/Misc/Vox FX/Vox FX-82-127-YF98.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1151 sample=../Sounds/Misc/Vox FX/Vox FX-83-42-IZLH.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=877 end=916490 sample=../Sounds/Misc/Vox FX/Vox FX-83-85-PKUL.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1009 end=908160 sample=../Sounds/Misc/Vox FX/Vox FX-83-127-V4EB.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1112 sample=../Sounds/Misc/Vox FX/Vox FX-84-42-NISN.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1007 end=910470 sample=../Sounds/Misc/Vox FX/Vox FX-84-85-9GO0.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1020 end=909698 sample=../Sounds/Misc/Vox FX/Vox FX-84-127-JSGB.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=992 sample=../Sounds/Misc/Vox FX/Vox FX-85-42-0I47.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=994 end=916875 sample=../Sounds/Misc/Vox FX/Vox FX-85-85-J2ZD.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1052 end=908160 sample=../Sounds/Misc/Vox FX/Vox FX-85-127-ECM8.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1149 sample=../Sounds/Misc/Vox FX/Vox FX-86-42-SANP.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=865 sample=../Sounds/Misc/Vox FX/Vox FX-86-85-WE2Q.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1083 end=909312 sample=../Sounds/Misc/Vox FX/Vox FX-86-127-8KF5.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=992 end=909319 sample=../Sounds/Misc/Vox FX/Vox FX-87-42-HMFX.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1123 end=916489 sample=../Sounds/Misc/Vox FX/Vox FX-87-85-V6RY.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1146 end=908934 sample=../Sounds/Misc/Vox FX/Vox FX-87-127-TRAV.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1023 end=910338 sample=../Sounds/Misc/Vox FX/Vox FX-88-42-IZ1S.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=960 end=910477 sample=../Sounds/Misc/Vox FX/Vox FX-88-85-ZJDW.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1006 sample=../Sounds/Misc/Vox FX/Vox FX-88-127-97BC.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=991 sample=../Sounds/Misc/Vox FX/Vox FX-89-42-7W7N.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=849 sample=../Sounds/Misc/Vox FX/Vox FX-89-85-36ZF.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=988 end=908420 sample=../Sounds/Misc/Vox FX/Vox FX-89-127-GH2S.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1104 end=910723 sample=../Sounds/Misc/Vox FX/Vox FX-90-42-NS05.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=946 end=910216 sample=../Sounds/Misc/Vox FX/Vox FX-90-85-IVAN.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1133 end=909315 sample=../Sounds/Misc/Vox FX/Vox FX-90-127-9SIC.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=843 sample=../Sounds/Misc/Vox FX/Vox FX-91-42-4WBN.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=881 end=917121 sample=../Sounds/Misc/Vox FX/Vox FX-91-85-Y80R.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1061 end=908034 sample=../Sounds/Misc/Vox FX/Vox FX-91-127-HECK.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=991 end=909971 sample=../Sounds/Misc/Vox FX/Vox FX-92-42-RJAJ.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1125 sample=../Sounds/Misc/Vox FX/Vox FX-92-85-1GQQ.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1126 sample=../Sounds/Misc/Vox FX/Vox FX-92-127-ZAM1.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1007 sample=../Sounds/Misc/Vox FX/Vox FX-93-42-63IX.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=976 end=917137 sample=../Sounds/Misc/Vox FX/Vox FX-93-85-WZ3V.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1224 sample=../Sounds/Misc/Vox FX/Vox FX-93-127-2LY7.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1116 end=911247 sample=../Sounds/Misc/Vox FX/Vox FX-94-42-Y2KW.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1028 sample=../Sounds/Misc/Vox FX/Vox FX-94-85-R0XA.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=938 end=909450 sample=../Sounds/Misc/Vox FX/Vox FX-94-127-V7GG.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=881 end=909187 sample=../Sounds/Misc/Vox FX/Vox FX-95-42-AV23.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1017 end=916738 sample=../Sounds/Misc/Vox FX/Vox FX-95-85-YMH2.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=1066 sample=../Sounds/Misc/Vox FX/Vox FX-95-127-EURT.wav
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 offset=1147 sample=../Sounds/Misc/Vox FX/Vox FX-96-42-EARQ.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 offset=1015 end=909569 sample=../Sounds/Misc/Vox FX/Vox FX-96-85-Y69T.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 offset=989 end=909956 sample=../Sounds/Misc/Vox FX/Vox FX-96-127-KQUJ.wav

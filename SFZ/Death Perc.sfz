@@ -1,0 +1,443 @@
+// this file was generated from Death Perc.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=12 pitch_keycenter=12 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=602 end=23218 sample=../Sounds/Misc/Death Perc/Death Perc-12-16-D5NE.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=663 end=26230 sample=../Sounds/Misc/Death Perc/Death Perc-12-32-FKC7.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=540 end=29380 sample=../Sounds/Misc/Death Perc/Death Perc-12-48-ZC65.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=635 sample=../Sounds/Misc/Death Perc/Death Perc-12-64-CFKN.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=711 end=29879 sample=../Sounds/Misc/Death Perc/Death Perc-12-79-Z508.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=797 sample=../Sounds/Misc/Death Perc/Death Perc-12-95-VF5I.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=639 end=62921 sample=../Sounds/Misc/Death Perc/Death Perc-12-111-B6BS.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=629 sample=../Sounds/Misc/Death Perc/Death Perc-12-127-ORN6.wav
+<group> key=13 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=525 end=24920 sample=../Sounds/Misc/Death Perc/Death Perc-13-16-UF45.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=622 end=25472 sample=../Sounds/Misc/Death Perc/Death Perc-13-32-4SGO.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=657 end=24833 sample=../Sounds/Misc/Death Perc/Death Perc-13-48-15VD.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=660 end=32517 sample=../Sounds/Misc/Death Perc/Death Perc-13-64-LO54.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=464 end=28522 sample=../Sounds/Misc/Death Perc/Death Perc-13-79-A1GP.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=556 end=45805 sample=../Sounds/Misc/Death Perc/Death Perc-13-95-3AWK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=613 end=65154 sample=../Sounds/Misc/Death Perc/Death Perc-13-111-3RR8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=644 end=70586 sample=../Sounds/Misc/Death Perc/Death Perc-13-127-6MSR.wav
+<group> key=14 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=673 end=23810 sample=../Sounds/Misc/Death Perc/Death Perc-14-16-ECWI.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=687 end=30133 sample=../Sounds/Misc/Death Perc/Death Perc-14-32-6SQH.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=651 end=24158 sample=../Sounds/Misc/Death Perc/Death Perc-14-48-BBJM.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=563 end=27788 sample=../Sounds/Misc/Death Perc/Death Perc-14-64-Z5EA.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=612 end=39542 sample=../Sounds/Misc/Death Perc/Death Perc-14-79-0TB9.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=771 sample=../Sounds/Misc/Death Perc/Death Perc-14-95-9DJX.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=874 sample=../Sounds/Misc/Death Perc/Death Perc-14-111-YP7T.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=609 end=75396 sample=../Sounds/Misc/Death Perc/Death Perc-14-127-M149.wav
+<group> key=15 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=635 end=22402 sample=../Sounds/Misc/Death Perc/Death Perc-15-16-F0ML.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=617 end=26322 sample=../Sounds/Misc/Death Perc/Death Perc-15-32-MADL.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=687 sample=../Sounds/Misc/Death Perc/Death Perc-15-48-TWIW.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=717 end=26988 sample=../Sounds/Misc/Death Perc/Death Perc-15-64-C558.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=716 sample=../Sounds/Misc/Death Perc/Death Perc-15-79-A0SH.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=708 end=50847 sample=../Sounds/Misc/Death Perc/Death Perc-15-95-479K.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=733 sample=../Sounds/Misc/Death Perc/Death Perc-15-111-HWBZ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=585 end=70296 sample=../Sounds/Misc/Death Perc/Death Perc-15-127-W4G2.wav
+<group> key=16 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=555 end=24941 sample=../Sounds/Misc/Death Perc/Death Perc-16-16-4PDX.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=696 end=25867 sample=../Sounds/Misc/Death Perc/Death Perc-16-32-9QQY.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=658 end=25276 sample=../Sounds/Misc/Death Perc/Death Perc-16-48-8GZL.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=651 end=32011 sample=../Sounds/Misc/Death Perc/Death Perc-16-64-9XI0.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=771 sample=../Sounds/Misc/Death Perc/Death Perc-16-79-BOKO.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=590 sample=../Sounds/Misc/Death Perc/Death Perc-16-95-BA6I.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=623 sample=../Sounds/Misc/Death Perc/Death Perc-16-111-N28I.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=687 sample=../Sounds/Misc/Death Perc/Death Perc-16-127-A79G.wav
+<group> key=17 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=484 end=24123 sample=../Sounds/Misc/Death Perc/Death Perc-17-16-M9KW.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=642 end=30583 sample=../Sounds/Misc/Death Perc/Death Perc-17-32-IHW8.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=627 end=23696 sample=../Sounds/Misc/Death Perc/Death Perc-17-48-5RY9.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=685 end=27776 sample=../Sounds/Misc/Death Perc/Death Perc-17-64-7MBJ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=638 end=30946 sample=../Sounds/Misc/Death Perc/Death Perc-17-79-DSM3.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=578 end=44723 sample=../Sounds/Misc/Death Perc/Death Perc-17-95-UIZK.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=682 sample=../Sounds/Misc/Death Perc/Death Perc-17-111-H39V.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=538 end=75520 sample=../Sounds/Misc/Death Perc/Death Perc-17-127-N2PN.wav
+<group> key=18 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=697 end=22843 sample=../Sounds/Misc/Death Perc/Death Perc-18-16-GL8Y.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=466 end=26276 sample=../Sounds/Misc/Death Perc/Death Perc-18-32-5OOH.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=579 end=25986 sample=../Sounds/Misc/Death Perc/Death Perc-18-48-GW27.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=533 end=27008 sample=../Sounds/Misc/Death Perc/Death Perc-18-64-WGRF.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=701 end=30302 sample=../Sounds/Misc/Death Perc/Death Perc-18-79-1Q4H.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=688 sample=../Sounds/Misc/Death Perc/Death Perc-18-95-EQUU.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=698 sample=../Sounds/Misc/Death Perc/Death Perc-18-111-W4G2.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=665 sample=../Sounds/Misc/Death Perc/Death Perc-18-127-4M2C.wav
+<group> key=19 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=561 end=25180 sample=../Sounds/Misc/Death Perc/Death Perc-19-16-6331.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=677 sample=../Sounds/Misc/Death Perc/Death Perc-19-32-AU37.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=637 end=24890 sample=../Sounds/Misc/Death Perc/Death Perc-19-48-F3RN.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=622 end=32368 sample=../Sounds/Misc/Death Perc/Death Perc-19-64-9PDT.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=591 end=28288 sample=../Sounds/Misc/Death Perc/Death Perc-19-79-YQFC.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=674 end=46008 sample=../Sounds/Misc/Death Perc/Death Perc-19-95-PQVR.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=687 sample=../Sounds/Misc/Death Perc/Death Perc-19-111-YN0J.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=605 sample=../Sounds/Misc/Death Perc/Death Perc-19-127-CD7E.wav
+<group> key=20 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=686 end=23936 sample=../Sounds/Misc/Death Perc/Death Perc-20-16-VKRU.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=529 end=30647 sample=../Sounds/Misc/Death Perc/Death Perc-20-32-VSNX.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=645 end=23868 sample=../Sounds/Misc/Death Perc/Death Perc-20-48-XWXD.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=564 end=27776 sample=../Sounds/Misc/Death Perc/Death Perc-20-64-F5JC.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=695 end=30720 sample=../Sounds/Misc/Death Perc/Death Perc-20-79-NRVP.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=468 end=44932 sample=../Sounds/Misc/Death Perc/Death Perc-20-95-VK6V.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=661 end=64131 sample=../Sounds/Misc/Death Perc/Death Perc-20-111-L2Y6.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=739 end=75784 sample=../Sounds/Misc/Death Perc/Death Perc-20-127-KNQG.wav
+<group> key=21 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=647 sample=../Sounds/Misc/Death Perc/Death Perc-21-16-DR2C.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=565 sample=../Sounds/Misc/Death Perc/Death Perc-21-32-90BY.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=661 sample=../Sounds/Misc/Death Perc/Death Perc-21-48-HY4R.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=533 end=26939 sample=../Sounds/Misc/Death Perc/Death Perc-21-64-NMIY.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=681 end=29874 sample=../Sounds/Misc/Death Perc/Death Perc-21-79-7K0K.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=747 end=50877 sample=../Sounds/Misc/Death Perc/Death Perc-21-95-CNRN.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=552 sample=../Sounds/Misc/Death Perc/Death Perc-21-111-CF1Z.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=613 sample=../Sounds/Misc/Death Perc/Death Perc-21-127-D49I.wav
+<group> key=22 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=636 end=25088 sample=../Sounds/Misc/Death Perc/Death Perc-22-16-M5OT.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=564 end=25344 sample=../Sounds/Misc/Death Perc/Death Perc-22-32-AP87.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=728 end=24961 sample=../Sounds/Misc/Death Perc/Death Perc-22-48-J8CH.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=613 end=32306 sample=../Sounds/Misc/Death Perc/Death Perc-22-64-0GUC.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=539 end=28183 sample=../Sounds/Misc/Death Perc/Death Perc-22-79-M6JM.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=611 end=46021 sample=../Sounds/Misc/Death Perc/Death Perc-22-95-KDB3.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=503 sample=../Sounds/Misc/Death Perc/Death Perc-22-111-M2IJ.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=646 sample=../Sounds/Misc/Death Perc/Death Perc-22-127-6KJD.wav
+<group> key=23 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=530 end=23863 sample=../Sounds/Misc/Death Perc/Death Perc-23-16-56NY.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=627 end=30527 sample=../Sounds/Misc/Death Perc/Death Perc-23-32-FELB.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=636 end=24192 sample=../Sounds/Misc/Death Perc/Death Perc-23-48-SLKV.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=598 end=27938 sample=../Sounds/Misc/Death Perc/Death Perc-23-64-A8LB.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=478 end=30265 sample=../Sounds/Misc/Death Perc/Death Perc-23-79-PSTB.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=588 end=45275 sample=../Sounds/Misc/Death Perc/Death Perc-23-95-EQLZ.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=657 sample=../Sounds/Misc/Death Perc/Death Perc-23-111-3YU2.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=677 sample=../Sounds/Misc/Death Perc/Death Perc-23-127-412N.wav
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=459 end=22683 sample=../Sounds/Misc/Death Perc/Death Perc-24-16-J1V2.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=516 end=26295 sample=../Sounds/Misc/Death Perc/Death Perc-24-32-8GYI.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=633 end=25939 sample=../Sounds/Misc/Death Perc/Death Perc-24-48-ZG6H.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=494 end=26928 sample=../Sounds/Misc/Death Perc/Death Perc-24-64-6RFE.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=685 end=30030 sample=../Sounds/Misc/Death Perc/Death Perc-24-79-51ZK.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=669 sample=../Sounds/Misc/Death Perc/Death Perc-24-95-YKRT.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=557 sample=../Sounds/Misc/Death Perc/Death Perc-24-111-61A0.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=670 end=71471 sample=../Sounds/Misc/Death Perc/Death Perc-24-127-72WZ.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=641 end=25096 sample=../Sounds/Misc/Death Perc/Death Perc-25-16-N024.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=729 end=25615 sample=../Sounds/Misc/Death Perc/Death Perc-25-32-ZUG1.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=672 end=24993 sample=../Sounds/Misc/Death Perc/Death Perc-25-48-UF7E.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=704 end=32429 sample=../Sounds/Misc/Death Perc/Death Perc-25-64-6LSA.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=630 end=27905 sample=../Sounds/Misc/Death Perc/Death Perc-25-79-IF80.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=743 end=46148 sample=../Sounds/Misc/Death Perc/Death Perc-25-95-HBLL.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=579 end=65824 sample=../Sounds/Misc/Death Perc/Death Perc-25-111-A2DK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=621 sample=../Sounds/Misc/Death Perc/Death Perc-25-127-VZCS.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=585 end=24089 sample=../Sounds/Misc/Death Perc/Death Perc-26-16-P9FX.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=691 end=30236 sample=../Sounds/Misc/Death Perc/Death Perc-26-32-D97T.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=530 end=23590 sample=../Sounds/Misc/Death Perc/Death Perc-26-48-YXWG.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=708 end=28197 sample=../Sounds/Misc/Death Perc/Death Perc-26-64-V8GR.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=637 end=30386 sample=../Sounds/Misc/Death Perc/Death Perc-26-79-LA95.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=717 end=44803 sample=../Sounds/Misc/Death Perc/Death Perc-26-95-OH18.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=567 sample=../Sounds/Misc/Death Perc/Death Perc-26-111-GCKA.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=760 end=76452 sample=../Sounds/Misc/Death Perc/Death Perc-26-127-W7JT.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=764 sample=../Sounds/Misc/Death Perc/Death Perc-27-16-IN3T.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=695 end=26496 sample=../Sounds/Misc/Death Perc/Death Perc-27-32-YCS1.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=631 end=26063 sample=../Sounds/Misc/Death Perc/Death Perc-27-48-02BS.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=760 end=27264 sample=../Sounds/Misc/Death Perc/Death Perc-27-64-3CAK.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=664 end=29754 sample=../Sounds/Misc/Death Perc/Death Perc-27-79-VZLD.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=743 sample=../Sounds/Misc/Death Perc/Death Perc-27-95-939J.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=580 sample=../Sounds/Misc/Death Perc/Death Perc-27-111-VQR8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=626 end=70921 sample=../Sounds/Misc/Death Perc/Death Perc-27-127-AM5Q.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=721 end=24960 sample=../Sounds/Misc/Death Perc/Death Perc-28-16-916I.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=662 end=25531 sample=../Sounds/Misc/Death Perc/Death Perc-28-32-FE5S.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=620 end=25010 sample=../Sounds/Misc/Death Perc/Death Perc-28-48-37LI.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=579 end=32521 sample=../Sounds/Misc/Death Perc/Death Perc-28-64-XNDW.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=645 end=28060 sample=../Sounds/Misc/Death Perc/Death Perc-28-79-HPHG.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=478 end=45612 sample=../Sounds/Misc/Death Perc/Death Perc-28-95-OKOF.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=474 end=65152 sample=../Sounds/Misc/Death Perc/Death Perc-28-111-9JGE.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=637 sample=../Sounds/Misc/Death Perc/Death Perc-28-127-KFIE.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=700 end=24373 sample=../Sounds/Misc/Death Perc/Death Perc-29-16-X3MU.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=573 end=30257 sample=../Sounds/Misc/Death Perc/Death Perc-29-32-IB3X.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=563 end=23693 sample=../Sounds/Misc/Death Perc/Death Perc-29-48-CWYY.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=538 end=28035 sample=../Sounds/Misc/Death Perc/Death Perc-29-64-0VP8.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=474 end=30222 sample=../Sounds/Misc/Death Perc/Death Perc-29-79-8XCX.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=664 end=44778 sample=../Sounds/Misc/Death Perc/Death Perc-29-95-ZSO5.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=723 sample=../Sounds/Misc/Death Perc/Death Perc-29-111-HN2I.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=564 end=75394 sample=../Sounds/Misc/Death Perc/Death Perc-29-127-H6MM.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=666 sample=../Sounds/Misc/Death Perc/Death Perc-30-16-M4LR.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=617 sample=../Sounds/Misc/Death Perc/Death Perc-30-32-2UGT.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=796 sample=../Sounds/Misc/Death Perc/Death Perc-30-48-54HZ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=675 end=27151 sample=../Sounds/Misc/Death Perc/Death Perc-30-64-15PY.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=498 end=29345 sample=../Sounds/Misc/Death Perc/Death Perc-30-79-M6V3.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=647 end=50971 sample=../Sounds/Misc/Death Perc/Death Perc-30-95-BLY3.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=691 sample=../Sounds/Misc/Death Perc/Death Perc-30-111-OLS8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=554 sample=../Sounds/Misc/Death Perc/Death Perc-30-127-SUEX.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=481 end=24463 sample=../Sounds/Misc/Death Perc/Death Perc-31-16-A7D0.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=630 end=25347 sample=../Sounds/Misc/Death Perc/Death Perc-31-32-FQE4.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=542 sample=../Sounds/Misc/Death Perc/Death Perc-31-48-2EO0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=613 end=32423 sample=../Sounds/Misc/Death Perc/Death Perc-31-64-QINR.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=689 end=28288 sample=../Sounds/Misc/Death Perc/Death Perc-31-79-QPYQ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=655 sample=../Sounds/Misc/Death Perc/Death Perc-31-95-J790.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=592 sample=../Sounds/Misc/Death Perc/Death Perc-31-111-I5I6.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=666 end=69575 sample=../Sounds/Misc/Death Perc/Death Perc-31-127-J9OV.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=700 end=24354 sample=../Sounds/Misc/Death Perc/Death Perc-32-16-D6H7.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=824 end=30616 sample=../Sounds/Misc/Death Perc/Death Perc-32-32-44TC.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=607 end=23837 sample=../Sounds/Misc/Death Perc/Death Perc-32-48-Y8YI.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=606 end=27782 sample=../Sounds/Misc/Death Perc/Death Perc-32-64-GR5N.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=499 end=30374 sample=../Sounds/Misc/Death Perc/Death Perc-32-79-3MKW.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=588 end=44544 sample=../Sounds/Misc/Death Perc/Death Perc-32-95-16KX.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=689 end=64512 sample=../Sounds/Misc/Death Perc/Death Perc-32-111-ESS6.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=756 end=75824 sample=../Sounds/Misc/Death Perc/Death Perc-32-127-5U9H.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=768 end=22948 sample=../Sounds/Misc/Death Perc/Death Perc-33-16-JZW3.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=804 end=26496 sample=../Sounds/Misc/Death Perc/Death Perc-33-32-Y0M0.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=611 end=25728 sample=../Sounds/Misc/Death Perc/Death Perc-33-48-0QFP.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=668 end=27030 sample=../Sounds/Misc/Death Perc/Death Perc-33-64-QK9H.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=576 end=29612 sample=../Sounds/Misc/Death Perc/Death Perc-33-79-8TSI.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=677 end=50692 sample=../Sounds/Misc/Death Perc/Death Perc-33-95-FP9E.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=543 end=62488 sample=../Sounds/Misc/Death Perc/Death Perc-33-111-65OS.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=674 end=70501 sample=../Sounds/Misc/Death Perc/Death Perc-33-127-LH9V.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=699 end=24977 sample=../Sounds/Misc/Death Perc/Death Perc-34-16-YY24.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=479 end=25350 sample=../Sounds/Misc/Death Perc/Death Perc-34-32-T727.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=681 end=25089 sample=../Sounds/Misc/Death Perc/Death Perc-34-48-C1M1.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=525 end=31872 sample=../Sounds/Misc/Death Perc/Death Perc-34-64-AS5O.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=633 end=28315 sample=../Sounds/Misc/Death Perc/Death Perc-34-79-SJS7.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=465 end=45703 sample=../Sounds/Misc/Death Perc/Death Perc-34-95-ANO5.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=628 end=65157 sample=../Sounds/Misc/Death Perc/Death Perc-34-111-9UJB.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=707 end=70432 sample=../Sounds/Misc/Death Perc/Death Perc-34-127-R0PG.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=730 end=24472 sample=../Sounds/Misc/Death Perc/Death Perc-35-16-3XJW.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=587 end=30380 sample=../Sounds/Misc/Death Perc/Death Perc-35-32-IT6W.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=663 end=24097 sample=../Sounds/Misc/Death Perc/Death Perc-35-48-B29Y.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=633 end=27781 sample=../Sounds/Misc/Death Perc/Death Perc-35-64-T4IR.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=705 end=30873 sample=../Sounds/Misc/Death Perc/Death Perc-35-79-1VT6.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=511 end=44672 sample=../Sounds/Misc/Death Perc/Death Perc-35-95-CTAW.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=671 end=64384 sample=../Sounds/Misc/Death Perc/Death Perc-35-111-P2U8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=645 sample=../Sounds/Misc/Death Perc/Death Perc-35-127-BZY1.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=601 end=22810 sample=../Sounds/Misc/Death Perc/Death Perc-36-16-S7CP.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=733 end=26368 sample=../Sounds/Misc/Death Perc/Death Perc-36-32-4ZKD.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=519 end=26011 sample=../Sounds/Misc/Death Perc/Death Perc-36-48-7EW1.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=620 sample=../Sounds/Misc/Death Perc/Death Perc-36-64-RJL2.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=675 end=29952 sample=../Sounds/Misc/Death Perc/Death Perc-36-79-X8JF.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=678 end=50844 sample=../Sounds/Misc/Death Perc/Death Perc-36-95-KWCR.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=513 end=62237 sample=../Sounds/Misc/Death Perc/Death Perc-36-111-BO2Y.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=648 end=71436 sample=../Sounds/Misc/Death Perc/Death Perc-36-127-T615.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=550 end=24720 sample=../Sounds/Misc/Death Perc/Death Perc-37-16-DCDD.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=595 end=25367 sample=../Sounds/Misc/Death Perc/Death Perc-37-32-U3UV.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=705 end=25129 sample=../Sounds/Misc/Death Perc/Death Perc-37-48-RECJ.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=520 end=32158 sample=../Sounds/Misc/Death Perc/Death Perc-37-64-YN7V.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=594 end=28197 sample=../Sounds/Misc/Death Perc/Death Perc-37-79-RKMG.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=626 sample=../Sounds/Misc/Death Perc/Death Perc-37-95-LZIB.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=624 end=65446 sample=../Sounds/Misc/Death Perc/Death Perc-37-111-6Z8J.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=693 end=69510 sample=../Sounds/Misc/Death Perc/Death Perc-37-127-3TOA.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=516 end=23813 sample=../Sounds/Misc/Death Perc/Death Perc-38-16-50LH.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=685 end=30476 sample=../Sounds/Misc/Death Perc/Death Perc-38-32-ZFGH.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=744 end=24067 sample=../Sounds/Misc/Death Perc/Death Perc-38-48-P6TB.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=664 end=28189 sample=../Sounds/Misc/Death Perc/Death Perc-38-64-AYWT.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=635 end=30897 sample=../Sounds/Misc/Death Perc/Death Perc-38-79-OOFC.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=727 end=44935 sample=../Sounds/Misc/Death Perc/Death Perc-38-95-2JOX.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=754 sample=../Sounds/Misc/Death Perc/Death Perc-38-111-7401.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=800 end=75784 sample=../Sounds/Misc/Death Perc/Death Perc-38-127-9SXT.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=785 end=22657 sample=../Sounds/Misc/Death Perc/Death Perc-39-16-RTKQ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=551 sample=../Sounds/Misc/Death Perc/Death Perc-39-32-8P8E.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=645 sample=../Sounds/Misc/Death Perc/Death Perc-39-48-K7V3.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=613 end=27030 sample=../Sounds/Misc/Death Perc/Death Perc-39-64-MLRP.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=659 end=29473 sample=../Sounds/Misc/Death Perc/Death Perc-39-79-0HQQ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=756 sample=../Sounds/Misc/Death Perc/Death Perc-39-95-JMBB.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=676 end=62475 sample=../Sounds/Misc/Death Perc/Death Perc-39-111-LHGY.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=881 end=70674 sample=../Sounds/Misc/Death Perc/Death Perc-39-127-M4AA.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=645 end=24986 sample=../Sounds/Misc/Death Perc/Death Perc-40-16-8U1C.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=483 end=25499 sample=../Sounds/Misc/Death Perc/Death Perc-40-32-1NQW.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=674 end=24968 sample=../Sounds/Misc/Death Perc/Death Perc-40-48-EOR0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=483 end=32008 sample=../Sounds/Misc/Death Perc/Death Perc-40-64-J55S.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=621 end=28160 sample=../Sounds/Misc/Death Perc/Death Perc-40-79-M86W.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=594 end=45754 sample=../Sounds/Misc/Death Perc/Death Perc-40-95-1ZDC.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=750 end=65540 sample=../Sounds/Misc/Death Perc/Death Perc-40-111-89NI.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=591 end=70144 sample=../Sounds/Misc/Death Perc/Death Perc-40-127-INLG.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=662 end=23695 sample=../Sounds/Misc/Death Perc/Death Perc-41-16-UHEV.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=621 end=30218 sample=../Sounds/Misc/Death Perc/Death Perc-41-32-4XIF.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=562 end=23572 sample=../Sounds/Misc/Death Perc/Death Perc-41-48-JLFA.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=682 end=28055 sample=../Sounds/Misc/Death Perc/Death Perc-41-64-P059.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=529 end=30727 sample=../Sounds/Misc/Death Perc/Death Perc-41-79-403S.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=632 sample=../Sounds/Misc/Death Perc/Death Perc-41-95-YU0E.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=735 end=64641 sample=../Sounds/Misc/Death Perc/Death Perc-41-111-Y96Q.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=487 sample=../Sounds/Misc/Death Perc/Death Perc-41-127-RMBF.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=733 end=22912 sample=../Sounds/Misc/Death Perc/Death Perc-42-16-RNLB.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=545 end=26247 sample=../Sounds/Misc/Death Perc/Death Perc-42-32-OZRV.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=552 end=25728 sample=../Sounds/Misc/Death Perc/Death Perc-42-48-ID2H.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=684 end=26907 sample=../Sounds/Misc/Death Perc/Death Perc-42-64-OR6W.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=733 end=29835 sample=../Sounds/Misc/Death Perc/Death Perc-42-79-FRPF.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=473 sample=../Sounds/Misc/Death Perc/Death Perc-42-95-0BMD.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=671 end=62736 sample=../Sounds/Misc/Death Perc/Death Perc-42-111-ZVQB.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=784 end=70537 sample=../Sounds/Misc/Death Perc/Death Perc-42-127-1AH9.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=597 end=24960 sample=../Sounds/Misc/Death Perc/Death Perc-43-16-57J0.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=583 end=25349 sample=../Sounds/Misc/Death Perc/Death Perc-43-32-3IKH.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=675 end=24970 sample=../Sounds/Misc/Death Perc/Death Perc-43-48-O0HC.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=682 sample=../Sounds/Misc/Death Perc/Death Perc-43-64-AC43.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=642 end=28416 sample=../Sounds/Misc/Death Perc/Death Perc-43-79-EBGW.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=644 end=45716 sample=../Sounds/Misc/Death Perc/Death Perc-43-95-IN73.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=493 end=65179 sample=../Sounds/Misc/Death Perc/Death Perc-43-111-CO74.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=491 end=70069 sample=../Sounds/Misc/Death Perc/Death Perc-43-127-ZILN.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=678 end=23945 sample=../Sounds/Misc/Death Perc/Death Perc-44-16-EHK1.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=522 end=30364 sample=../Sounds/Misc/Death Perc/Death Perc-44-32-AZ3T.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=685 end=23700 sample=../Sounds/Misc/Death Perc/Death Perc-44-48-3JP0.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=734 end=27930 sample=../Sounds/Misc/Death Perc/Death Perc-44-64-Q6IL.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=611 end=30358 sample=../Sounds/Misc/Death Perc/Death Perc-44-79-KJN0.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=581 end=44672 sample=../Sounds/Misc/Death Perc/Death Perc-44-95-ZFCW.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=699 end=64782 sample=../Sounds/Misc/Death Perc/Death Perc-44-111-CZAX.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=522 end=76180 sample=../Sounds/Misc/Death Perc/Death Perc-44-127-6DU9.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=793 sample=../Sounds/Misc/Death Perc/Death Perc-45-16-YWEQ.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=616 end=26248 sample=../Sounds/Misc/Death Perc/Death Perc-45-32-NTE9.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=554 end=26116 sample=../Sounds/Misc/Death Perc/Death Perc-45-48-HW01.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=629 end=27136 sample=../Sounds/Misc/Death Perc/Death Perc-45-64-LBLI.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=828 end=29828 sample=../Sounds/Misc/Death Perc/Death Perc-45-79-VR61.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=546 sample=../Sounds/Misc/Death Perc/Death Perc-45-95-AB43.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=666 end=62475 sample=../Sounds/Misc/Death Perc/Death Perc-45-111-1FHX.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=821 sample=../Sounds/Misc/Death Perc/Death Perc-45-127-883M.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=555 end=24986 sample=../Sounds/Misc/Death Perc/Death Perc-46-16-2UQT.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=641 end=25365 sample=../Sounds/Misc/Death Perc/Death Perc-46-32-XPTN.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=557 end=24960 sample=../Sounds/Misc/Death Perc/Death Perc-46-48-7LD8.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=660 sample=../Sounds/Misc/Death Perc/Death Perc-46-64-Z29P.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=681 end=28565 sample=../Sounds/Misc/Death Perc/Death Perc-46-79-TVEJ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=558 sample=../Sounds/Misc/Death Perc/Death Perc-46-95-GR1I.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=654 end=65413 sample=../Sounds/Misc/Death Perc/Death Perc-46-111-5W9B.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=519 end=69391 sample=../Sounds/Misc/Death Perc/Death Perc-46-127-1JMP.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=603 sample=../Sounds/Misc/Death Perc/Death Perc-47-16-BT7G.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=750 end=30223 sample=../Sounds/Misc/Death Perc/Death Perc-47-32-7BTW.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=524 end=23436 sample=../Sounds/Misc/Death Perc/Death Perc-47-48-SEWI.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=621 end=27779 sample=../Sounds/Misc/Death Perc/Death Perc-47-64-RCDR.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=610 end=30595 sample=../Sounds/Misc/Death Perc/Death Perc-47-79-6A0P.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=605 sample=../Sounds/Misc/Death Perc/Death Perc-47-95-8BCA.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=659 end=64275 sample=../Sounds/Misc/Death Perc/Death Perc-47-111-VT5C.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=631 end=76316 sample=../Sounds/Misc/Death Perc/Death Perc-47-127-O7I5.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=665 sample=../Sounds/Misc/Death Perc/Death Perc-48-16-Y1A4.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=716 end=26385 sample=../Sounds/Misc/Death Perc/Death Perc-48-32-Q5MX.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=533 end=26003 sample=../Sounds/Misc/Death Perc/Death Perc-48-48-QI5Q.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=620 end=27008 sample=../Sounds/Misc/Death Perc/Death Perc-48-64-GG5Q.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=580 end=29447 sample=../Sounds/Misc/Death Perc/Death Perc-48-79-8A4O.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=671 sample=../Sounds/Misc/Death Perc/Death Perc-48-95-0BWP.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=628 end=62602 sample=../Sounds/Misc/Death Perc/Death Perc-48-111-XIAF.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=733 end=71424 sample=../Sounds/Misc/Death Perc/Death Perc-48-127-W290.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=598 end=24960 sample=../Sounds/Misc/Death Perc/Death Perc-49-16-7DII.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=664 end=25472 sample=../Sounds/Misc/Death Perc/Death Perc-49-32-VOGQ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=531 end=24986 sample=../Sounds/Misc/Death Perc/Death Perc-49-48-J333.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=666 end=32144 sample=../Sounds/Misc/Death Perc/Death Perc-49-64-VKHA.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=606 end=28046 sample=../Sounds/Misc/Death Perc/Death Perc-49-79-RZLZ.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=687 end=46095 sample=../Sounds/Misc/Death Perc/Death Perc-49-95-L8LY.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=620 end=65557 sample=../Sounds/Misc/Death Perc/Death Perc-49-111-KXCG.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=681 end=69513 sample=../Sounds/Misc/Death Perc/Death Perc-49-127-KU7G.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=626 end=24073 sample=../Sounds/Misc/Death Perc/Death Perc-50-16-AKJV.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=643 end=30225 sample=../Sounds/Misc/Death Perc/Death Perc-50-32-77RG.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=698 end=23826 sample=../Sounds/Misc/Death Perc/Death Perc-50-48-VM3T.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=761 end=28160 sample=../Sounds/Misc/Death Perc/Death Perc-50-64-BCZJ.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=828 end=30855 sample=../Sounds/Misc/Death Perc/Death Perc-50-79-PJI7.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=622 sample=../Sounds/Misc/Death Perc/Death Perc-50-95-0NSY.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=561 end=64000 sample=../Sounds/Misc/Death Perc/Death Perc-50-111-VIT8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=716 end=75403 sample=../Sounds/Misc/Death Perc/Death Perc-50-127-BOB3.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=618 end=22528 sample=../Sounds/Misc/Death Perc/Death Perc-51-16-DGG1.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=608 end=26257 sample=../Sounds/Misc/Death Perc/Death Perc-51-32-HO8U.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=515 end=25729 sample=../Sounds/Misc/Death Perc/Death Perc-51-48-NS99.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=628 end=27013 sample=../Sounds/Misc/Death Perc/Death Perc-51-64-CA24.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=660 end=29585 sample=../Sounds/Misc/Death Perc/Death Perc-51-79-PZZ5.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=745 sample=../Sounds/Misc/Death Perc/Death Perc-51-95-RQO9.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=586 end=62870 sample=../Sounds/Misc/Death Perc/Death Perc-51-111-H11C.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=699 end=70528 sample=../Sounds/Misc/Death Perc/Death Perc-51-127-57JD.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=654 end=24973 sample=../Sounds/Misc/Death Perc/Death Perc-52-16-ITEX.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=753 end=25358 sample=../Sounds/Misc/Death Perc/Death Perc-52-32-YIRE.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=708 sample=../Sounds/Misc/Death Perc/Death Perc-52-48-4O79.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=578 sample=../Sounds/Misc/Death Perc/Death Perc-52-64-A56R.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=648 end=28168 sample=../Sounds/Misc/Death Perc/Death Perc-52-79-WG83.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=760 end=45971 sample=../Sounds/Misc/Death Perc/Death Perc-52-95-FOOD.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=648 end=65284 sample=../Sounds/Misc/Death Perc/Death Perc-52-111-32L0.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=623 end=69642 sample=../Sounds/Misc/Death Perc/Death Perc-52-127-56E8.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=673 end=24194 sample=../Sounds/Misc/Death Perc/Death Perc-53-16-9A43.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=624 end=30343 sample=../Sounds/Misc/Death Perc/Death Perc-53-32-95VJ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=605 end=23938 sample=../Sounds/Misc/Death Perc/Death Perc-53-48-XXS8.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=577 end=27650 sample=../Sounds/Misc/Death Perc/Death Perc-53-64-D77X.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=688 end=30592 sample=../Sounds/Misc/Death Perc/Death Perc-53-79-WW6B.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=818 end=45058 sample=../Sounds/Misc/Death Perc/Death Perc-53-95-DQG5.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=691 end=64514 sample=../Sounds/Misc/Death Perc/Death Perc-53-111-OU1Y.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=600 end=76170 sample=../Sounds/Misc/Death Perc/Death Perc-53-127-MKLA.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=480 sample=../Sounds/Misc/Death Perc/Death Perc-54-16-C1KY.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=573 end=25984 sample=../Sounds/Misc/Death Perc/Death Perc-54-32-6OVT.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=544 end=25858 sample=../Sounds/Misc/Death Perc/Death Perc-54-48-7WMO.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=658 end=27392 sample=../Sounds/Misc/Death Perc/Death Perc-54-64-3YDO.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=626 end=29450 sample=../Sounds/Misc/Death Perc/Death Perc-54-79-3CQ7.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=549 end=50582 sample=../Sounds/Misc/Death Perc/Death Perc-54-95-PSSD.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=618 end=62851 sample=../Sounds/Misc/Death Perc/Death Perc-54-111-4FCP.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=632 end=70446 sample=../Sounds/Misc/Death Perc/Death Perc-54-127-5TFZ.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=613 end=24969 sample=../Sounds/Misc/Death Perc/Death Perc-55-16-YJF3.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=653 end=25611 sample=../Sounds/Misc/Death Perc/Death Perc-55-32-Y290.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=714 end=24988 sample=../Sounds/Misc/Death Perc/Death Perc-55-48-WZRR.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=558 end=32263 sample=../Sounds/Misc/Death Perc/Death Perc-55-64-1S8M.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=570 end=28160 sample=../Sounds/Misc/Death Perc/Death Perc-55-79-XULH.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=482 end=45696 sample=../Sounds/Misc/Death Perc/Death Perc-55-95-KFP2.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=702 end=65422 sample=../Sounds/Misc/Death Perc/Death Perc-55-111-3CKB.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=634 end=69389 sample=../Sounds/Misc/Death Perc/Death Perc-55-127-7BP3.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=661 end=24071 sample=../Sounds/Misc/Death Perc/Death Perc-56-16-0WBC.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=546 end=30080 sample=../Sounds/Misc/Death Perc/Death Perc-56-32-8RZJ.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=658 end=23682 sample=../Sounds/Misc/Death Perc/Death Perc-56-48-U7MW.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=671 end=27534 sample=../Sounds/Misc/Death Perc/Death Perc-56-64-ZWGY.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=935 end=30869 sample=../Sounds/Misc/Death Perc/Death Perc-56-79-IBDN.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=599 end=45077 sample=../Sounds/Misc/Death Perc/Death Perc-56-95-CDLN.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=518 end=63893 sample=../Sounds/Misc/Death Perc/Death Perc-56-111-1OT2.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=517 end=76165 sample=../Sounds/Misc/Death Perc/Death Perc-56-127-DV8R.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=629 end=22664 sample=../Sounds/Misc/Death Perc/Death Perc-57-16-KTNE.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=664 end=26245 sample=../Sounds/Misc/Death Perc/Death Perc-57-32-AEL9.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=683 end=25985 sample=../Sounds/Misc/Death Perc/Death Perc-57-48-VZOX.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=608 end=26894 sample=../Sounds/Misc/Death Perc/Death Perc-57-64-9M6O.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=722 end=29696 sample=../Sounds/Misc/Death Perc/Death Perc-57-79-N59E.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=613 end=51084 sample=../Sounds/Misc/Death Perc/Death Perc-57-95-AOON.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=628 end=63141 sample=../Sounds/Misc/Death Perc/Death Perc-57-111-MB5N.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=725 sample=../Sounds/Misc/Death Perc/Death Perc-57-127-TXSV.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=718 end=24832 sample=../Sounds/Misc/Death Perc/Death Perc-58-16-LF49.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=632 sample=../Sounds/Misc/Death Perc/Death Perc-58-32-LLSP.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=522 end=24832 sample=../Sounds/Misc/Death Perc/Death Perc-58-48-V2AB.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=793 end=32388 sample=../Sounds/Misc/Death Perc/Death Perc-58-64-6Z2T.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=836 end=28419 sample=../Sounds/Misc/Death Perc/Death Perc-58-79-TVVK.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=518 end=45966 sample=../Sounds/Misc/Death Perc/Death Perc-58-95-NO5R.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=486 end=65680 sample=../Sounds/Misc/Death Perc/Death Perc-58-111-LKVN.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=673 end=69643 sample=../Sounds/Misc/Death Perc/Death Perc-58-127-851E.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=547 end=23942 sample=../Sounds/Misc/Death Perc/Death Perc-59-16-GQTI.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=640 end=30208 sample=../Sounds/Misc/Death Perc/Death Perc-59-32-2B2Z.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=628 end=23818 sample=../Sounds/Misc/Death Perc/Death Perc-59-48-D0XB.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=640 end=27804 sample=../Sounds/Misc/Death Perc/Death Perc-59-64-R0J6.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=479 end=30598 sample=../Sounds/Misc/Death Perc/Death Perc-59-79-202P.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=606 end=44686 sample=../Sounds/Misc/Death Perc/Death Perc-59-95-SNXX.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=652 end=63904 sample=../Sounds/Misc/Death Perc/Death Perc-59-111-MYH5.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=507 end=75538 sample=../Sounds/Misc/Death Perc/Death Perc-59-127-P64L.wav
+<group>lokey=60 hikey=121 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=621 sample=../Sounds/Misc/Death Perc/Death Perc-60-16-K5XN.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=630 sample=../Sounds/Misc/Death Perc/Death Perc-60-32-P9M7.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=596 end=25755 sample=../Sounds/Misc/Death Perc/Death Perc-60-48-2VZL.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=699 end=27275 sample=../Sounds/Misc/Death Perc/Death Perc-60-64-H59T.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=646 end=29569 sample=../Sounds/Misc/Death Perc/Death Perc-60-79-2M4X.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=764 end=51347 sample=../Sounds/Misc/Death Perc/Death Perc-60-95-KA9F.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=776 end=62612 sample=../Sounds/Misc/Death Perc/Death Perc-60-111-1HBU.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=709 end=70428 sample=../Sounds/Misc/Death Perc/Death Perc-60-127-WUHH.wav

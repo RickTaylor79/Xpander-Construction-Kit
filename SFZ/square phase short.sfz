@@ -1,0 +1,631 @@
+// this file was generated from square phase short.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=475 end=15910 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C11-8-MLAD.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=332 end=15253 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C19-16-J0XM.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=353 end=15623 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C117-24-SIUM.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=183 end=14523 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C125-32-CTWG.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=424 end=15191 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C133-40-Y1TZ.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=448 end=15013 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C141-48-MF9P.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=178 end=14513 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C149-56-P61A.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=470 end=16111 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C157-64-SB86.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=259 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C165-71-L8LY.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=343 end=14614 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C172-79-3SSS.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=305 end=15418 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C180-87-QSNS.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=287 end=15260 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C188-95-6X6G.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=409 end=15257 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C196-103-HG22.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=402 end=14754 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C1104-111-WAFI.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=207 end=15719 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C1112-119-GNQ8.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=344 end=14614 sample=../Sounds/Squares/square phase short/square phase short/xpander-C1-C1120-127-R306.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=454 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#11-8-15VL.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=446 end=15886 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#19-16-9XFW.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=372 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#117-24-RTFM.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=465 end=15161 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#125-32-UBBS.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=482 end=15656 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#133-40-CBHL.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=331 end=15158 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#141-48-F2W8.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=283 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#149-56-8FF1.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=331 end=15364 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#157-64-LJBT.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=275 end=15391 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#165-71-CNW8.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=446 end=15174 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#172-79-HMDN.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=326 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#180-87-UDCH.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=427 end=14160 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#188-95-OKOG.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=393 end=15310 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#196-103-QHJD.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=387 end=15869 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#1104-111-BFDQ.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=282 end=15508 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#1112-119-U761.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=409 end=14888 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#1-C#1120-127-LIY9.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=562 end=16665 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D11-8-6HZA.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=426 end=14274 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D19-16-0G5V.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=257 end=15126 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D117-24-1QGD.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=477 end=15927 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D125-32-PC9Q.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=344 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D133-40-84E2.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=434 end=15242 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D141-48-9N73.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=360 end=15722 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D149-56-GG0S.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=414 end=15263 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D157-64-KLMB.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=347 end=15142 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D165-71-W00C.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=334 end=15514 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D172-79-6OSB.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=352 end=15735 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D180-87-VLJV.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=319 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D188-95-3B7R.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=342 end=15548 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D196-103-F40A.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=448 end=15107 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D1104-111-90YQ.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=773 end=15082 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D1112-119-1WW8.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=341 end=15518 sample=../Sounds/Squares/square phase short/square phase short/xpander-D1-D1120-127-W9YJ.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=482 end=14458 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#11-8-V5R4.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=458 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#19-16-6AS6.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=382 end=16383 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#117-24-70IT.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=319 end=14313 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#125-32-0E8A.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=259 end=14852 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#133-40-I6E5.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=345 end=15436 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#141-48-XM5Q.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=546 end=14930 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#149-56-EY5P.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=413 end=15417 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#157-64-PJUU.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=283 end=15149 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#165-71-OZFF.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=423 end=15571 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#172-79-LT5W.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=536 end=16146 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#180-87-HZLU.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=275 end=15423 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#188-95-2VXC.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=433 end=14788 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#196-103-CK2Q.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=326 end=15254 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#1104-111-6QPG.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=425 end=15885 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#1112-119-SZ1L.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=518 end=14852 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#1-D#1120-127-KTEJ.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=393 end=14443 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E11-8-AD8S.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=316 end=14857 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E19-16-4274.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=426 end=15454 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E117-24-QZIF.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=343 end=15146 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E125-32-E1H4.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=364 end=16247 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E133-40-ZB43.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=472 end=15643 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E141-48-HDRE.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=321 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E149-56-UHXQ.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=490 end=15084 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E157-64-LCHR.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=265 end=14926 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E165-71-IWF7.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=387 end=15416 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E172-79-BKDB.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=272 end=15374 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E180-87-F5BC.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=432 end=15540 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E188-95-FHRF.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=149 end=15209 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E196-103-27KD.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=416 end=15135 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E1104-111-AN2I.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=455 end=15787 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E1112-119-7KOS.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=438 end=14855 sample=../Sounds/Squares/square phase short/square phase short/xpander-E1-E1120-127-R04S.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=339 end=15182 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F11-8-9OGI.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=271 end=14410 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F19-16-6SVJ.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=466 end=15587 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F117-24-LEV7.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=378 end=15715 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F125-32-3COV.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=272 end=14935 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F133-40-SSP1.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=302 end=15401 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F141-48-CT4Z.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=296 end=15641 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F149-56-PTU4.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=355 end=14475 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F157-64-WCD5.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=347 end=15263 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F165-71-4VXF.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=199 end=15417 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F172-79-VPDL.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=432 end=14723 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F180-87-U76V.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=386 end=15605 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F188-95-2Y5R.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=262 end=16246 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F196-103-0MR2.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=387 end=14960 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F1104-111-8HJA.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=288 end=15325 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F1112-119-WCA4.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=624 end=15792 sample=../Sounds/Squares/square phase short/square phase short/xpander-F1-F1120-127-3YU4.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=475 end=15509 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#11-8-ACDO.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=177 end=15098 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#19-16-1KMQ.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=529 end=16217 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#117-24-QDRM.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=352 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#125-32-2T1U.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=381 end=15074 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#133-40-0FRQ.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=295 end=15894 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#141-48-L8OY.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=495 end=15399 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#149-56-9BFR.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=332 end=14764 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#157-64-EI4H.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=228 end=16061 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#165-71-UA4V.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=259 end=14187 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#172-79-H24R.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=369 end=15529 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#180-87-CTHC.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=167 end=15456 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#188-95-4K63.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=443 end=15612 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#196-103-MMU1.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=476 end=15600 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#1104-111-2FBR.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=446 end=16579 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#1112-119-4OW4.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=490 end=14781 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#1-F#1120-127-ZKZO.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=494 end=15211 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G11-8-J4RC.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=447 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G19-16-0DTN.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=256 end=15164 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G117-24-K49B.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=308 end=15004 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G125-32-28AZ.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=295 end=15991 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G133-40-R7L0.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=332 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G141-48-P3KT.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=390 end=15717 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G149-56-RC7N.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=325 end=15455 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G157-64-7I2T.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=323 end=15200 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G165-71-SIPK.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=425 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G172-79-8B6Z.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=332 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G180-87-8CPN.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=346 end=15090 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G188-95-38AT.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=317 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G196-103-HE0F.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=205 end=15546 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G1104-111-JXIO.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=364 end=14753 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G1112-119-4HGP.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=343 sample=../Sounds/Squares/square phase short/square phase short/xpander-G1-G1120-127-2QP4.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=391 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#11-8-ZDTU.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=301 end=14202 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#19-16-67PE.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=420 end=15974 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#117-24-XQ74.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=345 end=15825 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#125-32-S4J1.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=144 end=15391 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#133-40-OFEC.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=273 end=15161 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#141-48-8QX7.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=464 end=16030 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#149-56-YSZL.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=375 end=15033 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#157-64-NH8Q.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=323 end=14671 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#165-71-1GGZ.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=421 end=15156 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#172-79-P1U1.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=440 end=14866 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#180-87-8AS6.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=371 end=15765 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#188-95-MFHP.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=428 end=16609 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#196-103-GIXI.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=339 end=14690 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#1104-111-P7YA.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=351 end=15196 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#1112-119-J4DJ.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=360 end=15499 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#1-G#1120-127-DCME.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=422 end=14890 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A11-8-6RNF.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=408 end=15733 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A19-16-3P10.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=435 end=16581 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A117-24-IOEX.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=427 end=15387 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A125-32-WPX7.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=330 end=15453 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A133-40-ISO0.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=314 end=15330 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A141-48-1Y0K.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=395 end=15306 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A149-56-QWVP.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=388 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A157-64-N1XV.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=620 end=16255 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A165-71-40HL.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=544 end=15031 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A172-79-YCVF.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=401 end=15371 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A180-87-63JV.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=308 end=15572 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A188-95-SXX0.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=355 end=15446 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A196-103-ZNKT.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=381 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A1104-111-A28U.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=442 end=15260 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A1112-119-B6D9.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=428 end=15664 sample=../Sounds/Squares/square phase short/square phase short/xpander-A1-A1120-127-P9BL.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=253 end=15054 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#11-8-86DO.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=499 end=15495 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#19-16-411G.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=262 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#117-24-269W.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=319 end=15468 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#125-32-8W0W.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=453 end=16592 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#133-40-FTXY.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=203 end=15164 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#141-48-IHQO.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=310 end=14350 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#149-56-WWZR.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=596 end=15102 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#157-64-PZGL.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=395 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#165-71-T82A.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=503 end=15685 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#172-79-QERH.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=472 end=15727 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#180-87-QB8M.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=217 end=15526 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#188-95-Q8R3.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=474 end=15263 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#196-103-9TU9.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=404 end=16169 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#1104-111-CTZA.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=468 end=14983 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#1112-119-SGUD.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=263 end=15504 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#1-A#1120-127-14K7.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=228 end=15760 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B11-8-BFRT.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=469 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B19-16-8LTS.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=431 end=15150 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B117-24-HCAZ.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=441 end=15491 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B125-32-O372.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=325 end=15209 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B133-40-3ZUY.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=490 end=15920 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B141-48-WZ8O.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=350 end=14981 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B149-56-V5NT.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=474 end=14991 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B157-64-R7UC.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=209 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B165-71-9Q1O.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=388 end=15459 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B172-79-0WZ9.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=406 end=15352 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B180-87-BV9X.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=379 end=15362 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B188-95-NY41.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=363 end=15957 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B196-103-585Z.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=347 end=14867 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B1104-111-0YGM.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=345 end=15784 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B1112-119-6X24.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=504 end=15570 sample=../Sounds/Squares/square phase short/square phase short/xpander-B1-B1120-127-4FDZ.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=299 end=14884 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C21-8-CQGS.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=397 end=14873 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C29-16-06H7.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=390 end=15551 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C217-24-GE8H.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=250 end=14706 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C225-32-ERM5.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=315 end=15466 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C233-40-70NL.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=460 end=15344 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C241-48-0VQG.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=414 end=14359 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C249-56-JUT8.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=316 end=15415 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C257-64-FTZV.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=367 end=15091 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C265-71-4QA2.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=459 end=15252 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C272-79-VJAN.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=432 end=15416 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C280-87-J2N0.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=355 end=15573 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C288-95-YCY2.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=473 end=15679 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C296-103-JPX7.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=331 end=15434 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C2104-111-UT9P.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=333 end=16193 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C2112-119-1MHR.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=320 end=15161 sample=../Sounds/Squares/square phase short/square phase short/xpander-C2-C2120-127-XMIE.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=361 end=14085 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#21-8-M518.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=188 end=14719 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#29-16-PE85.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=442 end=15425 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#217-24-S1NW.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=352 end=15278 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#225-32-AMPK.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=175 end=16394 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#233-40-FH5J.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=480 end=15160 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#241-48-M33B.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=444 end=14468 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#249-56-ARE2.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=482 end=15897 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#257-64-T40H.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=460 end=14340 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#265-71-LSXK.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=313 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#272-79-G6K4.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=210 end=15901 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#280-87-BOOK.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=263 end=15579 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#288-95-NCB8.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=463 end=15804 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#296-103-0J2B.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=136 end=15242 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#2104-111-5S7N.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=297 end=14616 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#2112-119-UZKE.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=415 end=15817 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#2-C#2120-127-5JIY.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=457 end=15804 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D21-8-D6XC.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=453 end=14859 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D29-16-IQHK.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=406 end=14488 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D217-24-ZVYU.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=383 end=15534 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D225-32-AHKF.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=431 end=15335 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D233-40-J08M.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=436 end=15056 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D241-48-AZOD.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=478 end=15772 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D249-56-P8YH.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=425 end=15359 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D257-64-EN81.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=275 end=15489 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D265-71-5JPT.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=447 end=14978 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D272-79-6EJF.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=412 end=15185 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D280-87-48U1.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=309 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D288-95-FMQ1.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=384 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D296-103-W85C.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=218 end=15313 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D2104-111-JZV4.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=308 end=14927 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D2112-119-CQVV.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=441 end=15026 sample=../Sounds/Squares/square phase short/square phase short/xpander-D2-D2120-127-0759.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=301 end=14849 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#21-8-5GC4.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=289 end=15350 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#29-16-RGSO.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=359 end=15450 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#217-24-HKKO.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=416 end=14630 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#225-32-UBL9.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=354 end=14380 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#233-40-5R4E.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=403 end=14858 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#241-48-BGQ4.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=506 end=14833 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#249-56-0KJD.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=489 end=15410 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#257-64-ZCRE.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=269 end=15810 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#265-71-87WL.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=489 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#272-79-PWBK.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=282 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#280-87-UIJW.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=557 end=15523 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#288-95-DX5Q.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=425 end=15134 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#296-103-FPPG.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=304 end=15531 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#2104-111-NCIM.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=258 end=16136 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#2112-119-3UVA.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=377 end=15597 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#2-D#2120-127-69AN.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=312 end=15043 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E21-8-99B3.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=321 end=14385 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E29-16-6R6D.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=440 end=14676 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E217-24-P0HJ.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=542 end=15113 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E225-32-C99Q.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=466 end=15774 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E233-40-PNGF.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=470 end=14340 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E241-48-X3KV.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=380 end=14306 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E249-56-0NEV.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=480 end=13440 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E257-64-RH01.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=404 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E265-71-0H0M.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=306 end=14878 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E272-79-EKZE.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=491 end=15843 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E280-87-EHHG.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=415 end=15446 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E288-95-EZDI.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=370 end=15609 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E296-103-PPW6.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=409 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E2104-111-UV4R.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=133 end=15449 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E2112-119-EBPG.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=528 sample=../Sounds/Squares/square phase short/square phase short/xpander-E2-E2120-127-ZXUB.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=456 end=16120 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F21-8-APYA.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=310 end=15081 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F29-16-Q3EM.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=432 end=14974 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F217-24-K50L.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=456 end=14944 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F225-32-4LOE.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=434 end=14162 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F233-40-4R7M.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=361 end=14791 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F241-48-UBOZ.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=312 end=15867 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F249-56-PNWY.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=435 end=14736 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F257-64-KWSM.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=388 end=15105 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F265-71-R1SV.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=450 end=15345 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F272-79-K90J.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=459 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F280-87-20A4.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=160 end=15019 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F288-95-SFAJ.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=429 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F296-103-M3H3.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=392 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F2104-111-7BGX.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=313 end=15331 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F2112-119-EIKW.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=416 end=15152 sample=../Sounds/Squares/square phase short/square phase short/xpander-F2-F2120-127-R1CN.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=394 end=15353 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#21-8-ACHB.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=512 end=15202 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#29-16-3VGB.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=299 end=15803 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#217-24-P0EG.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=333 end=14842 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#225-32-WKS7.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=412 end=15022 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#233-40-W9NW.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=462 end=15326 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#241-48-0O4V.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=267 end=14138 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#249-56-MKAA.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=370 end=14750 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#257-64-FIT4.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=292 end=15216 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#265-71-I6VA.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=469 end=14499 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#272-79-JCVC.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=526 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#280-87-TS62.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=304 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#288-95-PHY0.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=290 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#296-103-JLKH.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=363 end=15147 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#2104-111-NEZ2.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=434 end=16518 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#2112-119-Y9QL.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=170 end=15525 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#2-F#2120-127-PM89.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=438 end=15194 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G21-8-J6HZ.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=309 end=15259 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G29-16-RWEV.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=529 end=15287 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G217-24-A97O.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=360 end=14789 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G225-32-ZXNT.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=281 end=15732 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G233-40-ZOI0.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=436 end=14762 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G241-48-N1ZI.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=314 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G249-56-AFRN.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=427 end=15043 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G257-64-MAZZ.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=337 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G265-71-2JAZ.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=405 end=15517 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G272-79-I3YW.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=256 end=16590 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G280-87-I3H5.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=147 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G288-95-HY92.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=492 end=15879 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G296-103-TD4N.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=166 end=15389 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G2104-111-PGGS.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=498 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G2112-119-45M9.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=451 end=15177 sample=../Sounds/Squares/square phase short/square phase short/xpander-G2-G2120-127-BUOM.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=573 end=16304 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#21-8-GXMS.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=321 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#29-16-IH8G.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=345 end=15696 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#217-24-H5G6.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=464 end=15678 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#225-32-IA1C.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=185 end=14974 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#233-40-MJ1F.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=421 end=15169 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#241-48-C195.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=336 end=15528 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#249-56-8W1C.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=325 end=14191 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#257-64-8K77.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=329 end=14257 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#265-71-VZI2.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=411 end=15106 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#272-79-3EYC.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=352 end=14680 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#280-87-P5BH.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=383 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#288-95-YE41.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=553 end=16138 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#296-103-OULS.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=249 end=15118 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#2104-111-EMIB.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=402 end=15471 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#2112-119-BRVL.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=275 end=15736 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#2-G#2120-127-D1DZ.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=587 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A21-8-PWK0.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=411 end=15608 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A29-16-NBQY.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=438 end=15667 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A217-24-VI9A.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=368 end=15258 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A225-32-5F0M.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=408 end=15705 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A233-40-57H9.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=442 end=15949 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A241-48-RQGG.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=419 end=15388 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A249-56-QGWF.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=356 end=14783 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A257-64-Z7I2.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=481 end=15616 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A265-71-41BM.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=367 end=15018 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A272-79-CDW0.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=381 end=14407 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A280-87-06RZ.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=419 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A288-95-UH6E.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=376 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A296-103-1LHF.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=311 end=15956 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A2104-111-K5C0.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=384 end=16876 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A2112-119-TC7D.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=324 end=15499 sample=../Sounds/Squares/square phase short/square phase short/xpander-A2-A2120-127-5924.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=392 end=15347 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#21-8-8EFU.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=271 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#29-16-P5GC.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=307 end=15585 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#217-24-AUJ5.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=468 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#225-32-15AL.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=392 end=16338 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#233-40-XDSI.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=347 end=14875 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#241-48-TFMS.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=239 end=15059 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#249-56-ACOT.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=484 end=15193 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#257-64-D5MP.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=450 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#265-71-GE6J.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=226 end=14213 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#272-79-RTM4.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=477 end=15668 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#280-87-ENRX.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=400 end=14661 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#288-95-OORL.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=503 end=15682 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#296-103-XWP2.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=325 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#2104-111-L49Q.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=475 end=15607 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#2112-119-V9SB.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=373 end=15900 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#2-A#2120-127-DP1U.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=509 end=16390 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B21-8-FABZ.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=378 end=14997 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B29-16-GJ63.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=366 end=15529 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B217-24-756E.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=287 end=15593 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B225-32-H3OF.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=349 end=15331 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B233-40-5QF7.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=436 end=15531 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B241-48-3EUB.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=214 end=16255 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B249-56-OK4B.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=347 end=14973 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B257-64-TFLU.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=377 end=14923 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B265-71-8CX7.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=417 end=14532 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B272-79-2UGL.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=343 end=15204 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B280-87-ZVD7.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=463 end=15225 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B288-95-ZNAW.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=425 end=16316 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B296-103-1FVR.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=349 end=15287 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B2104-111-PL5M.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=294 end=16021 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B2112-119-7K6G.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=309 sample=../Sounds/Squares/square phase short/square phase short/xpander-B2-B2120-127-TRXL.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=275 end=15242 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C31-8-26B8.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=304 end=15822 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C39-16-2J4A.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=398 end=16435 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C317-24-M3Y3.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=397 end=14977 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C325-32-KOBV.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=466 end=15680 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C333-40-XCXQ.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=423 end=15147 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C341-48-WQ1L.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=349 end=15387 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C349-56-VFUB.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=412 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C357-64-QT0L.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=348 end=15641 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C365-71-H48F.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=358 end=14914 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C372-79-BEYE.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=324 end=15011 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C380-87-QSJC.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=414 end=15543 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C388-95-8D86.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=416 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C396-103-OH9L.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=471 end=15820 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C3104-111-ULVR.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=392 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C3112-119-LVFU.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=163 end=15142 sample=../Sounds/Squares/square phase short/square phase short/xpander-C3-C3120-127-5BE3.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=401 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#31-8-UH3A.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=512 end=15698 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#39-16-QSV7.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=355 end=15741 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#317-24-M3BS.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=400 end=15430 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#325-32-AH07.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=462 end=16457 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#333-40-0KB5.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=393 end=14899 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#341-48-K5LX.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=398 end=15495 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#349-56-6FNM.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=278 end=15219 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#357-64-6EN7.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=345 end=15037 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#365-71-3WGD.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=412 end=14540 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#372-79-PBNM.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=318 end=15556 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#380-87-ZZR2.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=418 end=15137 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#388-95-5XVG.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=294 end=15241 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#396-103-73LG.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=264 end=15438 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#3104-111-O2QH.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=306 end=15509 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#3112-119-F7X4.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=369 end=15316 sample=../Sounds/Squares/square phase short/square phase short/xpander-C#3-C#3120-127-Z0J0.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=343 end=16380 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D31-8-Y9QK.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=424 end=15726 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D39-16-IFY9.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=399 end=15997 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D317-24-PZGX.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=263 end=15835 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D325-32-ATN2.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=311 end=15531 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D333-40-3F46.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=471 end=15934 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D341-48-9C18.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=653 end=16525 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D349-56-HBO9.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=337 end=15019 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D357-64-1443.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=465 end=15237 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D365-71-5YQC.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=323 end=14742 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D372-79-W42C.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=527 end=15176 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D380-87-1KD2.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=403 end=15372 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D388-95-22FA.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=441 end=16304 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D396-103-YXAI.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=421 end=15659 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D3104-111-USMB.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=333 end=15242 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D3112-119-S9C1.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=444 end=15387 sample=../Sounds/Squares/square phase short/square phase short/xpander-D3-D3120-127-LWTC.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=258 end=15660 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#31-8-RZYU.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=317 end=16198 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#39-16-C2D5.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=278 end=16442 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#317-24-5W3T.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=342 end=15612 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#325-32-WJEI.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=176 end=15805 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#333-40-QG52.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=156 end=15981 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#341-48-49KG.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=292 end=15529 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#349-56-W8UN.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=485 end=15238 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#357-64-4JVM.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=463 end=16547 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#365-71-AGUL.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=335 end=14535 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#372-79-094H.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=372 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#380-87-PXX2.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=304 end=14745 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#388-95-LN5L.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=267 end=15259 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#396-103-CF03.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=485 end=15368 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#3104-111-OT1E.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=469 end=16412 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#3112-119-VVUA.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=410 end=15832 sample=../Sounds/Squares/square phase short/square phase short/xpander-D#3-D#3120-127-XMRI.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=347 end=15618 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E31-8-DGI6.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=397 end=15968 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E39-16-XO2I.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=376 end=15763 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E317-24-DUSG.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=371 end=15797 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E325-32-DUO5.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=325 end=16731 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E333-40-2GW6.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=547 end=15848 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E341-48-J5ZJ.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=219 end=15631 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E349-56-123P.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=308 end=15501 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E357-64-PFY0.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=238 end=15124 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E365-71-RZ9P.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=499 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E372-79-0VI9.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=386 end=16241 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E380-87-DXCB.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=302 end=14985 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E388-95-EO1C.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=448 end=15576 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E396-103-XMIM.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=317 end=15866 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E3104-111-SRHP.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=318 end=15597 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E3112-119-BG1Q.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=345 end=15400 sample=../Sounds/Squares/square phase short/square phase short/xpander-E3-E3120-127-YIDF.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=384 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F31-8-ZO50.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=477 end=15375 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F39-16-R1GO.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=370 end=15545 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F317-24-KJE2.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=487 end=15975 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F325-32-OZH3.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=488 end=15774 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F333-40-4OUA.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=446 end=15645 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F341-48-AVE0.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=560 end=16641 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F349-56-GDGJ.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=450 end=15362 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F357-64-ZDJI.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=546 end=15645 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F365-71-14UV.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=398 end=15849 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F372-79-AYNE.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=409 end=14352 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F380-87-438T.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=412 end=15402 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F388-95-694S.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=328 end=15912 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F396-103-9329.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=363 end=15678 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F3104-111-NPOA.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=389 end=15830 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F3112-119-BCVJ.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=372 end=15499 sample=../Sounds/Squares/square phase short/square phase short/xpander-F3-F3120-127-F16M.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=322 end=15509 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#31-8-I17A.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=630 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#39-16-AEY7.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=367 end=16456 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#317-24-1UY4.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=507 end=15698 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#325-32-7GFU.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=356 end=15795 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#333-40-QGRB.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=365 end=15907 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#341-48-KNH3.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=345 end=15674 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#349-56-YKM4.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=319 end=15397 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#357-64-EWMC.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=311 end=16292 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#365-71-9N31.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=373 end=15012 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#372-79-49E1.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=185 end=14836 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#380-87-ZH4S.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=490 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#388-95-UAA0.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=323 end=14998 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#396-103-5707.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=352 end=15686 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#3104-111-GGPR.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=494 end=16392 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#3112-119-YGAK.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=233 end=15405 sample=../Sounds/Squares/square phase short/square phase short/xpander-F#3-F#3120-127-7Z08.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=257 end=15027 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G31-8-SC42.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=325 end=15017 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G39-16-888N.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=473 end=15170 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G317-24-IC45.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=331 end=15354 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G325-32-XB43.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=300 end=16300 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G333-40-NELC.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=361 end=15421 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G341-48-KYX2.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=476 end=15873 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G349-56-0VH0.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=212 end=15773 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G357-64-U9UO.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=419 end=15497 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G365-71-LTZ9.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=433 end=15649 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G372-79-19MH.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=278 end=16332 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G380-87-ZKNK.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=403 end=15460 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G388-95-EPHU.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=456 end=15549 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G396-103-9FJI.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=392 end=15526 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G3104-111-IYAM.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=508 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G3112-119-JMOA.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=276 end=15711 sample=../Sounds/Squares/square phase short/square phase short/xpander-G3-G3120-127-KKBG.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=422 end=15572 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#31-8-OP7P.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=489 end=14298 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#39-16-4M4N.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=405 end=15408 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#317-24-Y6HL.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=466 end=14993 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#325-32-3F6B.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=484 end=15350 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#333-40-RH9Q.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=394 end=15725 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#341-48-UGPX.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=299 end=16191 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#349-56-FDEZ.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=476 end=15806 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#357-64-Q3ZS.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=414 end=15610 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#365-71-SXHP.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=516 end=15674 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#372-79-50JC.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=346 end=14853 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#380-87-AJ09.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=459 end=15450 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#388-95-2PL6.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=461 end=16375 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#396-103-Y5KR.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=456 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#3104-111-KBKP.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=388 end=15683 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#3112-119-UFJ5.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=203 end=15569 sample=../Sounds/Squares/square phase short/square phase short/xpander-G#3-G#3120-127-6RIJ.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=185 end=14019 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A31-8-U5OB.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=369 end=14012 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A39-16-DT40.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=547 end=15348 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A317-24-6SIC.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=463 end=14535 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A325-32-90P2.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=309 end=14902 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A333-40-ZX2G.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=387 end=15287 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A341-48-9AJK.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=283 end=15501 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A349-56-B0ON.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=451 end=15917 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A357-64-HN7R.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=224 end=16544 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A365-71-NPI3.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=503 end=15240 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A372-79-VC0E.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=424 end=15696 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A380-87-HH50.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=340 end=15033 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A388-95-6QX7.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=376 end=15300 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A396-103-IZ12.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=385 end=15515 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A3104-111-9E54.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=451 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A3112-119-P5YM.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=313 end=15354 sample=../Sounds/Squares/square phase short/square phase short/xpander-A3-A3120-127-P889.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=291 end=12666 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#31-8-RX72.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=362 end=14090 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#39-16-10JL.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=513 end=12497 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#317-24-VVUZ.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=468 end=13956 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#325-32-PK7M.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=431 end=15166 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#333-40-5147.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=480 end=15060 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#341-48-BG0O.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=378 end=15450 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#349-56-OEBW.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=338 end=15732 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#357-64-0JAN.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=274 end=15440 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#365-71-MN9D.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=314 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#372-79-UQFC.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=326 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#380-87-5JH4.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=258 end=14871 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#388-95-K76Q.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=371 end=15917 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#396-103-TRCN.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=516 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#3104-111-JUCG.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=324 end=15558 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#3112-119-IOC5.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=362 end=15785 sample=../Sounds/Squares/square phase short/square phase short/xpander-A#3-A#3120-127-9PEL.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=480 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B31-8-4Z7H.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=309 end=11546 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B39-16-HFLK.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=433 end=12032 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B317-24-N0IQ.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=409 end=13512 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B325-32-7KQ0.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=446 end=14017 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B333-40-E919.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=348 end=14889 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B341-48-8SM3.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=275 end=15275 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B349-56-66AJ.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=290 end=15003 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B357-64-O9RG.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=393 end=15784 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B365-71-O91A.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=472 end=15966 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B372-79-4WJ8.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=449 end=15136 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B380-87-9D82.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=352 end=15039 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B388-95-QWP0.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=359 end=16284 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B396-103-NFNE.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=455 end=15101 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B3104-111-UNTF.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=309 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B3112-119-FJNW.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=267 end=15660 sample=../Sounds/Squares/square phase short/square phase short/xpander-B3-B3120-127-XOT6.aif
+<group>lokey=72 hikey=127 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=349 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G81-8-YXRR.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=355 end=11809 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G89-16-2WZ2.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=488 end=11748 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G817-24-Y57E.aif
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=418 end=13443 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G825-32-IKWB.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=274 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G833-40-B224.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=380 end=15114 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G841-48-1NYE.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=211 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G849-56-XIOT.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=366 end=15118 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G857-64-LL4N.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=397 end=15945 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G865-71-TMZ7.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=384 end=15754 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G872-79-SAO0.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=264 end=15681 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G880-87-IHFG.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=408 end=14815 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G888-95-YM1B.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=450 end=15289 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G896-103-HM41.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=342 end=15754 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G8104-111-SXTH.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=343 end=16464 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G8112-119-G7FI.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=310 end=15569 sample=../Sounds/Squares/square phase short/square phase short/xpander-G8-G8120-127-O4F0.aif

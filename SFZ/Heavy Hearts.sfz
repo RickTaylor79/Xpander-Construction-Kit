@@ -1,0 +1,187 @@
+// this file was generated from Heavy Hearts.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=2 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=648 end=543873 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-48-32-J4AI.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=533 end=543157 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-48-64-P3HB.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=677 end=541139 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-48-95-C7E3.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=687 end=540586 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-48-127-5CVX.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=674 end=548891 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-49-32-ZHD4.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=625 end=539024 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-49-64-CEO7.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=552 end=544023 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-49-95-I8DW.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=681 end=541813 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-49-127-BO3S.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=815 end=541171 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-50-32-XBPW.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=761 end=540998 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-50-64-Y1Y4.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=776 end=549845 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-50-95-5XEN.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=572 end=540160 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-50-127-P4H4.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=665 end=543720 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-51-32-7Q75.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=480 end=543654 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-51-64-MNN9.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=780 end=541151 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-51-95-ZY23.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=775 end=541440 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-51-127-NQC1.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=660 end=549294 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-52-32-8IML.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=719 end=539594 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-52-64-DTAD.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=642 end=544535 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-52-95-65NF.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=594 end=542825 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-52-127-OT4D.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=525 end=541292 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-53-32-SX41.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=753 end=541564 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-53-64-J0FR.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=793 end=549065 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-53-95-15NA.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=567 end=538432 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-53-127-H11H.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=643 end=543279 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-54-32-5Z97.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=662 end=543396 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-54-64-AEFE.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=679 end=541124 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-54-95-6OTJ.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=755 end=541778 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-54-127-X6S9.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=651 end=550345 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-55-32-MLXZ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=674 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-55-64-HMO5.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=660 end=544248 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-55-95-GKSD.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=690 end=542592 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-55-127-3GA5.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=665 end=541697 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-56-32-KP3P.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=722 end=540053 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-56-64-4H1H.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=677 end=549976 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-56-95-V0T6.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=682 end=539193 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-56-127-5J7I.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=763 end=543904 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-57-32-A8LG.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=684 end=544297 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-57-64-SQG2.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=684 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-57-95-3E99.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=695 end=540416 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-57-127-S4LS.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=748 end=550144 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-58-32-04NW.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=589 end=539392 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-58-64-WOJ2.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=500 end=542848 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-58-95-34O2.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=772 end=542081 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-58-127-TQEH.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=748 end=542995 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-59-32-RUCS.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=695 end=541317 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-59-64-WBU5.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=680 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-59-95-94QE.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=656 end=537680 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-59-127-YCS6.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=946 end=542465 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-60-32-PRIN.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=750 end=543542 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-60-64-AQU5.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=509 end=543195 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-60-95-XBG1.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=636 end=541312 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-60-127-N348.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=713 end=550324 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-61-32-TWE9.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=762 end=538811 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-61-64-KEEG.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=611 end=543408 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-61-95-SBT9.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=659 end=543560 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-61-127-Z2WB.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=722 end=542587 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-62-32-HC9B.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=499 end=541451 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-62-64-IJGB.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=765 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-62-95-XMB3.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=520 end=540328 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-62-127-YIDP.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=654 end=543154 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-63-32-38CU.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=629 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-63-64-E7W9.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=592 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-63-95-5U8L.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=690 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-63-127-ZQQ2.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=645 end=549651 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-64-32-QT79.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=531 end=539011 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-64-64-F2O0.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=553 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-64-95-8HTM.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=924 end=543617 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-64-127-0VP6.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=711 end=542169 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-65-32-G20N.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=648 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-65-64-IV62.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=578 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-65-95-TEBM.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=726 end=538752 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-65-127-H01E.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=788 end=543747 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-66-32-8LTE.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=714 end=543232 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-66-64-DBOK.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=812 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-66-95-ZBU2.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=668 end=542496 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-66-127-S159.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=696 end=549581 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-67-32-AACL.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=622 end=539141 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-67-64-OESN.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=735 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-67-95-NZSJ.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=693 end=542184 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-67-127-EY27.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=777 end=541854 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-68-32-7EKG.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=810 end=541312 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-68-64-7AQ4.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=508 end=549556 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-68-95-C28M.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=544 end=540417 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-68-127-BPLU.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=759 end=543616 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-69-32-VTVL.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=717 end=543115 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-69-64-3U19.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=725 end=541660 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-69-95-VXYG.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=592 end=540558 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-69-127-S7GD.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=701 end=550209 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-70-32-ROOW.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=523 end=539167 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-70-64-DNME.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=657 end=542724 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-70-95-K7LM.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=687 end=541953 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-70-127-DNH7.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=620 end=542099 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-71-32-7NC5.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=667 end=541440 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-71-64-8293.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=829 end=549287 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-71-95-4R4J.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=580 end=539776 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-71-127-9E4G.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=591 end=543875 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-72-32-PXR6.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=685 end=542480 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-72-64-M19A.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=809 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-72-95-NCT1.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=643 end=540544 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-72-127-XBIU.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=713 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-73-32-PO5J.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=662 end=538881 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-73-64-2OTC.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=791 end=543677 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-73-95-HAWV.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=756 end=542030 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-73-127-LYCJ.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=692 end=542208 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-74-32-CCMO.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=690 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-74-64-XO38.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=698 end=550313 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-74-95-HWF5.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=661 end=539656 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-74-127-5O8U.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=742 end=543831 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-75-32-8M9Z.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=642 end=543873 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-75-64-M85G.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=550 end=541824 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-75-95-QLXN.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=738 end=540963 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-75-127-1H2A.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=745 end=549260 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-76-32-USEU.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=659 end=538784 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-76-64-1XA8.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=850 end=544135 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-76-95-TUEW.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=694 end=541887 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-76-127-H772.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=732 end=541956 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-77-32-2KT7.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=577 end=540744 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-77-64-6DI6.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=647 end=548736 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-77-95-3IDQ.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=743 end=539650 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-77-127-VCWU.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=1101 end=543509 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-78-32-M80V.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=563 end=541822 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-78-64-CN6J.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=585 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-78-95-V4K3.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=751 end=540809 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-78-127-71IH.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=640 end=549376 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-79-32-1XPW.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=692 end=540837 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-79-64-WBZ2.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=772 end=544267 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-79-95-QSCC.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=679 end=543653 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-79-127-CXSF.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=690 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-80-32-SZ1C.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=705 end=540930 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-80-64-SL17.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=720 end=548358 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-80-95-HOK7.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=760 end=540088 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-80-127-7JIS.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=655 end=543629 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-81-32-6440.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=549 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-81-64-AOV9.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=821 end=543360 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-81-95-4FKD.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=819 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-81-127-CSPP.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=640 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-82-32-V71I.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=624 end=540054 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-82-64-9A5X.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=651 end=542848 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-82-95-8BI0.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=511 end=542484 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-82-127-AZJH.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=799 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-83-32-7BS5.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=735 end=541188 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-83-64-RU17.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=710 end=549388 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-83-95-HKUH.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=503 end=538242 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-83-127-4M0W.wav
+<group>lokey=84 hikey=127 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=484 end=543236 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-84-32-HCBR.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=773 end=543107 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-84-64-M3NI.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=627 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-84-95-0JA1.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=798 end=541441 sample=../Sounds/Misc/Heavy Hearts/Heavy Hearts-84-127-TQES.wav

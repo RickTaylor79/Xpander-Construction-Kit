@@ -1,0 +1,10 @@
+// this file was generated from SAW-LP-2P HI-RES.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=3 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=910 loop_end=136371 sample=../Sounds/Saws/SAW-LP-2P HI-RES/(201633 94130)/SAW-LP-2P HI-RES-36-16-P94A.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=13991 loop_end=149256 sample=../Sounds/Saws/SAW-LP-2P HI-RES/(201633 94130)/SAW-LP-2P HI-RES-36-32-G005.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=642 loop_end=137160 sample=../Sounds/Saws/SAW-LP-2P HI-RES/(201633 94130)/SAW-LP-2P HI-RES-36-48-VFUV.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=615 loop_end=135592 sample=../Sounds/Saws/SAW-LP-2P HI-RES/(201633 94130)/SAW-LP-2P HI-RES-36-64-BU5P.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=75043 loop_end=376096 sample=../Sounds/Saws/SAW-LP-2P HI-RES/(201633 94130)/SAW-LP-2P HI-RES-36-79-H9LO.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=24370 loop_end=676663 sample=../Sounds/Saws/SAW-LP-2P HI-RES/(201633 94130)/SAW-LP-2P HI-RES-36-95-NE7O.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=526948 loop_end=668251

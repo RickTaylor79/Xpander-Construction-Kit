@@ -1,0 +1,113 @@
+// this file was generated from Disturber.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=677 end=225063 sample=../Sounds/Misc/Disturber/Disturber-36-32-EKM1.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=469 sample=../Sounds/Misc/Disturber/Disturber-36-127-BEQD.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=654 end=218211 sample=../Sounds/Misc/Disturber/Disturber-37-32-WHXB.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=565 sample=../Sounds/Misc/Disturber/Disturber-37-127-QFNW.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=662 end=215516 sample=../Sounds/Misc/Disturber/Disturber-38-32-5TN8.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=539 end=229644 sample=../Sounds/Misc/Disturber/Disturber-38-127-MNEM.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=481 end=227054 sample=../Sounds/Misc/Disturber/Disturber-39-32-QP1V.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=504 end=226434 sample=../Sounds/Misc/Disturber/Disturber-39-127-P4AX.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=666 end=224683 sample=../Sounds/Misc/Disturber/Disturber-40-32-05O3.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=711 end=230912 sample=../Sounds/Misc/Disturber/Disturber-40-127-NJKU.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=684 end=219590 sample=../Sounds/Misc/Disturber/Disturber-41-32-1AE4.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=641 end=227991 sample=../Sounds/Misc/Disturber/Disturber-41-127-O4YS.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=612 end=228383 sample=../Sounds/Misc/Disturber/Disturber-42-32-DEK2.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=448 end=226722 sample=../Sounds/Misc/Disturber/Disturber-42-127-V5DB.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=600 end=220616 sample=../Sounds/Misc/Disturber/Disturber-43-32-QVCW.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=742 end=230926 sample=../Sounds/Misc/Disturber/Disturber-43-127-14WP.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=643 end=218449 sample=../Sounds/Misc/Disturber/Disturber-44-32-GSEC.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=625 end=228352 sample=../Sounds/Misc/Disturber/Disturber-44-127-ESCX.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=553 end=229588 sample=../Sounds/Misc/Disturber/Disturber-45-32-25QF.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=605 end=225409 sample=../Sounds/Misc/Disturber/Disturber-45-127-5ZYL.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=721 end=224629 sample=../Sounds/Misc/Disturber/Disturber-46-32-SWCB.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=458 sample=../Sounds/Misc/Disturber/Disturber-46-127-6CHU.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=819 sample=../Sounds/Misc/Disturber/Disturber-47-32-Z5L7.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=738 end=228618 sample=../Sounds/Misc/Disturber/Disturber-47-127-VIWG.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=580 end=233278 sample=../Sounds/Misc/Disturber/Disturber-48-32-LEKP.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=739 end=225202 sample=../Sounds/Misc/Disturber/Disturber-48-127-J5JD.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=674 end=222220 sample=../Sounds/Misc/Disturber/Disturber-49-32-CZDN.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=618 end=231299 sample=../Sounds/Misc/Disturber/Disturber-49-127-CWFC.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=653 end=221257 sample=../Sounds/Misc/Disturber/Disturber-50-32-STZM.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=537 end=228761 sample=../Sounds/Misc/Disturber/Disturber-50-127-5FQA.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=670 end=235423 sample=../Sounds/Misc/Disturber/Disturber-51-32-1YWQ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=667 end=226221 sample=../Sounds/Misc/Disturber/Disturber-51-127-I9M2.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=636 end=226284 sample=../Sounds/Misc/Disturber/Disturber-52-32-H0QY.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=631 sample=../Sounds/Misc/Disturber/Disturber-52-127-4D4K.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=679 end=228376 sample=../Sounds/Misc/Disturber/Disturber-53-32-HGLY.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=621 end=228156 sample=../Sounds/Misc/Disturber/Disturber-53-127-63U0.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=568 end=231996 sample=../Sounds/Misc/Disturber/Disturber-54-32-OEB9.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=647 end=224517 sample=../Sounds/Misc/Disturber/Disturber-54-127-RXLC.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=788 end=224882 sample=../Sounds/Misc/Disturber/Disturber-55-32-RDEN.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=632 end=231173 sample=../Sounds/Misc/Disturber/Disturber-55-127-BN4D.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=529 end=223140 sample=../Sounds/Misc/Disturber/Disturber-56-32-B4D1.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=760 end=228610 sample=../Sounds/Misc/Disturber/Disturber-56-127-OU7G.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=705 end=235047 sample=../Sounds/Misc/Disturber/Disturber-57-32-DB6R.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=550 end=227230 sample=../Sounds/Misc/Disturber/Disturber-57-127-O5Q9.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=672 end=228290 sample=../Sounds/Misc/Disturber/Disturber-58-32-0W8Z.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=634 end=230148 sample=../Sounds/Misc/Disturber/Disturber-58-127-VL3N.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=666 end=227683 sample=../Sounds/Misc/Disturber/Disturber-59-32-CCF3.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=837 end=229231 sample=../Sounds/Misc/Disturber/Disturber-59-127-K3Q5.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=476 end=233101 sample=../Sounds/Misc/Disturber/Disturber-60-32-63U9.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=627 end=225847 sample=../Sounds/Misc/Disturber/Disturber-60-127-FWKH.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=616 end=226824 sample=../Sounds/Misc/Disturber/Disturber-61-32-4YMD.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=528 end=229752 sample=../Sounds/Misc/Disturber/Disturber-61-127-VPM4.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=498 end=224804 sample=../Sounds/Misc/Disturber/Disturber-62-32-WOVU.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=472 end=228864 sample=../Sounds/Misc/Disturber/Disturber-62-127-NPUY.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=572 end=233624 sample=../Sounds/Misc/Disturber/Disturber-63-32-HDK4.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=604 end=225855 sample=../Sounds/Misc/Disturber/Disturber-63-127-7HY1.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=655 end=227051 sample=../Sounds/Misc/Disturber/Disturber-64-32-EWGH.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=728 end=230989 sample=../Sounds/Misc/Disturber/Disturber-64-127-SATR.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=705 sample=../Sounds/Misc/Disturber/Disturber-65-32-YDS1.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=616 end=227360 sample=../Sounds/Misc/Disturber/Disturber-65-127-ABEJ.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=752 sample=../Sounds/Misc/Disturber/Disturber-66-32-X3TQ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=573 end=225925 sample=../Sounds/Misc/Disturber/Disturber-66-127-33SB.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=662 end=230797 sample=../Sounds/Misc/Disturber/Disturber-67-32-ZWVK.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=539 end=231309 sample=../Sounds/Misc/Disturber/Disturber-67-127-JL6F.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=492 end=225490 sample=../Sounds/Misc/Disturber/Disturber-68-32-UMYD.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=787 end=228076 sample=../Sounds/Misc/Disturber/Disturber-68-127-7KHG.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=692 sample=../Sounds/Misc/Disturber/Disturber-69-32-JL9R.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=616 end=224810 sample=../Sounds/Misc/Disturber/Disturber-69-127-2IF2.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=715 end=226413 sample=../Sounds/Misc/Disturber/Disturber-70-32-PNYK.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=608 end=230318 sample=../Sounds/Misc/Disturber/Disturber-70-127-ITVS.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=771 sample=../Sounds/Misc/Disturber/Disturber-71-32-IJVI.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=545 end=228101 sample=../Sounds/Misc/Disturber/Disturber-71-127-8YFS.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=689 end=238208 sample=../Sounds/Misc/Disturber/Disturber-72-32-U073.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 offset=688 end=225348 sample=../Sounds/Misc/Disturber/Disturber-72-127-PVQI.wav

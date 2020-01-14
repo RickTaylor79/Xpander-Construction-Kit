@@ -1,0 +1,100 @@
+// this file was generated from MPesque.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=310893 loop_end=361795 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-24-127-P5TA.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256472 loop_end=344645 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-25-127-7QEI.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286648 loop_end=324626 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-26-127-74FF.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=350953 loop_end=401719 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-27-127-V5JN.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279001 loop_end=321497 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-28-127-UFM0.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282280 loop_end=317290 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-29-127-QWUW.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268081 loop_end=391261 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-30-127-WL2A.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258572 loop_end=305378 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-31-127-FR29.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=296791 loop_end=330531 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-32-127-2UYM.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242622 loop_end=373988 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-33-127-ED89.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255281 loop_end=386307 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-34-127-UF7Q.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265764 loop_end=387243 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-35-127-1WBJ.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282549 loop_end=393628 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-36-127-UOX7.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272601 loop_end=306286 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-37-127-SE9A.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316325 loop_end=392387 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-38-127-UOR9.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247629 loop_end=338765 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-39-127-GW5G.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=260224 loop_end=382273 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-40-127-BV6F.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283110 loop_end=324450 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-41-127-1FKG.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246723 loop_end=378772 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-42-127-9ON6.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245092 loop_end=369295 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-43-127-G4KF.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261209 loop_end=382206 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-44-127-NO3V.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=325957 loop_end=401850 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-45-127-X8UI.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278835 loop_end=385089 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-46-127-DLT9.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=262996 loop_end=364698 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-47-127-OD41.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267709 loop_end=362731 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-48-127-S61Z.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243348 loop_end=369701 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-49-127-K9WU.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=301177 loop_end=385815 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-50-127-RYMQ.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254762 loop_end=393028 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-51-127-ST4N.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288248 loop_end=395820 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-52-127-RF73.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=275932 loop_end=347349 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-53-127-CM6Z.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258882 loop_end=397199 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-54-127-AUAA.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261034 loop_end=350119 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-55-127-I78H.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246712 loop_end=333764 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-56-127-6QIW.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253692 loop_end=391135 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-57-127-WEXT.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265017 loop_end=396064 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-58-127-5ATW.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271286 loop_end=343052 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-59-127-02VV.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249045 loop_end=402603 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-60-127-H6TP.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245297 loop_end=326916 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-61-127-5BK3.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316251 loop_end=394028 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-62-127-PRMR.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327438 loop_end=400150 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-63-127-TLB9.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281907 loop_end=351884 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-64-127-EVA2.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=260109 loop_end=325401 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-65-127-O6HS.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258097 loop_end=334277 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-66-127-ZJGY.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314877 loop_end=372821 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-67-127-0SZJ.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258130 loop_end=311974 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-68-127-3X8O.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=317020 loop_end=379873 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-69-127-UAQ2.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279945 loop_end=377556 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-70-127-KQPS.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=312263 loop_end=359823 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-71-127-MPH0.aif
+<group>lokey=72 hikey=110 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274196 loop_end=338106 sample=../Sounds/Misc/MPesque/(2012621 144834)/MPesque-72-127-P81I.aif

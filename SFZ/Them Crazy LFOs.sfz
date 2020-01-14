@@ -1,0 +1,76 @@
+// this file was generated from Them Crazy LFOs.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=535 end=278407 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-48-127-7H24.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=752 end=260740 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-49-127-W9FM.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=739 end=268416 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-50-127-H1S8.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=684 end=267008 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-51-127-BJV6.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=630 end=264351 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-52-127-GB6Q.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=765 end=266755 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-53-127-SFBA.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=700 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-54-127-XGCN.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=763 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-55-127-GCTN.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=746 end=267653 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-56-127-G8UE.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=676 end=265728 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-57-127-HAID.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=664 end=267267 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-58-127-WQ5Q.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=728 end=264715 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-59-127-ZO6T.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=720 end=279168 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-60-127-5PAT.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=557 end=261911 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-61-127-RXMD.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=892 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-62-127-7B6K.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=672 end=268928 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-63-127-JKY7.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=748 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-64-127-AVSG.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=765 end=264064 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-65-127-03J2.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=659 end=277377 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-66-127-H448.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=640 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-67-127-C9R2.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=638 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-68-127-IHEL.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=572 end=267013 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-69-127-KA6R.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=556 end=267058 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-70-127-HKE2.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=692 end=264214 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-71-127-LE6N.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=697 end=278149 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-72-127-66YL.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=725 end=261255 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-73-127-T67I.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=685 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-74-127-WU91.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=586 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-75-127-T97I.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=529 end=266500 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-76-127-D16W.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=736 end=264333 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-77-127-94VQ.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=679 end=276104 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-78-127-PQJ3.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=597 end=262656 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-79-127-IT6O.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=689 end=267008 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-80-127-MKAE.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=727 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-81-127-U4BB.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=787 end=267395 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-82-127-E51H.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=660 end=264321 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-83-127-6V10.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=740 end=278528 sample=../Sounds/Misc/Them Crazy LFOs/Them Crazy LFOs-84-127-1TT1.wav

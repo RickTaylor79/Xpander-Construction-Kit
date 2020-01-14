@@ -1,0 +1,124 @@
+// this file was generated from NASTY.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=622 end=361700 sample=../Sounds/Misc/NASTY/002 NASTY-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=646 sample=../Sounds/Misc/NASTY/002 NASTY-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=559 end=362872 sample=../Sounds/Misc/NASTY/002 NASTY-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=718 end=358041 sample=../Sounds/Misc/NASTY/002 NASTY-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=740 end=356574 sample=../Sounds/Misc/NASTY/002 NASTY-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=607 end=361142 sample=../Sounds/Misc/NASTY/002 NASTY-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=360 end=362383 sample=../Sounds/Misc/NASTY/002 NASTY-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=736 end=358244 sample=../Sounds/Misc/NASTY/002 NASTY-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=515 end=359069 sample=../Sounds/Misc/NASTY/002 NASTY-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=457 end=357245 sample=../Sounds/Misc/NASTY/002 NASTY-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=554 end=358813 sample=../Sounds/Misc/NASTY/002 NASTY-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=441 sample=../Sounds/Misc/NASTY/002 NASTY-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=630 end=359497 sample=../Sounds/Misc/NASTY/002 NASTY-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=724 end=358132 sample=../Sounds/Misc/NASTY/002 NASTY-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=462 end=358757 sample=../Sounds/Misc/NASTY/002 NASTY-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=721 end=356909 sample=../Sounds/Misc/NASTY/002 NASTY-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=711 sample=../Sounds/Misc/NASTY/002 NASTY-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=460 end=362206 sample=../Sounds/Misc/NASTY/002 NASTY-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=680 end=357966 sample=../Sounds/Misc/NASTY/002 NASTY-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=638 end=358255 sample=../Sounds/Misc/NASTY/002 NASTY-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=729 sample=../Sounds/Misc/NASTY/002 NASTY-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=729 end=357320 sample=../Sounds/Misc/NASTY/002 NASTY-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=450 end=353938 sample=../Sounds/Misc/NASTY/002 NASTY-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=718 end=361789 sample=../Sounds/Misc/NASTY/002 NASTY-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=840 end=360096 sample=../Sounds/Misc/NASTY/002 NASTY-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=676 end=360960 sample=../Sounds/Misc/NASTY/002 NASTY-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=491 end=359352 sample=../Sounds/Misc/NASTY/002 NASTY-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=701 end=356970 sample=../Sounds/Misc/NASTY/002 NASTY-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=757 sample=../Sounds/Misc/NASTY/002 NASTY-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=396 end=360583 sample=../Sounds/Misc/NASTY/002 NASTY-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=672 end=360911 sample=../Sounds/Misc/NASTY/002 NASTY-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=641 end=359261 sample=../Sounds/Misc/NASTY/002 NASTY-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=669 end=361104 sample=../Sounds/Misc/NASTY/002 NASTY-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=521 end=357962 sample=../Sounds/Misc/NASTY/002 NASTY-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=650 sample=../Sounds/Misc/NASTY/002 NASTY-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=624 end=360819 sample=../Sounds/Misc/NASTY/002 NASTY-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=637 end=360179 sample=../Sounds/Misc/NASTY/002 NASTY-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=646 end=360967 sample=../Sounds/Misc/NASTY/002 NASTY-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=334 end=360964 sample=../Sounds/Misc/NASTY/002 NASTY-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=633 end=355966 sample=../Sounds/Misc/NASTY/002 NASTY-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=310 sample=../Sounds/Misc/NASTY/002 NASTY-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=621 end=360602 sample=../Sounds/Misc/NASTY/002 NASTY-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=347 sample=../Sounds/Misc/NASTY/002 NASTY-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=358 end=360011 sample=../Sounds/Misc/NASTY/002 NASTY-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=410 end=359679 sample=../Sounds/Misc/NASTY/002 NASTY-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=734 end=355753 sample=../Sounds/Misc/NASTY/002 NASTY-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=698 end=356563 sample=../Sounds/Misc/NASTY/002 NASTY-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=685 end=361483 sample=../Sounds/Misc/NASTY/002 NASTY-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=434 sample=../Sounds/Misc/NASTY/002 NASTY-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=502 end=360344 sample=../Sounds/Misc/NASTY/002 NASTY-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=751 sample=../Sounds/Misc/NASTY/002 NASTY-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=761 sample=../Sounds/Misc/NASTY/002 NASTY-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=752 sample=../Sounds/Misc/NASTY/002 NASTY-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=709 end=360645 sample=../Sounds/Misc/NASTY/002 NASTY-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=525 sample=../Sounds/Misc/NASTY/002 NASTY-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=814 sample=../Sounds/Misc/NASTY/002 NASTY-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=495 end=359891 sample=../Sounds/Misc/NASTY/002 NASTY-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=583 end=357363 sample=../Sounds/Misc/NASTY/002 NASTY-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=517 end=356393 sample=../Sounds/Misc/NASTY/002 NASTY-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=525 end=362587 sample=../Sounds/Misc/NASTY/002 NASTY-95-127.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=391 end=360882 sample=../Sounds/Misc/NASTY/002 NASTY-96-127.aif

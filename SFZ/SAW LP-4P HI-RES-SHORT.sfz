@@ -1,0 +1,121 @@
+// this file was generated from SAW LP-4P HI-RES-SHORT.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=24 hikey=29 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=18438 loop_end=24321 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-29-8-RW09.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=19244 loop_end=25134 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-29-16-SUS4.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 loop_mode=loop_sustain loop_start=18605 loop_end=24476 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-29-24-3LV6.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=19480 loop_end=25347 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-29-32-B74J.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 loop_mode=loop_sustain loop_start=19374 loop_end=25256 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-29-40-S0RQ.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=18791 loop_end=24643 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-29-48-O6SJ.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 loop_mode=loop_sustain loop_start=18957 loop_end=24852 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-29-56-0FQ7.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=19091 loop_end=24966 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-29-64-B9OR.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=18509 loop_end=24393 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-29-71-QRGA.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=18811 loop_end=24697 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-29-79-M5A3.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=21632 loop_end=30457 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-29-87-WQT5.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=25404 loop_end=37171 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-29-95-VW5A.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 loop_mode=loop_sustain loop_start=27387 loop_end=36393 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-29-103-62OP.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=19675 loop_end=37343 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-29-111-VAOI.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 loop_mode=loop_sustain loop_start=21393 loop_end=36107 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-29-119-CLM3.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=25686 loop_end=37447 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-29-127-HIC9.wav
+<group>lokey=30 hikey=41 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=18563 loop_end=24430 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-8-2F7R.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=19150 loop_end=25006 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-16-M9F3.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 loop_mode=loop_sustain loop_start=19913 loop_end=24333 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-24-LBD0.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=18170 loop_end=24036 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-32-29H2.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 loop_mode=loop_sustain loop_start=20104 loop_end=24514 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-40-LPHJ.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=18784 loop_end=24661 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-48-9DP4.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 loop_mode=loop_sustain loop_start=19555 loop_end=23960 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-56-UFYE.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=19014 loop_end=24896 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-64-M7R3.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=19057 loop_end=24937 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-71-BREB.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=19261 loop_end=23669 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-79-ZBNX.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=21077 loop_end=29893 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-87-TPSB.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=20179 loop_end=28990 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-95-K0Y3.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 loop_mode=loop_sustain loop_start=19334 loop_end=29630 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-103-V8PE.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=18642 loop_end=30404 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-111-2VFY.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 loop_mode=loop_sustain loop_start=19347 loop_end=29633 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-119-2KZL.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=24283 loop_end=33100 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-41-127-UBR0.wav
+<group>lokey=42 hikey=53 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=18174 loop_end=23313 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-8-47GM.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=18440 loop_end=23581 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-16-WJS8.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 loop_mode=loop_sustain loop_start=18663 loop_end=23802 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-24-K67Q.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=19050 loop_end=23454 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-32-8MBR.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 loop_mode=loop_sustain loop_start=18726 loop_end=24602 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-40-YC5F.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=18916 loop_end=24052 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-48-Y9TT.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 loop_mode=loop_sustain loop_start=19238 loop_end=23646 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-56-4AEV.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=19347 loop_end=25222 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-64-DAJJ.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=20112 loop_end=23783 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-71-PAGF.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=18927 loop_end=24065 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-79-Z1UL.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=24994 loop_end=30865 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-87-6I97.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=19766 loop_end=25643 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-95-HQV3.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 loop_mode=loop_sustain loop_start=28001 loop_end=33142 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-103-HTBY.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=26655 loop_end=36200 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-111-55D1.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 loop_mode=loop_sustain loop_start=20470 loop_end=25609 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-119-KBZY.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=21205 loop_end=25608 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-53-127-RWGO.wav
+<group>lokey=54 hikey=65 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=28410 loop_end=35751 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-8-VYE0.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=29939 loop_end=35078 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-16-6ZQN.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 loop_mode=loop_sustain loop_start=27550 loop_end=34889 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-24-ZFA0.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=30049 loop_end=37025 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-32-3HRL.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 loop_mode=loop_sustain loop_start=28545 loop_end=36617 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-40-WJ4F.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=26546 loop_end=30951 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-48-UZVS.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 loop_mode=loop_sustain loop_start=29333 loop_end=33738 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-56-135C.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20096 loop_end=23400 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-64-CKD0.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=20188 loop_end=24225 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-71-AE64.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=19331 loop_end=25201 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-79-QESU.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=19473 loop_end=24980 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-87-1KY1.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=22233 loop_end=37286 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-95-QF34.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 loop_mode=loop_sustain loop_start=22271 loop_end=28880 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-103-953N.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=26942 loop_end=34651 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-111-ITF0.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 loop_mode=loop_sustain loop_start=18447 loop_end=25419 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-119-FKRT.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=23769 loop_end=36621 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-65-127-409T.wav
+<group>lokey=66 hikey=77 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=28916 loop_end=36621 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-8-YXYY.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=30458 loop_end=35592 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-16-3IM3.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 loop_mode=loop_sustain loop_start=28673 loop_end=35644 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-24-4M40.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=18887 loop_end=23457 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-32-C9IS.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 loop_mode=loop_sustain loop_start=30468 loop_end=36527 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-40-762S.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=22537 loop_end=37583 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-48-NHFF.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 loop_mode=loop_sustain loop_start=23332 loop_end=35993 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-56-ZJVS.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=21514 loop_end=34173 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-64-O7YF.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=21650 loop_end=28071 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-71-T1AQ.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=19274 loop_end=24228 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-79-VQCH.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=19420 loop_end=24741 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-87-E5YL.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=23806 loop_end=34265 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-95-7FVB.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 loop_mode=loop_sustain loop_start=22816 loop_end=29054 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-103-KEPU.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=25858 loop_end=36315 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-111-XBZW.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 loop_mode=loop_sustain loop_start=29380 loop_end=37454 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-119-08J9.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=22972 loop_end=35818 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-77-127-Y2EL.wav
+<group>lokey=78 hikey=89 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=31319 loop_end=36460 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-8-BOND.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=30018 loop_end=37635 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-16-TKXP.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 loop_mode=loop_sustain loop_start=27487 loop_end=37031 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-24-WQIB.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=27921 loop_end=36732 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-32-CSWZ.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 loop_mode=loop_sustain loop_start=30526 loop_end=36675 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-40-DXUV.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=21318 loop_end=31139 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-48-1FRB.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 loop_mode=loop_sustain loop_start=19822 loop_end=34139 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-56-76KX.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=27996 loop_end=32675 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-64-2RKO.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=21586 loop_end=36911 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-71-3CXW.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=20948 loop_end=35450 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-79-U4C7.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=19689 loop_end=23727 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-87-S6C4.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=27358 loop_end=37179 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-95-E8WC.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 loop_mode=loop_sustain loop_start=22662 loop_end=31288 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-103-PYUR.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=21278 loop_end=27610 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-111-K085.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 loop_mode=loop_sustain loop_start=23320 loop_end=36447 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-119-NVY2.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=20838 loop_end=35800 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-89-127-DT8Q.wav
+<group>lokey=90 hikey=96 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=18170 loop_end=23297 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-8-JZ92.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=18631 loop_end=23735 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-16-158R.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 loop_mode=loop_sustain loop_start=26362 loop_end=33477 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-24-89EM.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=28207 loop_end=35593 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-32-AC9P.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 loop_mode=loop_sustain loop_start=30837 loop_end=36432 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-40-VQ7I.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=25252 loop_end=37179 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-48-B7LJ.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 loop_mode=loop_sustain loop_start=27466 loop_end=35583 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-56-R5BO.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=20846 loop_end=29240 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-64-6USI.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=22350 loop_end=29461 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-71-UZL9.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=21739 loop_end=30409 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-79-2VQZ.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=29744 loop_end=34698 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-87-BVXK.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=29200 loop_end=34291 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-95-U5ZN.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 loop_mode=loop_sustain loop_start=21958 loop_end=30353 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-103-B7RB.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=29186 loop_end=36435 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-111-TKHH.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 loop_mode=loop_sustain loop_start=29240 loop_end=35295 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-119-QN4J.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=26752 loop_end=33221 sample=../Sounds/Saws/SAW LP-4P HI-RES-SHORT/(201639 14129)/tiny-96-127-L3LZ.wav

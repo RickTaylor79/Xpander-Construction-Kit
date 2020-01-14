@@ -1,0 +1,307 @@
+// this file was generated from Gravy Dinner.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=459 end=113626 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-36-90-9G10.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=674 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-36-107-H9KR.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=548 end=117032 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-36-118-FQ49.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=779 end=115121 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-36-127-7617.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=575 end=112988 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-37-90-CO58.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=901 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-37-107-2ILP.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=607 end=112157 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-37-118-4Y7C.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=687 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-37-127-38K5.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=610 end=116541 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-38-90-APR0.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=594 end=115073 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-38-107-SUOA.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=744 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-38-118-U7IU.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=583 end=123556 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-38-127-O16B.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=689 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-39-90-THP5.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=696 end=116864 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-39-107-HYUY.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=509 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-39-118-W60N.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=568 end=114292 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-39-127-KEQ2.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=461 end=113873 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-40-90-XDHU.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=606 end=123707 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-40-107-M8LG.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=661 end=115987 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-40-118-KEFA.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=592 end=115467 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-40-127-L362.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=628 end=115497 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-41-90-7RUU.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=739 end=114084 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-41-107-1AKP.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=653 end=113568 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-41-118-KDFU.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=820 end=123355 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-41-127-COPD.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=737 end=151993 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-42-90-2ERU.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=516 end=115706 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-42-107-DD4P.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=628 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-42-118-FZP0.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=709 end=113664 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-42-127-RWNV.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=736 end=114657 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-43-90-U6J1.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=610 end=122880 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-43-107-I8V9.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=680 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-43-118-YF83.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=625 end=116854 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-43-127-97KS.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=709 end=114432 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-44-90-MFLJ.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=666 end=113293 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-44-107-5P70.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=707 end=117632 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-44-118-15TG.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=585 end=120552 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-44-127-6SHM.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=581 end=116480 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-45-90-XAB5.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=706 end=116480 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-45-107-JL8W.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=555 end=115853 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-45-118-TMV6.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=676 end=111933 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-45-127-YE21.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=641 end=114581 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-46-90-252D.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=801 end=121630 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-46-107-K6XS.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=606 end=113989 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-46-118-N798.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=753 end=115843 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-46-127-WK9K.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=638 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-47-90-UHAA.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=693 end=114432 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-47-107-2VX2.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=703 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-47-118-G49P.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=538 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-47-127-3XE4.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=825 end=112000 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-48-90-E063.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=543 end=118016 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-48-107-Q7IS.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=702 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-48-118-Z9UV.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=787 end=114518 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-48-127-XPHE.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=743 end=114179 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-49-90-3JBN.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=621 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-49-107-8UKW.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=479 end=114844 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-49-118-0FCR.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=698 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-49-127-LN1T.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=656 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-50-90-PQ60.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=810 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-50-107-44VO.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=700 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-50-118-D854.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=695 end=121734 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-50-127-U146.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=598 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-51-90-M2RS.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=543 end=122413 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-51-107-XB9U.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=696 end=326115 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-51-118-T8EK.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=666 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-51-127-10WI.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=580 end=114315 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-52-90-XMDR.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=767 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-52-107-S8PM.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=694 end=114480 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-52-118-H1S9.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=654 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-52-127-V7U6.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=705 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-53-90-4VH0.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=675 end=143479 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-53-107-91SV.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=694 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-53-118-UT3U.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=675 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-53-127-H9GR.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=595 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-54-90-KYNS.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=612 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-54-107-FVMP.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=615 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-54-118-5FC3.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=642 end=187752 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-54-127-6PVE.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=638 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-55-90-W4FE.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=652 end=148798 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-55-107-W04M.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=488 end=111285 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-55-118-EQ6N.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=608 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-55-127-D9KO.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=738 end=118896 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-56-90-DS11.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=652 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-56-107-9SQQ.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=611 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-56-118-ZZ7D.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=584 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-56-127-V3JC.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=648 end=115840 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-57-90-UI6Y.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=628 end=115897 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-57-107-QMJ4.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=598 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-57-118-1CJU.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=641 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-57-127-35EZ.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=551 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-58-90-ODVX.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=616 end=170103 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-58-107-0O61.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=615 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-58-118-DJUW.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=728 end=114203 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-58-127-UX3N.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=703 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-59-90-L591.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=577 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-59-107-OZ0A.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=731 end=113837 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-59-118-0CXX.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=698 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-59-127-R9EY.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=697 end=114432 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-60-90-W0LY.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=789 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-60-107-HLXD.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=596 end=114594 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-60-118-QN26.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=718 end=111800 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-60-127-WDK2.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=594 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-61-90-R35V.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=750 end=163670 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-61-107-R0OI.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=677 end=111914 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-61-118-JHTY.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=685 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-61-127-A3IR.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=704 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-62-90-VGEU.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=593 end=141857 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-62-107-SEC0.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=755 end=117120 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-62-118-B0LK.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=486 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-62-127-ES0W.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=682 end=121709 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-63-90-DOTB.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=559 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-63-107-XB2W.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=609 end=113962 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-63-118-COKE.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=536 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-63-127-42RZ.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=593 end=112640 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-64-90-Q4V8.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=668 end=121889 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-64-107-QCUB.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=606 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-64-118-4RZ7.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=657 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-64-127-HUG2.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=616 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-65-90-OKQS.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=607 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-65-107-9GP0.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=755 end=114347 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-65-118-WWGB.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=631 end=119168 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-65-127-NSW3.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=623 end=124552 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-66-90-UFRU.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=593 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-66-107-VYCJ.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=591 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-66-118-3554.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=569 end=115000 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-66-127-6UKW.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=597 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-67-90-D8T8.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=666 end=235632 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-67-107-0PWL.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=606 end=113017 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-67-118-OBMT.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=528 end=114176 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-67-127-JQJ9.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=522 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-68-90-8T28.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=591 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-68-107-ENXH.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=606 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-68-118-ANWY.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=548 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-68-127-SKGW.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=554 end=113238 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-69-90-9UYY.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=634 end=127415 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-69-107-LJWC.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=589 end=115105 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-69-118-XMOM.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=565 end=140624 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-69-127-128V.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=648 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-70-90-V592.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=771 end=125315 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-70-107-B0RR.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=543 end=112218 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-70-118-C754.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=663 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-70-127-ZZ38.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=638 end=129777 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-71-90-OUAR.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=750 end=114048 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-71-107-HWUL.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=568 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-71-118-M322.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=658 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-71-127-ENA2.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=568 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-72-90-6B8Y.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=736 end=114560 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-72-107-QWIT.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=527 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-72-118-FY9X.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=636 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-72-127-T2XO.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=751 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-73-90-AB2A.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=606 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-73-107-PBF8.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=508 end=115840 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-73-118-U3QS.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=626 end=114963 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-73-127-6PA1.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=704 end=135194 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-74-90-A2QL.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=614 end=114052 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-74-107-WB9Z.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=668 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-74-118-3AY7.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=555 end=120479 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-74-127-S1P5.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=782 end=112277 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-75-90-KD0B.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=747 end=115606 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-75-107-TJHP.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=614 end=115472 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-75-118-J63S.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=560 end=113408 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-75-127-Q5R8.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=806 end=115222 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-76-90-8I6V.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=699 end=120320 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-76-107-LE9M.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=718 end=112908 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-76-118-DH7S.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=738 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-76-127-8FV4.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=712 end=119088 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-77-90-1D69.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=597 end=117189 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-77-107-CKPP.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=543 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-77-118-3IG5.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=729 end=217670 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-77-127-LZN1.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=675 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-78-90-5XT7.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=640 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-78-107-LP7L.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=671 end=114958 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-78-118-EEIZ.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=663 end=113799 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-78-127-WGTL.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=771 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-79-90-TEKA.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=616 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-79-107-8VGB.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=573 end=118459 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-79-118-HHH5.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=526 end=114067 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-79-127-KKCV.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=573 end=114828 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-80-90-98NI.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=729 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-80-107-PYV1.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=606 end=113664 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-80-118-V54H.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=600 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-80-127-CPJ8.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=651 end=124156 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-81-90-CC39.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=589 end=115328 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-81-107-B7D3.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=689 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-81-118-88PU.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=701 end=114958 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-81-127-A48V.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=734 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-82-90-N0B3.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=822 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-82-107-KAP8.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=622 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-82-118-R83C.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=596 end=115200 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-82-127-OBBP.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=743 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-83-90-EBPR.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=576 end=183234 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-83-107-HJ39.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=601 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-83-118-7LKA.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=572 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-83-127-QGL7.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=726 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-84-90-0LMU.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=685 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-84-107-UVTP.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=640 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-84-118-BPFU.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=603 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-84-127-KS02.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=607 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-85-90-4V3I.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=704 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-85-107-7WLY.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=643 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-85-118-E6YA.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=644 end=116905 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-85-127-CSML.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=121 end=119946 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-86-90-LFG9.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=596 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-86-107-9Q4N.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=780 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-86-118-1WW9.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=735 end=121358 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-86-127-8V7Z.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=667 end=111753 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-87-90-DS1V.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=617 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-87-107-7GKX.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=686 end=114955 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-87-118-5NJH.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=710 end=112512 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-87-127-LX09.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=728 end=113796 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-88-90-9QYK.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=577 end=119552 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-88-107-6YR8.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=546 end=110465 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-88-118-CQ8K.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=748 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-88-127-BTMG.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=624 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-89-90-DW4K.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=576 end=112519 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-89-107-YLXO.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=671 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-89-118-TZ7A.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=592 end=120983 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-89-127-5IK3.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=581 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-90-90-HC9J.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=671 end=115083 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-90-107-8HZM.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=776 end=116868 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-90-118-C5ED.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=535 end=112640 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-90-127-MV79.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=622 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-91-90-FZ14.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=676 end=119952 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-91-107-I1SJ.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=835 end=111106 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-91-118-CCA9.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=739 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-91-127-P9HG.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=779 end=211299 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-92-90-WSKI.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=625 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-92-107-YS6K.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=696 end=113031 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-92-118-4YY5.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=571 end=122113 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-92-127-ZNPF.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=641 end=154272 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-93-90-MSUT.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=717 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-93-107-TDWD.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=550 end=113798 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-93-118-6PP5.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=691 end=113670 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-93-127-ZDJS.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=633 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-94-90-BZRD.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=565 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-94-107-L6VG.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=517 end=112778 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-94-118-MAPR.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=939 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-94-127-C941.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=592 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-95-90-UA9H.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=613 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-95-107-7XUL.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=636 end=114056 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-95-118-8LZJ.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=607 end=121604 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-95-127-EOT5.wav
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=090 amp_velcurve_090=1 volume=11 offset=557 end=112907 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-96-90-V8AK.wav
+	<region> lovel=091 hivel=107 amp_velcurve_107=1 volume=11 offset=506 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-96-107-E65G.wav
+	<region> lovel=108 hivel=118 amp_velcurve_118=1 volume=11 offset=554 end=114304 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-96-118-1SNW.wav
+	<region> lovel=119 hivel=127 amp_velcurve_127=1 volume=11 offset=724 end=113664 sample=../Sounds/Misc/Gravy Dinner/Gravy Dinner-96-127-9NJ7.wav

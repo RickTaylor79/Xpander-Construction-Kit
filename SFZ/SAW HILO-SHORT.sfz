@@ -1,0 +1,15 @@
+// this file was generated from SAW HILO-SHORT.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=17 hikey=104 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=010 amp_velcurve_010=1 loop_mode=loop_sustain loop_start=21371 loop_end=28713 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-104-8-TD06.wav
+	<region> lovel=011 hivel=020 amp_velcurve_020=1 loop_mode=loop_sustain loop_start=15138 loop_end=26877 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-104-16-K5OC.wav
+	<region> lovel=021 hivel=030 amp_velcurve_030=1 loop_mode=loop_sustain loop_start=18480 loop_end=28760 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-104-24-UPGH.wav
+	<region> lovel=031 hivel=040 amp_velcurve_040=1 loop_mode=loop_sustain loop_start=17983 loop_end=28264 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-104-32-PDSI.wav
+	<region> lovel=033 hivel=050 amp_velcurve_050=1 loop_mode=loop_sustain loop_start=17342 loop_end=27619 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-104-40-Y6GS.wav
+	<region> lovel=051 hivel=060 amp_velcurve_060=1 loop_mode=loop_sustain loop_start=17194 loop_end=27471 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-104-48-ZYBW.wav
+	<region> lovel=061 hivel=070 amp_velcurve_070=1 loop_mode=loop_sustain loop_start=11414 loop_end=23150 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-104-56-JBWR.wav
+	<region> lovel=071 hivel=080 amp_velcurve_080=1 loop_mode=loop_sustain loop_start=13906 loop_end=24184 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-104-64-TCHC.wav
+	<region> lovel=081 hivel=090 amp_velcurve_090=1 loop_mode=loop_sustain loop_start=9531 loop_end=19812 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-104-71-47Z5.wav
+	<region> lovel=091 hivel=100 amp_velcurve_100=1 loop_mode=loop_sustain loop_start=15312 loop_end=27054 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-104-79-3STI.wav
+	<region> lovel=101 hivel=110 amp_velcurve_110=1 loop_mode=loop_sustain loop_start=6134 loop_end=17876 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-104-87-9K61.wav
+	<region> lovel=111 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=6281 loop_end=16550 sample=../Sounds/Misc/short nki/Audio/Short Waves/tiny-104-95-CFVO.wav

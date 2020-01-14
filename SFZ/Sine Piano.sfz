@@ -1,0 +1,113 @@
+// this file was generated from Sine Piano.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=11 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=62826 loop_end=157068 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-48-32-5HPU.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=90968 loop_end=184431 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-48-127-90D4.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=63289 loop_end=156413 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-49-32-CUDR.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=157257 loop_end=251702 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-49-127-39F8.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=72712 loop_end=167903 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-50-32-C8K1.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=97002 loop_end=191472 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-50-127-9UKV.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=356550 loop_end=451230 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-51-32-68D3.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=70132 loop_end=164785 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-51-127-26M7.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=66473 loop_end=160548 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-52-32-R984.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=66912 loop_end=163283 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-52-127-SW6V.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=344678 loop_end=439072 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-53-32-ZK4I.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72234 loop_end=168781 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-53-127-4E94.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=332208 loop_end=426423 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-54-32-48KY.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=75053 loop_end=170798 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-54-127-G65F.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=200281 loop_end=295096 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-55-32-25OX.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=89242 loop_end=183524 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-55-127-83KX.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=62685 loop_end=157313 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-56-32-GIO9.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=101067 loop_end=195208 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-56-127-7A0A.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=340874 loop_end=435380 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-57-32-P3DC.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=86663 loop_end=180302 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-57-127-T7CP.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=80587 loop_end=175987 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-58-32-2YKD.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=69978 loop_end=165756 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-58-127-7220.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=217342 loop_end=310543 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-59-32-CO4U.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=73694 loop_end=168048 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-59-127-V7JL.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=78884 loop_end=172374 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-60-32-ALQS.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=67118 loop_end=162438 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-60-127-YATY.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=62138 loop_end=156959 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-61-32-488S.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=66432 loop_end=159834 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-61-127-0N01.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=80337 loop_end=175126 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-62-32-EK6Q.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=77871 loop_end=172962 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-62-127-1X0Z.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=64487 loop_end=159166 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-63-32-OZ06.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=66108 loop_end=161410 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-63-127-KJ5P.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=82648 loop_end=179013 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-64-32-FT77.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=189579 loop_end=285910 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-64-127-C4X4.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=64397 loop_end=157580 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-65-32-CAUB.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=88071 loop_end=184010 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-65-127-0ETC.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=62447 loop_end=157147 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-66-32-QLPX.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=116985 loop_end=211694 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-66-127-8O5Z.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=80684 loop_end=174951 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-67-32-1EIA.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=300015 loop_end=395972 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-67-127-RV75.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=218852 loop_end=313692 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-68-32-B4YU.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=82755 loop_end=177592 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-68-127-94FF.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=67896 loop_end=162203 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-69-32-NG85.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=110949 loop_end=205712 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-69-127-4QD2.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=83988 loop_end=178147 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-70-32-LSVC.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=119384 loop_end=214343 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-70-127-SK7C.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=218209 loop_end=313142 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-71-32-007V.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=64501 loop_end=161197 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-71-127-HC9G.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=82025 loop_end=176941 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-72-32-6KIG.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=101575 loop_end=197808 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-72-127-PKCI.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=74532 loop_end=169479 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-73-32-94OX.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72790 loop_end=168939 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-73-127-0CMC.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=89966 loop_end=184678 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-74-32-2858.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=144541 loop_end=239418 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-74-127-KIBX.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=80892 loop_end=176012 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-75-32-DT75.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=101371 loop_end=197760 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-75-127-TDEV.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=65091 loop_end=159994 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-76-32-D8T7.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=65188 loop_end=159800 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-76-127-QY7F.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=77824 loop_end=172781 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-77-32-MNWJ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=103228 loop_end=198340 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-77-127-CZS9.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=71806 loop_end=166390 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-78-32-SL3C.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71275 loop_end=165891 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-78-127-JYL1.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=79969 loop_end=174874 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-79-32-LIQZ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=135889 loop_end=230527 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-79-127-PKTM.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=77683 loop_end=172573 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-80-32-2DHR.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=75660 loop_end=170335 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-80-127-58HW.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=75695 loop_end=170525 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-81-32-J0NK.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=75589 loop_end=168819 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-81-127-FN8Y.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=69099 loop_end=163958 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-82-32-7W00.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=212963 loop_end=308301 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-82-127-23G4.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=65810 loop_end=160982 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-83-32-BSSU.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258107 loop_end=352515 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-83-127-0SEU.wav
+<group>lokey=84 hikey=119 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=82820 loop_end=177873 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-84-32-0RSN.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=133756 loop_end=229025 sample=../Sounds/Misc/Sine Piano/(201631 9754)/Sine Piano-84-127-ILPW.wav

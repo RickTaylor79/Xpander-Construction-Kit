@@ -1,0 +1,65 @@
+// this file was generated from SAW HILO.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=38 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=135819 loop_end=431754 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-38-16-1OV4.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=139834 loop_end=257589 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-38-32-VWI5.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=193877 loop_end=549781 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-38-48-BBL9.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=285037 loop_end=594284 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-38-64-UKMH.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=280382 loop_end=496446 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-38-79-VRW3.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=473961 loop_end=591725 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-38-95-MZJO.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=130904 loop_end=247197 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-38-111-SY37.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=156499 loop_end=577363 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-38-127-1IO8.wav
+<group>lokey=39 hikey=44 pitch_keycenter=42 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=400340 loop_end=610275 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-44-16-O5HS.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=321166 loop_end=451212 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-44-32-KZGD.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=111433 loop_end=471879 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-44-48-PEBO.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=340822 loop_end=602949 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-44-64-D4R4.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=301678 loop_end=498302 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-44-79-KYT2.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=478082 loop_end=612226 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-44-95-NQXA.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=258703 loop_end=610957 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-44-111-LQRH.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=304892 loop_end=434938 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-44-127-Q3IA.wav
+<group>lokey=45 hikey=50 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=133993 loop_end=449828 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-50-16-DBPV.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=169849 loop_end=341146 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-50-32-2AQH.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=229979 loop_end=582970 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-50-48-SLOA.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=113025 loop_end=611422 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-50-64-NLOR.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=96761 loop_end=381142 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-50-79-9TTW.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=147402 loop_end=604841 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-50-95-ZLWM.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=409232 loop_end=516456 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-50-111-9HTK.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=410386 loop_end=530943 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-50-127-GASC.wav
+<group>lokey=51 hikey=56 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=224622 loop_end=361848 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-56-16-HUKF.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288401 loop_end=424585 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-56-32-IF7M.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=471615 loop_end=575538 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-56-48-O9CA.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=315296 loop_end=580508 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-56-64-SHDK.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=240914 loop_end=348433 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-56-79-3S7E.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=280534 loop_end=587721 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-56-95-CXKF.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=190104 loop_end=324721 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-56-111-TWNN.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233802 loop_end=374127 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-56-127-R8L4.wav
+<group>lokey=57 hikey=62 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=340238 loop_end=468444 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-62-16-6ES6.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=257552 loop_end=610831 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-62-32-U0H6.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=108552 loop_end=561816 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-62-48-YQQ8.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=433197 loop_end=600769 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-62-64-30TT.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=334439 loop_end=439173 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-62-79-MZIV.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=375780 loop_end=528291 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-62-95-KII8.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=382953 loop_end=604066 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-62-111-ODZ8.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=98460 loop_end=223434 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-62-127-R8IW.wav
+<group>lokey=63 hikey=68 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=389146 loop_end=496900 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-68-16-UIQL.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=392738 loop_end=589601 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-68-32-QEO9.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=481082 loop_end=590689 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-68-48-01Z6.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=109841 loop_end=587782 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-68-64-PSMO.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=429547 loop_end=556533 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-68-79-5VAM.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=120831 loop_end=522226 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-68-95-6VQB.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=137139 loop_end=287182 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-68-111-J1LG.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=227883 loop_end=607248 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-68-127-7PC2.wav
+<group>lokey=69 hikey=127 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=457789 loop_end=609305 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-72-16-Q67A.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=428008 loop_end=535818 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-72-32-MSZ0.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=404246 loop_end=593949 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-72-48-Y9ZT.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=170915 loop_end=530608 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-72-64-YLMT.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=318229 loop_end=423983 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-72-79-ATF2.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=193438 loop_end=300292 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-72-95-GL4M.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=362971 loop_end=472230 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-72-111-LIRS.wav
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=422387 loop_end=541578 sample=../Sounds/Saws/SAW HILO/(201639 10721)/SAW HILO-72-127-JP7E.wav

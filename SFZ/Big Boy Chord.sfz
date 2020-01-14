@@ -1,0 +1,77 @@
+// this file was generated from Big Boy Chord.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=701 sample=../Sounds/Misc/Big Boy Chord/reg-48-44-XJYS.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=752 sample=../Sounds/Misc/Big Boy Chord/reg-48-127-18IK.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=562 sample=../Sounds/Misc/Big Boy Chord/reg-49-44-4KGK.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=557 end=701392 sample=../Sounds/Misc/Big Boy Chord/reg-49-127-MLZ6.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=589 end=701472 sample=../Sounds/Misc/Big Boy Chord/reg-50-44-YFOR.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=569 end=700702 sample=../Sounds/Misc/Big Boy Chord/reg-50-127-57LT.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=569 end=700502 sample=../Sounds/Misc/Big Boy Chord/reg-51-44-7A6L.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=483 end=701833 sample=../Sounds/Misc/Big Boy Chord/reg-51-127-BW9I.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=599 end=700676 sample=../Sounds/Misc/Big Boy Chord/reg-52-44-POBX.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=658 end=700950 sample=../Sounds/Misc/Big Boy Chord/reg-52-127-D5DN.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=592 sample=../Sounds/Misc/Big Boy Chord/reg-53-44-BCVC.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=467 end=701026 sample=../Sounds/Misc/Big Boy Chord/reg-53-127-U9ZV.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=609 end=699933 sample=../Sounds/Misc/Big Boy Chord/reg-54-44-8NOO.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=680 end=700996 sample=../Sounds/Misc/Big Boy Chord/reg-54-127-FTJF.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=443 end=700203 sample=../Sounds/Misc/Big Boy Chord/reg-55-44-OVD1.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=521 end=700078 sample=../Sounds/Misc/Big Boy Chord/reg-55-127-YF1V.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=595 sample=../Sounds/Misc/Big Boy Chord/reg-56-44-KGBA.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=686 sample=../Sounds/Misc/Big Boy Chord/reg-56-127-S455.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=646 end=701328 sample=../Sounds/Misc/Big Boy Chord/reg-57-44-GQQ7.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=619 end=700887 sample=../Sounds/Misc/Big Boy Chord/reg-57-127-296H.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=477 sample=../Sounds/Misc/Big Boy Chord/reg-58-44-XM1N.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=580 end=701195 sample=../Sounds/Misc/Big Boy Chord/reg-58-127-3A3D.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=522 end=701117 sample=../Sounds/Misc/Big Boy Chord/reg-59-44-IMXT.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=616 sample=../Sounds/Misc/Big Boy Chord/reg-59-127-O09W.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=652 sample=../Sounds/Misc/Big Boy Chord/reg-60-44-F4HU.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=659 sample=../Sounds/Misc/Big Boy Chord/reg-60-127-3EUI.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=486 end=700674 sample=../Sounds/Misc/Big Boy Chord/reg-61-44-SG4R.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=567 end=700458 sample=../Sounds/Misc/Big Boy Chord/reg-61-127-CRU5.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=535 end=700721 sample=../Sounds/Misc/Big Boy Chord/reg-62-44-48M0.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=496 end=701344 sample=../Sounds/Misc/Big Boy Chord/reg-62-127-P6O9.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=472 end=700800 sample=../Sounds/Misc/Big Boy Chord/reg-63-44-5CIQ.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=642 end=701379 sample=../Sounds/Misc/Big Boy Chord/reg-63-127-BCX4.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=552 end=701380 sample=../Sounds/Misc/Big Boy Chord/reg-64-44-5EH5.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=502 end=701731 sample=../Sounds/Misc/Big Boy Chord/reg-64-127-55U9.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=542 end=701454 sample=../Sounds/Misc/Big Boy Chord/reg-65-44-DM4R.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=524 end=700846 sample=../Sounds/Misc/Big Boy Chord/reg-65-127-DRWU.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=606 end=701186 sample=../Sounds/Misc/Big Boy Chord/reg-66-44-UJKT.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=495 sample=../Sounds/Misc/Big Boy Chord/reg-66-127-23L0.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=714 end=700879 sample=../Sounds/Misc/Big Boy Chord/reg-67-44-ZGMX.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=695 end=701584 sample=../Sounds/Misc/Big Boy Chord/reg-67-127-ZPJH.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=695 end=701442 sample=../Sounds/Misc/Big Boy Chord/reg-68-44-1VPH.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=594 sample=../Sounds/Misc/Big Boy Chord/reg-68-127-FCRL.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=482 end=700546 sample=../Sounds/Misc/Big Boy Chord/reg-69-44-NAXY.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=630 end=702372 sample=../Sounds/Misc/Big Boy Chord/reg-69-127-3C4U.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=485 sample=../Sounds/Misc/Big Boy Chord/reg-70-44-JGQ8.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=440 end=700592 sample=../Sounds/Misc/Big Boy Chord/reg-70-127-W40X.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=522 end=701708 sample=../Sounds/Misc/Big Boy Chord/reg-71-44-U3MI.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=592 end=700942 sample=../Sounds/Misc/Big Boy Chord/reg-71-127-QH1N.wav
+<group>lokey=72 hikey=127 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=044 amp_velcurve_044=1 offset=592 end=700677 sample=../Sounds/Misc/Big Boy Chord/reg-127-44-EJAU.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=517 sample=../Sounds/Misc/Big Boy Chord/reg-127-127-47YQ.wav

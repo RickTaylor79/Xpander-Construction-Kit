@@ -1,0 +1,185 @@
+// this file was generated from Bison.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=327116 loop_end=390522 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-24-64-9L2V.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319731 loop_end=370956 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-24-127-G91U.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=312295 loop_end=401338 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-25-64-IQRH.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243333 loop_end=299368 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-25-127-75Y7.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=313270 loop_end=402303 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-26-64-TH3A.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313925 loop_end=395727 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-26-127-WKYO.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=338893 loop_end=402412 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-27-64-AT3O.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=352933 loop_end=403931 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-27-127-BKLA.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=253414 loop_end=298340 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-28-64-C0CH.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272092 loop_end=317053 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-28-127-0LFG.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=344704 loop_end=402176 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-29-64-GAC9.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327497 loop_end=404339 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-29-127-UA6Q.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=326693 loop_end=383905 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-30-64-SPMS.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=361435 loop_end=399547 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-30-127-92Q0.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=255200 loop_end=306448 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-31-64-REUZ.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=365618 loop_end=404308 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-31-127-IIR5.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=315040 loop_end=366055 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-32-64-P67M.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=348605 loop_end=399611 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-32-127-PPNJ.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=351429 loop_end=402751 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-33-64-E99R.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=332470 loop_end=383754 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-33-127-DLFM.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=340551 loop_end=398022 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-34-64-WQ71.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=345342 loop_end=402859 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-34-127-NQ3W.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=318364 loop_end=401269 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-35-64-AG15.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=362779 loop_end=400653 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-35-127-PDZ0.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=250740 loop_end=302644 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-36-64-83KE.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=343031 loop_end=400298 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-36-127-QSNF.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=334139 loop_end=391995 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-37-64-KOXF.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=344511 loop_end=401775 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-37-127-S1Q6.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=345375 loop_end=402452 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-38-64-DNXU.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=244084 loop_end=293951 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-38-127-14HG.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=342812 loop_end=400047 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-39-64-PNL9.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=339076 loop_end=390621 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-39-127-HU82.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=268972 loop_end=313898 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-40-64-HJ95.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=363437 loop_end=401424 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-40-127-HUQ2.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=343527 loop_end=400622 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-41-64-5PKN.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=342438 loop_end=400034 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-41-127-7CXN.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=335789 loop_end=393463 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-42-64-T6SP.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=343102 loop_end=400281 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-42-127-WLLQ.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=341123 loop_end=398235 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-43-64-8LY7.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=345704 loop_end=396983 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-43-127-Z7QN.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=335803 loop_end=393135 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-44-64-UQMD.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=363512 loop_end=400454 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-44-127-GWB4.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=346152 loop_end=403047 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-45-64-C7QN.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273170 loop_end=324442 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-45-127-VU6R.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=329960 loop_end=381000 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-46-64-SBMS.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=360917 loop_end=399109 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-46-127-96AM.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=340598 loop_end=391651 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-47-64-WI3T.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=364029 loop_end=401866 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-47-127-AGEN.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=346966 loop_end=404254 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-48-64-47HM.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=358316 loop_end=397390 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-48-127-GWUG.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=364185 loop_end=402028 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-49-64-P2TP.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=363183 loop_end=400712 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-49-127-CEUI.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=345189 loop_end=403138 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-50-64-OXWC.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=337472 loop_end=376199 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-50-127-6U4O.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=345868 loop_end=403098 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-51-64-N5KM.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=352175 loop_end=390413 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-51-127-PRXQ.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=361801 loop_end=400035 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-52-64-93X3.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=352382 loop_end=390887 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-52-127-NHGZ.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=345592 loop_end=402891 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-53-64-29D4.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=362504 loop_end=400611 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-53-127-1G1R.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=344508 loop_end=401913 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-54-64-LNBU.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=363958 loop_end=402064 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-54-127-BZGU.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=344400 loop_end=401722 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-55-64-KWMA.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=346914 loop_end=404238 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-55-127-0NHJ.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=315213 loop_end=366367 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-56-64-LZKJ.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=351585 loop_end=402734 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-56-127-END7.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=325910 loop_end=377000 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-57-64-B077.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=339267 loop_end=390349 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-57-127-HLZ2.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=341399 loop_end=392449 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-58-64-1YXS.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=345279 loop_end=401432 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-58-127-XAGA.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=251146 loop_end=302371 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-59-64-RLQG.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=338616 loop_end=396074 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-59-127-KUK5.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=322588 loop_end=373784 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-60-64-1VTM.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=363410 loop_end=401467 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-60-127-60DL.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=251105 loop_end=301974 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-61-64-ZEK4.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=350112 loop_end=401449 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-61-127-0HWP.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=324569 loop_end=375725 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-62-64-14IH.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=348703 loop_end=399848 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-62-127-2W1F.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=337731 loop_end=388836 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-63-64-F2MR.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=364709 loop_end=402788 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-63-127-ZEXQ.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=337635 loop_end=388827 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-64-64-3GGY.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=364506 loop_end=403133 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-64-127-G203.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=347983 loop_end=399201 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-65-64-JAOC.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=342043 loop_end=399563 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-65-127-3193.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=320555 loop_end=371754 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-66-64-BO6O.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=345777 loop_end=403280 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-66-127-AVQX.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=349998 loop_end=401239 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-67-64-FIX9.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=352002 loop_end=403137 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-67-127-97UH.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=332448 loop_end=382930 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-68-64-E3LG.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257220 loop_end=302920 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-68-127-AJD9.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=316794 loop_end=361627 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-69-64-KB20.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=344477 loop_end=395627 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-69-127-01D5.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=346120 loop_end=404123 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-70-64-5DOJ.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=350993 loop_end=402007 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-70-127-N87U.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=320577 loop_end=359000 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-71-64-O72N.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246501 loop_end=297763 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-71-127-8LFJ.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=260008 loop_end=297878 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-72-64-ZJHH.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=344072 loop_end=396004 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-72-127-P39T.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=363809 loop_end=401309 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-73-64-4Z7J.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=337856 loop_end=389021 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-73-127-YI7S.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=364717 loop_end=402950 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-74-64-1OFS.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=353118 loop_end=404316 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-74-127-17G7.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=311251 loop_end=350445 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-75-64-A33E.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=342967 loop_end=400918 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-75-127-D3YR.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=307648 loop_end=346646 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-76-64-413R.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=350943 loop_end=402025 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-76-127-BV09.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=363567 loop_end=401371 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-77-64-LB6P.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=349829 loop_end=400917 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-77-127-RCMR.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=363002 loop_end=401116 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-78-64-6IKN.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257003 loop_end=295418 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-78-127-0L1P.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=345390 loop_end=383781 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-79-64-3251.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=345650 loop_end=403292 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-79-127-1VV7.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=362367 loop_end=400246 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-80-64-S88V.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=365342 loop_end=403646 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-80-127-TYAG.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=318241 loop_end=356292 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-81-64-U117.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=350513 loop_end=388869 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-81-127-58D4.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=346554 loop_end=403896 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-82-64-8QHG.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=332180 loop_end=370602 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-82-127-8P0S.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=309016 loop_end=347985 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-83-64-JJND.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=322066 loop_end=361301 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-83-127-HW7I.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=364915 loop_end=402696 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-84-64-PY4H.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255976 loop_end=294730 sample=../Sounds/Misc/Bison/(2012621 161950)/Bison-84-127-Y7BW.aif

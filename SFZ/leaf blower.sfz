@@ -1,0 +1,76 @@
+// this file was generated from leaf blower.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=807 end=867232 sample=../Sounds/Misc/leaf blower/leaf blower-48-127-C5NN.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=572 end=868506 sample=../Sounds/Misc/leaf blower/leaf blower-49-127-K2HW.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=641 end=866956 sample=../Sounds/Misc/leaf blower/leaf blower-50-127-VIEN.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=621 end=868097 sample=../Sounds/Misc/leaf blower/leaf blower-51-127-W2DN.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=678 end=876686 sample=../Sounds/Misc/leaf blower/leaf blower-52-127-7UTT.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=705 end=863912 sample=../Sounds/Misc/leaf blower/leaf blower-53-127-5GL4.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=779 end=869248 sample=../Sounds/Misc/leaf blower/leaf blower-54-127-U9V6.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=565 end=867875 sample=../Sounds/Misc/leaf blower/leaf blower-55-127-GOBN.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=680 end=868026 sample=../Sounds/Misc/leaf blower/leaf blower-56-127-G630.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=622 end=870528 sample=../Sounds/Misc/leaf blower/leaf blower-57-127-49JX.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=688 end=878211 sample=../Sounds/Misc/leaf blower/leaf blower-58-127-UEQN.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=761 end=864291 sample=../Sounds/Misc/leaf blower/leaf blower-59-127-25AI.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=642 end=867712 sample=../Sounds/Misc/leaf blower/leaf blower-60-127-GRIR.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=641 end=870272 sample=../Sounds/Misc/leaf blower/leaf blower-61-127-YN71.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=483 end=867200 sample=../Sounds/Misc/leaf blower/leaf blower-62-127-MR48.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=498 end=867716 sample=../Sounds/Misc/leaf blower/leaf blower-63-127-7C4J.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=652 end=877184 sample=../Sounds/Misc/leaf blower/leaf blower-64-127-6RUU.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=706 end=865024 sample=../Sounds/Misc/leaf blower/leaf blower-65-127-Q9A1.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=632 end=870272 sample=../Sounds/Misc/leaf blower/leaf blower-66-127-UG42.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=639 end=868625 sample=../Sounds/Misc/leaf blower/leaf blower-67-127-74FY.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=681 end=866317 sample=../Sounds/Misc/leaf blower/leaf blower-68-127-3ZJJ.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=676 end=869378 sample=../Sounds/Misc/leaf blower/leaf blower-69-127-S9HE.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=726 sample=../Sounds/Misc/leaf blower/leaf blower-70-127-52OB.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=806 sample=../Sounds/Misc/leaf blower/leaf blower-71-127-HM4P.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=833 end=866432 sample=../Sounds/Misc/leaf blower/leaf blower-72-127-YJ0C.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=540 sample=../Sounds/Misc/leaf blower/leaf blower-73-127-4HLC.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=636 end=866688 sample=../Sounds/Misc/leaf blower/leaf blower-74-127-3AJZ.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=502 sample=../Sounds/Misc/leaf blower/leaf blower-75-127-UEXZ.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=511 end=878093 sample=../Sounds/Misc/leaf blower/leaf blower-76-127-CP1U.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=664 end=864384 sample=../Sounds/Misc/leaf blower/leaf blower-77-127-ZZU3.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=686 end=868992 sample=../Sounds/Misc/leaf blower/leaf blower-78-127-IK5X.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=683 sample=../Sounds/Misc/leaf blower/leaf blower-79-127-U709.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=557 end=864911 sample=../Sounds/Misc/leaf blower/leaf blower-80-127-DO92.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=653 end=868096 sample=../Sounds/Misc/leaf blower/leaf blower-81-127-SU45.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=767 end=875264 sample=../Sounds/Misc/leaf blower/leaf blower-82-127-PYLP.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=763 end=864128 sample=../Sounds/Misc/leaf blower/leaf blower-83-127-H1TJ.wav
+<group>lokey=84 hikey=125 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=659 sample=../Sounds/Misc/leaf blower/leaf blower-84-127-1955.wav

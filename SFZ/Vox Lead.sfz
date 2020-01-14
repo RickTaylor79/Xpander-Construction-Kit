@@ -1,0 +1,185 @@
+// this file was generated from Vox Lead.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=447739 loop_end=589052 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-36-32-4GVU.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=572217 loop_end=707379 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-36-127-05LI.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=488513 loop_end=655429 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-37-32-KMKU.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=196585 loop_end=665577 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-37-127-VH6B.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=113654 loop_end=475127 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-38-32-ICQO.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=368674 loop_end=580626 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-38-127-KG1J.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=404611 loop_end=684168 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-39-32-Z6YK.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=114687 loop_end=714741 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-39-127-L642.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=461970 loop_end=700549 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-40-32-AXEA.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=482233 loop_end=724921 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-40-127-22D3.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=120781 loop_end=645071 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-41-32-4W00.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265222 loop_end=722946 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-41-127-QR4P.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=145480 loop_end=407619 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-42-32-PDV9.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=148274 loop_end=734004 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-42-127-D5GB.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=510057 loop_end=730217 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-43-32-W1C7.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=546018 loop_end=732385 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-43-127-XEK6.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=323745 loop_end=729252 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-44-32-IGCC.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327002 loop_end=652635 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-44-127-8YWR.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=219555 loop_end=446880 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-45-32-Z3AN.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=137788 loop_end=350783 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-45-127-IAF8.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=306348 loop_end=712876 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-46-32-ZST3.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=303225 loop_end=697474 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-46-127-MZ5Z.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=435899 loop_end=663229 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-47-32-ZUIC.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=367390 loop_end=565021 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-47-127-SCIV.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=184505 loop_end=716976 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-48-32-A4DX.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=234590 loop_end=684127 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-48-127-TSZP.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=189597 loop_end=730255 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-49-32-ADDJ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=131195 loop_end=489231 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-49-127-AWLU.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=207643 loop_end=714517 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-50-32-46NW.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=151615 loop_end=730167 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-50-127-GLC1.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=566822 loop_end=697885 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-51-32-9OH7.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=356917 loop_end=518713 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-51-127-0YI4.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=557833 loop_end=723714 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-52-32-EE6M.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=362183 loop_end=504522 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-52-127-0HKX.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=109324 loop_end=533257 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-53-32-6PM0.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=468090 loop_end=659590 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-53-127-F1JK.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=166560 loop_end=443036 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-54-32-CK62.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283465 loop_end=504645 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-54-127-8U33.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=120021 loop_end=263379 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-55-32-H31C.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=117042 loop_end=674091 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-55-127-48DJ.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=331217 loop_end=544208 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-56-32-AK9J.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=299390 loop_end=616831 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-56-127-J836.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=237788 loop_end=577755 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-57-32-8GKA.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=420274 loop_end=728502 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-57-127-978Z.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=139927 loop_end=514710 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-58-32-8BU4.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=120646 loop_end=307012 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-58-127-9ZZU.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=310856 loop_end=703043 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-59-32-6MQ7.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228972 loop_end=733804 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-59-127-2R2X.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=113592 loop_end=552884 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-60-32-QSKD.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=345243 loop_end=471485 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-60-127-6UYB.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=547376 loop_end=695857 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-61-32-DB1H.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=434139 loop_end=614352 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-61-127-JQJX.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=579411 loop_end=720730 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-62-32-QN6H.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=134798 loop_end=726673 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-62-127-0TU5.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=530275 loop_end=734054 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-63-32-HJCS.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=419455 loop_end=608887 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-63-127-ZUS7.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=227846 loop_end=633354 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-64-32-SWT0.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=165410 loop_end=329252 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-64-127-MOB0.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=175446 loop_end=521555 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-65-32-J0Q5.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278722 loop_end=441535 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-65-127-MSSZ.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=508075 loop_end=652463 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-66-32-U6P0.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=189809 loop_end=712042 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-66-127-3YVJ.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=600266 loop_end=728266 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-67-32-HJAG.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=410244 loop_end=719486 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-67-127-M75Y.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=373825 loop_end=708670 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-68-32-KRAS.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=322213 loop_end=728744 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-68-127-BN44.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=300711 loop_end=439975 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-69-32-KI7Q.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=431050 loop_end=587270 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-69-127-WING.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=373682 loop_end=731052 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-70-32-RDG5.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=383043 loop_end=620373 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-70-127-60R7.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=369218 loop_end=695881 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-71-32-98AS.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=560453 loop_end=705885 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-71-127-UJXV.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=192580 loop_end=458442 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-72-32-IBKY.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=164790 loop_end=345018 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-72-127-QNCS.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=148203 loop_end=435952 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-73-32-KFNG.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269185 loop_end=724889 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-73-127-SV06.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=303016 loop_end=474401 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-74-32-BV23.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238106 loop_end=708103 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-74-127-V9IW.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=231894 loop_end=729541 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-75-32-4A0O.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=432626 loop_end=725478 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-75-127-KD5A.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=320108 loop_end=461457 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-76-32-B56H.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=402902 loop_end=707988 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-76-127-P6Z4.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=335579 loop_end=731585 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-77-32-Z57B.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=360742 loop_end=582949 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-77-127-I33Z.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=387534 loop_end=524579 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-78-32-NAES.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=170136 loop_end=383145 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-78-127-FNXZ.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=494466 loop_end=623588 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-79-32-7OUI.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228030 loop_end=386765 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-79-127-79S9.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=464300 loop_end=601466 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-80-32-LG4E.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=292044 loop_end=703556 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-80-127-U6QS.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=180612 loop_end=317720 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-81-32-4P52.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=124903 loop_end=595005 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-81-127-4WVE.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=499423 loop_end=711487 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-82-32-RCD4.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=357683 loop_end=487501 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-82-127-Q6QG.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=350312 loop_end=502990 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-83-32-4DTL.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=435538 loop_end=562544 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-83-127-PYOI.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=166099 loop_end=721063 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-84-32-U1HG.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=299935 loop_end=722881 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-84-127-8GUG.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=321463 loop_end=724255 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-85-32-UV48.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=232713 loop_end=390521 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-85-127-36DH.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=213908 loop_end=373643 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-86-32-OXJC.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=485548 loop_end=693396 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-86-127-E006.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=267824 loop_end=730623 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-87-32-ASFH.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=403048 loop_end=721466 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-87-127-QPUZ.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=520722 loop_end=657994 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-88-32-ANBZ.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=441458 loop_end=584858 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-88-127-IMUP.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=378206 loop_end=510388 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-89-32-RAFI.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=434258 loop_end=713357 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-89-127-TEPX.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=305482 loop_end=446974 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-90-32-WK96.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=137016 loop_end=309627 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-90-127-0MGZ.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=140837 loop_end=269721 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-91-32-42QW.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246620 loop_end=409316 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-91-127-1JQ1.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=347357 loop_end=711839 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-92-32-X8GW.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=485482 loop_end=636998 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-92-127-E5JF.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=179935 loop_end=691874 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-93-32-KPWP.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=477924 loop_end=678237 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-93-127-YLNQ.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=467420 loop_end=647551 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-94-32-FYZD.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313299 loop_end=723394 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-94-127-JKCP.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=250496 loop_end=404998 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-95-32-VW3G.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=517876 loop_end=717639 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-95-127-513A.wav
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=399641 loop_end=552489 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-96-32-FW8C.wav
+	<region> lovel=033 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254792 loop_end=458647 sample=../Sounds/Misc/Vox Lead/(201631 54834)/Vox Lead-96-127-XJ0M.wav

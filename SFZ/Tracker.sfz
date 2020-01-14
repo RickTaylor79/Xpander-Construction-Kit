@@ -1,0 +1,150 @@
+// this file was generated from Tracker.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=60 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=564 end=797641 sample=../Sounds/Misc/Tracker/Tracker-60-53-QYNC.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=645 end=771164 sample=../Sounds/Misc/Tracker/Tracker-60-92-75Y7.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=718 sample=../Sounds/Misc/Tracker/Tracker-60-127-6DE5.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=509 end=773632 sample=../Sounds/Misc/Tracker/Tracker-61-53-C4YL.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=604 end=771915 sample=../Sounds/Misc/Tracker/Tracker-61-92-Y36N.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=579 sample=../Sounds/Misc/Tracker/Tracker-61-127-7RBZ.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=554 end=797442 sample=../Sounds/Misc/Tracker/Tracker-62-53-UEGW.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=756 end=771584 sample=../Sounds/Misc/Tracker/Tracker-62-92-ILNB.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=545 end=774912 sample=../Sounds/Misc/Tracker/Tracker-62-127-FLTG.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=546 sample=../Sounds/Misc/Tracker/Tracker-63-53-HQX4.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=620 sample=../Sounds/Misc/Tracker/Tracker-63-92-S9QP.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=626 end=774144 sample=../Sounds/Misc/Tracker/Tracker-63-127-G8EQ.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=811 sample=../Sounds/Misc/Tracker/Tracker-64-53-DW6A.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=688 sample=../Sounds/Misc/Tracker/Tracker-64-92-RROU.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=644 sample=../Sounds/Misc/Tracker/Tracker-64-127-VGPT.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=814 end=774016 sample=../Sounds/Misc/Tracker/Tracker-65-53-OGN2.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=565 sample=../Sounds/Misc/Tracker/Tracker-65-92-I562.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=558 end=63360 sample=../Sounds/Misc/Tracker/Tracker-65-127-GDVO.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=787 sample=../Sounds/Misc/Tracker/Tracker-66-53-ZBII.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=657 sample=../Sounds/Misc/Tracker/Tracker-66-92-TDCW.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=726 end=774171 sample=../Sounds/Misc/Tracker/Tracker-66-127-O43K.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=661 sample=../Sounds/Misc/Tracker/Tracker-67-53-T9XS.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=639 end=772373 sample=../Sounds/Misc/Tracker/Tracker-67-92-ROD2.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=662 end=774528 sample=../Sounds/Misc/Tracker/Tracker-67-127-CZK6.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=742 end=797568 sample=../Sounds/Misc/Tracker/Tracker-68-53-54ID.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=591 end=772480 sample=../Sounds/Misc/Tracker/Tracker-68-92-2JOK.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=753 sample=../Sounds/Misc/Tracker/Tracker-68-127-URMK.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=523 end=316928 sample=../Sounds/Misc/Tracker/Tracker-69-53-S7EO.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=612 end=772352 sample=../Sounds/Misc/Tracker/Tracker-69-92-GBQ1.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=715 end=774400 sample=../Sounds/Misc/Tracker/Tracker-69-127-VXLU.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=711 sample=../Sounds/Misc/Tracker/Tracker-70-53-4ACP.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=665 end=771124 sample=../Sounds/Misc/Tracker/Tracker-70-92-YMBI.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=685 end=773888 sample=../Sounds/Misc/Tracker/Tracker-70-127-XNR5.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=683 end=774272 sample=../Sounds/Misc/Tracker/Tracker-71-53-8VSP.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=681 sample=../Sounds/Misc/Tracker/Tracker-71-92-AT7W.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=786 end=772866 sample=../Sounds/Misc/Tracker/Tracker-71-127-BY5Z.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=557 end=797312 sample=../Sounds/Misc/Tracker/Tracker-72-53-UV9S.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=662 end=772663 sample=../Sounds/Misc/Tracker/Tracker-72-92-RTFO.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=692 end=774656 sample=../Sounds/Misc/Tracker/Tracker-72-127-5N59.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=757 sample=../Sounds/Misc/Tracker/Tracker-73-53-I4Z7.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=728 end=772992 sample=../Sounds/Misc/Tracker/Tracker-73-92-BCFP.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=593 end=774016 sample=../Sounds/Misc/Tracker/Tracker-73-127-2ZDN.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=560 end=797573 sample=../Sounds/Misc/Tracker/Tracker-74-53-FVIV.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=671 sample=../Sounds/Misc/Tracker/Tracker-74-92-HW0B.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=697 end=178688 sample=../Sounds/Misc/Tracker/Tracker-74-127-ERZD.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=567 end=773800 sample=../Sounds/Misc/Tracker/Tracker-75-53-NTZE.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=617 end=772266 sample=../Sounds/Misc/Tracker/Tracker-75-92-HXBA.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=673 end=772668 sample=../Sounds/Misc/Tracker/Tracker-75-127-MJOB.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=559 sample=../Sounds/Misc/Tracker/Tracker-76-53-T6M2.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=637 sample=../Sounds/Misc/Tracker/Tracker-76-92-BFCX.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=609 end=522752 sample=../Sounds/Misc/Tracker/Tracker-76-127-YP4A.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=585 end=774528 sample=../Sounds/Misc/Tracker/Tracker-77-53-L24P.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=567 end=772096 sample=../Sounds/Misc/Tracker/Tracker-77-92-ZI5C.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=695 end=773888 sample=../Sounds/Misc/Tracker/Tracker-77-127-E2AD.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=793 end=797952 sample=../Sounds/Misc/Tracker/Tracker-78-53-TEFS.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=586 end=772992 sample=../Sounds/Misc/Tracker/Tracker-78-92-HSTD.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=619 sample=../Sounds/Misc/Tracker/Tracker-78-127-578F.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=728 end=774016 sample=../Sounds/Misc/Tracker/Tracker-79-53-RDS9.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=765 end=772096 sample=../Sounds/Misc/Tracker/Tracker-79-92-2BNF.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=555 end=772736 sample=../Sounds/Misc/Tracker/Tracker-79-127-3YVG.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=636 end=797312 sample=../Sounds/Misc/Tracker/Tracker-80-53-SMDJ.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=826 sample=../Sounds/Misc/Tracker/Tracker-80-92-TY7H.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=668 end=774144 sample=../Sounds/Misc/Tracker/Tracker-80-127-45NW.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=640 end=774400 sample=../Sounds/Misc/Tracker/Tracker-81-53-QNNZ.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=744 end=772992 sample=../Sounds/Misc/Tracker/Tracker-81-92-6NQ3.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=556 sample=../Sounds/Misc/Tracker/Tracker-81-127-1ARC.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=704 end=797440 sample=../Sounds/Misc/Tracker/Tracker-82-53-HSI8.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=751 end=772736 sample=../Sounds/Misc/Tracker/Tracker-82-92-HR19.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=733 end=773760 sample=../Sounds/Misc/Tracker/Tracker-82-127-H9Z6.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=526 sample=../Sounds/Misc/Tracker/Tracker-83-53-7RXN.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=785 end=772864 sample=../Sounds/Misc/Tracker/Tracker-83-92-BUDE.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=540 end=774280 sample=../Sounds/Misc/Tracker/Tracker-83-127-V2W8.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=736 end=799360 sample=../Sounds/Misc/Tracker/Tracker-84-53-53AK.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=705 sample=../Sounds/Misc/Tracker/Tracker-84-92-IIWM.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=798 end=773248 sample=../Sounds/Misc/Tracker/Tracker-84-127-OEOX.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=550 end=773901 sample=../Sounds/Misc/Tracker/Tracker-85-53-RWTM.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=690 end=772736 sample=../Sounds/Misc/Tracker/Tracker-85-92-XVA8.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=581 end=773376 sample=../Sounds/Misc/Tracker/Tracker-85-127-VPSE.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=671 end=797568 sample=../Sounds/Misc/Tracker/Tracker-86-53-IE9X.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=789 sample=../Sounds/Misc/Tracker/Tracker-86-92-18SM.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=526 end=774144 sample=../Sounds/Misc/Tracker/Tracker-86-127-MP32.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=768 end=774144 sample=../Sounds/Misc/Tracker/Tracker-87-53-KF57.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=829 sample=../Sounds/Misc/Tracker/Tracker-87-92-2QNP.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=725 end=773120 sample=../Sounds/Misc/Tracker/Tracker-87-127-FOE9.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=633 sample=../Sounds/Misc/Tracker/Tracker-88-53-D3VC.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=596 end=771200 sample=../Sounds/Misc/Tracker/Tracker-88-92-2LUC.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=771 end=774272 sample=../Sounds/Misc/Tracker/Tracker-88-127-V5VG.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=708 end=774166 sample=../Sounds/Misc/Tracker/Tracker-89-53-UKNB.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=572 end=772992 sample=../Sounds/Misc/Tracker/Tracker-89-92-K2I8.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=638 end=774016 sample=../Sounds/Misc/Tracker/Tracker-89-127-ZWMQ.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=778 end=797697 sample=../Sounds/Misc/Tracker/Tracker-90-53-WXCA.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=679 sample=../Sounds/Misc/Tracker/Tracker-90-92-XHVC.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=659 end=774401 sample=../Sounds/Misc/Tracker/Tracker-90-127-43JI.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=760 sample=../Sounds/Misc/Tracker/Tracker-91-53-RIKJ.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=621 end=773889 sample=../Sounds/Misc/Tracker/Tracker-91-92-7WXV.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=605 end=772864 sample=../Sounds/Misc/Tracker/Tracker-91-127-T5F1.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=702 end=797568 sample=../Sounds/Misc/Tracker/Tracker-92-53-CN4A.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=713 end=771456 sample=../Sounds/Misc/Tracker/Tracker-92-92-4MXV.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=652 sample=../Sounds/Misc/Tracker/Tracker-92-127-VUC3.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=651 end=774272 sample=../Sounds/Misc/Tracker/Tracker-93-53-P9EL.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=720 end=772865 sample=../Sounds/Misc/Tracker/Tracker-93-92-IM7L.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=713 end=774144 sample=../Sounds/Misc/Tracker/Tracker-93-127-FW3R.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=564 sample=../Sounds/Misc/Tracker/Tracker-94-53-SBXE.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=527 end=772352 sample=../Sounds/Misc/Tracker/Tracker-94-92-JTI0.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=637 end=775042 sample=../Sounds/Misc/Tracker/Tracker-94-127-1BMH.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=628 end=773906 sample=../Sounds/Misc/Tracker/Tracker-95-53-J313.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=584 end=774016 sample=../Sounds/Misc/Tracker/Tracker-95-92-LYA8.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=593 sample=../Sounds/Misc/Tracker/Tracker-95-127-145P.wav
+<group>lokey=96 hikey=126 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=698 sample=../Sounds/Misc/Tracker/Tracker-96-53-KSC9.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=600 sample=../Sounds/Misc/Tracker/Tracker-96-92-XXT0.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=731 end=774272 sample=../Sounds/Misc/Tracker/Tracker-96-127-TSDZ.wav

@@ -1,0 +1,10 @@
+// this file was generated from TRI-LP-2P HI-RES.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=1019 loop_end=136373 sample=../Sounds/Triangles/TRI-LP-2P HI-RES/(201633 104236)/TRI-LP-2P HI-RES-36-16-7VFK.wav
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=741 loop_end=136066 sample=../Sounds/Triangles/TRI-LP-2P HI-RES/(201633 104236)/TRI-LP-2P HI-RES-36-32-RRDD.wav
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=946 loop_end=136424 sample=../Sounds/Triangles/TRI-LP-2P HI-RES/(201633 104236)/TRI-LP-2P HI-RES-36-48-152T.wav
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=960 loop_end=136369 sample=../Sounds/Triangles/TRI-LP-2P HI-RES/(201633 104236)/TRI-LP-2P HI-RES-36-64-OH3U.wav
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=483255 loop_end=650745 sample=../Sounds/Triangles/TRI-LP-2P HI-RES/(201633 104236)/TRI-LP-2P HI-RES-36-79-LVVG.wav
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=526371 loop_end=674851 sample=../Sounds/Triangles/TRI-LP-2P HI-RES/(201633 104236)/TRI-LP-2P HI-RES-36-95-CVRV.wav
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=447675 loop_end=596154

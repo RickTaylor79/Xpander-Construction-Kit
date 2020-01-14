@@ -1,0 +1,19 @@
+// this file was generated from SAW-PHS-LOW-SHORT.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=6 hikey=127 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=13547 loop_end=23831 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-8-QPNG.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=10932 loop_end=21212 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-16-ZMYM.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 loop_mode=loop_sustain loop_start=15057 loop_end=25332 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-24-7ZEC.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=16174 loop_end=26450 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-32-TXFU.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 loop_mode=loop_sustain loop_start=16330 loop_end=26598 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-40-66SA.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=10015 loop_end=17360 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-48-YVZZ.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 loop_mode=loop_sustain loop_start=10274 loop_end=20552 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-56-379A.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=14896 loop_end=25170 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-64-9ALH.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=10094 loop_end=20369 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-71-DDRL.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=10191 loop_end=20460 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-79-YQI8.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=7541 loop_end=16355 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-87-O9B8.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=13709 loop_end=22520 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-95-9YBI.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 loop_mode=loop_sustain loop_start=11701 loop_end=20508 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-103-LTI2.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=12509 loop_end=21316 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-111-JFD5.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 loop_mode=loop_sustain loop_start=11697 loop_end=20499 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-119-KTNS.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=16321 loop_end=26605 sample=../Sounds/Saws/SAW-PHS-LOW-SHORT/(201639 142514)/tiny-104-127-Z066.wav

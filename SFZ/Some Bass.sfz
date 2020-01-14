@@ -1,0 +1,76 @@
+// this file was generated from Some Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=774 end=451351 loop_mode=loop_sustain loop_start=233052 loop_end=367184 sample=../Sounds/Misc/Some Bass/Some Bass-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=575 loop_mode=loop_sustain loop_start=260638 loop_end=361766 sample=../Sounds/Misc/Some Bass/Some Bass-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=560 loop_mode=loop_sustain loop_start=295672 loop_end=378620 sample=../Sounds/Misc/Some Bass/Some Bass-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=350 end=451014 loop_mode=loop_sustain loop_start=240216 loop_end=304267 sample=../Sounds/Misc/Some Bass/Some Bass-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=379 loop_mode=loop_sustain loop_start=253583 loop_end=334920 sample=../Sounds/Misc/Some Bass/Some Bass-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=442 loop_mode=loop_sustain loop_start=244211 loop_end=394217 sample=../Sounds/Misc/Some Bass/Some Bass-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=716 end=451729 loop_mode=loop_sustain loop_start=251273 loop_end=374699 sample=../Sounds/Misc/Some Bass/Some Bass-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=623 loop_mode=loop_sustain loop_start=277984 loop_end=330206 sample=../Sounds/Misc/Some Bass/Some Bass-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=773 end=450337 loop_mode=loop_sustain loop_start=256599 loop_end=400975 sample=../Sounds/Misc/Some Bass/Some Bass-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=674 loop_mode=loop_sustain loop_start=293168 loop_end=330440 sample=../Sounds/Misc/Some Bass/Some Bass-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=360 end=449977 loop_mode=loop_sustain loop_start=275172 loop_end=317156 sample=../Sounds/Misc/Some Bass/Some Bass-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=512 loop_mode=loop_sustain loop_start=315809 loop_end=400402 sample=../Sounds/Misc/Some Bass/Some Bass-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=782 end=451200 loop_mode=loop_sustain loop_start=334033 loop_end=392378 sample=../Sounds/Misc/Some Bass/Some Bass-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=586 end=450688 loop_mode=loop_sustain loop_start=283745 loop_end=391595 sample=../Sounds/Misc/Some Bass/Some Bass-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=430 end=450816 loop_mode=loop_sustain loop_start=228165 loop_end=394224 sample=../Sounds/Misc/Some Bass/Some Bass-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=382 loop_mode=loop_sustain loop_start=329072 loop_end=379519 sample=../Sounds/Misc/Some Bass/Some Bass-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=384 loop_mode=loop_sustain loop_start=231327 loop_end=280271 sample=../Sounds/Misc/Some Bass/Some Bass-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=354 end=450944 loop_mode=loop_sustain loop_start=327524 loop_end=364394 sample=../Sounds/Misc/Some Bass/Some Bass-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=650 loop_mode=loop_sustain loop_start=288480 loop_end=380701 sample=../Sounds/Misc/Some Bass/Some Bass-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=801 loop_mode=loop_sustain loop_start=314809 loop_end=364739 sample=../Sounds/Misc/Some Bass/Some Bass-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=466 loop_mode=loop_sustain loop_start=295978 loop_end=346519 sample=../Sounds/Misc/Some Bass/Some Bass-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=797 end=451968 loop_mode=loop_sustain loop_start=222644 loop_end=401414 sample=../Sounds/Misc/Some Bass/Some Bass-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=643 loop_mode=loop_sustain loop_start=275669 loop_end=333373 sample=../Sounds/Misc/Some Bass/Some Bass-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=541 loop_mode=loop_sustain loop_start=318530 loop_end=400308 sample=../Sounds/Misc/Some Bass/Some Bass-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=528 end=450189 loop_mode=loop_sustain loop_start=304436 loop_end=398968 sample=../Sounds/Misc/Some Bass/Some Bass-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=346 end=450070 loop_mode=loop_sustain loop_start=239024 loop_end=400453 sample=../Sounds/Misc/Some Bass/Some Bass-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=597 loop_mode=loop_sustain loop_start=270833 loop_end=397215 sample=../Sounds/Misc/Some Bass/Some Bass-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=734 end=450432 loop_mode=loop_sustain loop_start=239366 loop_end=396894 sample=../Sounds/Misc/Some Bass/Some Bass-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=634 loop_mode=loop_sustain loop_start=248312 loop_end=400418 sample=../Sounds/Misc/Some Bass/Some Bass-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=680 end=450304 loop_mode=loop_sustain loop_start=319170 loop_end=355275 sample=../Sounds/Misc/Some Bass/Some Bass-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=451 end=450315 loop_mode=loop_sustain loop_start=268299 loop_end=326092 sample=../Sounds/Misc/Some Bass/Some Bass-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=409 end=451727 loop_mode=loop_sustain loop_start=277949 loop_end=392442 sample=../Sounds/Misc/Some Bass/Some Bass-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=456 loop_mode=loop_sustain loop_start=271326 loop_end=402172 sample=../Sounds/Misc/Some Bass/Some Bass-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=322 end=450321 loop_mode=loop_sustain loop_start=345143 loop_end=385414 sample=../Sounds/Misc/Some Bass/Some Bass-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=625 loop_mode=loop_sustain loop_start=345603 loop_end=401945 sample=../Sounds/Misc/Some Bass/Some Bass-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=641 loop_mode=loop_sustain loop_start=228589 loop_end=280966 sample=../Sounds/Misc/Some Bass/Some Bass-83-127.aif
+<group>lokey=84 hikey=127 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=540 loop_mode=loop_sustain loop_start=352572 loop_end=391329 sample=../Sounds/Misc/Some Bass/Some Bass-84-127.aif

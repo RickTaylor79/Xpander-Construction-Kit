@@ -1,0 +1,1299 @@
+<UVI4>
+    <Program Name="Program" Bypass="0" Gain="0.054209705" Pan="0" DisplayName="Saw 2hp 1lp" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" Polyphony="16" NotePolyphony="0" ProgramPath="/Users/rick/Music/Audio Music Apps/Xpander 4 falcon/Saw 2hp 1lp.uvip" LoopProgram="0" Streaming="1" BypassInsertFX="0">
+        <Mappers>
+            <ControlSignalMapper Name="Mapper 0" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 0">1.000000 0.998602 0.994415 0.987464 0.977786 0.965437 0.950484 0.933013 0.913119 0.890916 0.866526 0.840086 0.811745 0.781660 0.750000 0.716942 0.682670 0.647378 0.611260 0.574521 0.537365 0.500000 0.462635 0.425479 0.388739 0.352622 0.317329 0.283058 0.250000 0.218340 0.188255 0.159914 0.133474 0.109084 0.086881 0.066987 0.049516 0.034563 0.022214 0.012536 0.005585 0.001398 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</ControlSignalMapper>
+            <ControlSignalMapper Name="Mapper 1" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 1">0.000000 0.001398 0.005585 0.012536 0.022214 0.034563 0.049516 0.066987 0.086881 0.109084 0.133474 0.159914 0.182857 0.218340 0.250000 0.283058 0.317329 0.352622 0.388739 0.425479 0.462635 0.500000 0.537365 0.574521 0.611260 0.647378 0.682670 0.716942 0.750000 0.781660 0.811745 0.840086 0.866526 0.890916 0.913119 0.933013 0.950484 0.965437 0.977786 0.987464 0.994415 0.998602 1.000000 0.998602 0.994415 0.987464 0.977786 0.965437 0.950484 0.933013 0.913119 0.890916 0.866526 0.840086 0.811745 0.781660 0.750000 0.716942 0.682670 0.647378 0.611260 0.574521 0.537365 0.500000 0.462635 0.425479 0.388739 0.352622 0.317329 0.283058 0.250000 0.218340 0.188255 0.159914 0.133474 0.109084 0.086881 0.066987 0.049516 0.034563 0.022214 0.012536 0.005585 0.001398 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</ControlSignalMapper>
+            <ControlSignalMapper Name="Mapper 2" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 2">0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.001398 0.005585 0.012536 0.022214 0.034563 0.049516 0.066987 0.086881 0.109084 0.133474 0.159914 0.188255 0.218340 0.250000 0.283058 0.317329 0.352622 0.388739 0.425479 0.462635 0.500000 0.537365 0.574521 0.611260 0.647378 0.682670 0.716942 0.750000 0.781660 0.811745 0.840086 0.866526 0.890916 0.913119 0.933013 0.950484 0.965437 0.977786 0.987464 0.994415 0.998602 1.000000 0.998602 0.994415 0.987464 0.977786 0.965437 0.950484 0.933013 0.913119 0.890916 0.866526 0.840086 0.811745 0.781660 0.750000 0.716942 0.682670 0.647378 0.611260 0.574521 0.537365 0.500000 0.462635 0.425479 0.388739 0.352622 0.317329 0.283058 0.250000 0.218340 0.188255 0.159914 0.133474 0.109084 0.086881 0.066987 0.049516 0.034563 0.022214 0.012536 0.005585 0.001398 0.000000 0.000000</ControlSignalMapper>
+            <ControlSignalMapper Name="Mapper 3" Min="0" Max="1" Integer="0" Discrete="0" DisplayName="Mapper 3">0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.001398 0.005585 0.012536 0.022214 0.034563 0.049516 0.066987 0.086881 0.109084 0.133474 0.159914 0.188255 0.218340 0.250000 0.283058 0.317329 0.352622 0.388739 0.425479 0.462635 0.500000 0.537365 0.574521 0.611260 0.647378 0.682670 0.716942 0.750000 0.781660 0.811745 0.840086 0.866526 0.890916 0.913119 0.933013 0.950484 0.965437 0.977786 0.987464 0.994415 0.998602 1.000000 0.998602</ControlSignalMapper>
+        </Mappers>
+        <ControlSignalSources>
+            <ConstantModulation Name="Macro 1" DisplayName="Attack" Bypass="0" Bipolar="0" Style="0" Value="0">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 110" Destination="Value" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                </Connections>
+                <Properties customPosition="0" x="90" y="100"/>
+            </ConstantModulation>
+            <ConstantModulation Name="Macro 2" DisplayName="Decay" Bypass="0" Bipolar="0" Style="0" Value="1">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 111" Destination="Value" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                </Connections>
+                <Properties customPosition="0" x="240" y="100"/>
+            </ConstantModulation>
+            <ConstantModulation Name="Macro 3" DisplayName="Sustain" Bypass="0" Bipolar="0" Style="0" Value="1">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 112" Destination="Value" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                </Connections>
+                <Properties customPosition="0" x="390" y="100"/>
+            </ConstantModulation>
+            <ConstantModulation Name="Macro 4" DisplayName="Release" Bypass="0" Bipolar="0" Style="0" Value="0">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 113" Destination="Value" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                </Connections>
+                <Properties customPosition="0" x="540" y="100"/>
+            </ConstantModulation>
+            <ConstantModulation Name="Macro 5" DisplayName="Env Amount" Bypass="0" Bipolar="1" Style="0" Value="0.5676719">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 114" Destination="Value" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                </Connections>
+                <Properties customPosition="0" x="165" y="275"/>
+            </ConstantModulation>
+            <ConstantModulation Name="Macro 6" DisplayName="Speed" Bypass="0" Bipolar="0" Style="0" Value="0.81615627">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 115" Destination="Value" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                </Connections>
+                <Properties customPosition="0" x="315" y="275"/>
+            </ConstantModulation>
+            <ConstantModulation Name="Macro 7" DisplayName="Depth" Bypass="0" Bipolar="0" Style="0" Value="0">
+                <Connections>
+                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="@MIDI CC 116" Destination="Value" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                </Connections>
+                <Properties customPosition="0" x="465" y="275"/>
+            </ConstantModulation>
+        </ControlSignalSources>
+        <Layers>
+            <Layer Name="Layer 0" Bypass="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Layer 1" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.029999999" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0" BypassInsertFX="0">
+                <Properties Color="ff515059"/>
+                <ControlSignalSources/>
+                <BusRouters/>
+                <Keygroups>
+                    <Keygroup Name="Keygroup 0" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-0-D1 1-16.wav" OutputName="" ExclusiveGroup="0" LowKey="6" HighKey="43" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-38" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-0-D1 1-16.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 8" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-39-G#1 1-16.wav" OutputName="" ExclusiveGroup="0" LowKey="44" HighKey="49" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-38" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-39-G#1 1-16.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 16" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-45-D2 1-16.wav" OutputName="" ExclusiveGroup="0" LowKey="50" HighKey="55" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-38" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-45-D2 1-16.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 24" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-51-G#2 1-16.wav" OutputName="" ExclusiveGroup="0" LowKey="56" HighKey="61" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-38" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-51-G#2 1-16.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 32" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-57-D3 1-16.wav" OutputName="" ExclusiveGroup="0" LowKey="62" HighKey="67" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-38" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-57-D3 1-16.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 40" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-63-G#3 1-16.wav" OutputName="" ExclusiveGroup="0" LowKey="68" HighKey="73" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-38" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-63-G#3 1-16.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 48" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-69-G8 1-16.wav" OutputName="" ExclusiveGroup="0" LowKey="74" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-38" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 0" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="74" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-69-G8 1-16.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                </Keygroups>
+            </Layer>
+            <Layer Name="Layer 2" Bypass="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Layer 3" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.029999999" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0" BypassInsertFX="0">
+                <Properties Color="ffa9a9ba"/>
+                <ControlSignalSources/>
+                <BusRouters/>
+                <Keygroups>
+                    <Keygroup Name="Keygroup 0" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-0-D1 33-48.wav" OutputName="" ExclusiveGroup="0" LowKey="6" HighKey="43" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-6" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-0-D1 33-48.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="11874" Stop="681984" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="111487" End="156037" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 1" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-39-G#1 33-48.wav" OutputName="" ExclusiveGroup="0" LowKey="44" HighKey="49" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-6" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-39-G#1 33-48.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="17740" Stop="681728" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="504890" End="550635" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 2" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-45-D2 33-48.wav" OutputName="" ExclusiveGroup="0" LowKey="50" HighKey="55" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-6" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-45-D2 33-48.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="17109" Stop="681472" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="357526" End="410603" Type="0">
+                                        <CrossFade X="0.5" Y="0.66659998893737793" Length="4410"/>
+                                    </Loop>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 3" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-57-D3 33-48.wav" OutputName="" ExclusiveGroup="0" LowKey="62" HighKey="67" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-6" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-57-D3 33-48.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="47096" Stop="681984" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="279620" End="326810" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 4" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-51-G#2 33-48.wav" OutputName="" ExclusiveGroup="0" LowKey="56" HighKey="61" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-6" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-51-G#2 33-48.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="31611" Stop="681216" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="325324" End="416665" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 5" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-63-G#3 33-48.wav" OutputName="" ExclusiveGroup="0" LowKey="68" HighKey="73" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-6" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-63-G#3 33-48.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="60944" Stop="681472" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="60240" End="104340" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 6" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-69-G8 33-48.wav" OutputName="" ExclusiveGroup="0" LowKey="74" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="-6" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 1" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="74" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-69-G8 33-48.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="51671" Stop="680960" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="487216" End="546867" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                </Keygroups>
+            </Layer>
+            <Layer Name="Layer 4" Bypass="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Layer 5" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.029999999" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0" BypassInsertFX="0">
+                <Properties Color="ff02b0ff"/>
+                <ControlSignalSources/>
+                <BusRouters/>
+                <Keygroups>
+                    <Keygroup Name="Keygroup 0" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-0-D1 65-79.wav" OutputName="" ExclusiveGroup="0" LowKey="6" HighKey="43" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="0.0013469828" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="1">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-0-D1 65-79.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="681472" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="36432" End="72850" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 1" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-45-D2 65-79.wav" OutputName="" ExclusiveGroup="0" LowKey="50" HighKey="55" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="0.0013469828" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="1">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-45-D2 65-79.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="680960" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="5491" End="10880" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 2" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-39-G#1 65-79.wav" OutputName="" ExclusiveGroup="0" LowKey="44" HighKey="49" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="0.0013469828" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="1">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-39-G#1 65-79.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 3" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-51-G#2 65-79.wav" OutputName="" ExclusiveGroup="0" LowKey="56" HighKey="61" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="0.0013469828" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="30" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="1">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-51-G#2 65-79.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="681728" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="114025" End="316618" Type="0">
+                                        <CrossFade X="0.5" Y="0.66659998893737793" Length="114025"/>
+                                    </Loop>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 4" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-57-D3 65-79.wav" OutputName="" ExclusiveGroup="0" LowKey="62" HighKey="67" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="0.0013469828" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="1">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-57-D3 65-79.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="682240" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="10102" End="28321" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 5" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-63-G#3 65-79.wav" OutputName="" ExclusiveGroup="0" LowKey="68" HighKey="73" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="0.0013469828" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="1">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-63-G#3 65-79.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 6" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-69-G8 65-79.wav" OutputName="" ExclusiveGroup="0" LowKey="74" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="0.0013469828" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 2" ConnectionMode="0" Bypass="0" Inverted="1">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="74" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-69-G8 65-79.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                </Keygroups>
+            </Layer>
+            <Layer Name="Layer 7" Bypass="0" Gain="1" Pan="0" Mute="0" MidiMute="0" Solo="0" DisplayName="Layer 8" OutputName="" LowKey="0" HighKey="127" CustomPolyphony="0" PlayMode="0" PortamentoTime="0.029999999" PortamentoMode="0" NumVoicesPerNote="1" VelocityCurve="0" BypassInsertFX="0">
+                <Properties Color="ffca7d6d"/>
+                <ControlSignalSources/>
+                <BusRouters/>
+                <Keygroups>
+                    <Keygroup Name="Keygroup 0" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-0-D1 112-127.wav" OutputName="" ExclusiveGroup="0" LowKey="6" HighKey="43" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="38" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-0-D1 112-127.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="684032" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="202936" End="509551" Type="0">
+                                        <CrossFade X="0.5" Y="0.66659998893737793" Length="427"/>
+                                    </Loop>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 1" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-45-D2 112-127.wav" OutputName="" ExclusiveGroup="0" LowKey="50" HighKey="55" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="50" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-45-D2 112-127.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 2" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-39-G#1 112-127.wav" OutputName="" ExclusiveGroup="0" LowKey="44" HighKey="49" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="44" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-39-G#1 112-127.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="681472" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="188428" End="246778" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 3" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-51-G#2 112-127.wav" OutputName="" ExclusiveGroup="0" LowKey="56" HighKey="61" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="56" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-51-G#2 112-127.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="683008" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="69878" End="117666" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 4" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-57-D3 112-127.wav" OutputName="" ExclusiveGroup="0" LowKey="62" HighKey="67" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="62" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-57-D3 112-127.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="681472" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="200684" End="231056" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                    <Keygroup Name="Keygroup 5" Bypass="0" Gain="1.9952623" Pan="0" DisplayName="saw3hpl1pres-63-G#3 112-127.wav" OutputName="" ExclusiveGroup="0" LowKey="68" HighKey="127" LowVelocity="1" HighVelocity="127" LowKeyFade="0" HighKeyFade="0" LowVelocityFade="0" HighVelocityFade="0" TriggerMode="0" TriggerSync="0" TriggerRule="0" LatchTrigger="0" FXPostGain="0" BypassInsertFX="0">
+                        <Connections>
+                            <SignalConnection Name="AmpEnvMod" Ratio="-0.034617458" Source="Amp. Env" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 1" Ratio="1" Source="$Keygroup/Analog ADSR 1" Destination="Gain" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Keygroup/LFO 1" Destination="Gain" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                        </Connections>
+                        <ControlSignalSources>
+                            <DAHDSR Name="Amp. Env" DisplayName="Amp. Env" Bypass="1" DelayTime="0" AttackTime="0" AttackCurve="0.5" HoldTime="10" DecayTime="0" DecayCurve="-0.97000003" SustainLevel="1" ReleaseTime="20" ReleaseCurve="-0.97000003" VelocityAmount="0" VelocitySens="0.75" Retrigger="1" NoteOffRetrigger="0"/>
+                            <AnalogADSR Name="Analog ADSR 1" DisplayName="Analog ADSR 1" Bypass="0" AttackTime="9.9999947e-05" DecayTime="10" KeyToDecay="0" KeyToAttack="0" VelToDecay="0" Punch="0" VelToAttack="0" DynamicRange="0" SustainLevel="1" ReleaseTime="9.9999947e-05" ManualTrigger="0" TriggerMode="0" InvertVelocity="0" AttackDecayMode="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 1" Destination="AttackTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 2" Destination="DecayTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 3" Destination="SustainLevel" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 4" Destination="ReleaseTime" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </AnalogADSR>
+                            <LFO Name="LFO 1" DisplayName="LFO 1" Bypass="0" SyncToHost="0" DelayTime="0" RiseTime="0" Freq="4.9149184" Depth="0" Phase="0" WaveFormType="0" Retrigger="1" Bipolar="1" Smooth="0">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 6" Destination="Freq" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 7" Destination="Depth" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                </Connections>
+                            </LFO>
+                        </ControlSignalSources>
+                        <Inserts>
+                            <Gain Name="InsertFX0" Bypass="0" Volume="3.9810717">
+                                <Connections>
+                                    <SignalConnection Name="SignalConnection 0" Ratio="0.5676719" Source="$Keygroup/Analog ADSR 1" Destination="Volume" Mapper="Mapper 3" ConnectionMode="0" Bypass="0" Inverted="0">
+                                        <Connections>
+                                            <SignalConnection Name="SignalConnection 0" Ratio="1" Source="$Program/Macro 5" Destination="Ratio" Mapper="" ConnectionMode="1" Bypass="0" Inverted="0" Offset="0"/>
+                                        </Connections>
+                                    </SignalConnection>
+                                </Connections>
+                            </Gain>
+                        </Inserts>
+                        <BusRouters/>
+                        <Oscillators>
+                            <SamplePlayer Name="Oscillator" Bypass="0" CoarseTune="0" FineTune="0" Gain="1" Pitch="0" NoteTracking="1" BaseNote="68" DisplayName="Oscillator 1" SampleStart="0" InterpolationMode="1" AllowStreaming="1" SamplePath="./Saw 2hp 1lp Samples/saw3hpl1pres-63-G#3 112-127.wav" SamplePurged="0">
+                                <Connections>
+                                    <SignalConnection Name="PitchBendMod" Ratio="2" Source="@PitchBend" Destination="Pitch" Mapper="" ConnectionMode="0" Bypass="0" Inverted="0"/>
+                                </Connections>
+                                <PlaybackOptions Start="0" Stop="681472" PlayDirection="0" PlayRelease="1">
+                                    <Loop Start="144842" End="198762" Type="0"/>
+                                </PlaybackOptions>
+                            </SamplePlayer>
+                        </Oscillators>
+                    </Keygroup>
+                </Keygroups>
+            </Layer>
+        </Layers>
+    </Program>
+</UVI4>

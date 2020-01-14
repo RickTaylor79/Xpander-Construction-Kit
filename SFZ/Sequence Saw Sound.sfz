@@ -1,0 +1,92 @@
+// this file was generated from Sequence Saw Sound.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=38 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=336 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing116038-NHCJ.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=492 end=715426 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1732038-W86C.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=765 end=705676 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing3348038-7QKD.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=369 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing4964038-LMS8.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=327 end=705283 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing6579038-F9XP.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=763 end=710331 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing8095038-44YM.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=614 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing96111038-NFFB.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=578 end=716279 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing112127038-C8V0.aif
+<group>lokey=39 hikey=45 pitch_keycenter=43 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=573 end=704489 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1163945-C8ZN.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=658 end=704793 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing17323945-YUS6.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=797 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing33483945-0LT4.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=340 end=709065 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing49643945-SBPK.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=669 end=704227 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing65793945-90QF.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=458 end=715274 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing80953945-F4AB.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=760 end=705722 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing961113945-YRLN.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=531 end=704761 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1121273945-MZMX.aif
+<group>lokey=46 hikey=52 pitch_keycenter=50 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=548 end=704553 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1164652-F3WD.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=838 end=710322 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing17324652-2428.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=516 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing33484652-PYBZ.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=352 end=715609 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing49644652-3HDV.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=366 end=704777 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing65794652-7EM4.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=290 end=705042 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing80954652-D1YE.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=371 end=705737 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing961114652-1S5J.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=648 end=710657 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1121274652-AO9D.aif
+<group>lokey=53 hikey=59 pitch_keycenter=57 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=635 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1165359-NI6X.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=488 end=714990 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing17325359-M81P.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=736 end=705399 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing33485359-D1J2.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=608 end=705442 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing49645359-PXFP.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=572 end=705678 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing65795359-FYII.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=901 end=710912 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing80955359-Z4J6.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=381 end=704020 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing961115359-V2O9.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=555 end=716475 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1121275359-21DY.aif
+<group>lokey=60 hikey=66 pitch_keycenter=64 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=402 end=704482 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1166066-Z0OF.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=288 end=705318 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing17326066-QO4J.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=519 end=704617 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing33486066-N8I3.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=621 end=709775 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing49646066-5YX5.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=614 end=703753 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing65796066-293C.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=486 end=715778 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing80956066-SLMS.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=512 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing961116066-K0YZ.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=526 end=705219 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1121276066-5JPN.aif
+<group>lokey=67 hikey=73 pitch_keycenter=71 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=504 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1166773-VXUO.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=729 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing17326773-94YM.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=348 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing33486773-2HL1.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=638 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing49646773-E8PI.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=614 end=705151 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing65796773-8FHK.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=347 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing80956773-7S2U.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=737 end=705198 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing961116773-X8K6.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=598 end=709633 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1121276773-BQ93.aif
+<group>lokey=74 hikey=80 pitch_keycenter=78 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=623 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1167480-Z19G.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=274 end=715740 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing17327480-VV2K.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=399 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing33487480-ECMF.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=698 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing49647480-C90E.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=639 end=705192 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing65797480-GJSA.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=647 end=710566 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing80957480-IVQU.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=597 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing961117480-GBGV.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=747 end=716314 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1121277480-Q3TF.aif
+<group>lokey=81 hikey=87 pitch_keycenter=85 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=589 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1168187-XDNU.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=632 end=704484 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing17328187-D9JE.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=602 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing33488187-9AI7.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=328 end=709605 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing49648187-542C.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=482 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing65798187-Y49G.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=497 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing80958187-M9VN.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=769 end=705535 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing961118187-60OY.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=357 end=704931 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1121278187-N9W5.aif
+<group>lokey=88 hikey=94 pitch_keycenter=92 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=479 end=704547 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1168894-IA3F.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=641 end=709506 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing17328894-MW6Q.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=665 end=703497 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing33488894-SR3S.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=392 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing49648894-4MBX.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=554 end=705474 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing65798894-S6FZ.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=520 end=705308 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing80958894-ZSGC.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=301 end=704794 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing961118894-LLVS.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=603 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing1121278894-4883.aif
+<group>lokey=95 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=016 amp_velcurve_016=1 offset=303 end=703480 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing11695127-4HNO.aif
+	<region> lovel=017 hivel=032 amp_velcurve_032=1 offset=779 end=715286 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing173295127-JAGV.aif
+	<region> lovel=033 hivel=048 amp_velcurve_048=1 offset=561 end=704537 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing334895127-MHFD.aif
+	<region> lovel=049 hivel=064 amp_velcurve_064=1 offset=647 end=704839 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing496495127-5PQA.aif
+	<region> lovel=065 hivel=079 amp_velcurve_079=1 offset=376 end=705038 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing657995127-Z5XA.aif
+	<region> lovel=080 hivel=095 amp_velcurve_095=1 offset=383 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing809595127-89LK.aif
+	<region> lovel=096 hivel=111 amp_velcurve_111=1 offset=301 end=703667 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing9611195127-020H.aif
+	<region> lovel=112 hivel=127 amp_velcurve_127=1 offset=326 end=714888 sample=../Sounds/Saws/Saw Thing/Saw Thing/Saw Thing11212795127-CXWK.aif

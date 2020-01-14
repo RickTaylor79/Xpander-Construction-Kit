@@ -1,0 +1,98 @@
+// this file was generated from MultiSub.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=4 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=722 end=978590 sample=../Sounds/Misc/MultiSub/MultiSub-48-53-ZDXN.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=651 sample=../Sounds/Misc/MultiSub/MultiSub-48-92-YX8P.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=554 end=964685 sample=../Sounds/Misc/MultiSub/MultiSub-48-127-FGWE.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=749 end=982040 sample=../Sounds/Misc/MultiSub/MultiSub-49-53-78HY.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=593 sample=../Sounds/Misc/MultiSub/MultiSub-49-92-4ZGC.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=683 end=979574 sample=../Sounds/Misc/MultiSub/MultiSub-49-127-PQ0H.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=708 end=974080 sample=../Sounds/Misc/MultiSub/MultiSub-50-53-8XOO.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=688 end=976580 sample=../Sounds/Misc/MultiSub/MultiSub-50-92-LD0O.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=697 end=982879 sample=../Sounds/Misc/MultiSub/MultiSub-50-127-NAI1.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=801 sample=../Sounds/Misc/MultiSub/MultiSub-51-53-SW3C.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=540 end=968632 sample=../Sounds/Misc/MultiSub/MultiSub-51-92-W6R0.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=657 end=978705 sample=../Sounds/Misc/MultiSub/MultiSub-51-127-CPPK.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=697 end=980749 sample=../Sounds/Misc/MultiSub/MultiSub-52-53-PJ9K.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=660 end=964930 sample=../Sounds/Misc/MultiSub/MultiSub-52-92-RK1N.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=709 end=965054 sample=../Sounds/Misc/MultiSub/MultiSub-52-127-BZZU.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=678 end=970694 sample=../Sounds/Misc/MultiSub/MultiSub-53-53-T3JF.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=549 end=973571 sample=../Sounds/Misc/MultiSub/MultiSub-53-92-4G43.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=816 end=970675 sample=../Sounds/Misc/MultiSub/MultiSub-53-127-2DSH.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=515 end=973453 sample=../Sounds/Misc/MultiSub/MultiSub-54-53-X1AX.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=648 end=978469 sample=../Sounds/Misc/MultiSub/MultiSub-54-92-VMNC.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=707 end=981153 sample=../Sounds/Misc/MultiSub/MultiSub-54-127-HICU.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=580 end=972255 sample=../Sounds/Misc/MultiSub/MultiSub-55-53-LZSE.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=532 sample=../Sounds/Misc/MultiSub/MultiSub-55-92-4IYM.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=564 end=969951 sample=../Sounds/Misc/MultiSub/MultiSub-55-127-J6Q5.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=613 end=978935 sample=../Sounds/Misc/MultiSub/MultiSub-56-53-EHXA.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=686 sample=../Sounds/Misc/MultiSub/MultiSub-56-92-AQLX.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=702 end=965732 sample=../Sounds/Misc/MultiSub/MultiSub-56-127-3XX5.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=707 end=976564 sample=../Sounds/Misc/MultiSub/MultiSub-57-53-1X9Y.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=726 sample=../Sounds/Misc/MultiSub/MultiSub-57-92-35MT.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=874 end=964808 sample=../Sounds/Misc/MultiSub/MultiSub-57-127-BYJF.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=736 end=973120 sample=../Sounds/Misc/MultiSub/MultiSub-58-53-DA6D.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=587 end=966173 sample=../Sounds/Misc/MultiSub/MultiSub-58-92-MSLJ.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=565 sample=../Sounds/Misc/MultiSub/MultiSub-58-127-GF24.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=655 end=972301 sample=../Sounds/Misc/MultiSub/MultiSub-59-53-ANBP.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=604 end=977024 sample=../Sounds/Misc/MultiSub/MultiSub-59-92-0LZJ.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=650 end=974270 sample=../Sounds/Misc/MultiSub/MultiSub-59-127-C858.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=629 sample=../Sounds/Misc/MultiSub/MultiSub-60-53-0WOT.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=656 end=965516 sample=../Sounds/Misc/MultiSub/MultiSub-60-92-2GK7.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=669 end=973377 sample=../Sounds/Misc/MultiSub/MultiSub-60-127-QAHE.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=661 sample=../Sounds/Misc/MultiSub/MultiSub-61-53-KMP9.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=547 end=979398 sample=../Sounds/Misc/MultiSub/MultiSub-61-92-3ULP.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=580 end=978164 sample=../Sounds/Misc/MultiSub/MultiSub-61-127-T17H.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=671 end=977330 sample=../Sounds/Misc/MultiSub/MultiSub-62-53-589A.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=693 end=971959 sample=../Sounds/Misc/MultiSub/MultiSub-62-92-IWX6.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=679 sample=../Sounds/Misc/MultiSub/MultiSub-62-127-LHXL.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=613 end=976420 sample=../Sounds/Misc/MultiSub/MultiSub-63-53-ONK6.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=714 end=974885 sample=../Sounds/Misc/MultiSub/MultiSub-63-92-XWPB.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=710 end=966379 sample=../Sounds/Misc/MultiSub/MultiSub-63-127-WL9A.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=633 end=965773 sample=../Sounds/Misc/MultiSub/MultiSub-64-53-Q6WG.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=586 end=966910 sample=../Sounds/Misc/MultiSub/MultiSub-64-92-1N50.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=643 end=979119 sample=../Sounds/Misc/MultiSub/MultiSub-64-127-6A7G.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=723 sample=../Sounds/Misc/MultiSub/MultiSub-65-53-ZZK0.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=706 end=975571 sample=../Sounds/Misc/MultiSub/MultiSub-65-92-WJQO.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=535 end=972869 sample=../Sounds/Misc/MultiSub/MultiSub-65-127-NDK6.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=584 end=976477 sample=../Sounds/Misc/MultiSub/MultiSub-66-53-FG3W.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=740 end=968299 sample=../Sounds/Misc/MultiSub/MultiSub-66-92-ZOVV.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=645 end=970211 sample=../Sounds/Misc/MultiSub/MultiSub-66-127-616U.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=735 end=965823 sample=../Sounds/Misc/MultiSub/MultiSub-67-53-L5SS.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=611 end=976765 sample=../Sounds/Misc/MultiSub/MultiSub-67-92-ZYIF.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=804 end=977017 sample=../Sounds/Misc/MultiSub/MultiSub-67-127-5DXI.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=642 end=976640 sample=../Sounds/Misc/MultiSub/MultiSub-68-53-G8N0.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=552 end=970102 sample=../Sounds/Misc/MultiSub/MultiSub-68-92-XAOM.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=533 end=977704 sample=../Sounds/Misc/MultiSub/MultiSub-68-127-V32Q.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=644 sample=../Sounds/Misc/MultiSub/MultiSub-69-53-J0JU.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=496 end=977779 sample=../Sounds/Misc/MultiSub/MultiSub-69-92-GZ94.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=684 end=975406 sample=../Sounds/Misc/MultiSub/MultiSub-69-127-XSH5.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=558 end=975683 sample=../Sounds/Misc/MultiSub/MultiSub-70-53-RZNU.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=672 sample=../Sounds/Misc/MultiSub/MultiSub-70-92-VJ45.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=557 end=970406 sample=../Sounds/Misc/MultiSub/MultiSub-70-127-VUMH.wav
+<group>lokey=71 hikey=127 pitch_keycenter=71 pitch_keytrack=1
+	<region> lovel=001 hivel=053 amp_velcurve_053=1 offset=559 sample=../Sounds/Misc/MultiSub/MultiSub-71-53-946V.wav
+	<region> lovel=054 hivel=092 amp_velcurve_092=1 offset=739 end=966465 sample=../Sounds/Misc/MultiSub/MultiSub-71-92-DYKX.wav
+	<region> lovel=093 hivel=127 amp_velcurve_127=1 offset=571 sample=../Sounds/Misc/MultiSub/MultiSub-71-127-Q8TB.wav

@@ -1,0 +1,100 @@
+// this file was generated from Mr Jiggles.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=580 end=680064 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-36-127-R0PB.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=680 end=678272 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-37-127-GJOU.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=667 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-38-127-BKXC.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=735 end=677493 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-39-127-0I9G.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=756 end=676919 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-40-127-82V5.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=658 end=683674 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-41-127-IYJD.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=809 end=677451 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-42-127-ZZG3.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=618 end=681884 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-43-127-9MRH.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=678 end=677268 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-44-127-WAPV.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=755 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-45-127-248U.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=619 end=676913 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-46-127-NSU9.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=667 end=685357 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-47-127-V74J.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=587 end=676224 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-48-127-4YGU.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=658 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-49-127-TEXR.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=744 end=677761 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-50-127-UKNH.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=801 end=676608 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-51-127-L0EN.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=734 end=676105 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-52-127-B1PJ.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=611 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-53-127-Z79W.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=790 end=676741 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-54-127-YGS7.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=811 end=678424 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-55-127-CWIR.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=755 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-56-127-D6HN.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=622 end=677026 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-57-127-S8FG.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=870 end=677138 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-58-127-LYD4.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=773 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-59-127-JMKP.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=790 end=676355 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-60-127-2C0Z.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=675 end=677388 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-61-127-L0R3.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=745 end=681729 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-62-127-ALB3.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=805 end=676864 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-63-127-GLMB.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=614 end=677376 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-64-127-R7C5.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=783 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-65-127-IRS0.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=789 end=677263 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-66-127-5XK0.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=691 end=678272 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-67-127-V45U.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=818 end=677510 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-68-127-VWE1.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=816 end=677645 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-69-127-QG08.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=826 end=676880 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-70-127-C1TR.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=631 end=688640 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-71-127-WXVT.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=715 end=676489 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-72-127-RPJZ.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=737 end=677256 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-73-127-SBVU.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=713 end=681729 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-74-127-OX13.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=504 end=677248 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-75-127-MDQF.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=686 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-76-127-PXA7.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=742 end=745864 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-77-127-C3R5.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=645 end=676996 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-78-127-SZDC.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=623 end=681600 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-79-127-4KCK.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=552 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-80-127-Z9KZ.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=751 end=677260 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-81-127-PHP7.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=588 end=676632 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-82-127-NTQD.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=669 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-83-127-RSMQ.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=871 end=677248 sample=../Sounds/Misc/Mr Jiggles/Mr Jiggles-84-127-35EE.wav
