@@ -5,7 +5,7 @@ A really large library of basic sounds made with an Oberheim Xpander. With 85 sa
 -   **Patches**: 400+
 -   **Formats:** EXS24, Kontakt
 -   **Approx Size:** 50GB
--   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander
+-   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander)
 
 **Please note:** the audio part of this library is provided via Bittorrent. You will need to download this using the included .torrent file.
 
