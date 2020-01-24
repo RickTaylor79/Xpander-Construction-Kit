@@ -18,6 +18,13 @@ A really large library of basic sounds made with an Oberheim Xpander. With 85 sa
 3. Open EXS24 and select "Refresh Library" in the Library pane
 4. Select patches under "User Patches" in the library panel 
 
+**Logic Smart Controls**
+
+1. Copy the folder "Logic Stacks" to Music/Audio Music Apps/Patches/Instrument
+2. In Logic create a new "Stack Track" and select "Summing"
+3. Select patches under "User Patches" in the library panel
+4. Open Smart Controls to edit the patch
+
 **Kontakt**
 
 1. Move the Audio and NKI folders to where ever you like
