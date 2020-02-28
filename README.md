@@ -7,7 +7,7 @@ A really large library of basic sounds made with an Oberheim Xpander. With 85 sa
 -   **Approx Size:** 50GB
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander)
 
-**Please note:** the audio part of this library is provided via Bittorrent. You will need to download this using the included .torrent file.
+**Audio:** http://www.mediafire.com/folder/8nua08f2jegjo/xpander
 
 # Loading
 
