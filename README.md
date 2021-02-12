@@ -6,6 +6,7 @@ A really large library of basic sounds made with an Oberheim Xpander. With 85 sa
 -   **Formats:** EXS24, Kontakt
 -   **Approx Size:** 50GB
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/xp.html)
 
 **This collection requires you to download the audio seperately**
 
